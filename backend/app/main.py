@@ -15,6 +15,11 @@ app = FastAPI(title="Nirdesh API", version="0.1.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.cors_origin_list,
+    # Next.js dev bumps to the next free port (3001, 3002, ...) whenever an
+    # earlier dev server is still holding the previous one — allowlisting
+    # specific ports in CORS_ORIGINS keeps breaking as that drifts, so any
+    # localhost port is trusted in addition to the explicit list above.
+    allow_origin_regex=r"^http://(localhost|127\.0\.0\.1):\d+$",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

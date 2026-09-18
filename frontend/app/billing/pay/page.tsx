@@ -42,45 +42,12 @@ function PayPageInner() {
       return;
     }
 
-    const options = {
+    const options: any = {
       key: keyId,
       amount: (plan?.price ?? 0) * 100,
       currency: "INR",
       name: "Nirdesh UPSC LMS",
       description: `Plan Upgrade: ${plan?.label}`,
-      order_id: orderId,
-      config: {
-        display: {
-          blocks: {
-            upi: {
-              name: "Pay using UPI / QR",
-              instruments: [
-                { method: "upi" },
-                { method: "qr" }
-              ]
-            },
-            other: {
-              name: "Other Payment Options",
-              instruments: [
-                { method: "card" },
-                { method: "netbanking" },
-                { method: "wallet" }
-              ]
-            }
-          },
-          sequence: ["block.upi", "block.other"],
-          preferences: {
-            show_default_blocks: true
-          }
-        }
-      },
-      method: {
-        upi: true,
-        qr: true,
-        card: true,
-        netbanking: true,
-        wallet: true,
-      },
       handler: async function (response: {
         razorpay_payment_id: string;
         razorpay_order_id: string;
@@ -109,6 +76,10 @@ function PayPageInner() {
       },
       theme: { color: "#0f172a" },
     };
+
+    if (orderId && !orderId.startsWith("order_mock_")) {
+      options.order_id = orderId;
+    }
 
     const rzp = new (window as any).Razorpay(options);
     rzp.on("payment.failed", function (response: any) {
