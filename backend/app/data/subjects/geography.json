@@ -1,0 +1,281 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Geography",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["geography", "optional-geography", "paper-1"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["geography", "optional-geography", "paper-2"]},
+
+    {"title": "Physical Geography", "parent_title": "Paper I", "tags": ["geography", "physical-geography"]},
+    {"title": "Human Geography", "parent_title": "Paper I", "tags": ["geography", "human-geography"]},
+
+    {"title": "Geomorphology", "parent_title": "Physical Geography", "tags": ["geography", "physical-geography", "geomorphology"]},
+    {"title": "Climatology", "parent_title": "Physical Geography", "tags": ["geography", "physical-geography", "climatology"]},
+    {"title": "Oceanography", "parent_title": "Physical Geography", "tags": ["geography", "physical-geography", "oceanography"]},
+    {"title": "Biogeography", "parent_title": "Physical Geography", "tags": ["geography", "physical-geography", "biogeography"]},
+    {"title": "Environmental Geography", "parent_title": "Physical Geography", "tags": ["geography", "physical-geography", "environment"]},
+
+    {"title": "Perspectives in Human Geography", "parent_title": "Human Geography", "tags": ["geography", "human-geography", "perspectives"]},
+    {"title": "Economic Geography", "parent_title": "Human Geography", "tags": ["geography", "human-geography", "economic-geography"]},
+    {"title": "Population and Settlement Geography", "parent_title": "Human Geography", "tags": ["geography", "human-geography", "population", "settlements"]},
+    {"title": "Regional Planning", "parent_title": "Human Geography", "tags": ["geography", "human-geography", "regional-planning"]},
+    {"title": "Models, Theories and Laws in Human Geography", "parent_title": "Human Geography", "tags": ["geography", "human-geography", "models-theories"]},
+
+    {"title": "Physical Setting of India", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "physical-setting"]},
+    {"title": "Resources of India", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "resources"]},
+    {"title": "Agriculture in India", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "agriculture"]},
+    {"title": "Industry in India", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "industry"]},
+    {"title": "Transport, Communication and Trade", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "transport"]},
+    {"title": "Cultural Setting of India", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "population", "culture"]},
+    {"title": "Settlements in India", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "settlements"]},
+    {"title": "Regional Development and Planning in India", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "regional-planning"]},
+    {"title": "Political Aspects of Indian Geography", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "political-geography"]},
+    {"title": "Contemporary Issues in Indian Geography", "parent_title": "Paper II", "tags": ["geography", "indian-geography", "contemporary-issues"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2023,
+      "marks": 20,
+      "question_text": "Discuss the theories supporting plate tectonics.",
+      "node_titles": ["Geomorphology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers should briefly outline continental drift and sea-floor spreading before explaining the mechanics of plate tectonics with reference to convection currents, ridge push and slab pull. Credit should be given for labelled diagrams of plate boundaries and named examples such as the Himalayas, the Andes and the Mid-Atlantic Ridge. A brief critical comment on residual explanatory gaps, such as intraplate seismicity, strengthens the answer."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Discuss the formation and effects of anticyclones on weather patterns.",
+      "node_titles": ["Climatology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a clear definition of an anticyclone distinguishing it from a cyclone, followed by an explanation of its formation through subsiding air and upper-level divergence. The answer should cover associated weather such as clear skies, temperature inversions, fog and calm winds, illustrated with an example such as a continental winter anticyclone. A simple pressure and wind-pattern diagram is desirable."
+    },
+    {
+      "year": 2023,
+      "marks": 10,
+      "question_text": "Discuss the modern techniques in marine aquaculture.",
+      "node_titles": ["Oceanography"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers should list modern techniques such as cage culture, offshore mariculture, integrated multi-trophic aquaculture and biofloc systems, briefly explaining each. Candidates should connect these techniques to their advantage over traditional capture fisheries, such as reduced pressure on wild stocks. Concise, example-based answers within the word limit score well."
+    },
+    {
+      "year": 2023,
+      "marks": 10,
+      "question_text": "Deep Ecology vs Shallow Ecology.",
+      "node_titles": ["Environmental Geography"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers must clearly contrast the anthropocentric orientation of Shallow Ecology with the eco-centric, intrinsic-value orientation of Deep Ecology associated with Arne Naess. Reference to practical implications for conservation policy, such as wilderness preservation versus resource-efficiency approaches, should be rewarded. Conceptual clarity matters more than length given the short word limit."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "What are the forces that influence ocean currents? Describe their role in the fishing industry of the world.",
+      "node_titles": ["Oceanography"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Candidates should explain wind-driven surface circulation, the Coriolis effect and upwelling as forces shaping currents, then link cold, nutrient-rich upwelling zones to major world fishing grounds such as Peru, the Grand Banks and Northwest Africa with named examples. Marks should reward integration of physical process with economic geography rather than a bare list of currents."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Troposphere is a very significant atmospheric layer that determines weather processes. How?",
+      "node_titles": ["Climatology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers should describe the troposphere's characteristics, including decreasing temperature with height and the presence of water vapour, and explain mechanisms such as convection, cloud formation and pressure systems that originate there. Candidates who connect these processes explicitly to day-to-day weather variability should score higher than those offering only a descriptive account of atmospheric layers."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Soil erosion and soil degradation are threats to food supply. Discuss.",
+      "node_titles": ["Biogeography"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "A good answer distinguishes erosion, the physical removal of topsoil by water or wind, from degradation, the loss of fertility through salinisation, compaction and nutrient depletion, and explains their combined impact on crop yield and food security. Conservation measures such as contour bunding, agroforestry and watershed management should be discussed, with examples from vulnerable regions strengthening the answer."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Give a detailed account of bottom topography of the Pacific Ocean.",
+      "node_titles": ["Oceanography"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of major relief features of the Pacific floor, including the continental shelf and slope, abyssal plains, oceanic trenches such as the Mariana Trench, mid-ocean ridges and seamounts or guyots, supported by a labelled cross-sectional diagram. Marks should be given for accurate feature names and their tectonic explanation rather than mere description."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Discuss the multi-dimensional implications of uneven distribution of mineral oil in the world.",
+      "node_titles": ["Economic Geography"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers should map the uneven global distribution of petroleum reserves and then discuss implications across economic dimensions such as trade balances and OPEC's influence, political dimensions such as geopolitical tension and energy security, and environmental dimensions such as extraction impact and carbon emissions. Balanced coverage across dimensions, not just the economic one, should be rewarded."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Discuss the Gondwana rock system of India and its economic potential.",
+      "node_titles": ["Physical Setting of India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers should explain the Gondwana rock system's age and stratigraphy, including its coal-bearing series, and its distribution in peninsular river valleys such as the Damodar, Son and Mahanadi. Economic potential must be tied explicitly to coal, iron ore and other associated mineral deposits with named locations, not left as a general statement."
+    },
+    {
+      "year": 2023,
+      "marks": 20,
+      "question_text": "Discuss the growing problem of waste management in the urban areas of India.",
+      "node_titles": ["Settlements in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Candidates should outline the scale and sources of urban waste in India, including municipal solid waste, e-waste and construction debris, the institutional and infrastructural gaps behind poor management, and current policy responses such as the Swachh Bharat Mission and waste-to-energy plants. Answers with specific city examples and a balanced discussion of causes and solutions score well within the word limit."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Discuss the importance of millets in India and the challenges in their cultivation.",
+      "node_titles": ["Agriculture in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers should explain the agro-climatic suitability of millets to dry, marginal lands, their nutritional and climate-resilience advantages, and challenges such as historically low market demand, limited procurement infrastructure and processing constraints. Reference to the recent policy push behind millet promotion strengthens the answer."
+    },
+    {
+      "year": 2023,
+      "marks": 20,
+      "question_text": "India is emerging as a pharmaceutical giant. Discuss.",
+      "node_titles": ["Industry in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect discussion of the historical growth of India's pharmaceutical industry, including generic drug manufacturing and active pharmaceutical ingredient production, locational clusters such as Hyderabad, Baddi and the Ahmedabad belt, and factors behind global competitiveness such as skilled manpower and cost advantage, alongside emerging challenges like import dependence for key ingredients. A balanced structure with clear examples is rewarded."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Why do disparities in development and incomes between regions persist in large countries like India? How does the recent Aspirational Districts Programme address the issue?",
+      "node_titles": ["Regional Development and Planning in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Candidates should identify structural causes of regional disparity in India, such as resource endowment, historical investment patterns, connectivity and human capital gaps, before explaining the Aspirational Districts Programme's convergence, collaboration and competition approach to addressing them. A critical assessment of the programme's limitations should be rewarded over pure description."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Give a reasoned account of the difference between the sugar industry of North India and Peninsular India.",
+      "node_titles": ["Industry in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answers should contrast raw material factors such as sucrose content and cane yield, and processing-season length, between the northern and peninsular sugar belts, alongside cooperative-sector dominance in the south versus private-mill dominance in the north. A reasoned comparative structure, rather than a bare list of facts, is expected."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Plate Tectonics and the Making of Major Landforms",
+      "body": "The theory of plate tectonics offers the most widely accepted explanation for the distribution and evolution of the earth's major landforms. It builds on earlier ideas such as Wegener's continental drift and Holmes's concept of mantle convection, combining them with later evidence from sea-floor spreading, palaeomagnetism, and seismic mapping. According to the theory, the lithosphere is broken into a number of rigid plates that float on the semi-plastic asthenosphere and move relative to one another due to convective currents in the mantle, ridge-push forces at spreading centres, and slab-pull at subduction zones.\n\nPlate boundaries are classified into three broad types, each associated with characteristic landforms. Divergent boundaries, where plates move apart, produce mid-oceanic ridges and rift valleys, as seen along the Mid-Atlantic Ridge and the East African Rift System. Convergent boundaries, where plates collide, generate fold mountains, deep oceanic trenches, and volcanic arcs; the Himalayas, formed by the collision of the Indian and Eurasian plates, and the Andes, formed above a subducting oceanic plate, are classic examples. Transform boundaries, where plates slide past each other, are associated with major fault systems and frequent shallow earthquakes, such as the San Andreas Fault in California.\n\nPlate tectonics also helps explain patterns of seismicity and vulcanicity, since the majority of the world's earthquakes and volcanoes occur along or near plate margins, particularly within the circum-Pacific 'Ring of Fire'. The theory has substantially replaced older geosynclinal explanations of mountain building, though the geosynclinal concept remains useful for understanding the accumulation of thick sedimentary sequences that later get folded during continental collision.\n\nBeyond mountain building, plate movement influences long-term climate change, ocean circulation, and biogeographic distribution, since the shifting positions of continents alter wind and current patterns and isolate or connect species populations over geological time. Understanding plate tectonics is therefore central not only to physical geomorphology but also to explaining broader patterns in climatology, oceanography, and biogeography that are otherwise difficult to account for through purely local or short-term processes.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Geomorphology"],
+      "tags": ["geography", "physical-geography", "geomorphology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Global Atmospheric Circulation and Climate Classification",
+      "body": "The general circulation of the atmosphere arises from the uneven heating of the earth's surface between the equator and the poles, combined with the earth's rotation. Excess heating in low latitudes and heat deficit in high latitudes create a pressure gradient that drives large-scale wind systems, while the Coriolis force deflects moving air to the right in the northern hemisphere and to the left in the southern hemisphere. This produces the familiar pattern of equatorial low pressure, subtropical highs around thirty degrees latitude, subpolar lows near sixty degrees, and polar highs, linked together through the trade winds, westerlies, and polar easterlies.\n\nSuperimposed on this three-cell model are seasonal shifts caused by the migration of the thermal equator and the differential heating of land and sea, which together produce monsoon circulations over South and Southeast Asia. The upper-air jet streams, particularly the subtropical and polar front jets, steer surface weather systems and influence the onset and withdrawal of the monsoon, as well as the tracks of temperate cyclones.\n\nWladimir Koppen's climate classification remains one of the most widely used frameworks for organising this complexity into manageable climate types. It combines temperature and precipitation data to define broad categories such as tropical, dry, temperate, continental, and polar climates, each further divided into subtypes based on seasonal rainfall distribution and temperature extremes. While criticised for relying on empirical thresholds rather than underlying causal processes, the scheme remains valuable for comparative and applied purposes such as agricultural planning and vegetation mapping.\n\nContemporary climatology increasingly focuses on climatic change and global warming, examining how rising greenhouse gas concentrations are altering the intensity and predictability of atmospheric circulation, shifting storm tracks, and increasing the frequency of extreme events such as heatwaves and intense precipitation. These changes complicate the use of historical climate classifications and demand continual revision of the climate normals used in planning and hazard management, making climatology an increasingly dynamic rather than static branch of physical geography.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Climatology"],
+      "tags": ["geography", "physical-geography", "climatology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Ocean Currents and Their Global Significance",
+      "body": "Ocean currents are large-scale, persistent movements of seawater driven primarily by wind stress at the surface and by density differences arising from variations in temperature and salinity at depth. Surface currents, forming great circulating gyres in each ocean basin, are set in motion by the prevailing wind belts and modified by the Coriolis effect, continental boundaries, and the Ekman spiral, which causes net water transport at an angle to the wind direction. The subtropical gyres, rotating clockwise in the northern hemisphere and anticlockwise in the southern hemisphere, include familiar currents such as the Gulf Stream, the Kuroshio, the Canary Current, and the Humboldt Current.\n\nAt greater depths, thermohaline circulation, often called the global ocean conveyor belt, is driven by differences in water density caused by temperature and salinity. Cold, saline water sinks in the North Atlantic and Antarctic margins and slowly circulates through the deep ocean basins before upwelling elsewhere, a process that takes place over centuries and links the climate systems of distant regions.\n\nCurrents have profound significance for climate, navigation, and marine resources. Warm currents such as the North Atlantic Drift moderate the climate of coastal Western Europe, while cold currents such as the Peru Current contribute to the aridity of adjoining coastal deserts. Upwelling zones, where cold, nutrient-rich water rises to replace surface water pushed away by winds, support some of the world's most productive fisheries, as seen off the coasts of Peru, California, and northwest Africa.\n\nCurrents also interact with the atmosphere to produce phenomena such as El Nino and La Nina, episodic warming and cooling of the central and eastern Pacific that disrupt normal current and pressure patterns and have far-reaching effects on rainfall and agriculture across the tropics, including the Indian monsoon. Understanding current systems is therefore essential not only for shipping and fisheries management but also for anticipating climatic anomalies at seasonal and interannual timescales.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Oceanography"],
+      "tags": ["geography", "physical-geography", "oceanography"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Soil Formation, Classification, and Degradation",
+      "body": "Soil is the product of the long-term interaction of parent rock material with climate, living organisms, relief, and time, and its formation is a slow process governed by physical weathering, chemical decomposition, and biological activity acting on the regolith. The nature of the parent material influences the mineral composition of the resulting soil, while climate governs the rate and type of weathering, with humid tropical regions producing deep, leached, often lateritic soils and arid regions producing shallow, mineral-rich but organically poor soils. Vegetation and micro-organisms contribute organic matter and influence nutrient cycling, and relief determines drainage and the degree of erosion or deposition a soil experiences.\n\nA mature soil typically develops a vertical sequence of horizons, from the organic-rich topsoil through the zone of leaching, to the subsoil where minerals accumulate, and finally the weathered parent material. Soil classification schemes group soils into broad categories such as alluvial, black, red, laterite, arid, and mountain soils in the Indian context, each associated with distinctive parent material, climate, and agricultural suitability.\n\nSoil erosion and degradation pose serious threats to food security and environmental stability. Erosion by water and wind removes fertile topsoil faster than it can be regenerated, particularly on slopes cleared of vegetation or subjected to intensive, poorly managed cultivation. Degradation also occurs through processes such as salinisation from excessive irrigation, waterlogging, nutrient depletion from continuous monocropping, and compaction from mechanised farming. These processes reduce soil productivity, increase vulnerability to drought, and can eventually render land unfit for cultivation.\n\nConservation strategies include contour ploughing, terracing, strip cropping, agroforestry, and the maintenance of vegetative cover, alongside institutional measures such as watershed management programmes. Because soil regeneration is extremely slow relative to human timescales, sustainable land management is widely regarded as essential to maintaining long-term agricultural productivity and food security in both developed and developing regions.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Biogeography"],
+      "tags": ["geography", "physical-geography", "biogeography"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Ecosystem Concepts and Biodiversity Conservation",
+      "body": "An ecosystem is a functional unit comprising living organisms and their physical environment interacting through the flow of energy and the cycling of nutrients. It includes biotic components such as producers, consumers, and decomposers, and abiotic components such as sunlight, water, soil, and climate. Energy enters an ecosystem primarily through photosynthesis by primary producers and flows unidirectionally through successive trophic levels, with a significant proportion lost as heat at each transfer, which is why food chains rarely extend beyond four or five links. Nutrients, by contrast, cycle repeatedly between organisms and the physical environment through biogeochemical cycles such as the carbon, nitrogen, and phosphorus cycles.\n\nEcosystems are not static; they undergo ecological succession, a directional change in species composition over time following disturbance, moving from pioneer communities toward a more stable climax community suited to the prevailing climate and soil conditions. The stability of an ecosystem is closely linked to its biodiversity, since a greater variety of species and genetic material generally confers greater resilience to disturbance and a wider range of ecological functions.\n\nBiodiversity is commonly considered at three levels: genetic diversity within species, species diversity within a community, and ecosystem diversity across a landscape or region. Biodiversity hotspots, regions with exceptionally high concentrations of endemic species facing significant habitat loss, have become a central concept in conservation planning, directing limited resources toward areas of greatest conservation value.\n\nConservation approaches range from in-situ methods, such as protected areas, biosphere reserves, and wildlife corridors that preserve species within their natural habitat, to ex-situ methods such as seed banks, botanical gardens, and captive breeding programmes that preserve genetic material outside it. International frameworks such as the Convention on Biological Diversity have sought to coordinate national conservation efforts, though implementation remains uneven. Rising pressures from habitat fragmentation, climate change, invasive species, and overexploitation continue to make biodiversity conservation one of the most pressing challenges in contemporary environmental geography.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Environmental Geography"],
+      "tags": ["geography", "physical-geography", "environment"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "World Resources, Agriculture, and Industrial Location",
+      "body": "Economic geography examines how the availability, distribution, and use of resources shape patterns of production and trade around the world. Natural resources are commonly classified as renewable, such as forests, water, and solar energy, and non-renewable, such as fossil fuels and minerals, and their uneven distribution across the globe is a major driver of international trade and, at times, geopolitical tension, as seen in the concentration of petroleum reserves in a small number of regions.\n\nWorld agriculture displays considerable variety, ranging from subsistence systems such as shifting cultivation and intensive smallholder farming in parts of Africa and Asia, to highly commercialised systems such as extensive mechanised grain farming in the North American prairies and plantation agriculture in the tropics. Agricultural regionalisation schemes classify the world into broad zones based on dominant crops, farming intensity, and the degree of commercialisation, reflecting the combined influence of climate, soil, land tenure, technology, and market access. Agricultural productivity depends heavily on inputs such as irrigation, fertilizer, mechanisation, and credit, which explains the wide productivity gap between capital-intensive farming in developed economies and resource-constrained farming in much of the developing world.\n\nIndustrial location theory seeks to explain why manufacturing activities concentrate in particular places. Classical models such as Alfred Weber's least-cost location theory emphasise the pull of raw material sources, markets, and labour costs, while more recent approaches highlight agglomeration economies, access to skilled labour, infrastructure, and government policy as equally important factors. This has produced globally recognisable patterns, such as the clustering of steel and heavy industry near coalfields in the nineteenth and early twentieth centuries, and the more recent shift of labour-intensive manufacturing toward economies with lower wage costs.\n\nWorld trade patterns reflect these underlying resource and production geographies, with resource-rich but less industrialised economies often exporting primary commodities while importing manufactured goods, and industrialised economies doing the reverse. Multinational corporations and global value chains have increasingly blurred this simple division, distributing different stages of production across multiple countries in response to comparative cost advantages, further integrating world economic geography.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Economic Geography"],
+      "tags": ["geography", "human-geography", "economic-geography"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Population Growth, Migration, and Settlement Patterns",
+      "body": "World population has grown unevenly over time and space, shaped by fertility, mortality, and migration, and understanding this growth is central to population geography. The demographic transition model describes a broadly common sequence through which societies pass as they modernise: from high birth and death rates in the pre-transition stage, through declining death rates and continued high births that produce rapid population growth, to eventually declining birth rates and a stabilised or slow-growing population. Countries differ in their position along this transition, which explains why population growth rates today range from near-stagnant in much of Europe and East Asia to comparatively high in parts of sub-Saharan Africa.\n\nMigration, the movement of people across space, is analysed through both its causes, often summarised as push and pull factors operating at origin and destination, and its consequences for sending and receiving regions. Migration may be internal, such as rural-to-urban movement associated with industrialisation and urban employment opportunities, or international, driven by disparities in wages, political stability, and opportunity. Large-scale migration reshapes the age and sex structure of both origin and destination populations and has significant economic consequences, including remittance flows to sending regions and labour market effects in receiving regions.\n\nSettlement geography distinguishes rural and urban settlements by function, size, and morphology. Rural settlements are classified by pattern, such as nucleated, dispersed, or linear, reflecting the influence of water availability, terrain, land tenure, and historical circumstance. Urban settlements are studied through concepts such as the rank-size rule, which describes a regular relationship between a city's population and its rank in the urban hierarchy, and the idea of the primate city, where one city dominates a country's urban system far beyond what the rank-size rule would predict, often associated with colonial or centralised economic development.\n\nUrban morphology examines the internal spatial structure of cities, including the arrangement of commercial, residential, and industrial zones, while the emerging concept of the world city refers to cities that function as command centres of the global economy, integrating finance, corporate headquarters, and advanced services across national boundaries.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Population and Settlement Geography"],
+      "tags": ["geography", "human-geography", "population", "settlements"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Concepts of Regional Planning and Growth Poles",
+      "body": "Regional planning is concerned with the deliberate, coordinated development of a defined geographical area to reduce imbalances and make efficient use of resources. A region, for planning purposes, may be defined in different ways: as a homogeneous region sharing common physical or economic characteristics, as a nodal or functional region organised around a central place and its zone of influence, or as an administrative or planning region delimited for governance convenience. The choice of definition significantly affects how planning problems and solutions are framed.\n\nRegional imbalance, where some areas experience rapid growth while neighbouring or distant areas stagnate, is a persistent feature of most large and diverse countries. Such imbalance arises from differences in resource endowment, historical patterns of investment, accessibility, and agglomeration effects that tend to reinforce existing advantages, since firms and infrastructure are drawn toward already-developed areas, a self-reinforcing process often described through cumulative causation.\n\nThe growth pole concept, associated with the economist Francois Perroux and later developed by geographers, proposes that development can be encouraged by concentrating investment in selected propulsive industries or growth centres, which then generate spread effects that stimulate development in surrounding areas through linkages in employment, supply chains, and infrastructure. In practice, this approach has had mixed success: while some designated growth centres have successfully diffused development to their hinterlands, others have instead intensified backwash effects, drawing capital and skilled labour away from surrounding regions rather than stimulating them.\n\nRegional development strategies commonly combine growth-pole style investment with redistributive measures such as targeted infrastructure spending, special incentives for industry in lagging regions, and decentralisation of planning authority to local or regional bodies, an approach often termed multi-level planning. The effectiveness of any given strategy depends heavily on complementary factors such as governance capacity, transport connectivity, and the ability of lagging regions to retain the benefits of new investment rather than seeing them captured by already advantaged areas, making regional planning as much a question of institutional design as of physical or economic geography.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Regional Planning"],
+      "tags": ["geography", "human-geography", "regional-planning"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Central Place Theory and Location Models",
+      "body": "Human geography has developed a number of formal models to explain recurring spatial patterns in settlement, agriculture, and industry. Among the most influential is Walter Christaller's central place theory, which explains the size, spacing, and function of urban settlements as a hierarchy of central places, each serving a surrounding market area for goods and services of different orders. Lower-order goods, purchased frequently and requiring only a small threshold population, are provided by many small central places, while higher-order goods, purchased less often and requiring a larger threshold, are available only in fewer, larger centres. The theory predicts a regular hexagonal arrangement of market areas under idealised conditions of a uniform plain, evenly distributed population, and rational consumer behaviour, though real settlement patterns depart from this ideal due to variations in terrain, transport networks, and historical development.\n\nJohann Heinrich von Thunen's model of agricultural land use, developed even earlier, explains the concentric zonation of farming types around a central market in terms of transport cost and land rent. Perishable, bulky, or transport-intensive products such as dairy and market gardening locate closest to the market, while less intensive and more transport-tolerant activities such as grain farming and ranching locate progressively farther away, reflecting the trade-off between land rent and transport cost that determines the most profitable use of land at each distance.\n\nAlfred Weber's industrial location model similarly seeks the least-cost location for a manufacturing plant, balancing transport costs to raw material sources and markets against labour costs and agglomeration advantages, represented geometrically through the concept of the locational triangle.\n\nBeyond these classical location models, human geography draws on broader theoretical frameworks such as the Malthusian and Marxian perspectives on population and resources, and general systems theory, which treats settlements, regions, and economies as interconnected systems exchanging matter, energy, and information. While these models are frequently criticised for their simplifying assumptions, they remain foundational teaching tools because they isolate the core economic logic underlying otherwise complex real-world spatial patterns.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Models, Theories and Laws in Human Geography"],
+      "tags": ["geography", "human-geography", "models-theories"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Physiographic Divisions and Drainage System of India",
+      "body": "India's physical setting is remarkably diverse, ranging from the young, still-rising Himalayan mountain system in the north to the ancient, stable Peninsular plateau in the south, joined by the fertile alluvial plains of the Indus-Ganga-Brahmaputra system. The Himalayas, formed by the ongoing collision of the Indian and Eurasian plates, are conventionally divided into parallel ranges including the Shiwaliks, the Lesser Himalayas, and the Greater Himalayas, each with distinct relief, geology, and elevation, reflecting successive phases of mountain building.\n\nSouth of the Himalayas lies the Indo-Gangetic plain, a vast depositional feature built up by alluvial material carried down from the Himalayas and deposited by the Indus, Ganga, and Brahmaputra river systems over millions of years. This plain supports a large share of India's population and agriculture due to its fertile soils and abundant water, though it is also prone to flooding and, in parts, to problems of waterlogging and salinity.\n\nThe Peninsular plateau, by contrast, is composed of some of the oldest rock formations on earth and displays a much more subdued and stable relief, broken by isolated hill ranges such as the Aravallis, the Vindhyas, and the Satpuras, and flanked by the Western and Eastern Ghats. Peninsular rivers such as the Godavari, Krishna, and Kaveri generally flow eastward into the Bay of Bengal, following the gentle eastward tilt of the plateau, while a few, such as the Narmada and Tapi, flow westward through rift valleys into the Arabian Sea.\n\nIndia's drainage system is broadly divided into Himalayan and Peninsular river systems, distinguished by their origin, perennial versus seasonal flow, and the nature of their valleys. Himalayan rivers, fed by both monsoon rainfall and melting snow, tend to be perennial and have carved deep gorges through their upper courses, while Peninsular rivers, dependent mainly on monsoon rainfall, show much greater seasonal variation in discharge. Coastal plains along both the western and eastern seaboards, along with island groups such as the Andaman and Nicobar and Lakshadweep, complete the physiographic picture, giving India an unusually wide range of landform, drainage, and associated ecological zones within a single national territory.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Physical Setting of India"],
+      "tags": ["geography", "indian-geography", "physical-setting"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Agro-Climatic Regions and Cropping Patterns of India",
+      "body": "Indian agriculture operates across an unusually wide range of climatic, soil, and water conditions, which has led planners to divide the country into a number of agro-climatic regions as a basis for more targeted agricultural planning. These regions are delineated using criteria such as rainfall, temperature, soil type, and irrigation availability, and range from the humid, rice-dominated eastern and northeastern plains to the semi-arid, coarse-cereal and oilseed regions of central and western India, and the irrigated wheat and rice belts of the northwestern plains created substantially by the Green Revolution.\n\nCropping patterns across these regions reflect a combination of physical suitability and economic incentives such as government procurement, minimum support prices, and input subsidies. Rice dominates in the water-abundant eastern and southern regions, wheat dominates the irrigated northwestern plains, and a diverse mix of coarse cereals, pulses, and oilseeds characterises the drier regions of the Deccan and western India, where rainfall is limited and often unreliable. Cash crops such as cotton, sugarcane, and jute are concentrated in specific regions determined by soil and climate, for instance the black cotton soils of the Deccan trap region for cotton, and the alluvial, well-irrigated tracts of Uttar Pradesh and adjoining states for sugarcane.\n\nIrrigation infrastructure has been central to shifting cropping patterns since independence, allowing double and even triple cropping in areas that would otherwise support only a single monsoon-dependent crop, but its uneven expansion has also widened regional disparities in productivity, favouring the northwestern plains over rain-fed regions in central and eastern India. Fertilizer use, agricultural credit, and mechanisation show a similar uneven geography, generally concentrated in the more commercially developed and irrigated regions.\n\nLand reform measures, including the abolition of intermediary tenures, tenancy regulation, and land ceiling legislation, were intended to make landholding more equitable and improve productivity incentives, though their implementation and impact have varied considerably across states. More recently, attention has shifted toward diversification away from a narrow focus on rice and wheat, encouraging pulses, oilseeds, horticulture, and millets, partly to improve nutritional outcomes and partly to build resilience against climatic variability and market volatility in the two staple crops that have historically dominated Indian agricultural policy.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Agriculture in India"],
+      "tags": ["geography", "indian-geography", "agriculture"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Locational Factors and Regionalisation of Indian Industry",
+      "body": "The location of major industries in India has historically been shaped by a combination of raw material availability, access to power and labour, transport infrastructure, and market proximity, with the relative importance of these factors shifting over the course of India's industrial development. Early heavy industries such as iron and steel developed close to coal and iron ore deposits in the Chota Nagpur plateau region spanning parts of Jharkhand, Odisha, West Bengal, and Chhattisgarh, giving rise to some of the country's earliest industrial complexes around centres such as Jamshedpur and Durgapur.\n\nCotton textile manufacturing, by contrast, historically concentrated in western India around Mumbai and Ahmedabad, drawing on locally grown cotton, capital accumulated through trade, and access to port facilities for both raw material import and finished goods export, while jute manufacturing concentrated around Kolkata, close to the raw jute growing areas of the Ganga delta and served by an established port. Aluminium production has tended to locate near bauxite deposits and, crucially, near reliable and cheap electricity supply given its highly power-intensive smelting process, explaining clusters in Odisha and parts of the Peninsular plateau.\n\nSince economic liberalisation, locational logic has broadened considerably. Newer industries such as automobiles, electronics, and pharmaceuticals show a greater orientation toward skilled labour availability, existing industrial ecosystems, proximity to consumer markets, and supportive state-level policy, rather than raw material access alone, producing new industrial clusters around cities such as Pune, Chennai, Bengaluru, and Hyderabad. Special Economic Zones, introduced to attract export-oriented investment through tax and regulatory incentives, have added a further, policy-driven layer to India's industrial geography, though their success has varied considerably across states and sectors.\n\nIndia's broader industrial regionalisation reflects this layered history, combining older resource-based industrial belts with newer, more footloose and knowledge-based clusters. Public sector undertakings, established in the early decades after independence partly to promote balanced regional development, added an important corrective element by locating some heavy industries in relatively less developed states, though private investment since liberalisation has tended to reinforce existing regional advantages rather than disperse industry more evenly across the country.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Industry in India"],
+      "tags": ["geography", "indian-geography", "industry"],
+      "is_current_affairs": false
+    }
+  ]
+}

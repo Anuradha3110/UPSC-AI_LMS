@@ -1,0 +1,291 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Commerce and Accountancy",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["commerce", "accountancy", "paper-1"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["commerce", "accountancy", "paper-2"]},
+
+    {"title": "Financial Accounting", "parent_title": "Paper I", "tags": ["commerce", "accountancy", "financial-accounting"]},
+    {"title": "Accounting Standards", "parent_title": "Financial Accounting", "tags": ["commerce", "accountancy", "accounting-standards"]},
+    {"title": "Amalgamation and Reconstruction", "parent_title": "Financial Accounting", "tags": ["commerce", "accountancy", "corporate-accounting"]},
+
+    {"title": "Cost Accounting", "parent_title": "Paper I", "tags": ["commerce", "accountancy", "cost-accounting"]},
+    {"title": "Costing Methods", "parent_title": "Cost Accounting", "tags": ["commerce", "accountancy", "cost-accounting"]},
+    {"title": "Standard Costing and Variance Analysis", "parent_title": "Cost Accounting", "tags": ["commerce", "accountancy", "cost-control"]},
+
+    {"title": "Taxation", "parent_title": "Paper I", "tags": ["commerce", "accountancy", "taxation"]},
+    {"title": "Income Tax Computation", "parent_title": "Taxation", "tags": ["commerce", "accountancy", "income-tax"]},
+
+    {"title": "Auditing", "parent_title": "Paper I", "tags": ["commerce", "accountancy", "auditing"]},
+    {"title": "Company Audit", "parent_title": "Auditing", "tags": ["commerce", "accountancy", "auditing"]},
+
+    {"title": "Financial Management", "parent_title": "Paper I", "tags": ["commerce", "accountancy", "financial-management"]},
+    {"title": "Capital Budgeting", "parent_title": "Financial Management", "tags": ["commerce", "accountancy", "capital-budgeting"]},
+    {"title": "Capital Structure and Cost of Capital", "parent_title": "Financial Management", "tags": ["commerce", "accountancy", "capital-structure"]},
+    {"title": "Working Capital Management", "parent_title": "Financial Management", "tags": ["commerce", "accountancy", "working-capital"]},
+
+    {"title": "Financial Markets and Institutions", "parent_title": "Paper I", "tags": ["commerce", "accountancy", "financial-markets"]},
+    {"title": "Money Market and Capital Market", "parent_title": "Financial Markets and Institutions", "tags": ["commerce", "accountancy", "financial-markets"]},
+
+    {"title": "Organisation Theory", "parent_title": "Paper II", "tags": ["commerce", "accountancy", "organisation-theory"]},
+    {"title": "Organisational Design and Structure", "parent_title": "Organisation Theory", "tags": ["commerce", "accountancy", "organisation-theory"]},
+
+    {"title": "Organisational Behaviour", "parent_title": "Paper II", "tags": ["commerce", "accountancy", "organisational-behaviour"]},
+    {"title": "Motivation and Leadership", "parent_title": "Organisational Behaviour", "tags": ["commerce", "accountancy", "motivation-leadership"]},
+
+    {"title": "Human Resource Management", "parent_title": "Paper II", "tags": ["commerce", "accountancy", "hrm"]},
+    {"title": "Recruitment, Selection and Training", "parent_title": "Human Resource Management", "tags": ["commerce", "accountancy", "hrm"]},
+    {"title": "Performance Appraisal and Compensation", "parent_title": "Human Resource Management", "tags": ["commerce", "accountancy", "hrm"]},
+
+    {"title": "Industrial Relations", "parent_title": "Paper II", "tags": ["commerce", "accountancy", "industrial-relations"]},
+    {"title": "Trade Unions and Industrial Disputes", "parent_title": "Industrial Relations", "tags": ["commerce", "accountancy", "industrial-relations"]},
+    {"title": "Worker Participation and Collective Bargaining", "parent_title": "Industrial Relations", "tags": ["commerce", "accountancy", "industrial-relations"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Discuss the significance of Accounting Standard (AS) 7 in accounting for construction contracts.",
+      "node_titles": ["Accounting Standards"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for a correct statement of AS-7's objective of matching contract revenue and costs to the accounting periods in which construction work is performed. Full marks require the candidate to explain the percentage-of-completion rationale and briefly note the treatment of expected losses. Answer is expected within about 150 words with no need for a separate intro/conclusion."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Why do companies issue right shares? Bring out the points of difference between right shares and bonus shares.",
+      "node_titles": ["Financial Accounting"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit reasons for a rights issue such as raising further capital while protecting existing shareholders' proportional ownership, and a clear point-wise distinction from bonus shares covering source of funds, effect on paid-up capital, and shareholder cash outlay. Deduct marks for a purely definitional answer that lacks the comparison."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Discuss the main aspects an auditor must examine while conducting the audit of a banking company in India.",
+      "node_titles": ["Company Audit"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Look for coverage of statutory requirements under the Banking Regulation Act alongside the Companies Act, verification of advances and asset classification, and compliance with RBI prudential norms. Full marks require at least four distinct audit aspects specific to banks rather than generic company-audit points."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Distinguish between job costing and process costing, bringing out the situations in which each method is appropriate.",
+      "node_titles": ["Costing Methods"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit a clear point-wise distinction on cost unit, cost accumulation, and industry applicability, plus one concrete example of an industry for each method. Marks are lost for describing only one method or omitting the applicability criterion."
+    },
+    {
+      "year": 2024,
+      "marks": 20,
+      "question_text": "A Ltd. is to acquire the business of B Ltd. Pass the necessary journal entries in the books of both companies to record the amalgamation, including computation of purchase consideration.",
+      "node_titles": ["Amalgamation and Reconstruction"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Full marks require a correctly computed purchase consideration, complete closing entries in the transferor company's books, and correct opening entries recording assets, liabilities and goodwill/capital reserve in the transferee's books. Partial credit for correct method identification even where final figures are off; working notes must be shown for any credit."
+    },
+    {
+      "year": 2024,
+      "marks": 20,
+      "question_text": "A company is evaluating a machine replacement proposal. Using the Net Present Value method, determine whether the replacement should be undertaken and advise the management.",
+      "node_titles": ["Capital Budgeting"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Marks depend on correct identification of incremental cash flows including savings, salvage value and tax effects, a properly discounted NPV computation, and a clear accept/reject recommendation tied to the sign of the NPV. Working notes carry weight equal to the final answer."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "From the data given on projected production and cost structure, estimate the working capital requirement of the firm for the year.",
+      "node_titles": ["Working Capital Management"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly classifying current assets and current liabilities, applying a reasonable margin/safety allowance, and arriving at net working capital with supporting workings for raw material, work-in-progress, finished goods and receivables holding periods."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Explain the major differences between transactional and transformational leaders.",
+      "node_titles": ["Motivation and Leadership"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit a clear contrast on the basis of exchange-based versus vision-based influence, orientation toward maintaining versus changing the status quo, and impact on follower motivation and commitment. At least three points of difference are expected for full marks."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "What are the limitations of the matrix form of organisation?",
+      "node_titles": ["Organisational Design and Structure"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Look for at least four distinct limitations such as dual authority and role conflict, higher administrative cost, slower decision-making, and difficulty in fixing performance accountability. A one-line answer without elaboration earns partial credit only."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Discuss the 'big five' personality traits and their significance for managerial performance.",
+      "node_titles": ["Organisational Behaviour"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Full marks require naming all five traits correctly (openness, conscientiousness, extraversion, agreeableness, and emotional stability) and linking at least two of them to managerial or job-performance outcomes. Merely listing the traits without application loses marks."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "Critically examine Herzberg's two-factor theory of motivation and its contribution to the field of management.",
+      "node_titles": ["Motivation and Leadership"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit an accurate explanation of hygiene and motivator factors, at least one substantive criticism such as method dependence or oversimplification, and an assessment of its practical contribution such as job enrichment. The answer should be balanced rather than purely descriptive."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Discuss the merits and limitations of 360-degree feedback as a performance appraisal tool.",
+      "node_titles": ["Performance Appraisal and Compensation"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for at least two merits, such as comprehensiveness and reduced single-rater bias, and two limitations, such as time cost and potential for collusion or leniency, together with a brief concluding assessment of suitability."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Discuss the rationale for, and the effectiveness of, worker participation in management in the Indian context.",
+      "node_titles": ["Worker Participation and Collective Bargaining"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit coverage of both the philosophical rationale, such as industrial democracy and reduced worker alienation, and an empirical assessment of effectiveness in India, noting factors such as weak union preparedness and employer reluctance. Purely descriptive answers without an effectiveness assessment lose marks."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Accounting as a Financial Information System",
+      "body": "Accounting is best understood not merely as a record-keeping exercise but as an information system that converts raw economic transactions into structured reports usable by a wide range of stakeholders. A business enterprise interacts with shareholders seeking returns, lenders assessing repayment capacity, employees interested in job security and wages, tax authorities verifying compliance, and regulators monitoring market conduct, and each of these groups draws on the same underlying financial statements, though for different purposes. Viewing accounting as an information system highlights that its value lies in reducing the information asymmetry between those who manage a business and those who supply it capital or transact with it.\n\nThis perspective also brings behavioural considerations into accounting theory. Preparers of financial statements are not passive recorders; they exercise judgement in areas such as estimating useful lives of assets, provisioning for doubtful debts, or choosing among permissible valuation methods, and these judgements are influenced by incentives such as management compensation tied to reported profit, debt covenants, or a desire to present a stable earnings trend. Positive accounting theory studies why managers choose particular accounting policies, while normative accounting theory is concerned with what policies ought to be followed to best serve users. Behavioural research further shows that users of financial statements do not always process information rationally; framing effects, anchoring on past figures, and overreliance on summary ratios can distort investment and lending decisions even when disclosure is technically adequate.\n\nBecause accounting numbers can be shaped by discretion, standard-setters and auditors act as a check that keeps the information system credible. Standardisation narrows the range of acceptable choices so that comparability across firms and time periods is preserved, and independent audit provides assurance that reported figures are not materially misleading. At the same time, the information-system view accepts that accounting cannot be entirely neutral, since cost-benefit considerations, materiality thresholds, and the inherent uncertainty of estimates mean financial statements are approximations rather than exact measurements of economic value. Recognising accounting simultaneously as a technical discipline and a social process shaped by incentives and behaviour is essential to understanding debates over standard-setting, earnings management, and the credibility of corporate disclosure.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Financial Accounting"],
+      "tags": ["commerce", "accountancy", "financial-accounting"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Key Accounting Standards Governing Corporate Reporting",
+      "body": "Accounting standards exist to narrow the range of acceptable accounting treatments so that financial statements prepared by different companies, or by the same company across years, remain comparable and free of undue management discretion. Several standards address recurring valuation and recognition problems that would otherwise be resolved differently by different preparers. The standard on depreciation accounting requires that the depreciable cost of a fixed asset be allocated systematically over its useful life on a rational basis, rather than being written off arbitrarily or deferred to manage reported profit, and it calls for disclosure of the method and rate used so users can compare firms following different depreciation policies. The standard on valuation of inventories requires stock to be carried at the lower of cost and net realisable value, preventing firms from overstating assets and profits by valuing inventory above what it can actually realise, and it prescribes acceptable cost formulas such as weighted average or first-in-first-out.\n\nRevenue recognition standards address the timing question of when income should be recognised as earned, typically requiring that revenue be recognised only when significant risks and rewards of ownership have transferred and the amount is reliably measurable, which curbs the temptation to record sales prematurely. Because long-duration contracts such as construction projects span several accounting periods, a dedicated standard on construction contracts permits recognition of revenue and costs by reference to the stage of completion, so profit is reported progressively rather than only on final completion, subject to safeguards when the outcome cannot be reliably estimated.\n\nOther standards deal with contingencies and provisions, requiring recognition of a liability only when an obligation is probable and can be reliably estimated, while merely possible obligations are disclosed rather than provided for; with foreign exchange transactions, prescribing how exchange differences on monetary items are treated; and with the cash flow statement, which reclassifies accrual-based profit into operating, investing and financing cash flows so users can assess liquidity separately from profitability. Taken together, these standards reduce the scope for earnings management and give external users a common basis on which to evaluate corporate performance.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Accounting Standards"],
+      "tags": ["commerce", "accountancy", "accounting-standards"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Costing Methods: Job, Process and Activity-Based Costing",
+      "body": "Cost accounting systems are designed around the nature of the production process, and the choice of costing method affects both the accuracy of product costs and the usefulness of the resulting information for pricing and control decisions. Job costing is used where production is undertaken against specific customer orders or distinguishable batches, such as printing, shipbuilding, or construction, and each job is treated as a separate cost unit to which direct materials, direct labour, and an appropriate share of overheads are charged individually. A job cost sheet accumulates these costs as the job proceeds, allowing the firm to compare actual cost against the quotation given to the customer and to price future similar jobs more accurately.\n\nProcess costing, by contrast, applies where production is continuous and output consists of identical or near-identical units passing through a sequence of processes, as in chemicals, textiles, or food processing. Since individual units cannot be economically traced, costs are accumulated for each process over a period and then averaged over the units produced, using the concept of equivalent production to account for partially completed units in opening and closing work-in-progress. Process costing also has to deal with normal and abnormal losses, with the cost of normal loss absorbed by good production while abnormal loss or gain is taken out separately so it does not distort the unit cost of good output.\n\nActivity-based costing developed as a response to the limitations of traditional overhead absorption, which typically spreads overheads using a single volume-based base such as direct labour hours, causing high-volume simple products to be over-costed and low-volume complex products to be under-costed. It instead identifies distinct activities that consume resources, such as machine set-ups, order processing, or quality inspection, and assigns overhead costs to products based on the actual consumption of these cost drivers by each product. This gives a more accurate picture of product profitability, particularly in firms with diverse product lines and complex support functions, though it requires more detailed data collection than traditional volume-based costing. Together, these three methods illustrate how cost accumulation must be matched to the underlying production reality for costing information to be decision-useful.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Costing Methods"],
+      "tags": ["commerce", "accountancy", "cost-accounting"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Computing Taxable Income Under the Income Tax Act",
+      "body": "The computation of an individual's or entity's taxable income under Indian income tax law begins by classifying all receipts into one of five heads of income, namely salaries, income from house property, profits and gains of business or profession, capital gains, and income from other sources, because each head has its own rules for what is includible and what is deductible before arriving at the net income chargeable under that head. Salary income is computed after allowing exemptions on specified components such as house rent allowance within prescribed limits and a standard deduction, while income from house property is computed on the basis of the property's annual value, reduced by a standard deduction for repairs and by interest paid on borrowed capital used to acquire or construct the property, subject to a ceiling for self-occupied property.\n\nBusiness and professional income is computed by adjusting the profit shown in the books for expenses disallowed under the Act, such as certain payments made without deduction of tax at source or expenditure of a personal or capital nature, and by allowing depreciation on the written down value of the block of assets used for the business. Capital gains arise on the transfer of a capital asset and are classified as short-term or long-term depending on the period for which the asset was held, with different tax rates and different sets of permissible deductions and indexation benefits applying to each category. Any income not falling under the first four heads, such as interest on deposits or dividends, is taxed under income from other sources.\n\nOnce income under each head is computed, the Act permits inter-head and intra-head set-off of losses subject to specified restrictions, followed by carry-forward of unabsorbed losses to subsequent years within prescribed time limits, again subject to conditions such as continuity of business in the case of business losses. From the gross total income so arrived at, the taxpayer is entitled to specified deductions under Chapter VI-A, such as those for life insurance premia, provident fund contributions, and medical insurance, before arriving at the total income on which tax liability is finally computed at the applicable slab rates.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Income Tax Computation"],
+      "tags": ["commerce", "accountancy", "income-tax"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Capital Budgeting: Appraisal Methods and Their Application",
+      "body": "Capital budgeting is the process by which a firm evaluates long-term investment proposals that involve committing resources today in expectation of returns spread over several future periods, and the choice of appraisal method materially affects which projects get accepted. The payback period method, which measures the time required to recover the initial outlay from the project's cash inflows, is valued for its simplicity and its rough indication of liquidity risk, but it ignores the time value of money and any cash flows occurring after the payback point, making it an incomplete criterion when used alone. The accounting rate of return, based on average accounting profit relative to investment, suffers similarly from ignoring the timing of cash flows and from being sensitive to the accounting policies used to compute profit.\n\nDiscounted cash flow techniques address the time-value limitation directly. The net present value method discounts all expected future cash flows at the firm's cost of capital and nets this against the initial investment; a positive net present value indicates the project is expected to add value to the firm over and above the return required by its capital providers, and among mutually exclusive projects, the one with the higher net present value is preferred because it maximises absolute wealth creation. The internal rate of return instead finds the discount rate at which the project's net present value becomes zero, and is popular because it expresses project return as a single percentage figure comparable to a hurdle rate, though it can give conflicting rankings compared to net present value when projects differ significantly in scale or cash flow timing, and can also yield multiple or no real solutions when cash flows change sign more than once. The profitability index, the ratio of the present value of inflows to the initial outlay, is particularly useful for ranking projects under capital rationing, when a firm has to choose among projects with a limited total budget rather than accepting every project with a positive net present value.\n\nBecause future cash flows are inherently uncertain, capital budgeting also incorporates risk analysis techniques such as sensitivity analysis, scenario analysis, and adjusting either the discount rate or the cash flows themselves for risk, so the appraisal reflects not just the expected outcome but also the range of possible outcomes around it.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Capital Budgeting"],
+      "tags": ["commerce", "accountancy", "capital-budgeting"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Capital Structure Theories and the Cost of Capital",
+      "body": "A firm's capital structure decision concerns the proportion in which it finances its assets using debt and equity, and the theories developed around this question differ chiefly on whether such a financing mix affects the overall value of the firm. Under the net income approach, the cost of debt and the cost of equity are each assumed to remain constant regardless of the debt-equity ratio, so increasing the proportion of cheaper debt continuously lowers the overall weighted average cost of capital and continuously raises firm value, implying a firm should employ as much debt as it can. The net operating income approach takes the opposite position, holding that the overall cost of capital and total firm value are independent of the financing mix, because equity holders demand a higher return as financial risk rises with more debt, exactly offsetting the benefit of cheaper debt, so no capital structure is superior to another.\n\nModigliani and Miller formalised the net operating income position under a set of restrictive assumptions, including no taxes, no transaction costs, and perfect capital markets, and showed that in such a world capital structure is irrelevant to firm value, since investors can replicate any leverage the firm chooses through personal borrowing or lending, a proposition known as the arbitrage argument. When they later relaxed the no-tax assumption, they showed that because interest on debt is tax-deductible while dividends are not, debt financing creates a tax shield, and firm value rises with leverage up to the point where the costs of financial distress associated with very high debt begin to outweigh this tax advantage, a trade-off that underlies the traditional approach, which holds that an optimal capital structure exists where the marginal benefit of additional debt equals its marginal cost.\n\nThe cost of capital itself is generally computed as a weighted average of the specific costs of each source of finance, namely debt, preference capital and equity, weighted by their proportion in the capital structure, with the cost of equity commonly estimated using the Capital Asset Pricing Model, which links the required return on equity to the risk-free rate and a risk premium scaled by the stock's systematic risk relative to the market. This weighted average cost of capital serves as the discount rate used in evaluating investment proposals, linking the financing decision directly to the investment decision.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Capital Structure and Cost of Capital"],
+      "tags": ["commerce", "accountancy", "capital-structure"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Structure of the Indian Financial System",
+      "body": "The Indian financial system channels savings from surplus units, mainly households, to deficit units such as businesses and government that need funds for investment, and it does so through a network of markets, institutions, instruments, and regulators that together determine how efficiently this transfer takes place. The system is broadly divided into the money market, which deals in short-term funds and instruments of up to one year's maturity, and the capital market, which deals in medium- and long-term funds. The money market comprises the call money market among banks for overnight liquidity, the market for treasury bills issued by the government, and instruments such as commercial paper issued by creditworthy companies and certificates of deposit issued by banks, with the Reserve Bank of India as the pivotal player that manages liquidity conditions through its monetary policy operations, including the repo rate and open market operations.\n\nThe capital market in turn is divided into the primary market, where new securities are issued directly by companies to raise fresh capital through public offers, rights issues, or private placements, and the secondary market, where already-issued securities are traded among investors on stock exchanges, providing the liquidity that makes investors willing to subscribe in the primary market in the first place. The Securities and Exchange Board of India regulates both segments of the capital market, with responsibilities spanning investor protection, disclosure requirements for issuers, and oversight of market intermediaries such as stockbrokers, merchant bankers, and depositories.\n\nBeyond these two core markets, the financial system includes a range of institutions and services: commercial banks that are both deposit-takers and the largest source of credit to the economy, non-banking finance companies that supplement bank credit especially for underserved segments, mutual funds that pool small investor savings into professionally managed portfolios, and insurance companies regulated by the Insurance Regulatory and Development Authority that mobilise long-term savings while providing risk cover. Reforms since the early 1990s, including interest rate deregulation, the entry of private and foreign players into banking, dematerialisation of securities, and strengthened prudential norms for banks, have progressively made the system more market-driven, though public sector banks and government securities continue to occupy a dominant place in it.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Financial Markets and Institutions"],
+      "tags": ["commerce", "accountancy", "financial-markets"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Evolution of Organisation Theory",
+      "body": "Organisation theory has developed through successive schools of thought, each responding to the limitations of the one before it, and understanding this progression helps explain why modern organisations are designed the way they are. The classical school, associated with scientific management and administrative theory, viewed the organisation largely as a closed, mechanical system whose efficiency could be maximised through careful division of labour, standardisation of tasks, clear hierarchical lines of authority, and unity of command. Scientific management focused on the shop floor, seeking the most efficient way of performing a task through time-and-motion study, while administrative theorists focused on principles for structuring the organisation as a whole, such as span of control and departmentalisation. The classical approach delivered real efficiency gains but was criticised for treating workers as purely economic actors motivated by pay alone and for paying little attention to the social and psychological dimensions of work.\n\nThe human relations or neo-classical school emerged partly from findings that worker output responded to social attention and group dynamics as much as to physical working conditions, leading to the recognition that informal groups, morale, and interpersonal relationships significantly affect productivity. This school shifted attention toward motivation, leadership style, and communication, but it too was criticised for underplaying the formal structural and environmental constraints within which organisations actually operate.\n\nLater approaches sought a more complete picture. The systems approach conceives of the organisation as an open system that takes inputs from its environment, transforms them through internal subsystems, and returns outputs to that environment, so organisational effectiveness depends on managing this environment-organisation exchange rather than optimising internal efficiency alone. The contingency approach builds on this by rejecting the idea of one best way to organise altogether, arguing instead that the appropriate structure, leadership style, or control system depends on situational factors such as the stability of the external environment, the organisation's size, its technology, and its strategy. This progression, from a search for universal principles toward a recognition of organisational diversity and environmental dependence, continues to inform how modern organisations balance formal structure against the need for flexibility, culture, and adaptability.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Organisation Theory"],
+      "tags": ["commerce", "accountancy", "organisation-theory"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Organisational Design: Differentiation, Integration and Structure Choice",
+      "body": "When an organisation grows beyond the point where one person can coordinate all activity directly, it must divide work among specialised units, a process termed differentiation, and then reintegrate those units so the organisation functions as a coherent whole, a process termed integration. Differentiation can proceed along several lines: by function, grouping people who perform similar activities such as production, marketing, or finance together; by product, grouping people around distinct product lines so each has its own functional specialists; by geography, grouping around regions to be responsive to local conditions; or by customer or process. Each basis of differentiation brings distinct advantages and costs; functional grouping builds deep specialist expertise but can create silos that slow cross-functional coordination, while product or geographic grouping improves responsiveness and accountability for results but can duplicate specialist resources across units.\n\nBecause differentiation creates the need for integration, organisations design formal structures to reconnect divided work. The matrix structure represents one deliberate attempt at simultaneous integration along two dimensions, typically function and project or product, with employees reporting to both a functional manager and a project manager. This gives the organisation the specialist depth of functional grouping together with the coordination benefit of project grouping, and it is often adopted where projects are complex and demand inputs from multiple specialisms at once. However, dual reporting lines create the potential for conflicting instructions and role ambiguity, decision-making can slow as functional and project managers negotiate priorities, and the structure imposes a higher administrative and interpersonal cost than a single-line structure, making it best suited to organisations that can tolerate this complexity in exchange for flexibility.\n\nBeyond the choice of grouping, organisational design also involves decisions on centralisation versus decentralisation of decision-making authority, the degree of formalisation through written rules and procedures, and the span of control at each level of the hierarchy. These choices interact: a highly decentralised organisation with a wide span of control typically requires greater formalisation to maintain consistency, since managers cannot rely on close personal supervision alone. The right combination of these design variables is not fixed but depends, as contingency theory suggests, on the organisation's size, environment, and strategic priorities.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Organisational Design and Structure"],
+      "tags": ["commerce", "accountancy", "organisation-theory"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Motivation and Leadership in Organisational Behaviour",
+      "body": "Theories of motivation attempt to explain why people direct effort toward particular goals at work, and the major content theories share a common concern with identifying the needs that drive behaviour. Maslow's hierarchy of needs proposed that human needs are arranged in an ascending order from physiological and safety needs through social, esteem, and self-actualisation needs, with a satisfied lower-level need ceasing to motivate and attention shifting upward, though later research has questioned whether needs are as rigidly sequential as originally proposed. Herzberg's two-factor theory distinguished hygiene factors, such as salary, working conditions, and company policy, whose absence causes dissatisfaction but whose presence does not by itself motivate, from motivator factors, such as achievement, recognition, and the work itself, whose presence drives genuine satisfaction and effort; this distinction underpinned the job enrichment movement, which sought to redesign jobs to build in more of these intrinsic motivators, though critics have questioned the reliability of the method Herzberg used to arrive at the distinction. McGregor's Theory X and Theory Y described contrasting managerial assumptions about employees, that they are inherently lazy and must be controlled, versus that they are capable of self-direction when appropriately engaged, and argued that a manager's assumptions shape the management style adopted and, in turn, employee response. Process theories such as expectancy theory shift attention from what motivates to how motivation is generated, holding that effort depends on an employee's belief that effort will lead to performance, that performance will lead to reward, and that the reward is sufficiently valued.\n\nLeadership theory has undergone a parallel evolution, moving from trait theories that sought to identify fixed personal characteristics of effective leaders, through behavioural theories that focused instead on what leaders actually do, for instance distinguishing task-oriented from people-oriented behaviour, to contingency theories holding that leadership effectiveness depends on matching leadership style to the situation, such as the maturity of followers or the structure of the task. More recent transformational leadership theory distinguishes leaders who merely exchange rewards for compliance, a transactional style, from those who articulate a compelling vision, inspire followers to transcend narrow self-interest, and stimulate them intellectually to question existing assumptions, a style associated with higher follower commitment and organisational change capacity.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Motivation and Leadership"],
+      "tags": ["commerce", "accountancy", "motivation-leadership"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Human Resource Management: Scope and Emerging Role",
+      "body": "Human resource management is concerned with the full set of activities through which an organisation acquires, develops, motivates, and retains the people it needs to achieve its objectives, and its scope has widened considerably from an earlier, narrower personnel administration function. Traditionally, personnel management was largely an administrative and welfare-oriented function, maintaining records, processing payroll, ensuring statutory compliance, and handling grievances, treated as a support activity somewhat removed from the strategic concerns of the business. Modern human resource management, by contrast, treats people as a source of competitive advantage rather than merely a cost to be controlled, and accordingly positions HR activities as integral to business strategy rather than peripheral to it.\n\nThis shift is visible across the core HR activities. Human resource planning now aims to forecast not only the number of employees needed but the specific capabilities the organisation will require to execute its future strategy, linking workforce planning directly to business planning cycles. Recruitment and selection are designed not just to fill vacancies but to build a workforce whose values and competencies fit the organisation's culture and long-term direction, using more rigorous selection tools such as structured interviews, psychometric assessment, and assessment centres in place of purely informal judgment. Training and development have moved from being viewed as a cost to being treated as an investment in building capability that supports long-term organisational performance, with increasing emphasis on continuous learning rather than one-time induction training. Performance management systems increasingly attempt to align individual objectives with organisational goals and to provide ongoing feedback that supports development, rather than serving merely as a once-a-year administrative rating exercise.\n\nThe emerging role of HR also includes acting as a change agent within the organisation, helping design structures and culture that support organisational transformation, and serving as an employee champion, ensuring the pursuit of organisational goals does not come at the cost of fair treatment and a reasonable quality of work life. Balancing these sometimes competing roles, strategic partner, administrative expert, employee advocate, and change agent, is what distinguishes contemporary human resource management from the compliance-focused personnel function it grew out of.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Human Resource Management"],
+      "tags": ["commerce", "accountancy", "hrm"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Human Resource Planning and the Recruitment-Selection Process",
+      "body": "Human resource planning is the process by which an organisation forecasts its future demand for people, in terms of both numbers and required competencies, and compares this against the expected supply of people available internally and in the external labour market, so gaps can be addressed proactively rather than reactively. Demand forecasting typically considers business growth plans, expected changes in technology or processes, and anticipated attrition, while supply analysis considers the current workforce profile, likely retirements and internal promotions, and conditions in the external labour market for the required skills. Where a gap is identified, the organisation decides on an appropriate response: recruitment from outside, internal redeployment or promotion, training to build missing skills, or in the case of a surplus, measures ranging from redeployment to voluntary separation schemes.\n\nThis planning process rests on a prior and more granular exercise, job analysis, through which the organisation studies a role systematically to understand what the job actually involves. Job analysis typically produces two related documents: a job description, which sets out the duties, responsibilities, and reporting relationships attached to a position, and a job specification, which sets out the qualifications, skills, experience, and personal attributes required of the person who is to hold it. These documents underpin recruitment, selection, training design, and performance evaluation alike, since each of these activities needs a clear reference point for what the job requires.\n\nRecruitment is the process of generating a pool of suitable candidates, drawing on internal sources such as promotion and transfer, which build employee morale and retain organisational knowledge, and external sources such as advertisements, campus placement, employment exchanges, and increasingly online platforms, which bring in fresh perspectives and skills not available internally. Selection then narrows this pool to the candidate best suited to the role, typically through a sequence of screening, tests, one or more rounds of interviews, and reference or background verification, with the specific combination and rigour of these stages calibrated to the seniority and criticality of the position. A well-designed process treats recruitment and selection not as isolated events but as a continuation of human resource planning, ensuring the people ultimately hired match both the immediate job requirement and the organisation's longer-term capability needs.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Recruitment, Selection and Training"],
+      "tags": ["commerce", "accountancy", "hrm"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Industrial Disputes: Causes and Settlement Mechanisms",
+      "body": "An industrial dispute arises when there is a disagreement between employers and workers, or between workers themselves, connected with employment terms, conditions of work, or the non-employment of any person, and such disputes can manifest in several forms, of which strikes by workers and lockouts by employers are the most visible and disruptive. The causes of industrial disputes are commonly grouped into economic causes, such as disagreement over wages, bonus, and working hours, and non-economic or psychological causes, such as resentment over disciplinary action, non-recognition of a union, or a general breakdown of trust between management and labour, with the latter category often reflecting deeper issues in how the employment relationship is managed rather than a specific, resolvable grievance.\n\nGiven the economic and social cost of disputes, both preventive and curative mechanisms have been built into the industrial relations framework. Preventive mechanisms aim to resolve differences before they escalate into open conflict, and include works committees and grievance redressal machinery within the enterprise that allow issues to be raised and addressed at an early stage, along with a general emphasis on maintaining regular communication and consultation between management and worker representatives so disputes do not build up over unaddressed grievances. Where prevention fails and a dispute does arise, curative or settlement mechanisms come into play. Conciliation, in which a neutral third party, often a government-appointed conciliation officer, assists the disputing parties in reaching a voluntary settlement, is usually the first formal step and is intended to be non-adversarial. Where conciliation does not succeed, the dispute may be referred to voluntary arbitration, if both parties agree to be bound by an arbitrator's decision, or to adjudication by labour courts, industrial tribunals, or national tribunals constituted for the purpose, whose awards are legally binding on both parties.\n\nCollective bargaining, though not a dispute-settlement mechanism triggered only after conflict, plays a related and arguably more important role by providing an ongoing, negotiated channel through which wages and working conditions are periodically settled directly between employer and union, reducing the likelihood that disagreements accumulate to the point of open dispute. The relative weight given to prevention, negotiation, and adjudication in a given industrial relations system reflects broader policy choices about how much disputes should be resolved by the state versus left to the bargaining strength of the parties themselves.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Trade Unions and Industrial Disputes"],
+      "tags": ["commerce", "accountancy", "industrial-relations"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Worker Participation in Management and Collective Bargaining",
+      "body": "Worker participation in management refers to arrangements through which employees, or their representatives, are involved in organisational decision-making beyond simply carrying out instructions, and it rests on the philosophy that workers who have a voice in decisions affecting their work develop greater commitment to those decisions and a stronger sense of belonging to the organisation, which in turn is expected to improve both industrial relations and productivity. Participation can take several forms depending on the level and depth of involvement, from information-sharing arrangements where management merely keeps worker representatives informed, through consultative arrangements where worker views are sought but management retains final decision authority, to more substantive forms such as joint management councils or worker representation on the board of directors, where workers have a genuine share in the decision itself.\n\nIn the Indian context, various institutional forms of worker participation have been tried over the decades, including works committees mandated for larger industrial establishments, joint management councils in selected public sector undertakings, and shop-floor level participation schemes, but their actual effectiveness has generally been assessed as limited. Common explanations include the voluntary and often token nature of many schemes, which management could adopt without any binding commitment to act on worker input; the multiplicity and rivalry among trade unions, which fragmented worker representation and made it difficult to identify a single credible voice to participate; a general lack of preparedness among both managers, who were often reluctant to share real decision authority, and worker representatives, who sometimes lacked the technical or financial literacy to engage meaningfully in strategic decisions; and the absence of strong legal backing making participation mandatory and enforceable in most sectors.\n\nCollective bargaining, by contrast, has proved a more robust and widely used channel of worker influence, precisely because it does not depend on management goodwill but instead rests on the union's ability to withhold labour and thereby impose a cost on the employer if agreement is not reached. Through collective bargaining, wages, working hours, and other conditions of employment are negotiated and periodically renegotiated directly between employer and union representatives, producing agreements that are, unlike consultative participation schemes, typically binding on both sides. The relative success of collective bargaining compared with formal participation schemes in India illustrates a broader point: participation mechanisms tend to be effective in proportion to the real bargaining power and organisational capacity of the worker side, not merely the existence of a formal structure for dialogue.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Worker Participation and Collective Bargaining"],
+      "tags": ["commerce", "accountancy", "industrial-relations"],
+      "is_current_affairs": false
+    }
+  ]
+}

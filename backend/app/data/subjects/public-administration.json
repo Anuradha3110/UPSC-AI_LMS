@@ -1,0 +1,550 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Public Administration",
+  "syllabus_nodes": [
+    {
+      "title": "Paper I",
+      "parent_title": null,
+      "tags": [
+        "public-administration",
+        "paper-1"
+      ]
+    },
+    {
+      "title": "Paper II",
+      "parent_title": null,
+      "tags": [
+        "public-administration",
+        "paper-2"
+      ]
+    },
+    {
+      "title": "Introduction to Public Administration",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "foundations"
+      ]
+    },
+    {
+      "title": "Administrative Thought",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "theory"
+      ]
+    },
+    {
+      "title": "Scientific Management and Human Relations School",
+      "parent_title": "Administrative Thought",
+      "tags": [
+        "public-administration",
+        "theory"
+      ]
+    },
+    {
+      "title": "Administrative Behaviour",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "behaviour"
+      ]
+    },
+    {
+      "title": "Organisations",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "organisation"
+      ]
+    },
+    {
+      "title": "Classical and Neo-classical Organisation Theory",
+      "parent_title": "Organisations",
+      "tags": [
+        "public-administration",
+        "organisation"
+      ]
+    },
+    {
+      "title": "Accountability and Control",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "accountability"
+      ]
+    },
+    {
+      "title": "Administrative Law",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "law"
+      ]
+    },
+    {
+      "title": "Comparative Public Administration",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "comparative"
+      ]
+    },
+    {
+      "title": "Development Dynamics and Development Administration",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "development"
+      ]
+    },
+    {
+      "title": "Personnel Administration",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "personnel"
+      ]
+    },
+    {
+      "title": "Public Policy",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "policy"
+      ]
+    },
+    {
+      "title": "Techniques of Administrative Improvement",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "reform"
+      ]
+    },
+    {
+      "title": "Financial Administration",
+      "parent_title": "Paper I",
+      "tags": [
+        "public-administration",
+        "finance"
+      ]
+    },
+    {
+      "title": "Evolution of Indian Administration",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india"
+      ]
+    },
+    {
+      "title": "Philosophical and Constitutional Framework of Government",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india",
+        "constitution"
+      ]
+    },
+    {
+      "title": "Public Sector Undertakings",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india"
+      ]
+    },
+    {
+      "title": "Union Government and Administration",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india"
+      ]
+    },
+    {
+      "title": "Plans and Priorities in Indian Administration",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india"
+      ]
+    },
+    {
+      "title": "State Government and Administration",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india"
+      ]
+    },
+    {
+      "title": "District Administration since Independence",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india"
+      ]
+    },
+    {
+      "title": "Civil Services in India",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india",
+        "personnel"
+      ]
+    },
+    {
+      "title": "Financial Management in India",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india",
+        "finance"
+      ]
+    },
+    {
+      "title": "Administrative Reforms since Independence",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india",
+        "reform"
+      ]
+    },
+    {
+      "title": "Second Administrative Reforms Commission",
+      "parent_title": "Administrative Reforms since Independence",
+      "tags": [
+        "public-administration",
+        "india",
+        "reform"
+      ]
+    },
+    {
+      "title": "Rural Development and Panchayati Raj",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india",
+        "rural"
+      ]
+    },
+    {
+      "title": "Urban Local Government",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india",
+        "urban"
+      ]
+    },
+    {
+      "title": "Law and Order Administration",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india"
+      ]
+    },
+    {
+      "title": "Significant Issues in Indian Administration",
+      "parent_title": "Paper II",
+      "tags": [
+        "public-administration",
+        "india",
+        "governance"
+      ]
+    }
+  ],
+  "pyqs": [
+    {
+      "year": 2013,
+      "marks": 10,
+      "question_text": "\"Public Administration is more philosophical in nature than technical.\" Examine this statement.",
+      "node_titles": [
+        "Introduction to Public Administration"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should discuss the POSDCORB/technical view versus the value-laden, normative view of administration (public interest, ethics, equity), and arrive at a balanced position that administration is both a technical craft and a value-laden philosophical activity. Word limit about 150 words for a 10-mark question."
+    },
+    {
+      "year": 2015,
+      "marks": 12,
+      "question_text": "\"Scientific Management and Human Relations School are essentially incompatible.\" Comment.",
+      "node_titles": [
+        "Scientific Management and Human Relations School"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect contrast of Taylor's mechanistic, efficiency-driven view of the worker with Mayo's Hawthorne-derived emphasis on social and psychological needs, followed by a reasoned position on whether the two are truly incompatible or can be seen as complementary at different levels of analysis."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Assess the contribution of Herbert Simon to decision-making theory in public administration.",
+      "node_titles": [
+        "Administrative Behaviour"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must explain bounded rationality, satisficing behaviour, and the fact-value dichotomy, situating Simon's critique of the proverbs of administration within the broader behavioural revolution in administrative theory."
+    },
+    {
+      "year": 2018,
+      "marks": 10,
+      "question_text": "Critically examine the contribution of Chester Barnard to organisation theory.",
+      "node_titles": [
+        "Classical and Neo-classical Organisation Theory"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Reward coverage of Barnard's cooperative systems approach, the acceptance theory of authority, and the concept of the executive function in securing willing cooperation, with a critical note on its limits in hierarchical bureaucracies."
+    },
+    {
+      "year": 2016,
+      "marks": 15,
+      "question_text": "Discuss the relevance of the principles of natural justice in contemporary public administration.",
+      "node_titles": [
+        "Administrative Law"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should explain the twin principles, audi alteram partem and nemo judex in causa sua, with examples of their application in administrative and quasi-judicial decisions, and discuss their role in checking arbitrary exercise of discretion."
+    },
+    {
+      "year": 2017,
+      "marks": 15,
+      "question_text": "Discuss the contribution of Fred Riggs to Comparative Public Administration.",
+      "node_titles": [
+        "Comparative Public Administration"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect explanation of Riggs's ecological approach, the prismatic-sala model, and the ideas of formalism and heterogeneity in transitional societies, with a critical comment on the model's applicability to developing countries like India."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "Evaluate the relevance of development administration in the post-liberalisation era.",
+      "node_titles": [
+        "Development Dynamics and Development Administration"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should trace the shift from a control-and-regulate administrative role to a facilitation-and-regulation role after 1991, discussing challenges like public-private partnership management and regulatory capacity, and conclude with a reasoned assessment of continuing relevance."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Evaluate the core principles of New Public Management and their application in public organisations.",
+      "node_titles": [
+        "Techniques of Administrative Improvement"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of NPM principles: market mechanisms, performance orientation, decentralisation, citizen-as-customer; followed by a critical evaluation of applicability and limits in public organisations, especially around accountability and equity concerns."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Examine the effectiveness of Lokpal and Lokayuktas in ensuring administrative accountability in India.",
+      "node_titles": [
+        "Accountability and Control"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should outline the institutional design of the Lokpal and Lokayukta mechanism, assess implementation gaps (delayed appointments, limited jurisdiction), and evaluate effectiveness against alternative accountability instruments like CVC and CAG."
+    },
+    {
+      "year": 2013,
+      "marks": 20,
+      "question_text": "Trace the evolution of Indian administration from the Kautilyan period to the British colonial period.",
+      "node_titles": [
+        "Evolution of Indian Administration"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a chronological structure covering Mauryan administrative principles from the Arthashastra, Mughal revenue and provincial administration, and the transition to British administrative institutions, with attention to continuity and change in administrative philosophy."
+    },
+    {
+      "year": 2013,
+      "marks": 15,
+      "question_text": "Discuss the changing role of the District Collector in independent India.",
+      "node_titles": [
+        "District Administration since Independence"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should trace the Collector's role from a colonial revenue-and-law-and-order functionary to a modern development coordinator, and discuss contemporary challenges from decentralisation and specialised agencies to the office's continued relevance."
+    },
+    {
+      "year": 2016,
+      "marks": 15,
+      "question_text": "Discuss the major recommendations of the Second Administrative Reforms Commission on ethics in governance.",
+      "node_titles": [
+        "Second Administrative Reforms Commission"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect specific recommendations (code of ethics, whistleblower protection, citizen's charters, right to information strengthening) with a brief assessment of implementation status."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Discuss the challenges of fiscal federalism in India in the context of cooperative and competitive federalism.",
+      "node_titles": [
+        "Financial Management in India"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should distinguish cooperative from competitive federalism, discuss GST Council dynamics, Finance Commission devolution formulas, and cesses/surcharges as points of centre-state fiscal tension."
+    },
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "What is the significance of social audit in ensuring accountability in the implementation of rural development programmes?",
+      "node_titles": [
+        "Rural Development and Panchayati Raj"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect explanation of social audit as a participatory accountability mechanism, its statutory backing under MGNREGA, and an honest assessment of implementation challenges such as elite capture and administrative resistance."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Scientific Management and the Human Relations School",
+      "body": "The early twentieth century produced two influential but sharply contrasting theories of how organisations should be run, and the tension between them still frames debates about workplace design today. Frederick Taylor's scientific management, developed from time-and-motion studies in industrial settings, treated the worker essentially as an extension of the production process. Taylor argued that every job could be broken into its most efficient constituent motions through careful measurement, that the resulting one best way should be standardised and taught, and that workers should be selected and trained scientifically for the tasks that suited them, with pay tied directly to output through differential piece-rate systems. Management's job, in this view, was to plan and control; the worker's job was to execute. The approach delivered real productivity gains but treated human motivation almost entirely as a matter of economic incentive, ignoring the social and psychological dimensions of work.\n\nThe Hawthorne studies, conducted at Western Electric's plant near Chicago from the late 1920s, unsettled this mechanistic picture. Researchers led by Elton Mayo found that productivity rose not because of the physical changes being tested, lighting levels, rest breaks, but seemingly because workers were being paid attention to at all, a pattern later termed the Hawthorne effect. Further investigation revealed that informal social groups within the workplace, with their own norms about acceptable output, exerted a powerful influence on individual behaviour, often outweighing formal incentive structures. This gave rise to the Human Relations School, which argued that morale, social belonging, recognition and informal group dynamics were at least as important to productivity as physical working conditions or financial incentive.\n\nWhether the two schools are simply incompatible or can be read as complementary depends on the level at which each operates. Scientific management addresses the technical structuring of tasks; the Human Relations School addresses the social and motivational environment in which those tasks are performed. A purely technical redesign of work without attention to morale can backfire, just as attention to morale without efficient task design leaves productivity gains on the table. Later theorists, from Herzberg to modern organisational behaviour scholars, have generally tried to integrate rather than choose between the two, treating task efficiency and human motivation as jointly necessary rather than rival explanations of organisational performance.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Scientific Management and Human Relations School"
+      ],
+      "tags": [
+        "public-administration",
+        "theory"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Herbert Simon and the Behavioural Turn in Decision-Making",
+      "body": "Herbert Simon's work marked a decisive break from the classical administrative theory that had dominated the field until the mid-twentieth century, shifting attention from broad organisational principles to the actual cognitive process of decision-making within administration. Simon's early and influential critique targeted what he called the proverbs of administration, principles such as span of control, unity of command, or specialisation, which classical theorists like Gulick and Urwick had presented as scientific laws. Simon showed that for nearly every such proverb, an equally plausible contradictory proverb could be found, revealing that these were not genuine scientific principles but untested folk wisdom dressed in scientific language.\n\nIn place of this, Simon proposed decision-making, not directing or organising, as the true core activity of administration, and he argued that a scientific study of administration had to begin with a realistic model of how decisions are actually made. His concept of bounded rationality challenged the classical economic assumption of the perfectly rational decision-maker who surveys all alternatives and selects the objectively optimal one. Real administrators, Simon argued, operate under limits of information, time, and cognitive capacity, and consequently do not optimise but satisfice, that is, they search only until they find an alternative that is good enough to meet some acceptable threshold, then stop searching.\n\nSimon also drew a sharp fact-value dichotomy, arguing that administrative decisions contain both factual premises, which can be empirically tested as true or false, and value premises, which express preferences that cannot be so tested. He believed a genuine science of administration could be built around the factual component of decisions, even while acknowledging that values inevitably shape which goals are pursued. This distinction, while later criticised as artificially separating administration from the political and ethical context in which it operates, was foundational in pushing the discipline toward more rigorous, empirically grounded study of organisational behaviour.\n\nSimon's legacy lies in reorienting public administration away from prescriptive principles toward a genuinely behavioural and psychologically realistic understanding of how organisations function, influencing not only administrative theory but decision science and economics more broadly, for which he later received the Nobel Memorial Prize in Economic Sciences.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Administrative Behaviour"
+      ],
+      "tags": [
+        "public-administration",
+        "theory"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Riggs's Prismatic-Sala Model and Comparative Public Administration",
+      "body": "Comparative Public Administration emerged as a distinct field after the Second World War, as newly independent nations sought to build administrative systems and Western scholars sought to understand why administrative models transplanted from developed countries often failed to function as intended elsewhere. Fred Riggs was the field's most influential theorist, and his ecological approach insisted that administrative structures cannot be understood in isolation from the social, economic and cultural environment in which they are embedded, an argument that pushed back against earlier comparative work that had simply catalogued administrative structures across countries without asking why they behaved so differently in practice.\n\nRiggs illustrated his framework with a spectrum of three ideal-typical societies. At one end sits the fused society, typical of traditional agrarian settings, where administrative, economic, social and political functions are not separated into distinct institutions but are performed together within undifferentiated structures such as the family or tribal chieftainship. At the other end sits the diffracted society, typical of industrialised Western democracies, where these functions have separated into specialised, distinct institutions, a specialised bureaucracy for administration, markets for economic exchange, elected legislatures for political decision-making, each operating according to its own functionally specific norms.\n\nBetween these two poles, Riggs placed the prismatic society, his model for many post-colonial developing countries undergoing rapid but incomplete modernisation. In a prismatic society, modern-looking specialised institutions exist on the surface, a civil service, courts, ministries, but they continue to operate substantially according to older particularistic norms of kinship, patronage and personal loyalty beneath that surface. Riggs used the term sala to describe the characteristic bureaucratic office of such a society, an administrative structure that looks formally rational and rule-bound but functions in practice through personal networks, nepotism and situational bending of rules. He identified formalism, the gap between formally prescribed behaviour and actual behaviour, and heterogeneity, the coexistence of very different social practices and value systems side by side, as defining features of prismatic administration.\n\nRiggs's model has been widely used to explain administrative dysfunction in developing societies, including India, where colonial-inherited bureaucratic structures often coexist with informal networks of influence. Critics note the model risks an implicit Western-modernisation bias, treating diffraction as the natural endpoint of development, and that it describes rather than fully explains change. Even so, the prismatic-sala framework remains a valuable analytical lens for understanding the persistent gap between formal administrative design and actual administrative behaviour in transitional societies.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Comparative Public Administration"
+      ],
+      "tags": [
+        "public-administration",
+        "comparative"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "New Public Management: Principles and Critique",
+      "body": "New Public Management, commonly abbreviated NPM, describes a wave of administrative reform that swept through many governments from the 1980s onward, associated with countries like the United Kingdom, New Zealand and Australia and later influencing reform agendas across the developing world, including India's liberalisation-era governance reforms. NPM was, in essence, a reaction against the perceived inefficiency, rigidity and unresponsiveness of traditional bureaucratic administration organised on Weberian rule-bound, hierarchical lines, and it sought to import management practices and incentive structures from the private sector into government.\n\nSeveral core principles define the NPM approach. First, it favours market-type mechanisms within government, contracting out services to private providers, introducing internal competition between public agencies, and using user charges, on the theory that competitive pressure improves efficiency more reliably than bureaucratic hierarchy. Second, it emphasises a shift from input and process controls toward output and performance measurement, judging public agencies by measurable results rather than by whether they followed prescribed procedures. Third, it advocates decentralisation and disaggregation of large monolithic bureaucracies into smaller, more autonomous agencies with clearer performance mandates, an approach visible in the creation of executive agencies separated from core ministries. Fourth, NPM reframes the citizen as a customer, arguing that public services should be designed around user convenience and responsiveness in the way private businesses respond to customers, an idea reflected in India's Citizen's Charter initiatives.\n\nDespite its influence, NPM has drawn substantial critique. Applying market logic to public services risks treating citizens' entitlements, especially for the poor, as transactions rather than rights, and can weaken the equity and universal-access orientation that public services are meant to provide. Fragmenting government into autonomous agencies can also weaken political accountability, since it becomes harder to trace responsibility for outcomes across a more dispersed institutional landscape. Performance measurement systems can distort behaviour when agencies optimise for whatever is measured rather than for genuine public value, a phenomenon sometimes called gaming the metrics. In India, NPM-influenced reforms have appeared in disinvestment policy, autonomous regulatory bodies, and results-based budgeting exercises, but implementation has often been partial, layered awkwardly onto an underlying administrative culture that remains substantially rule-bound and hierarchical, illustrating the broader difficulty of transplanting reform models across very different administrative and political contexts.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Techniques of Administrative Improvement"
+      ],
+      "tags": [
+        "public-administration",
+        "reform"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Lokpal and Lokayuktas: Design and Effectiveness",
+      "body": "The Lokpal and Lokayuktas Act of 2013 established an ombudsman-style institution at the central level, the Lokpal, and mandated states to create their own equivalent institutions, Lokayuktas, to investigate allegations of corruption against public officials, including in principle the Prime Minister, Union Ministers and Members of Parliament, subject to specified safeguards and exclusions. The institution was conceived as an independent accountability mechanism that could investigate and prosecute corruption more effectively than existing bodies such as the Central Vigilance Commission, which lacked prosecutorial independence, or the ordinary criminal justice system, which was often seen as too slow and susceptible to political influence in politically sensitive cases.\n\nThe Lokpal's institutional design includes a chairperson and up to eight members, drawn in fixed proportion from judicial and non-judicial backgrounds, appointed through a selection committee comprising the Prime Minister, the Speaker of the Lok Sabha, the Leader of the Opposition, the Chief Justice of India or a nominee, and an eminent jurist. It has its own Inquiry Wing and can direct the Central Bureau of Investigation in matters referred to it, and it is empowered to attach assets acquired through corrupt means during the pendency of investigation.\n\nIn practice, the effectiveness of the institution has faced significant constraints. There was a lengthy delay of several years between the Act's passage and the actual appointment of the first Lokpal chairperson and members, largely attributed to the absence of a recognised Leader of the Opposition in the Lok Sabha, which complicated the selection committee's composition, and to slow follow-through on operational rules. Once constituted, the Lokpal has handled a relatively modest volume of complaints relative to the scale of corruption concerns in Indian public life, and questions have been raised about its investigative capacity given its reliance on referred agencies for actual enforcement. At the state level, the record on establishing effective Lokayuktas has been uneven, with several states delaying appointments or constituting institutions with limited independence and resources.\n\nAssessed against alternative accountability instruments, the Comptroller and Auditor General provides retrospective financial accountability, and the Central Vigilance Commission offers preventive vigilance and departmental oversight, but neither combines the Lokpal's intended independent investigative-cum-prosecutorial mandate. Whether the Lokpal ultimately strengthens administrative accountability in a meaningful way will depend less on its formal design, which is reasonably robust on paper, and more on sustained political will to staff it promptly, resource it adequately, and protect its functional independence from the very officeholders it is meant to scrutinise.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Accountability and Control"
+      ],
+      "tags": [
+        "public-administration",
+        "accountability",
+        "india"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Changing Role of the District Collector",
+      "body": "The office of the District Collector traces its institutional lineage to the colonial administrative structure introduced by the British, where the Collector's primary function was, as the title suggests, the collection of land revenue, alongside maintaining law and order and exercising magisterial powers. This combination of revenue, regulatory and judicial-adjacent authority made the Collector the single most powerful administrative figure at the district level, a design well suited to a colonial state whose central priorities were extraction of revenue and maintenance of order rather than public welfare or development.\n\nAfter independence, the Collector's role expanded substantially even as its original colonial functions persisted in modified form. With the state's adoption of a development-oriented constitutional vision and the launch of Five Year Plans, the Collector increasingly became the coordinating hub for development programmes at the district level, responsible for implementing schemes spanning agriculture, health, education and rural employment, and for coordinating the work of numerous line departments operating within the district. This development-coordination role has continued to grow with the proliferation of centrally sponsored schemes and, more recently, with responsibilities for disaster management, where the Collector typically serves as the district-level authority coordinating relief and response.\n\nAt the same time, several structural changes have complicated the traditionally centralised authority of the office. The 73rd Constitutional Amendment's establishment of a three-tier Panchayati Raj system created elected local bodies with their own developmental mandate, requiring the Collector to share and coordinate authority with elected Zila Parishad and Panchayat functionaries rather than exercising unilateral control. The proliferation of specialised, technically staffed agencies, in areas from environmental regulation to specific welfare schemes, has also diffused authority that was once concentrated in the Collector's office, requiring more coordination-based rather than command-based administrative skill. Separation of the judiciary from the executive, mandated by the Constitution and progressively implemented, has stripped the Collector of many of the judicial-magisterial functions once combined with revenue and executive authority.\n\nDespite these changes, the Collector's office retains substantial contemporary relevance as the most visible point of contact between citizens and the state at the district level, particularly during elections, disasters and large-scale government scheme rollouts. The debate over its continued relevance centres less on whether a district-level coordinating authority is needed, which is broadly agreed, and more on whether that authority should remain concentrated in a single generalist officer or be more thoroughly redistributed toward elected local government and specialised technical agencies as India's administrative and political institutions continue to mature.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "District Administration since Independence"
+      ],
+      "tags": [
+        "public-administration",
+        "india"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Fiscal Federalism and Centre-State Financial Relations in India",
+      "body": "India's constitutional design assigns the bulk of tax-raising capacity to the Union government while assigning many expenditure responsibilities, particularly in areas like health, education and law and order, to the states, creating a structural vertical fiscal imbalance that has to be corrected through a system of transfers from the centre to the states. The Finance Commission, constituted every five years under Article 280, is the principal constitutional mechanism for this correction, recommending the formula by which the divisible pool of central taxes is shared with states and the criteria, such as population, income distance, forest cover and tax effort, used to distribute that share among individual states. Alongside statutory transfers, Centrally Sponsored Schemes channel funds for specific programmes with conditions attached, giving the Union significant influence over state spending priorities even in areas that are constitutionally within the state list.\n\nThe introduction of the Goods and Services Tax in 2017 restructured this relationship substantially. States surrendered significant autonomous taxation power over goods and services in favour of a unified national tax administered jointly through the GST Council, a body combining Union and state finance ministers that decides rates and rules by a weighted voting mechanism giving the Union a decisive one-third weight. This has been characterised as an exercise in cooperative federalism, since states voluntarily pooled fiscal sovereignty for the collective gain of a simplified national market, but it has also generated recurring friction, particularly around delayed compensation payments to states during revenue shortfalls and disagreements over rate-setting that affect states unevenly depending on their consumption and production profiles.\n\nCompetitive federalism describes a related but distinct dynamic, where states actively compete with one another to attract investment, talent and central funding allocations through their own policy and governance performance, an approach the central government has encouraged through instruments like the erstwhile Planning Commission's, and now NITI Aayog's, performance-linked incentive frameworks and rankings across sectors like ease of doing business and health outcomes.\n\nPersistent points of tension in this system include the rising share of cesses and surcharges in central revenue, which by design fall outside the divisible pool shared with states and have drawn criticism as a means of preserving central fiscal space at the states' expense, and recurring debates over whether the population-based criteria used in devolution formulas fairly treat states that have achieved lower population growth through more successful development and family planning efforts. Resolving these tensions in a manner that preserves both national fiscal coherence and genuine state fiscal autonomy remains an ongoing and unfinished project within India's federal design.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Financial Management in India"
+      ],
+      "tags": [
+        "public-administration",
+        "finance",
+        "india"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Social Audit as an Accountability Mechanism in Rural Development",
+      "body": "Social audit refers to a participatory process in which the intended beneficiaries and the general public collectively scrutinise the implementation of a public programme, verifying whether funds were spent as claimed, whether works were actually executed, and whether the reported beneficiaries genuinely received what official records show. It differs fundamentally from conventional financial or performance audit, which is typically conducted by trained auditors examining documents after the fact, in that social audit brings the community itself, including the very workers and villagers whose entitlements are at stake, directly into the verification process through public hearings, known in some contexts as jan sunwais, where officials must answer questions in front of the affected community.\n\nThe most institutionalised example in India is the social audit mechanism built into the Mahatma Gandhi National Rural Employment Guarantee Act, which gives statutory backing to social audit as a mandatory component of scheme implementation, requiring that every Gram Panchayat's MGNREGA works be audited at least once every six months through a public hearing process, and mandating the creation of independent state-level Social Audit Units, structurally separated from the implementing bureaucracy, to organise and facilitate these audits. This statutory backing was significant because it moved social audit from an informal civil-society practice, as pioneered by grassroots organisations in Rajasthan in the 1990s, into a formal, legally enforceable requirement of programme implementation.\n\nThe significance of social audit for accountability lies in several distinct contributions. It generates local, granular information that top-down audits routinely miss, since villagers know directly whether a road was actually built or a worker actually paid. It creates a direct confrontation between officials and affected citizens that is harder to deflect than a written audit report, generating real-time social pressure for correction and, in some cases, disciplinary or even criminal action against corrupt functionaries. It also has an empowerment dimension, building civic capacity and a rights-consciousness among rural citizens who learn to demand entitlements rather than passively receive them.\n\nHowever, implementation has faced significant challenges. Elite capture within the audit process itself, where locally powerful figures dominate the public hearing and suppress dissenting voices, can blunt its effectiveness. Administrative resistance is common, since officials whose own conduct is under scrutiny have little incentive to cooperate fully, and follow-through on findings, actually recovering misappropriated funds or penalising responsible officials, has often lagged behind the identification of irregularities. Despite these limitations, social audit remains one of India's most significant institutional innovations in participatory accountability, illustrating how citizen involvement can supplement, though not replace, conventional administrative and financial oversight mechanisms.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Rural Development and Panchayati Raj"
+      ],
+      "tags": [
+        "public-administration",
+        "india",
+        "rural"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Second Administrative Reforms Commission on Ethics in Governance",
+      "body": "The Second Administrative Reforms Commission, constituted in 2005 under the chairmanship of Veerappa Moily, produced a series of reports covering distinct aspects of administrative reform, of which the fourth report, titled Ethics in Governance, dealt directly with the problem of corruption and the institutional mechanisms needed to strengthen ethical conduct in public life. The Commission approached the problem not as a matter of individual moral failing alone but as substantially rooted in weak institutional design, poor accountability structures and insufficient transparency, and its recommendations accordingly targeted systemic reform rather than exhortation alone.\n\nAmong its central recommendations was the call for a comprehensive legal framework to protect whistleblowers who expose corruption or wrongdoing within government, recognising that individuals willing to report malfeasance faced serious risk of retaliation without formal protection, a recommendation that eventually informed the Whistle Blowers Protection Act. The Commission also recommended strengthening the right to information regime, then still relatively new, by improving proactive disclosure practices among public authorities so that citizens would not need to file individual requests for routinely important information. It called for the wider adoption of Citizen's Charters across public agencies, setting out clearly what services citizens are entitled to and within what time frame, paired with grievance redress mechanisms so that failures to meet those standards carried a real consequence.\n\nThe report also recommended confiscation of illegally acquired property as an additional deterrent against corruption, arguing that criminal prosecution alone, given its slow pace within the Indian judicial system, was an insufficient deterrent when corrupt officials could retain the financial benefits of their misconduct for years pending trial. It urged a review and rationalisation of the vast body of criminal and administrative law bearing on corruption to remove overlapping and sometimes contradictory provisions across different statutes, and recommended time-bound processes for according sanction to prosecute public servants, addressing a long-standing complaint that legally mandated prior sanction requirements were routinely used to indefinitely stall corruption prosecutions.\n\nImplementation of these recommendations has been uneven. The Whistle Blowers Protection Act was eventually passed in 2014 but has faced delays and criticism over subsequent amendments seen as diluting its protections. The Right to Information Act had, in fact, already been passed in 2005 alongside the Commission's work and has generally been assessed as one of India's more successful transparency reforms, notwithstanding periodic concerns about vacancies in Information Commissions and the safety of RTI activists. Confiscation of corruptly acquired property and time-bound prosecution sanction have seen only partial legislative follow-through, illustrating a recurring pattern in Indian administrative reform where diagnosis and recommendation substantially outpace actual institutional implementation.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Second Administrative Reforms Commission"
+      ],
+      "tags": [
+        "public-administration",
+        "india",
+        "reform"
+      ],
+      "is_current_affairs": false
+    }
+  ]
+}

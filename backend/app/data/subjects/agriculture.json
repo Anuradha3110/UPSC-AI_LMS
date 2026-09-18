@@ -1,0 +1,292 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Agriculture",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["agriculture-optional", "paper-1"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["agriculture-optional", "paper-2"]},
+
+    {"title": "Ecology and Natural Resource Management", "parent_title": "Paper I", "tags": ["ecology", "natural-resources", "agroecology"]},
+    {"title": "Agroecology and Cropping Systems", "parent_title": "Paper I", "tags": ["agronomy", "cropping-systems"]},
+    {"title": "Forestry and Agroforestry", "parent_title": "Paper I", "tags": ["forestry", "agroforestry"]},
+    {"title": "Weed Science", "parent_title": "Paper I", "tags": ["weed-science", "weed-management"]},
+    {"title": "Soil Science and Nutrient Management", "parent_title": "Paper I", "tags": ["soil-science", "nutrient-management"]},
+    {"title": "Soil and Water Conservation", "parent_title": "Paper I", "tags": ["soil-conservation", "water-management", "irrigation"]},
+    {"title": "Agricultural Economics and Farm Management", "parent_title": "Paper I", "tags": ["agricultural-economics", "farm-management"]},
+    {"title": "Agricultural Extension", "parent_title": "Paper I", "tags": ["agricultural-extension", "rural-development"]},
+
+    {"title": "Cropping Patterns and Farming Systems", "parent_title": "Agroecology and Cropping Systems", "tags": ["cropping-pattern", "farming-systems", "agronomy"]},
+    {"title": "Integrated Nutrient Management", "parent_title": "Soil Science and Nutrient Management", "tags": ["integrated-nutrient-management", "soil-fertility", "biofertilizers"]},
+    {"title": "Watershed Management and Dryland Farming", "parent_title": "Soil and Water Conservation", "tags": ["watershed-management", "dryland-agriculture"]},
+    {"title": "Farm Management and Crop Insurance", "parent_title": "Agricultural Economics and Farm Management", "tags": ["farm-management", "crop-insurance", "risk-management"]},
+
+    {"title": "Cell Biology and Genetics", "parent_title": "Paper II", "tags": ["genetics", "cell-biology", "cytogenetics"]},
+    {"title": "Plant Breeding", "parent_title": "Paper II", "tags": ["plant-breeding", "crop-improvement"]},
+    {"title": "Seed Production and Technology", "parent_title": "Paper II", "tags": ["seed-technology", "seed-production", "seed-certification"]},
+    {"title": "Plant Physiology", "parent_title": "Paper II", "tags": ["plant-physiology", "photosynthesis"]},
+    {"title": "Horticulture", "parent_title": "Paper II", "tags": ["horticulture", "fruit-crops", "vegetable-crops"]},
+    {"title": "Plant Protection", "parent_title": "Paper II", "tags": ["plant-pathology", "entomology", "plant-protection"]},
+    {"title": "Food Production and Nutrition", "parent_title": "Paper II", "tags": ["food-security", "nutrition", "food-policy"]},
+
+    {"title": "Heterosis Breeding and Hybrid Seed Production", "parent_title": "Plant Breeding", "tags": ["heterosis", "hybrid-seed", "plant-breeding"]},
+    {"title": "Plant Growth Substances and Stress Physiology", "parent_title": "Plant Physiology", "tags": ["plant-growth-regulators", "stress-physiology"]},
+    {"title": "Post-Harvest Technology and Protected Cultivation", "parent_title": "Horticulture", "tags": ["post-harvest-technology", "protected-cultivation", "horticulture"]},
+    {"title": "Integrated Pest and Disease Management", "parent_title": "Plant Protection", "tags": ["integrated-pest-management", "plant-protection"]},
+    {"title": "Public Distribution System and Food Security", "parent_title": "Food Production and Nutrition", "tags": ["public-distribution-system", "food-security", "food-policy"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "What do you mean by agro-ecosystem? Discuss the ecological principles applied in sustainable agriculture.",
+      "node_titles": ["Ecology and Natural Resource Management"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should define agroecosystem in the introduction, contrasting it briefly with a natural ecosystem. The body must explain principles such as diversification, nutrient cycling, energy efficiency and resilience, each linked to a concrete agronomic practice. Conclude by linking these principles to sustainable intensification or climate resilience in the Indian context. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "Discuss the role of remote sensing and GIS technology in natural resource management and crop production forecasting.",
+      "node_titles": ["Ecology and Natural Resource Management"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should briefly state what remote sensing and GIS are and their relevance to agriculture. Body should cover applications such as land-use/land-cover mapping, soil and water resource assessment, crop area estimation, yield forecasting and drought/disaster monitoring, citing at least one Indian programme or example. Conclusion should note limitations such as cost, resolution and ground-truthing needs. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Define cropping system. Discuss the scope of multiple cropping and intercropping systems in enhancing productivity of rainfed areas.",
+      "node_titles": ["Cropping Patterns and Farming Systems"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Define cropping system precisely in the opening lines. The body should distinguish multiple cropping from intercropping, explain their relevance specifically to rainfed conditions (risk-spreading, resource-use efficiency, legume inclusion), and give suitable examples of intercropping combinations used in Indian dryland agriculture. Conclusion should note constraints such as labour and market access. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2018,
+      "marks": 10,
+      "question_text": "What is allelopathy? Discuss its significance in weed management in field crops.",
+      "node_titles": ["Weed Science"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Define allelopathy clearly with reference to release of chemical substances by one plant affecting another. Body should discuss how allelopathic crops or cover crops can suppress weed germination and growth, with examples, and note both the potential for weed management and the risk of allelopathy affecting subsequent crops. Word limit: approximately 150 words given the 10-mark weightage."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Discuss the concept and components of Integrated Nutrient Management (INM). How does it help in maintaining soil health?",
+      "node_titles": ["Integrated Nutrient Management"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should define INM as combining chemical, organic and biological nutrient sources. Body must list and briefly explain each component (fertilizers, organic manures, green manuring, biofertilizers) and connect them to soil health indicators such as organic carbon, microbial activity and physical structure. Conclusion should reference soil testing as the basis for balanced application. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2017,
+      "marks": 15,
+      "question_text": "Describe the salient features of watershed management programmes in India and their role in dryland agriculture.",
+      "node_titles": ["Watershed Management and Dryland Farming"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Body should describe key watershed measures (contour/graded bunding, check dams, afforestation, ridge-to-valley planning) and connect them explicitly to dryland farming outcomes such as moisture conservation, groundwater recharge and yield stabilisation. Conclusion may reference a relevant government watershed development scheme. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2020,
+      "marks": 10,
+      "question_text": "Discuss the role of Krishi Vigyan Kendras (KVKs) in transfer of agricultural technology to farmers.",
+      "node_titles": ["Agricultural Extension"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Briefly introduce KVKs as district-level ICAR-linked institutions. Body should cover their core functions -- on-farm testing, front-line demonstrations, training and seed production -- and their role as a last-mile technology-transfer link. Word limit: approximately 150 words given the 10-mark weightage."
+    },
+    {
+      "year": 2016,
+      "marks": 15,
+      "question_text": "Write a critical note on crop insurance schemes in India and their role in farmers' risk management.",
+      "node_titles": ["Farm Management and Crop Insurance"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should briefly state why crop insurance matters given rainfall and price risk in Indian farming. Body should explain the basic design of a major scheme (premium subsidy, area-based yield assessment) and assess its role in stabilising farm income. A critical note must also mention at least one limitation, such as claim delays or coverage gaps. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "Define heterosis. Discuss the physiological and biochemical basis of hybrid vigour and its exploitation in crop improvement.",
+      "node_titles": ["Heterosis Breeding and Hybrid Seed Production"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Definition of heterosis must appear early. Body should explain the dominance and overdominance hypotheses as genetic bases, and describe how hybrid seed production exploits heterosis commercially (parent line maintenance, isolation, pollination control). Conclusion should note major hybrid crops in India. Word limit: approximately 250-300 words given the higher weightage."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Discuss the physiological basis of drought resistance in crop plants.",
+      "node_titles": ["Plant Growth Substances and Stress Physiology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Body should explain physiological drought-response mechanisms such as stomatal regulation via abscisic acid, osmotic adjustment through compatible solutes, and root system traits, distinguishing escape, avoidance and tolerance strategies where relevant. Conclusion may link this to breeding for drought tolerance. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2018,
+      "marks": 10,
+      "question_text": "What is seed certification? Describe the stages involved in seed certification of self-pollinated crops.",
+      "node_titles": ["Seed Production and Technology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Define seed certification and its purpose in quality assurance. Body should list the stages -- field inspection at specified growth stages, harvesting and sampling, laboratory testing for germination and purity, and tagging -- specifically as applied to self-pollinated crops. Word limit: approximately 150 words given the 10-mark weightage."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Discuss the causes, symptoms and management of micronutrient deficiencies in crop plants.",
+      "node_titles": ["Soil Science and Nutrient Management"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Body should identify common micronutrient deficiencies relevant to Indian soils (such as zinc, iron, boron), state typical visual symptoms, and describe management through soil or foliar application and INM practices. Conclusion should mention diagnostic tools like soil and plant tissue testing. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "Discuss the components and strategies of Integrated Pest Management (IPM) for sustainable crop protection.",
+      "node_titles": ["Integrated Pest and Disease Management"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should define IPM and the economic threshold concept. Body must cover cultural, mechanical, biological and judicious chemical components with examples, emphasising monitoring-based decision-making rather than routine spraying. Conclusion should note environmental and resistance-management benefits. Word limit: approximately 200-250 words."
+    },
+    {
+      "year": 2017,
+      "marks": 15,
+      "question_text": "Discuss the role of the Public Distribution System (PDS) in ensuring food and nutritional security in India.",
+      "node_titles": ["Public Distribution System and Food Security"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should briefly define food security's access dimension. Body should explain PDS mechanics (procurement, buffer stock, fair price shops, NFSA entitlements) and assess its contribution to food access, noting reforms like Aadhaar-linking and portability. Conclusion should note remaining implementation gaps. Word limit: approximately 200-250 words."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Agroecosystems and Ecological Principles in Sustainable Agriculture",
+      "body": "An agroecosystem is a modified ecological system in which farmers manage crops, livestock, soil, water and biological communities to produce food and other outputs, while ecological processes such as energy flow, nutrient cycling and species interaction continue to operate, though under human influence. Unlike a natural ecosystem, an agroecosystem is deliberately simplified, often to one or two dominant species, which raises productivity for the farmer but also raises vulnerability to pest outbreaks, disease and yield instability if the system is not managed carefully. Understanding agriculture as an ecological system rather than merely a production activity is central to sustainable land use.\n\nKey ecological principles applied to sustainable agriculture include diversification, nutrient cycling, energy efficiency and resilience. Diversification through intercropping, crop rotation, agroforestry and mixed farming reduces the risk of total crop failure, breaks pest and disease cycles, and makes better use of light, water and nutrients at different soil depths and canopy layers. Nutrient cycling principles encourage returning organic matter to the soil through crop residues, farmyard manure, green manuring and biofertilizers rather than relying solely on synthetic fertilizers, which helps maintain long-term soil fertility and reduces environmental pollution from nutrient runoff. Energy efficiency principles look at the ratio of energy output, such as food and fodder, to energy input, such as fuel, fertilizer and irrigation, and favour cropping systems and practices that deliver more usable energy per unit of input, such as conservation tillage and efficient water use.\n\nNatural resource management within agroecology also involves conserving soil, water, forests and biodiversity that support long-term production. Watershed-based planning, rainwater harvesting, soil and water conservation structures, and community management of common resources are examples of applying ecological thinking at a landscape scale rather than a single-field scale. Climate change adds further urgency: rising temperatures, erratic rainfall and increased frequency of droughts and floods can disrupt cropping calendars and reduce yields, so agroecological approaches that build resilience, such as drought-tolerant varieties, diversified farming systems and better soil organic matter management, are increasingly emphasised in Indian agricultural policy.\n\nFor India, applying these ecological principles matters because the majority of cultivated land is rainfed and dependent on monsoon variability, and because decades of intensive, resource-heavy farming in parts of the country have caused problems such as groundwater depletion, soil degradation and pesticide resistance. Agroecology therefore offers a framework for reconciling the goal of food security with the goal of long-term environmental sustainability.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Ecology and Natural Resource Management"],
+      "tags": ["agroecology", "sustainable-agriculture", "ecology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Cropping Systems and Multiple Cropping in Indian Agriculture",
+      "body": "Cropping systems refer to the pattern in which crops are grown on a piece of land over a period of time, along with the resources and management practices used to grow them. In India, cropping patterns vary widely by agro-climatic zone, soil type, availability of irrigation, rainfall and market demand. A single cropping system devotes land to one crop per year, common in rainfed or resource-poor tracts, while multiple cropping systems grow two or more crops on the same land within a year to intensify land use and raise total output and farmer income.\n\nMultiple cropping takes several forms. Sequential cropping grows crops one after another in the same season sequence, such as rice followed by wheat in the Indo-Gangetic plains, with no overlap in their growing periods. Intercropping grows two or more crops simultaneously on the same field, either in mixed form with no distinct row arrangement or in defined row patterns such as strip cropping, so that the crops can exploit different rooting depths, light requirements or growth durations, reducing the risk of complete failure and often improving total productivity per unit area compared with growing either crop alone. Relay cropping introduces a second crop into a standing first crop before the first is harvested, saving time in tight cropping windows. Mixed cropping, in contrast, grows two or more crops together mainly to spread risk in low-input, rainfed conditions rather than to maximise yield.\n\nThe choice of cropping system depends on factors such as soil fertility and moisture status, length of the growing season, availability of irrigation, labour and capital, and the price and demand outlook for different crops. Well-designed multiple and intercropping systems can improve resource-use efficiency, since companion crops often differ in nutrient demand and root architecture, and legume-cereal combinations can add biologically fixed nitrogen to the soil, reducing fertilizer dependence. Cropping systems research also considers cropping intensity, defined as the ratio of gross cropped area to net sown area expressed as a percentage, as an indicator of how intensively land is being used.\n\nFrom a food-security and livelihood standpoint, appropriately designed cropping systems help small and marginal farmers, who dominate Indian agriculture, to diversify income sources, manage risk from weather and price fluctuations, and improve household nutrition through varied produce, making cropping-system choice a central element of both agronomic planning and rural development policy.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Cropping Patterns and Farming Systems"],
+      "tags": ["cropping-systems", "multiple-cropping", "intercropping"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Agroforestry Systems and Land-Use Integration",
+      "body": "Agroforestry is a land-use approach that deliberately combines woody perennial species, trees or shrubs, with agricultural crops or livestock on the same piece of land, either simultaneously or in a planned sequence, so that the different components interact both ecologically and economically. It differs from simply having trees near farmland; in agroforestry the spatial or temporal arrangement, and the management of tree-crop or tree-livestock interactions, are deliberate choices meant to produce more total benefit, whether in yield, income or resource conservation, than growing the components separately.\n\nCommon agroforestry systems in India include agrisilviculture, which combines trees with field crops, as seen in poplar-wheat systems in the Terai belt; silvipasture, which integrates trees with pasture and grazing livestock; and horti-silviculture and agri-horticulture systems that combine fruit trees with field or vegetable crops. Home gardens, common in southern and north-eastern India, are a traditional multi-storey agroforestry system in which trees, shrubs, vegetables and sometimes livestock share a small plot around the homestead, producing food, fuel, fodder and small timber for household use.\n\nThe ecological rationale for agroforestry rests on complementary resource use: trees with deep root systems can draw water and nutrients from soil layers not reached by shallow-rooted annual crops, tree canopies can moderate microclimate and reduce evapotranspiration stress on companion crops, and leaf litter returns organic matter to the soil, improving structure and fertility over time. Nitrogen-fixing tree species, such as certain Acacia and Leucaena species, can enrich soil nitrogen for associated crops. Agroforestry systems also contribute to soil and water conservation by reducing runoff and wind erosion, particularly valuable in dryland and degraded-land contexts.\n\nEconomically, agroforestry diversifies farm income by adding timber, fuelwood, fodder, fruit or non-timber forest produce to the farm's output alongside annual crop harvests, spreading risk across products with different price cycles and harvest timings. Socially, it supports rural fuel and fodder security, reducing pressure on natural forests. India's agroforestry policy framework, formulated to encourage tree planting on farmland, recognises these multiple benefits and aims to simplify the regulatory framework for felling and transporting farm-grown timber, which has historically discouraged farmers from investing in tree-based systems despite their ecological and economic advantages.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Forestry and Agroforestry"],
+      "tags": ["agroforestry", "forestry", "land-use"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Weed Management Strategies in Field Crops",
+      "body": "Weeds are unwanted plants growing in competition with cultivated crops, and they cause substantial yield losses in Indian agriculture by competing for light, water, nutrients and space, besides acting as alternate hosts for pests and diseases and increasing the cost of crop production. Effective weed management combines several complementary approaches rather than relying on any single method, because weed populations adapt over time and no single tactic is fail-proof across all cropping conditions.\n\nCultural methods work by making the crop more competitive relative to weeds. These include selecting a suitable seed rate and optimum plant spacing so that the crop canopy closes quickly and shades out emerging weeds, timely sowing so that the crop's most vulnerable early growth stage does not coincide with peak weed emergence, crop rotation to disrupt the life cycles of weeds associated with particular cropping sequences, and stale seedbed techniques, where the field is prepared early to allow a flush of weeds to germinate and be destroyed before the crop is sown.\n\nMechanical and manual methods include hand weeding, hoeing and the use of implements such as wheel hoes or power weeders to physically remove weeds; these remain widely used in Indian smallholder agriculture, particularly where labour is available and herbicide access is limited, though they are labour-intensive and timing-sensitive.\n\nBiological control uses natural enemies, pathogens or competitive plants to suppress weeds, an approach that has succeeded for a few notorious weeds; for instance, certain insect and fungal agents have been used against Parthenium and water hyacinth, though biological control generally works over a longer time frame and is not effective against the full range of weed species found in a typical field.\n\nChemical control uses herbicides, classified by the time of application as pre-plant, pre-emergence or post-emergence, and by their mode of action as selective or non-selective and contact or systemic. Herbicides offer speed and labour saving at large scale but require correct dose, timing and application technique to avoid crop injury, and repeated use of herbicides with the same mode of action has led to the emergence of herbicide-resistant weed biotypes in some regions.\n\nIntegrated weed management combines cultural, mechanical, biological and chemical tactics tailored to the specific crop, weed spectrum and local conditions, aiming to keep weed populations below the economic threshold at the lowest overall cost while limiting the development of herbicide resistance and adverse environmental effects.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Weed Science"],
+      "tags": ["weed-management", "weed-science", "herbicides"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Integrated Nutrient Management for Soil Health",
+      "body": "Integrated Nutrient Management, commonly abbreviated INM, is an approach to supplying plant nutrients that combines chemical fertilizers with organic sources such as farmyard manure, compost, green manure and crop residues, along with biofertilizers, in proportions suited to the crop, soil and local resource availability, rather than depending on chemical fertilizers alone. The approach developed as a response to problems that emerged from decades of fertilizer-intensive cropping, including declining soil organic matter, imbalanced use of nitrogen, phosphorus and potassium, micronutrient deficiencies, and a flattening or decline in the response of crops to additional fertilizer doses on some soils.\n\nThe core idea of INM is that different nutrient sources serve complementary roles. Chemical fertilizers supply nutrients in a readily available, concentrated form and allow precise correction of specific deficiencies identified through soil testing. Organic sources such as farmyard manure and compost release nutrients more slowly but also improve soil physical properties, such as structure, water-holding capacity and aeration, and add organic carbon that supports beneficial soil microbial activity. Green manuring, growing a fast-growing legume crop and incorporating it into the soil before it matures, adds organic matter and biologically fixed nitrogen. Biofertilizers, which are formulations of living microorganisms such as Rhizobium, Azotobacter, Azospirillum and phosphate-solubilising bacteria, enhance the availability of nitrogen and phosphorus to crops through biological processes and reduce the quantity of chemical fertilizer needed.\n\nSoil testing plays a central role in INM by identifying the specific nutrient status of a field, allowing fertilizer recommendations to be tailored rather than applied as a blanket dose, which helps avoid both under-application, that limits yield, and over-application, that wastes money and can pollute water bodies through nutrient runoff and leaching. Soil health card type schemes in India are one policy instrument intended to promote this soil-test-based, balanced approach to nutrient application at the farm level.\n\nBy combining sources in this way, INM aims to maintain or improve soil fertility over the long term, sustain crop productivity, improve nutrient-use efficiency, and reduce the environmental costs associated with excessive or imbalanced chemical fertilizer use, making it a central strategy in current Indian soil and crop management policy discussions around sustainable intensification of agriculture.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Integrated Nutrient Management"],
+      "tags": ["integrated-nutrient-management", "soil-fertility", "biofertilizers"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Watershed Management and Dryland Farming Techniques",
+      "body": "A watershed is a geographically defined area from which all surface runoff drains to a common point, such as a stream, river or reservoir, and watershed management refers to the planned use, conservation and treatment of the land, water, vegetation and other natural resources within that area to control runoff, reduce soil erosion, recharge groundwater and improve the productivity and livelihoods of the people living there. Because rainfall and drainage do not respect farm boundaries, the watershed rather than the individual field is treated as the natural planning unit for soil and water conservation interventions.\n\nTypical watershed management measures include contour bunding and graded bunding on sloping farmland to slow runoff and encourage infiltration, construction of check dams and percolation tanks across drainage lines to store water and recharge groundwater, gully plugging to arrest erosion in gullies before they widen, afforestation and pasture development on steep slopes or degraded common land to stabilise soil and provide fodder and fuel, and farm ponds to capture and store rainwater for supplemental irrigation. Ridge-to-valley planning is a common principle, under which conservation measures begin at the highest points of the watershed and proceed downward, so that runoff is controlled progressively rather than only at the outlet.\n\nDryland farming refers to crop production in regions that receive limited and often erratic rainfall, typically without assured irrigation, and depends on practices that conserve soil moisture and match cropping decisions to the moisture actually available. Key dryland techniques include selecting drought-tolerant and short-duration crop varieties that can complete their life cycle within the available moisture window, adopting appropriate plant population and row spacing to reduce competition for limited water, practising conservation tillage and mulching to reduce evaporation losses from the soil surface, and using contingency cropping plans that allow farmers to switch to alternative, less water-demanding crops if the monsoon is delayed or deficient.\n\nBecause a large share of India's net sown area remains rainfed, effective integration of watershed management with dryland farming practices is central to stabilising yields, reducing the vulnerability of farmers to monsoon variability, and improving rural water security, and it has been a long-standing focus of central schemes aimed at watershed development and integrated dryland agricultural research.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Watershed Management and Dryland Farming"],
+      "tags": ["watershed-management", "dryland-agriculture", "rainwater-harvesting"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Farm Management Principles and Crop Insurance in India",
+      "body": "Farm management is the branch of agricultural economics concerned with how a farmer organises and operates the resources available, land, labour, capital and management ability, to achieve efficient production and maximise income subject to the resource constraints and risks the farm faces. It draws on economic principles such as the law of diminishing returns, which guides decisions on how much input, such as fertilizer or irrigation, to apply to a given crop before additional input stops paying for itself, and the principle of opportunity cost, which helps a farmer decide how to allocate limited land or capital among competing crop or enterprise choices.\n\nGood farm management planning involves preparing a farm plan and budget that lists the crops and enterprises to be undertaken, the inputs required, expected costs and expected returns, so that the farmer can compare alternative cropping or enterprise combinations before committing resources. Farm records, covering input use, labour days, yields and sale prices, allow a farmer to calculate cost of cultivation and profitability after the season and refine future decisions. Farm management also considers optimal enterprise combination, which is choosing a mix of crop and livestock enterprises that uses the farm's fixed resources, such as family labour across the year, most fully while spreading income and risk across different products and harvest times.\n\nRisk is a defining feature of Indian farming, arising from rainfall variability, pest and disease outbreaks, and price fluctuations at harvest time, and crop insurance is one of the main policy instruments meant to help farmers manage this risk. India's major crop insurance scheme provides insurance cover against yield losses from natural causes, with the farmer's premium capped at a low percentage of the sum insured for major crops and the remaining actuarial premium subsidised by the central and state governments, while claims are usually assessed on the basis of crop-cutting experiments conducted at the area level rather than for each individual field.\n\nEffective farm management and functional crop insurance together support the wider goal of stabilising farm income, since sound planning increases the average return a farmer can expect from the available resources while insurance protects against unpredictable shortfalls, both of which are considered important preconditions for farmers to be willing to adopt higher-investment, higher-return technologies.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Farm Management and Crop Insurance"],
+      "tags": ["farm-management", "crop-insurance", "risk-management"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Role of Krishi Vigyan Kendras in Agricultural Extension",
+      "body": "Agricultural extension is the process of communicating useful agricultural research, information and skills to farmers, and of understanding farmers' own knowledge and problems, so that technology developed in research stations and laboratories can reach the field and improve farm productivity and livelihoods. Extension is not a one-way transfer of technology alone; effective extension also involves two-way communication, in which feedback from farmers about the practical performance and limitations of a recommended practice flows back to researchers, helping refine future recommendations to suit local conditions.\n\nKrishi Vigyan Kendras, commonly known as KVKs, are district-level agricultural science centres established under the administrative guidance of national agricultural research bodies, usually hosted by a state agricultural university, a research institute or a suitable non-governmental organisation, with the mandate of testing and demonstrating agricultural technologies under local farm conditions before recommending them widely. Each KVK typically conducts on-farm testing to assess how new varieties or practices perform under the specific soil, climate and farming-system conditions of its district, front-line demonstrations on farmers' fields to showcase the performance of already-validated technologies at a larger scale, and training programmes for farmers, farm women, rural youth and extension personnel covering both technical skills and, increasingly, entrepreneurship and value-addition activities.\n\nKVKs also run production of quality seeds and planting material of improved varieties for local distribution, provide advisory and diagnostic services on pest, disease and soil-related problems, and act as a knowledge and resource centre supporting the district's agricultural development. Because they are located at the district level and staffed by subject-matter specialists across disciplines such as agronomy, soil science, plant protection, horticulture and animal science, KVKs are positioned as the crucial last-mile link that adapts centrally or state-generated agricultural research to local conditions.\n\nBeyond KVKs, India's extension system includes state department of agriculture extension staff, agricultural universities, and increasingly non-governmental organisations, farmer producer organisations, private input companies and digital platforms offering weather, market and advisory services directly to farmers through mobile applications. The overall effectiveness of agricultural extension is widely recognised as a major determinant of how quickly and completely research-station productivity gains actually translate into higher yields and incomes on farmers' fields.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Agricultural Extension"],
+      "tags": ["agricultural-extension", "krishi-vigyan-kendra", "technology-transfer"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Principles of Plant Breeding and Heterosis",
+      "body": "Heterosis, also called hybrid vigour, refers to the phenomenon in which the first-generation offspring, or F1, produced by crossing two genetically distinct, usually inbred, parent lines shows superior performance for one or more traits, such as yield, plant vigour, size or stress tolerance, compared with the average of its two parents, and sometimes compared with even the better parent. Plant breeders exploit heterosis deliberately by developing hybrid varieties, in which farmers plant seed produced from a specific, controlled cross rather than open-pollinated or self-pollinated seed saved from their own harvest.\n\nSeveral genetic explanations have been proposed for why heterosis occurs. The dominance hypothesis suggests that a hybrid combines favourable dominant alleles from both parents, masking the unfavourable recessive alleles each parent carries, so that the hybrid outperforms either inbred parent, which tends to express more of its own recessive weaknesses due to increased homozygosity from inbreeding. The overdominance hypothesis suggests that at some gene loci, the heterozygous combination itself performs better than either homozygous form, independent of dominance relationships. In practice, both mechanisms likely contribute to the heterosis observed in different crops and traits.\n\nExploiting heterosis commercially requires that parent lines be developed and maintained so that the same specific cross can be repeated reliably each season, since heterosis is expressed strongly only in the F1 generation and declines in subsequent generations due to increasing homozygosity, meaning that farmers cannot save and replant hybrid seed with the same yield advantage. This is why hybrid seed must be purchased fresh each season, which has both agronomic advantages, since seed companies can maintain quality and purity, and economic implications for farmers' seed costs.\n\nHybrid seed production requires isolating the female parent from unwanted pollen sources and ensuring effective cross-pollination between the chosen male and female parent lines, which is managed through techniques such as detasseling in maize, use of cytoplasmic male sterility systems that prevent the female parent from producing viable pollen of its own, or hand emasculation and pollination in self-pollinated crops. India has released commercially successful hybrids in crops such as maize, pearl millet, sorghum, sunflower, cotton and, more recently, some vegetable and rice hybrids, with hybrid technology having played a substantial role in raising national average yields of several of these crops over past decades.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Heterosis Breeding and Hybrid Seed Production"],
+      "tags": ["heterosis", "hybrid-seed-production", "plant-breeding"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Seed Certification and Seed Technology",
+      "body": "Seed technology covers the science and practice of producing, processing, storing and marketing seed of assured genetic and physical quality, so that farmers who purchase or exchange seed can be confident it will germinate well, grow true to the variety it is sold as, and be reasonably free of weed seeds, other crop seeds, and seed-borne diseases. High-quality seed is widely regarded as one of the most cost-effective inputs in agriculture, since even the best agronomic management cannot fully compensate for poor-quality planting material.\n\nSeed production in India generally follows a three-generation system moving from breeder seed to foundation seed to certified seed. Breeder seed is produced under the direct supervision of the plant breeder who developed the variety and carries the highest genetic purity. Foundation seed is produced from breeder seed under conditions designed to maintain that genetic purity at a larger scale, usually by seed corporations or agricultural universities. Certified seed, the class of seed most farmers actually purchase, is produced from foundation seed under field and quality standards verified by an official seed certification agency.\n\nSeed certification is the process by which an authorised certification agency inspects a seed production field at critical growth stages to check for isolation distance from other varieties, off-types and diseased plants, and later tests a sample of the harvested seed lot in a laboratory for germination percentage, physical purity, moisture content and the presence of other seeds, issuing a certification tag only if the lot meets the prescribed minimum standards. This process gives farmers an independent quality assurance that goes beyond simply trusting the seller's claim.\n\nSeed technology also covers post-harvest handling: proper drying to a safe moisture level before storage, cleaning and grading to remove inert matter and immature or damaged seed, appropriate packaging and storage conditions to preserve viability between seasons, and, where relevant, seed treatment with fungicides, insecticides or biological agents to protect the seed and resulting seedling from early pests and diseases. With growing use of hybrid varieties, seed technology also increasingly involves techniques such as DNA fingerprinting to verify genetic purity and protect the intellectual property of seed developers under India's plant variety protection framework.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Seed Production and Technology"],
+      "tags": ["seed-technology", "seed-certification", "seed-production"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Plant Growth Regulators and Stress Physiology",
+      "body": "Plant growth substances, also called plant hormones or phytohormones when naturally occurring, and plant growth regulators when applied externally, are organic compounds that, in very small concentrations, influence plant growth and developmental processes such as cell division, cell elongation, flowering, fruit development, dormancy and senescence. The major recognised classes include auxins, which promote cell elongation and are involved in apical dominance and root initiation; gibberellins, which promote stem elongation and can break seed and bud dormancy; cytokinins, which promote cell division and delay leaf senescence; abscisic acid, often associated with stress responses and the induction of dormancy and stomatal closure; and ethylene, a gaseous hormone central to fruit ripening and senescence. Understanding how these substances act allows agricultural scientists to apply synthetic analogues externally to achieve specific outcomes, such as using auxin-type rooting hormones to promote root formation in cuttings, gibberellin sprays to break dormancy or increase fruit size in some crops, or ethylene-releasing compounds to promote uniform ripening.\n\nStress physiology examines how plants respond, at the physiological and biochemical level, to unfavourable environmental conditions such as drought, waterlogging, salinity, high or low temperature, and nutrient deficiency, all of which are common constraints in Indian agriculture given its dependence on monsoon rainfall and the presence of salt-affected soils in several regions. Under drought stress, for instance, plants commonly respond by closing stomata to reduce water loss through transpiration, a response mediated substantially by increased abscisic acid levels, though this also reduces carbon dioxide intake and therefore photosynthesis, creating a trade-off between water conservation and growth. Plants under drought or salinity stress also often accumulate compatible solutes such as proline and soluble sugars, which help maintain cell turgor and protect cellular structures through a process called osmotic adjustment.\n\nBreeding and management strategies informed by stress physiology aim to improve a crop's ability to maintain yield under such conditions, whether by selecting genotypes with deeper root systems that can access moisture from lower soil layers, genotypes with more efficient stomatal regulation, or genotypes with better osmotic adjustment capacity, alongside agronomic measures such as timely sowing, appropriate plant density and supplemental irrigation at critical growth stages to reduce the exposure of the crop to stress at its most sensitive phenological periods, such as flowering and grain filling.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Plant Growth Substances and Stress Physiology"],
+      "tags": ["plant-growth-regulators", "stress-physiology", "plant-physiology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Post-Harvest Technology and Protected Cultivation in Horticulture",
+      "body": "Fruits and vegetables are highly perishable compared with cereal grains, and a significant share of India's horticultural produce is estimated to be lost between harvest and final consumption due to inadequate post-harvest handling, making post-harvest technology a critical area of applied horticultural science. Post-harvest losses arise from physiological processes that continue after harvest, such as respiration and transpiration that cause weight loss and quality decline, mechanical injury during handling and transport, and microbial spoilage, all of which are accelerated by high temperature and poor handling practices common where cold-chain infrastructure is limited.\n\nKey post-harvest interventions include harvesting produce at the correct maturity stage suited to its intended use and expected transport and storage duration, careful handling to minimise bruising and mechanical damage, pre-cooling soon after harvest to remove field heat and slow down respiration, grading and sorting to separate produce by size and quality for better market value, and appropriate packaging that protects the produce while allowing adequate ventilation. Cold storage and cold-chain logistics, maintaining low temperature continuously from the farm to the retail point, substantially extend shelf life for many fruits and vegetables, though building and operating this infrastructure remains a major gap in much of India, particularly for produce grown by small and scattered farmers. Controlled-atmosphere and modified-atmosphere storage, which regulate the levels of oxygen, carbon dioxide and ethylene around the produce, can further slow ripening and senescence for select high-value crops.\n\nProtected cultivation refers to growing crops, most often vegetables and cut flowers, in structures such as greenhouses, polyhouses, shade-net houses and low tunnels that allow partial or full control over the growing environment, including temperature, humidity, light and, in more advanced systems, carbon dioxide concentration, rather than relying entirely on open-field conditions. This makes it possible to grow crops out of their normal season, achieve higher and more uniform yields per unit area, use water and nutrients more efficiently through associated technologies such as drip fertigation, and reduce dependence on chemical pesticides through better pest exclusion.\n\nBecause horticultural produce commands a much higher value per unit area than most field crops, and because national and state horticulture development schemes have promoted both cold-chain infrastructure and protected cultivation, these post-harvest and production technologies together are seen as central to reducing wastage, raising farmer income and improving the availability of fruits and vegetables for consumers across seasons and regions.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Post-Harvest Technology and Protected Cultivation"],
+      "tags": ["post-harvest-technology", "protected-cultivation", "horticulture"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Integrated Pest Management Approaches in Crop Protection",
+      "body": "Integrated Pest Management, commonly abbreviated IPM, is an approach to crop protection that combines multiple compatible pest-control tactics, cultural, mechanical, biological and, where necessary, chemical, guided by regular field monitoring, with the explicit aim of keeping pest and disease populations below the level at which they cause economically significant damage, rather than attempting to eliminate pests entirely. IPM developed partly as a response to the problems that arose from heavy, routine reliance on chemical pesticides, including pest resurgence, secondary pest outbreaks after natural enemies were killed off, pesticide resistance, pesticide residues in food, and harm to human health and the environment.\n\nA central concept in IPM is the economic threshold level, the pest density at which control action should be initiated to prevent the pest population from reaching the economic injury level, the point at which the cost of damage exceeds the cost of control. Regular field scouting and monitoring, sometimes supported by pheromone traps or light traps for specific insect pests, allows farmers or extension workers to track pest populations against these thresholds rather than applying pesticides on a fixed calendar regardless of actual pest pressure.\n\nCultural control tactics within IPM include selecting resistant or tolerant varieties, adjusting sowing time to avoid the peak activity period of a major pest, crop rotation to break the life cycle of pests specific to a crop, and field sanitation to remove crop residues that harbour overwintering pests. Mechanical and physical methods include hand-picking of pests, use of light and pheromone traps for mass trapping, and barriers such as nets. Biological control uses natural enemies, predators, parasitoids and pathogens of the pest, either by conserving naturally occurring populations through judicious pesticide use, or by actively releasing reared biological control agents such as Trichogramma wasps against certain lepidopteran pests. Chemical control within IPM is used selectively, favouring pesticides that are effective against the target pest with minimal harm to natural enemies and the environment, applied at the correct dose and timing rather than as a routine preventive measure.\n\nBy integrating these tactics rather than depending on any single method, IPM aims to achieve effective, economically sound and environmentally sustainable pest control, and it has been officially promoted in India through a network of pest management centres that train farmers and extension staff in scouting and threshold-based decision-making.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Integrated Pest and Disease Management"],
+      "tags": ["integrated-pest-management", "crop-protection", "biological-control"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Food Security and the Public Distribution System in India",
+      "body": "Food security is generally understood, following the widely used definition popularised through international food policy discussions, as a condition in which all people, at all times, have physical and economic access to sufficient, safe and nutritious food that meets their dietary needs for an active and healthy life. This definition highlights that food security depends not only on aggregate food availability at the national level, but also on individual households actually being able to access that food, and on the food consumed being nutritionally adequate, meaning food security has availability, access and utilisation dimensions that must all be satisfied together.\n\nIndia's Public Distribution System, or PDS, is the principal policy instrument aimed at the access dimension of food security. Under this system, foodgrains, mainly rice and wheat, along with some other items depending on the state, procured by government agencies from farmers at a Minimum Support Price, are distributed to identified beneficiary households through a network of fair price shops at prices well below the open market rate. The National Food Security Act gave the PDS a statutory legal basis, entitling a specified proportion of the rural and urban population, identified as priority households and the poorest households under a separate category, to a fixed monthly quantity of subsidised foodgrain per person.\n\nThe PDS operates alongside a broader food-management system involving procurement, which ensures farmers receive an assured price and encourages continued production of foodgrains, and buffer stocking, which maintains stocks to stabilise market prices and provide a cushion against production shortfalls from drought or other shocks. Implementation challenges historically associated with the PDS have included leakage of subsidised grain into the open market, inclusion and exclusion errors in identifying genuine beneficiary households, and quality issues with grain distributed through fair price shops. Reforms such as Aadhaar-linked biometric authentication at fair price shops, computerisation of the supply chain, and a portability system that allows ration entitlements to be used across states, have been introduced in recent years specifically to address these leakage and portability problems, particularly relevant for migrant workers.\n\nBecause the PDS reaches a very large share of India's population, its design and efficient functioning remain central to national strategies for ensuring food and nutritional security, especially for economically vulnerable households.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Public Distribution System and Food Security"],
+      "tags": ["food-security", "public-distribution-system", "food-policy"],
+      "is_current_affairs": false
+    }
+  ]
+}

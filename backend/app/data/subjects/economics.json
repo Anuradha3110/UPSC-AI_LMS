@@ -1,0 +1,293 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Economics",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["economics", "optional"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["economics", "optional"]},
+
+    {"title": "Advanced Micro Economics", "parent_title": "Paper I", "tags": ["economics", "microeconomics"]},
+    {"title": "Advanced Macro Economics", "parent_title": "Paper I", "tags": ["economics", "macroeconomics"]},
+    {"title": "Money, Banking and Finance", "parent_title": "Paper I", "tags": ["economics", "monetary-economics", "public-finance"]},
+    {"title": "International Economics", "parent_title": "Paper I", "tags": ["economics", "international-trade"]},
+    {"title": "Growth and Development Theories", "parent_title": "Paper I", "tags": ["economics", "growth-theory", "development"]},
+
+    {"title": "Marshallian and Walrasian Price Determination", "parent_title": "Advanced Micro Economics", "tags": ["economics", "microeconomics", "price-theory"]},
+    {"title": "Modern Welfare Criteria and Social Welfare Function", "parent_title": "Advanced Micro Economics", "tags": ["economics", "microeconomics", "welfare-economics"]},
+    {"title": "IS-LM Framework and Neo-Classical Synthesis", "parent_title": "Advanced Macro Economics", "tags": ["economics", "macroeconomics"]},
+    {"title": "Demand for and Supply of Money", "parent_title": "Money, Banking and Finance", "tags": ["economics", "monetary-economics"]},
+    {"title": "Public Finance and Taxation", "parent_title": "Money, Banking and Finance", "tags": ["economics", "public-finance"]},
+    {"title": "Theories of International Trade", "parent_title": "International Economics", "tags": ["economics", "international-trade"]},
+    {"title": "WTO, TRIPS, TRIMS and GATS", "parent_title": "International Economics", "tags": ["economics", "international-trade", "wto"]},
+    {"title": "Harrod's Model and Lewis Model of Surplus Labour", "parent_title": "Growth and Development Theories", "tags": ["economics", "growth-theory", "development"]},
+
+    {"title": "Indian Economy: Planning and Development History", "parent_title": "Paper II", "tags": ["economics", "indian-economy", "planning"]},
+    {"title": "Economic Reforms Since 1991", "parent_title": "Paper II", "tags": ["economics", "indian-economy", "reforms"]},
+    {"title": "Federal Finance and Fiscal Policy", "parent_title": "Paper II", "tags": ["economics", "indian-economy", "public-finance", "federalism"]},
+    {"title": "Agriculture and Industry in India", "parent_title": "Paper II", "tags": ["economics", "indian-economy", "agriculture", "industry"]},
+    {"title": "Poverty, Inequality and Employment", "parent_title": "Paper II", "tags": ["economics", "indian-economy", "poverty", "employment"]},
+
+    {"title": "Nehru-Mahalanobis Strategy and Five Year Plans", "parent_title": "Indian Economy: Planning and Development History", "tags": ["economics", "indian-economy", "planning"]},
+    {"title": "Green Revolution and Agricultural Transformation", "parent_title": "Indian Economy: Planning and Development History", "tags": ["economics", "indian-economy", "agriculture"]},
+    {"title": "Liberalization, Privatization and Globalization", "parent_title": "Economic Reforms Since 1991", "tags": ["economics", "indian-economy", "reforms"]},
+    {"title": "Finance Commission and Centre-State Transfers", "parent_title": "Federal Finance and Fiscal Policy", "tags": ["economics", "indian-economy", "federalism", "public-finance"]},
+    {"title": "Land Reforms and Agricultural Credit", "parent_title": "Agriculture and Industry in India", "tags": ["economics", "indian-economy", "agriculture"]},
+    {"title": "Measurement of Poverty and Inequality", "parent_title": "Poverty, Inequality and Employment", "tags": ["economics", "indian-economy", "poverty"]},
+    {"title": "Employment Generation and Poverty Alleviation Programmes", "parent_title": "Poverty, Inequality and Employment", "tags": ["economics", "indian-economy", "employment", "poverty"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "'Tragedy of the commons' leads to over-exploitation of resources. Analyze.",
+      "node_titles": ["Modern Welfare Criteria and Social Welfare Function"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should define open-access/common-pool resources and explain why individual rational use leads to collective over-exploitation, using at least one worked example (fisheries, grazing land, groundwater, or atmosphere/carbon sink). Full marks require linking the analysis to policy solutions such as property-rights assignment, Pigouvian taxation, or community-based management (Ostrom), not just describing the problem. Diagrammatic representation of the divergence between private and social cost is rewarded."
+    },
+    {
+      "year": 2019,
+      "marks": 10,
+      "question_text": "How does 'carbon trading' help in reducing environmental degradation?",
+      "node_titles": ["Growth and Development Theories"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a definition of cap-and-trade mechanisms and how tradable permits internalise the externality of carbon emissions by giving pollution a market price. Credit for discussing efficiency gains from allowing low-abatement-cost firms to sell permits to high-abatement-cost firms, and for noting practical limitations such as permit over-allocation, price volatility, and measurement/verification challenges. Reference to India's or global carbon-market experience earns additional credit."
+    },
+    {
+      "year": 2019,
+      "marks": 10,
+      "question_text": "Show that in a simple Keynesian model, equal expansion in tax and government expenditure does not always lead to balanced budget theorem.",
+      "node_titles": ["Public Finance and Taxation"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Requires derivation of the balanced-budget multiplier showing that equal increases in government spending and lump-sum taxes raise income by the amount of the spending increase, i.e. a multiplier of exactly one under simple assumptions. Full marks require identifying at least one condition under which this equality breaks down -- e.g. non-lump-sum taxes, an open economy with imports, or crowding out -- with correct algebraic or diagrammatic support."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "How can controls on foreign trade contribute to the development of developing countries?",
+      "node_titles": ["Theories of International Trade"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should discuss infant-industry protection, terms-of-trade improvement through optimal tariffs, and balance-of-payments management as classical rationales for trade controls in developing countries, balanced against efficiency losses, retaliation risk, and rent-seeking. Credit is given for referencing real developing-country experience (import substitution versus export-oriented growth) and for a reasoned, balanced conclusion rather than one-sided advocacy."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "Compare the Marshallian and Walrasian approaches to market stability.",
+      "node_titles": ["Marshallian and Walrasian Price Determination"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect clear diagrammatic derivation of Marshall's quantity-adjustment stability condition and Walras's price-adjustment (tatonnement) stability condition, stated precisely in terms of the relevant demand/supply curve slopes. Full marks require an example or diagram showing a case where the two conditions diverge, with correct economic interpretation of why quantity- and price-adjustment processes can yield different stability verdicts."
+    },
+    {
+      "year": 2024,
+      "marks": 20,
+      "question_text": "Explain the process of credit creation by commercial banks and discuss its limitations.",
+      "node_titles": ["Demand for and Supply of Money"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must explain the deposit-multiplier process by which an initial primary deposit expands into a multiple of secondary deposits through repeated lending and re-depositing, with correct derivation of the credit-multiplier formula in terms of the reserve ratio. Full marks require discussing at least two real-world limitations on credit creation -- cash drain, excess reserves, credit demand, and regulatory reserve requirements such as CRR/SLR in the Indian context."
+    },
+    {
+      "year": 2024,
+      "marks": 20,
+      "question_text": "Discuss the Pareto optimality conditions in a general equilibrium framework of production.",
+      "node_titles": ["Modern Welfare Criteria and Social Welfare Function"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Requires stating the marginal conditions for Pareto optimality in production (equality of marginal rates of technical substitution across firms, equality of the marginal rate of transformation with the marginal rate of substitution) with a correctly labelled diagram such as an Edgeworth box or production-possibility frontier. Full marks require linking the formal conditions to their economic interpretation of allocative and productive efficiency."
+    },
+    {
+      "year": 2025,
+      "marks": 15,
+      "question_text": "What were the thrust areas of economic planning during the pre-liberalisation era? Discuss.",
+      "node_titles": ["Nehru-Mahalanobis Strategy and Five Year Plans"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should identify key thrust areas -- heavy industry and self-reliance under the Mahalanobis strategy, public-sector expansion, agrarian reform and later the Green Revolution, and poverty removal -- with correct plan-period references. Full marks require a critical assessment of outcomes and shortcomings (slow growth, licensing inefficiencies, agricultural neglect), not just a descriptive listing of plan objectives."
+    },
+    {
+      "year": 2025,
+      "marks": 20,
+      "question_text": "Examine the objectives and components of the Green Revolution in India.",
+      "node_titles": ["Green Revolution and Agricultural Transformation"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of the core objectives (foodgrain self-sufficiency, reduced import dependence) and components (HYV seeds, assured irrigation, chemical fertilisers and pesticides, procurement and price-support policy), with correct reference to the regions of concentration. Full marks require balanced treatment of achievements against regional, crop, and equity limitations, and environmental sustainability concerns."
+    },
+    {
+      "year": 2025,
+      "marks": 20,
+      "question_text": "What are the methods used in measuring poverty and inequality in India? Analyse.",
+      "node_titles": ["Measurement of Poverty and Inequality"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should trace the evolution of India's official poverty-line methodology (Lakdawala calorie-based, Tendulkar consumption-basket, Rangarajan revision) and introduce the Multidimensional Poverty Index as a non-monetary alternative capturing health, education, and living-standard deprivation, alongside the Gini coefficient for inequality. Full marks require a comparative evaluation of strengths and weaknesses rather than a purely descriptive account."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Do you think that Multi Dimensional Poverty Index (MPI) is a better measure of poverty? Give reasons in support of your answer. What is the position of India in respect of MPI?",
+      "node_titles": ["Measurement of Poverty and Inequality"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a definition of the Multidimensional Poverty Index and its component indicators, contrasted with the limitations of a single monetary poverty line such as ignoring non-income deprivation and sensitivity to price-index choices. Full marks require the candidate to take and justify a reasoned position, supported by India-specific MPI trends where recalled, rather than an unsupported assertion."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Land system during the British rule was responsible for sustained poverty and stagnant growth in India. Comment.",
+      "node_titles": ["Indian Economy: Planning and Development History"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should analyse specific colonial land-revenue systems -- Permanent Settlement/Zamindari, Ryotwari, and Mahalwari -- and explain the mechanisms (fixed revenue demand irrespective of harvest, absentee landlordism, indebtedness, sub-infeudation) through which they entrenched rural poverty and stagnated agricultural investment. Full marks require linking colonial land systems causally to post-independence land-reform imperatives, not merely describing the systems."
+    },
+    {
+      "year": 2024,
+      "marks": 20,
+      "question_text": "Highlight the role of MSMEs in Indian Economy. What steps have been taken by the Government to enhance its contribution?",
+      "node_titles": ["Agriculture and Industry in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of MSMEs' contribution to GDP, manufacturing output, exports, and employment, including their labour-intensive and regionally dispersed nature, followed by an accurate account of recent government measures such as classification revision, credit-guarantee schemes, and formalisation drives. Full marks require a critical note on persistent constraints -- credit access, technology, delayed payments -- alongside the listed measures."
+    },
+    {
+      "year": 2025,
+      "marks": 20,
+      "question_text": "How do the current Finance Commission's recommendations align with the government's Fiscal Consolidation goals? Elucidate.",
+      "node_titles": ["Finance Commission and Centre-State Transfers"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should explain the Finance Commission's constitutional mandate on vertical/horizontal devolution and grants-in-aid, and evaluate how its recommended devolution share and fiscal roadmap for states interact with the Centre's own fiscal-consolidation targets. Full marks require a reasoned discussion of tension points -- such as higher devolution reducing central fiscal space, or state borrowing limits versus expenditure needs -- rather than mere restatement of Commission recommendations."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Marshallian versus Walrasian Approaches to Price Determination",
+      "body": "Marshallian and Walrasian approaches represent two classical routes to explaining how markets settle into equilibrium prices, and the distinction matters chiefly for questions of stability. Alfred Marshall analysed a single market in isolation and asked how quantity adjusts when price is out of equilibrium. In his framework, sellers compare the price they are willing to accept for a given quantity (the supply price) against the price buyers are willing to pay (the demand price). If the demand price exceeds the supply price at a given output, producers find it profitable to expand output, and quantity rises until the two prices coincide. Marshall's stability condition therefore runs in terms of quantity adjustment: a market is Marshall-stable if the supply curve cuts the demand curve from below, so that any accidental excess of demand price over supply price triggers an increase in output that closes the gap.\n\nLeon Walras, working within a general-equilibrium tradition, instead treated price as the adjusting variable and quantity as fixed at each instant. In the Walrasian story, an auctioneer calls out a price, buyers and sellers state how much they wish to trade at that price, and if quantity demanded exceeds quantity supplied, the auctioneer raises the price; if supply exceeds demand, the price falls. This iterative price-groping process is often called tatonnement. Walrasian stability is therefore expressed in price-space: equilibrium is stable if the excess demand curve is downward sloping, so a rise in price reduces excess demand and pulls the market back toward balance.\n\nThe two approaches can give different verdicts on the same market. A market can be Marshall-stable but Walras-unstable, or vice versa, depending on the relative slopes of the demand and supply curves, because one framework treats quantity as the equilibrating variable and the other treats price as the equilibrating variable. Textbook treatments typically illustrate this with backward-bending supply curves or unusually elastic demand curves, where the ranking of the two stability conditions can flip.\n\nFor UPSC Economics optional aspirants, this topic is important because it is frequently tested through diagrammatic questions asking candidates to derive and compare Marshallian and Walrasian stability conditions, often extended to cobweb-type dynamic adjustment models where expectations about future prices are added to the static comparative-statics story.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Marshallian and Walrasian Price Determination"],
+      "tags": ["economics", "microeconomics", "price-theory"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Modern Welfare Criteria in Economics",
+      "body": "Twentieth-century welfare economics developed a sequence of criteria to judge whether a change in the allocation of resources makes society better off, precisely because the simplest test -- Pareto efficiency -- is too weak to be practically useful. A change is a Pareto improvement only if at least one person gains and nobody loses; but almost every real policy, from a tariff change to a tax reform, creates both winners and losers, so the Pareto criterion is silent on most actual decisions.\n\nNicholas Kaldor and John Hicks independently proposed a compensation test to get around this limitation. Under the Kaldor criterion, a change is desirable if the gainers could, in principle, compensate the losers and still remain better off than before, even if no compensation is actually paid. The Hicks criterion approaches the same question from the reverse direction, asking whether the losers could profitably bribe the gainers to prevent the change. Both tests rely on a hypothetical rather than an actual redistribution, which drew criticism for approving changes that make actual welfare worse when compensation never happens.\n\nTibor Scitovsky identified a further problem: the Kaldor-Hicks test can produce a reversal paradox, where a proposed move from situation A to situation B passes the compensation test, but a hypothetical move back from B to A also passes it, making the ranking of A and B inconsistent. The Scitovsky criterion tightens the test by requiring that the compensation test hold in both directions before a change is judged an improvement, ruling out this kind of contradictory ranking.\n\nKenneth Arrow pushed the inquiry further by asking whether any voting or aggregation rule could reliably combine individual preference orderings into a consistent social ordering while satisfying a small set of reasonable conditions, such as non-dictatorship and independence of irrelevant alternatives. His Impossibility Theorem showed that no such rule can satisfy all these conditions simultaneously once there are three or more alternatives and more than one voter, a deeply influential negative result for social choice theory.\n\nAmartya Sen responded by relaxing some of Arrow's axioms and building social welfare functions that incorporate interpersonal comparisons of well-being and distributional information, not merely ordinal rankings. Sen's work links welfare economics to equity, capability, and freedom, moving the discussion beyond narrow efficiency criteria toward a broader assessment of social good that remains central to development economics today.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Modern Welfare Criteria and Social Welfare Function"],
+      "tags": ["economics", "microeconomics", "welfare-economics"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The IS-LM Framework and Macroeconomic Equilibrium",
+      "body": "The IS-LM model, developed by John Hicks as an interpretation of Keynes's General Theory, brings together the goods market and the money market in a single diagram to determine the equilibrium levels of national income and the interest rate simultaneously. The IS curve traces combinations of income and interest rate at which planned investment equals planned saving, so the goods market clears; because investment is inversely related to the interest rate in most specifications, the IS curve slopes downward -- a lower interest rate stimulates investment, which raises equilibrium income through the multiplier. The LM curve traces combinations of income and interest rate at which the demand for money equals a fixed money supply, so the money market clears; since money demand rises with income (the transactions motive) and falls with the interest rate (the speculative motive), the LM curve slopes upward.\n\nThe intersection of the two curves gives the unique combination of income and interest rate at which both markets clear together, and shifts in fiscal policy (which move the IS curve) or monetary policy (which move the LM curve) can be analysed for their combined effect on output and interest rates. A special case arises in the liquidity trap, where the LM curve becomes horizontal at very low interest rates because money demand becomes infinitely elastic; in this region monetary policy loses its power to raise income, while fiscal policy retains its full multiplier effect, a result that shaped Keynesian arguments for active fiscal intervention during depressions.\n\nThe neo-classical synthesis, associated with economists such as Paul Samuelson and Franco Modigliani, absorbed the IS-LM apparatus into a broader system that also allowed prices and wages to adjust in the long run, reconciling Keynesian short-run rigidity with classical long-run market clearing. New classical economists later criticised the IS-LM framework for lacking explicit micro-foundations and rational expectations, arguing that anticipated policy changes have little real effect because agents adjust their expectations immediately; this critique motivated more rigorous dynamic general-equilibrium models, though IS-LM remains a widely taught pedagogical tool for organising short-run macroeconomic policy analysis.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["IS-LM Framework and Neo-Classical Synthesis"],
+      "tags": ["economics", "macroeconomics"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Theories of Demand for Money: From Fisher to Friedman",
+      "body": "Theories of the demand for money form the analytical bridge between the real economy and the monetary sector, and different schools have offered distinct explanations for why people hold non-interest-bearing cash rather than converting it entirely into interest-bearing assets. Irving Fisher's quantity theory approached the question through the equation of exchange, MV = PT, in which the demand for money is essentially a mechanical residual determined by the volume of transactions and the institutionally fixed velocity of circulation; money is held purely as a medium of exchange with no independent motive of its own.\n\nThe Cambridge cash-balance approach, associated with Marshall and Pigou, reframed the same identity by asking what fraction of nominal income (k) the public wishes to hold as cash, giving Md = kPY, which opened the door to treating the demand for money as a matter of choice influenced by wealth, interest rates, and expectations rather than a fixed technical ratio.\n\nJohn Maynard Keynes decomposed money demand into three distinct motives: the transactions motive, which depends on income and covers routine expenditure needs; the precautionary motive, which provides a buffer against unforeseen expenses and also depends primarily on income; and the speculative motive, which depends inversely on the interest rate because it reflects decisions about holding wealth as cash versus bonds based on expectations about future interest-rate movements. At sufficiently low interest rates, speculative demand becomes infinitely elastic, generating the liquidity trap.\n\nLater refinements added rigour to the speculative motive. James Tobin's portfolio-balance approach modelled the choice between money and bonds as a risk-return trade-off under uncertainty, showing that even a risk-averse investor with certain expectations would hold a diversified portfolio rather than switching entirely between cash and bonds. William Baumol's inventory-theoretic approach explained the transactions demand for money as an optimisation problem analogous to inventory management, deriving a square-root formula in which money holdings rise less than proportionately with income, implying economies of scale in cash management.\n\nMilton Friedman's restatement of the quantity theory treated money as one asset among several in a wealth portfolio, with demand depending on permanent income, the returns on alternative assets, and expected inflation, effectively merging monetarist and portfolio-choice reasoning and reasserting the stability of money demand as a cornerstone of monetarist policy prescriptions.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Demand for and Supply of Money"],
+      "tags": ["economics", "monetary-economics"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Public Finance and the Role of Taxation in a Market Economy",
+      "body": "Public finance examines how governments raise and spend resources, and Richard Musgrave's classic framework organises this activity around three functions: allocation, distribution, and stabilization. The allocation function addresses market failures such as public goods and externalities, where private markets under-provide goods like defence or environmental quality because of non-excludability and non-rivalry; government intervention corrects this through direct provision, subsidies, or regulation. The distribution function concerns adjusting the pattern of income and wealth generated by market outcomes so that it reflects a socially acceptable degree of fairness, typically pursued through progressive taxation and transfer payments. The stabilization function uses fiscal instruments -- government spending and taxation -- to smooth business-cycle fluctuations, moderate inflation, and support employment, working alongside monetary policy.\n\nOn the revenue side, taxes are broadly classified as direct, falling on income or wealth and generally non-shiftable, or indirect, levied on goods and services and often shifted forward to consumers depending on relative elasticities of demand and supply. The incidence of a tax -- who actually bears its burden -- depends on these elasticities rather than on who is legally required to remit the tax; a tax on a good with inelastic demand is largely passed on to consumers, while a tax on a good with elastic demand falls more heavily on producers. Subsidies work in the reverse direction, with their benefit similarly divided between producers and consumers according to relative elasticities.\n\nThere are practical and theoretical limits to taxation. Excessively high tax rates can distort incentives to work, save, and invest, and beyond some point may even reduce total tax revenue -- an idea popularised by the Laffer curve -- while also encouraging tax evasion and avoidance. Administrative capacity, political acceptability, and the risk of capital flight in an open economy further constrain how far taxation can be pushed.\n\nWhen tax revenue and other receipts fall short of expenditure, governments finance the gap through public debt, borrowing domestically or externally. Persistent and rising public debt raises concerns about debt sustainability, crowding out of private investment through higher interest rates, and the burden of future debt-servicing obligations, making the choice between tax financing, debt financing, and expenditure control a central and recurring theme of fiscal policy debate.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Public Finance and Taxation"],
+      "tags": ["economics", "public-finance"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Classical and Modern Theories of International Trade",
+      "body": "Classical and modern trade theories explain why nations trade and what determines the pattern and gains from that trade. David Ricardo's principle of comparative advantage remains the foundational insight: even if one country is more efficient than another at producing every good -- possessing an absolute advantage in everything -- mutually beneficial trade is still possible if each country specialises in the good in which its relative, or comparative, efficiency is greatest. Ricardo demonstrated this with a simple two-good, two-country, labour-only model, showing that specialisation according to comparative labour-cost ratios expands total output and allows both trading partners to consume beyond their own production-possibility frontiers.\n\nGottfried Haberler restated Ricardo's insight in terms of opportunity cost rather than labour theory of value, defining comparative advantage as a lower opportunity cost of producing one good in terms of the other good foregone. This reformulation freed trade theory from the restrictive assumption that labour is the only factor of production and allowed the comparative-cost principle to be derived from differently shaped production-possibility curves between countries.\n\nThe Heckscher-Ohlin model, developed by Eli Heckscher and Bertil Ohlin, shifted the explanation from labour-productivity differences to differences in relative factor endowments. A country will export the good that uses its relatively abundant factor of production intensively, and import the good that uses its relatively scarce factor intensively; a labour-abundant country therefore exports labour-intensive goods, while a capital-abundant country exports capital-intensive goods. This factor-proportions theory predicts that trade tends to equalise relative factor prices across trading countries, a result formalised in the Stolper-Samuelson and factor-price-equalisation theorems.\n\nThe gains from trade arise from two sources: the direct static gain from specialisation and exchange according to comparative advantage, and dynamic gains from larger markets, competition, and technology transfer over time. The terms of trade -- the ratio of export prices to import prices -- determine how these gains are divided between trading partners, and a country's terms of trade can deteriorate over time if its export prices fall relative to its import prices, an argument central to the Prebisch-Singer thesis about developing countries' reliance on primary-commodity exports. This body of theory underlies ongoing debates about trade liberalisation, protection, and the appropriate trade strategy for developing economies like India.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Theories of International Trade"],
+      "tags": ["economics", "international-trade"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "WTO, TRIPS, TRIMS and GATS: Implications for India",
+      "body": "The World Trade Organization, established in 1995 as the successor to the General Agreement on Tariffs and Trade, institutionalised a rules-based multilateral trading system intended to reduce trade barriers, ensure predictability, and provide a forum for negotiating further liberalisation and settling disputes between member states. Unlike GATT, which dealt almost exclusively with trade in goods, the WTO's mandate expanded to cover intellectual property and services, reflecting the growing importance of these areas in the global economy, and it created a binding dispute-settlement mechanism with real enforcement teeth.\n\nThe Agreement on Trade-Related Aspects of Intellectual Property Rights, or TRIPS, requires member countries to provide minimum standards of protection for patents, copyrights, and trademarks, including a minimum twenty-year patent term. For India, TRIPS compliance meant amending its patent law to move from process patents to product patents in pharmaceuticals, a change that raised concerns about the cost of medicines and the viability of India's generic drug industry, though safeguards such as compulsory licensing provisions were retained to protect public health in specific circumstances.\n\nThe Agreement on Trade-Related Investment Measures, or TRIMS, restricts certain investment conditions member governments can impose on foreign investors, particularly measures inconsistent with national treatment or quantitative-restriction rules, such as local-content requirements that force foreign firms to source a minimum share of inputs domestically, or trade-balancing requirements that link imports to export performance. For India, TRIMS compliance required phasing out such conditions in sectors like automobiles, though debate continues about whether this reduces developing countries' ability to use investment policy to build domestic industrial capacity.\n\nThe General Agreement on Trade in Services, or GATS, extends multilateral trade rules to services, covering four modes of supply: cross-border supply, consumption abroad, commercial presence, and the movement of natural persons. GATS commitments matter greatly for India because of its comparative advantage in services exports, particularly information technology and business-process outsourcing, and Indian trade negotiators have consistently pushed for greater liberalisation of Mode 4 (movement of professionals) in WTO negotiations, an area where developed-country restrictions remain a persistent point of friction.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["WTO, TRIPS, TRIMS and GATS"],
+      "tags": ["economics", "international-trade", "wto"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Harrod's Growth Model and the Lewis Model of Surplus Labour",
+      "body": "Roy Harrod's growth model, developed alongside a parallel model by Evsey Domar, extended Keynesian short-run demand analysis into a long-run framework examining the conditions under which an economy can grow steadily while maintaining full employment of both labour and capital. Harrod distinguished three growth rates: the actual growth rate, determined by the prevailing savings ratio and capital-output ratio; the warranted growth rate, the rate at which producers' expectations are exactly fulfilled so they are content to continue investing at the same pace; and the natural growth rate, the maximum rate permitted by labour-force growth and technological progress. Steady growth requires all three rates to coincide, but Harrod showed this equality is inherently fragile -- a small deviation of the actual rate from the warranted rate is self-reinforcing rather than self-correcting, producing what is known as the knife-edge problem, where the economy tends toward cumulative boom or cumulative depression rather than smooth equilibrium growth.\n\nW. Arthur Lewis offered a very different growth model tailored to labour-surplus developing economies, dividing the economy into a traditional agricultural sector, where the marginal productivity of labour is at or near zero because of disguised unemployment, and a modern capitalist sector, where wages are set at a small premium above the subsistence wage prevailing in agriculture. Because agriculture has surplus labour, the modern sector can draw workers out of agriculture into industry at this constant institutional wage without needing to raise wages to attract them, since total agricultural output does not fall much even as workers leave. Capitalists in the modern sector reinvest their profits, expanding capital stock and employment, and this process continues to draw labour out of agriculture until the surplus is exhausted, at which point wages in both sectors begin to rise together -- what Lewis called the turning point.\n\nThe Lewis model influenced early development planning that prioritised industrialisation and capital accumulation as the route out of agrarian stagnation, though later critics noted its neglect of agricultural productivity growth, rural-urban migration dynamics that can outpace industrial job creation, and the risk of urban unemployment when migration is driven by expected rather than actual wage differentials, as later formalised in the Harris-Todaro model.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Harrod's Model and Lewis Model of Surplus Labour"],
+      "tags": ["economics", "growth-theory", "development"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Nehru-Mahalanobis Strategy and India's Five Year Plans",
+      "body": "India's early development strategy after independence, closely associated with Prime Minister Jawaharlal Nehru and the statistician P.C. Mahalanobis, who designed the analytical framework for the Second Five Year Plan (1956-61), rested on the conviction that rapid industrialisation, and specifically the development of a domestic capital-goods (heavy industry) base, was the necessary foundation for long-run self-reliant growth. The Mahalanobis model divided the economy into sectors producing capital goods and sectors producing consumer goods, and argued that allocating a higher share of investment to the capital-goods sector in the early years, even at the cost of slower growth in consumer-goods output initially, would raise the economy's long-run capacity to invest and grow.\n\nThis strategy was implemented through import-substitution industrialisation, in which domestic manufacturing was encouraged behind tariffs, quantitative import restrictions, and industrial licensing, deliberately limiting reliance on imports and foreign capital. The state assumed a commanding role, with the public sector placed at the helm of core and strategic industries such as steel, heavy machinery, power, and mining, guided by the Industrial Policy Resolutions of 1948 and 1956, while private enterprise operated under an extensive licensing regime often described as the License-Permit Raj.\n\nLand reforms -- including the abolition of intermediary tenures such as zamindari, tenancy reform, and attempts at land ceilings and redistribution -- were pursued alongside industrial planning, though implementation varied greatly across states and fell short of transformative change in many regions. Agricultural investment lagged behind industrial investment in the early plans, a neglect later blamed for repeated food shortfalls and balance-of-payments pressure from food imports, contributing to the policy shift toward the Green Revolution from the mid-1960s.\n\nCritics of the Nehru-Mahalanobis strategy point to the low efficiency and chronic losses of many public-sector enterprises, the stifling effect of licensing on private entrepreneurship and competition, persistently slow overall growth relative to East Asian economies pursuing export-oriented strategies, and the neglect of employment-intensive light manufacturing and agriculture. These criticisms became central to the intellectual case for the economic reforms initiated in 1991, though defenders argue the strategy did succeed in building a diversified industrial and scientific base that later reforms could draw upon.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Nehru-Mahalanobis Strategy and Five Year Plans"],
+      "tags": ["economics", "indian-economy", "planning"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Green Revolution and its Impact on Indian Agriculture",
+      "body": "The Green Revolution refers to the rapid, technology-driven transformation of Indian agriculture beginning in the mid-1960s, built around the introduction of high-yielding variety (HYV) seeds of wheat and rice, combined with chemical fertilisers, controlled irrigation, and pesticides. The strategy was adopted partly in response to severe food shortages and dependence on imported foodgrain in the early 1960s, and the government promoted the new technology through minimum support prices, subsidised inputs, expansion of irrigation infrastructure, and institutions such as the Food Corporation of India for procurement.\n\nThe results were most dramatic in wheat, where yields rose sharply in Punjab, Haryana, and western Uttar Pradesh, regions that possessed the assured irrigation, favourable soil conditions, and existing agrarian infrastructure needed for the new technology to succeed. India moved from chronic food deficits to near self-sufficiency in foodgrain production by the 1970s, and eventually built large buffer stocks, a striking achievement given the food crises of the preceding decade.\n\nHowever, the Green Revolution's benefits were geographically and socially uneven. Its concentration in a few well-irrigated states widened regional disparities with rain-fed and eastern regions that lacked comparable irrigation, while within adopting regions, larger farmers with access to credit, irrigation, and inputs benefited disproportionately compared to small and marginal farmers, sharpening rural inequality in some areas. The technology was also crop-specific, favouring wheat and rice over coarse cereals and pulses, which distorted cropping patterns and contributed to declining production of nutritionally important but less remunerative crops.\n\nEnvironmentally, decades of intensive Green Revolution agriculture have been linked to groundwater depletion from excessive tubewell irrigation, soil degradation and micronutrient depletion from continuous monocropping, and pollution from heavy fertiliser and pesticide use -- problems now central to debates about the sustainability of India's input-intensive agricultural model and the case for more diversified, resource-conserving farming practices.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Green Revolution and Agricultural Transformation"],
+      "tags": ["economics", "indian-economy", "agriculture"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Economic Reforms of 1991: Liberalisation, Privatisation and Globalisation",
+      "body": "India's economic reforms of 1991 were triggered by a severe balance-of-payments crisis in which foreign exchange reserves fell to barely enough to cover a few weeks of imports, forcing the government to pledge gold reserves and approach the International Monetary Fund for emergency support. The immediate causes included a widening fiscal deficit through the 1980s, a current account deficit aggravated by the 1990-91 Gulf War oil-price shock, a slowdown in remittances, and a loss of investor confidence amid political instability, but the crisis also exposed longer-standing structural weaknesses of the pre-reform economy, including excessive industrial licensing and inward-looking trade policy.\n\nThe New Economic Policy of 1991 is often summarised as Liberalisation, Privatisation, and Globalisation (LPG). Liberalisation dismantled much of the industrial licensing regime, abolishing licensing requirements for most industries and de-reserving sectors previously restricted to the public sector. Trade policy was liberalised through tariff reductions, gradual removal of quantitative import restrictions, and a shift of the rupee toward market-determined exchange rates, including a formal devaluation in 1991 followed by current-account convertibility by 1994.\n\nPrivatisation, in the Indian context, took a gradualist form of disinvestment -- the government sold minority stakes in public-sector enterprises rather than pursuing outright sales -- alongside a narrowing of the list of industries reserved exclusively for the public sector. Globalisation was pursued through liberalised foreign direct investment norms, permitting higher equity caps and automatic approval routes in many sectors, and through active engagement with international trade institutions, including India's founding membership in the WTO from 1995.\n\nFinancial-sector reforms accompanying these changes included reducing statutory pre-emption of bank funds, freeing interest rates from administrative control, strengthening banking supervision following the Narasimham Committee recommendations, and developing capital markets through the creation of the Securities and Exchange Board of India as an independent regulator. Collectively, these reforms shifted India from a planned, inward-looking economy toward a more market-oriented and globally integrated one, setting off a sustained acceleration in GDP growth over the subsequent two decades, even as debates continue over the reforms' effects on employment, inequality, and agricultural neglect.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Liberalization, Privatization and Globalization"],
+      "tags": ["economics", "indian-economy", "reforms"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Federal Finance and the Role of Finance Commissions in India",
+      "body": "India's Constitution establishes a federal fiscal architecture in which the taxation powers assigned to the Union government are considerably stronger than those assigned to the states, while states carry heavier expenditure responsibilities in areas such as health, education, and agriculture -- a structural mismatch commonly described as vertical fiscal imbalance. Article 280 of the Constitution addresses this by mandating the constitution of a Finance Commission every five years as an independent constitutional body charged with recommending the distribution of the net proceeds of central taxes between the Union and the states (vertical devolution) and the allocation of the states' share among themselves (horizontal devolution).\n\nThe Finance Commission's horizontal-devolution formula has evolved over successive Commissions, but typically weighs a mix of criteria including population, income distance (favouring states with lower per-capita income, to promote equity), area, forest cover, and demographic performance (rewarding states with lower population growth). The use of the 2011 Census population figures, rather than the 1971 Census used earlier, proved contentious for southern states with lower fertility rates. The 15th Finance Commission, for instance, recommended a vertical devolution of 41 percent of the divisible pool of central taxes to states for its award period.\n\nBeyond tax devolution, Finance Commissions also recommend grants-in-aid to states under Article 275 to address specific needs such as revenue deficits, disaster management, and local-body strengthening, and have increasingly been tasked with broader mandates, including performance-based incentives tied to fiscal discipline or power-sector reform.\n\nEven with these transfers, horizontal and vertical imbalances persist: richer states often argue that the income-distance criterion penalises their fiscal discipline by directing a disproportionate share of transfers to less-developed states, while poorer states argue that transfers remain insufficient to bridge developmental gaps. The rollout of the Goods and Services Tax since 2017, with its own GST Council as a separate cooperative-federalism institution, has added a further layer to Centre-state fiscal relations, raising new questions about revenue autonomy and the Finance Commission's traditional role going forward.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Finance Commission and Centre-State Transfers"],
+      "tags": ["economics", "indian-economy", "federalism", "public-finance"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Measuring Poverty and Inequality in India",
+      "body": "Measuring poverty in India has evolved through successive expert-committee methodologies, each addressing perceived weaknesses of its predecessor. Early official poverty lines, based on the work of the Y.K. Alagh and later D.T. Lakdawala committees, defined poverty in terms of a minimum calorie-intake norm converted into a monetary expenditure threshold using National Sample Survey consumption data, with separate rural and urban poverty lines updated for price changes across states.\n\nThe Suresh Tendulkar Committee, reporting in 2009, moved away from the calorie-anchored approach, arguing it had become disconnected from actual consumption behaviour, and instead defined poverty lines based on a broader consumption basket that included not just food but also imputed private expenditure on health and education. This raised measured poverty lines and hence poverty ratios relative to the Lakdawala method, though it remained an expenditure-based, unidimensional measure.\n\nThe C. Rangarajan Committee, constituted afterward to review the Tendulkar methodology amid criticism of the low monetary thresholds it implied, recommended a fresh consumption basket incorporating normative nutritional requirements alongside actual observed spending on clothing, housing, education, health, and transport, producing higher poverty lines than the Tendulkar estimates, though its recommendations were not formally adopted as the official poverty line.\n\nBeyond these national, expenditure-based measures, the Multidimensional Poverty Index (MPI), developed jointly by the Oxford Poverty and Human Development Initiative and the UNDP and adapted for India by NITI Aayog, captures poverty as simultaneous deprivation across health, education, and standard-of-living indicators -- such as nutrition, child mortality, years of schooling, cooking fuel, sanitation, and asset ownership -- rather than a single monetary cutoff, offering a fuller picture of deprivation that money-metric measures can miss.\n\nInequality, distinct from poverty, is commonly measured using the Gini coefficient, derived from the Lorenz curve, which plots the cumulative share of income or consumption against the cumulative share of the population; a Gini coefficient of zero represents perfect equality and one represents maximum inequality. India's consumption-based Gini coefficients are typically much lower than its income-based or wealth-based Gini coefficients, a divergence that is itself a subject of debate in assessing the true scale of economic inequality in the country.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Measurement of Poverty and Inequality"],
+      "tags": ["economics", "indian-economy", "poverty"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Employment Generation and Poverty Alleviation Programmes in India",
+      "body": "Employment generation and poverty alleviation have been pursued in India through a succession of centrally sponsored schemes reflecting evolving diagnoses of rural distress. Early programmes such as the Integrated Rural Development Programme (IRDP), launched in 1978-80, sought to alleviate poverty by providing subsidised credit and assets to rural households below the poverty line to help them undertake self-employment ventures, but the programme faced criticism for poor targeting, asset mismatches with beneficiaries' skills, and low loan-recovery rates.\n\nWage-employment schemes took a different approach, aiming to generate short-term employment directly through public works. The National Rural Employment Programme and the Rural Landless Employment Guarantee Programme were merged into the Jawahar Rozgar Yojana in 1989, later restructured multiple times, while the Employment Assurance Scheme and the Sampoorna Grameen Rozgar Yojana continued this lineage of works-based wage employment through the 1990s and 2000s, typically aimed at creating rural infrastructure such as roads, ponds, and irrigation channels while providing income support during agricultural lean seasons.\n\nThe Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), enacted in 2005, marked a qualitative shift by establishing a legal right to a guaranteed number of days (initially 100) of unskilled wage employment per rural household per year on demand, rather than a discretionary scheme subject to budgetary allocation. Its demand-driven, rights-based design, combined with features such as decentralised implementation through Gram Panchayats, social audits, and equal wages for men and women, was intended to improve both targeting and accountability compared to earlier top-down programmes, and the scheme has also been credited with providing a counter-cyclical safety net during periods of agricultural distress.\n\nSelf-employment programmes evolved similarly, with the Swarnajayanti Gram Swarozgar Yojana (SGSY) of 1999 consolidating earlier self-employment schemes around a group-based, self-help-group approach to rural microenterprise, later restructured into the National Rural Livelihoods Mission (NRLM, or Aajeevika) from 2011, which emphasises building strong community institutions of the rural poor, particularly women's self-help groups, to enable sustainable livelihoods and financial inclusion, reflecting a broader shift in Indian anti-poverty policy from asset transfers alone toward institution-building and livelihood diversification.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Employment Generation and Poverty Alleviation Programmes"],
+      "tags": ["economics", "indian-economy", "employment", "poverty"],
+      "is_current_affairs": false
+    }
+  ]
+}

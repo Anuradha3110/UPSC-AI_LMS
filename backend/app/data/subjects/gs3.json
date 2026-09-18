@@ -1,0 +1,523 @@
+{
+  "paper": "GS3",
+  "optional_subject": null,
+  "syllabus_nodes": [
+    {
+      "title": "Indian Economy: Planning and Growth",
+      "parent_title": null,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Inclusive Growth",
+      "parent_title": "Indian Economy: Planning and Growth",
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "title": "Government Budgeting",
+      "parent_title": null,
+      "tags": [
+        "economy",
+        "budget"
+      ]
+    },
+    {
+      "title": "Agriculture: Cropping Patterns and Irrigation",
+      "parent_title": null,
+      "tags": [
+        "agriculture"
+      ]
+    },
+    {
+      "title": "E-Technology for Farmers",
+      "parent_title": "Agriculture: Cropping Patterns and Irrigation",
+      "tags": [
+        "agriculture",
+        "technology"
+      ]
+    },
+    {
+      "title": "Agricultural Marketing and Food Security",
+      "parent_title": null,
+      "tags": [
+        "agriculture",
+        "food-security"
+      ]
+    },
+    {
+      "title": "Minimum Support Price and Public Distribution System",
+      "parent_title": "Agricultural Marketing and Food Security",
+      "tags": [
+        "agriculture",
+        "food-security"
+      ]
+    },
+    {
+      "title": "Buffer Stocks and Food Security",
+      "parent_title": "Agricultural Marketing and Food Security",
+      "tags": [
+        "food-security"
+      ]
+    },
+    {
+      "title": "Food Processing Industries",
+      "parent_title": null,
+      "tags": [
+        "agriculture",
+        "industry"
+      ]
+    },
+    {
+      "title": "Land Reforms",
+      "parent_title": null,
+      "tags": [
+        "agriculture",
+        "land-reforms"
+      ]
+    },
+    {
+      "title": "Industrial Policy and Liberalization",
+      "parent_title": null,
+      "tags": [
+        "industry",
+        "economy"
+      ]
+    },
+    {
+      "title": "Infrastructure Development",
+      "parent_title": null,
+      "tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "title": "Energy Infrastructure",
+      "parent_title": "Infrastructure Development",
+      "tags": [
+        "infrastructure",
+        "energy"
+      ]
+    },
+    {
+      "title": "Science and Technology in Everyday Life",
+      "parent_title": null,
+      "tags": [
+        "science-technology"
+      ]
+    },
+    {
+      "title": "Indigenization of Technology",
+      "parent_title": null,
+      "tags": [
+        "science-technology"
+      ]
+    },
+    {
+      "title": "Space Technology",
+      "parent_title": null,
+      "tags": [
+        "science-technology",
+        "space"
+      ]
+    },
+    {
+      "title": "Biotechnology and GM Crops",
+      "parent_title": null,
+      "tags": [
+        "science-technology",
+        "biotechnology"
+      ]
+    },
+    {
+      "title": "Intellectual Property Rights",
+      "parent_title": null,
+      "tags": [
+        "science-technology",
+        "ipr"
+      ]
+    },
+    {
+      "title": "Environmental Conservation and Pollution",
+      "parent_title": null,
+      "tags": [
+        "environment"
+      ]
+    },
+    {
+      "title": "Environmental Impact Assessment",
+      "parent_title": "Environmental Conservation and Pollution",
+      "tags": [
+        "environment"
+      ]
+    },
+    {
+      "title": "Biodiversity Conservation",
+      "parent_title": "Environmental Conservation and Pollution",
+      "tags": [
+        "environment",
+        "biodiversity"
+      ]
+    },
+    {
+      "title": "Disaster Management",
+      "parent_title": null,
+      "tags": [
+        "disaster-management"
+      ]
+    },
+    {
+      "title": "Extremism and Development",
+      "parent_title": null,
+      "tags": [
+        "internal-security"
+      ]
+    },
+    {
+      "title": "External and Internal Security Actors",
+      "parent_title": null,
+      "tags": [
+        "internal-security"
+      ]
+    },
+    {
+      "title": "Cyber Security",
+      "parent_title": null,
+      "tags": [
+        "internal-security",
+        "cyber-security"
+      ]
+    },
+    {
+      "title": "Money Laundering",
+      "parent_title": null,
+      "tags": [
+        "internal-security",
+        "economic-offences"
+      ]
+    },
+    {
+      "title": "Border Security Management",
+      "parent_title": null,
+      "tags": [
+        "internal-security",
+        "border-security"
+      ]
+    },
+    {
+      "title": "Security Forces and Agencies",
+      "parent_title": null,
+      "tags": [
+        "internal-security"
+      ]
+    }
+  ],
+  "pyqs": [
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "What are the causes of persistent high food inflation in India? Comment on the effectiveness of the Reserve Bank of India's monetary policy in controlling this type of inflation.",
+      "node_titles": [
+        "Agricultural Marketing and Food Security"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect supply-side causes (erratic monsoon, perishability, weak storage and marketing infrastructure, input cost rises) distinguished from demand-side drivers, followed by a reasoned comment that monetary policy has limited traction over supply-driven food inflation and needs complementary supply-side measures. Word limit around 150 words."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "Discuss the merits and demerits of the four Labour Codes in the context of labour market reforms in India.",
+      "node_titles": [
+        "Industrial Policy and Liberalization"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit identification of the four codes (wages, industrial relations, social security, occupational safety) with at least two merits (simplification, wider social security coverage, ease of compliance) and two demerits (reduced job security thresholds, weakened collective bargaining, implementation gaps across States) with a balanced conclusion. Word limit around 250 words."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Why is Public-Private Partnership (PPP) required in infrastructural projects? Examine the role of the PPP model in the redevelopment of railway stations in India.",
+      "node_titles": [
+        "Infrastructure Development"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a rationale for PPP (fiscal constraints, private efficiency and technology, risk-sharing) followed by specifics of railway station redevelopment (design-build-finance-operate-transfer structures, commercial real estate cross-subsidy, examples of stations redeveloped) and a balanced note on implementation challenges such as viability gap and delayed bidding. Word limit around 250 words."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Explain the role of millets in ensuring health and nutritional security in India.",
+      "node_titles": [
+        "Agricultural Marketing and Food Security"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Reward coverage of millets' nutritional profile (micronutrients, low glycaemic index, fibre), agronomic advantages (drought and climate resilience, low water and input needs), and policy push (International Year of Millets, inclusion in PDS/ICDS pilots). Word limit around 150 words."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "What are the major challenges faced by the Indian irrigation system in recent times?",
+      "node_titles": [
+        "Agriculture: Cropping Patterns and Irrigation"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect challenges such as over-extraction of groundwater, inefficient canal irrigation with high conveyance losses, inequitable water distribution favouring head-reach farmers, inadequate micro-irrigation adoption, and climate variability, along with a brief mention of schemes such as PMKSY meant to address them. Word limit around 250 words."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "What is an Integrated Farming System? How is it helpful to small and marginal farmers in India?",
+      "node_titles": [
+        "Agriculture: Cropping Patterns and Irrigation"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit a definition of IFS as combining crops with allied activities (livestock, fishery, horticulture, apiary) for resource recycling and risk diversification, with specific benefits for small holdings (year-round income, reduced input cost through recycling, buffer against crop failure). Word limit around 250 words."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Discuss several ways in which microorganisms can help in meeting the current fuel shortage.",
+      "node_titles": [
+        "Biotechnology and GM Crops"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of microbial routes to biofuel (fermentation of biomass to ethanol, anaerobic digestion to biogas, algal biodiesel, microbial fuel cells) with a note on feedstock and scale-up limitations. Word limit around 150 words."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "Explain the mechanism and occurrence of cloudbursts in the context of the Indian subcontinent, with reference to two recent examples.",
+      "node_titles": [
+        "Disaster Management"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Reward an explanation of the orographic and convective mechanism producing highly localised, short-duration extreme rainfall, plus at least two recent Himalayan-region cloudburst events with their consequences, and a note on early-warning and land-use limitations. Word limit around 250 words."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Discuss the recent measures initiated by the Government of India in disaster management, marking a departure from the earlier reactive approach.",
+      "node_titles": [
+        "Disaster Management"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect the shift from relief-centric to prevention-mitigation-preparedness framing under the Disaster Management Act 2005 and the National Disaster Management Authority, with examples such as early-warning systems, mock drills, and risk-informed urban planning. Word limit around 250 words."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "What is the main task that India's third lunar mission achieved which its earlier mission could not?",
+      "node_titles": [
+        "Space Technology"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit identification of a soft landing near the lunar south pole and in-situ scientific observation by the lander and rover, contrasted with the crash-landing outcome of the earlier mission's lander, plus brief mention of the mission's broader significance for India's space programme. Word limit around 250 words."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "What is the basic principle behind vaccine development? How do vaccines work?",
+      "node_titles": [
+        "Science and Technology in Everyday Life"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect an explanation of antigen exposure training adaptive immunity to recognise a pathogen without causing disease, memory cell formation, and a brief typology of vaccine platforms (inactivated, live-attenuated, subunit, vector, mRNA). Word limit around 250 words."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Analyse the multidimensional challenges posed by external state and non-state actors to India's internal security.",
+      "node_titles": [
+        "External and Internal Security Actors"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Reward coverage across categories (cross-border terrorism sponsorship, arms and narcotics smuggling, cyber intrusions, propaganda and radicalisation through social media, proxy insurgent support) with region-specific examples and a concluding note on a whole-of-government response. Word limit around 250 words."
+    },
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "The Indian government recently strengthened anti-terrorism laws by amending the Unlawful Activities (Prevention) Act, 1967 and the National Investigation Agency Act. Analyse the changes in the context of the prevailing security environment.",
+      "node_titles": [
+        "Security Forces and Agencies"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of key amendments (individual designation as terrorist, NIA's expanded extraterritorial and offence jurisdiction) with an assessment balancing counter-terrorism effectiveness against due-process and civil-liberties concerns raised by critics. Word limit around 250 words."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "Social media platforms and encrypted messaging services pose serious security challenges. What measures have been adopted to counter these challenges?",
+      "node_titles": [
+        "Cyber Security"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit identification of challenges (radicalisation, disinformation, encrypted coordination of criminal or terror activity, traceability limits) and measures (IT Rules intermediary obligations, traceability requirements, CERT-In directions, international cooperation), with a balanced note on privacy trade-offs. Word limit around 250 words."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Inclusive Growth: Why GDP Growth Alone Is Not Enough",
+      "body": "Inclusive growth refers to economic growth that spreads its benefits broadly across income groups, regions, and social categories, rather than concentrating gains among a narrow section of the population while leaving large parts of society behind. The concept became central to Indian planning discourse from the Eleventh Five Year Plan onward, precisely because India's post-liberalisation growth acceleration from the 1990s, while raising aggregate income substantially, did not automatically translate into proportionate improvement in employment quality, regional balance, or social indicators for the most disadvantaged groups. Several dimensions define whether growth counts as inclusive. The employment dimension asks whether growth is generating enough good-quality, formal-sector jobs to absorb a young, rapidly growing workforce, a concern sharpened by India's persistent trend of jobless or informal growth, where output expands faster than formal employment, leaving a large share of the workforce in low-productivity informal or agricultural work. The regional dimension asks whether growth is diffusing beyond already-prosperous states and metropolitan clusters to lagging regions, since India has historically shown wide inter-state disparities in per-capita income, industrialisation, and human development, with aspirational districts programmes representing a targeted policy response to this gap. The social dimension asks whether historically disadvantaged groups, including Scheduled Castes, Scheduled Tribes, religious minorities, and women, are sharing proportionately in new opportunities created by growth, an area where labour-force participation and wage-gap data continue to show meaningful disparities. Financial inclusion, expanding access to banking, credit, and insurance for previously unbanked populations through initiatives such as the Pradhan Mantri Jan Dhan Yojana, is treated as both an outcome and an enabler of inclusive growth, since access to formal credit allows small enterprises and poorer households to participate more fully in the growth process rather than remaining dependent on informal, often exploitative, credit sources. Policy instruments aimed at inclusive growth in India span direct redistribution, such as cash transfers and subsidised food and fuel, employment guarantee programmes such as MGNREGA which provide a demand-based rural employment floor, human capital investment in health and education meant to improve future earning capacity for disadvantaged groups, and financial and digital inclusion measures widening access to formal economic participation. Critics of India's growth trajectory point to continuing high youth unemployment, informality affecting the large majority of the workforce, and rising measures of wealth concentration as evidence that growth has not been inclusive enough despite decades of high aggregate GDP expansion. Proponents counter that poverty has declined substantially in absolute terms and that indicators such as sanitation, electrification and financial account ownership have improved sharply in the past decade, suggesting inclusion gains are real even if uneven. The ongoing policy challenge is to sustain high aggregate growth while simultaneously closing these employment, regional and social gaps, since sustained inclusive growth is now widely understood as both an economic and political prerequisite for long-term stability.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Inclusive Growth"
+      ],
+      "tags": [
+        "economy"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Understanding the Union Budget: Process and Fiscal Concepts",
+      "body": "The Union Budget, formally the Annual Financial Statement under Article 112 of the Constitution, is the government's statement of estimated receipts and expenditure for the coming financial year, presented to Parliament and requiring its approval before funds can be spent from the Consolidated Fund of India. The budget process begins many months in advance with the Finance Ministry issuing budget circulars to ministries, which submit expenditure estimates; these are consolidated alongside revenue projections from tax and non-tax sources, disinvestment receipts, and borrowing, into the final budget documents presented typically at the start of February so that the new financial year, running from April to March, can begin with a passed budget. Budget documents include the Annual Financial Statement, the Finance Bill carrying tax proposals, demand for grants ministry-wise, and macroeconomic and fiscal policy statements mandated under the Fiscal Responsibility and Budget Management Act, which also frames key deficit targets. Several fiscal concepts recur through budget analysis. The revenue deficit is the gap between revenue expenditure, spending that does not create a durable asset such as salaries, subsidies, and interest payments, and revenue receipts, which are tax and non-tax income that does not create a liability. The fiscal deficit is the broader gap between total expenditure and total non-borrowed receipts, effectively representing how much the government must borrow in a year to bridge the gap between spending and non-debt income, and is the single most closely tracked fiscal indicator because it signals the government's overall borrowing requirement and its implications for public debt and interest costs. The primary deficit strips out interest payments on past borrowing from the fiscal deficit, isolating the current year's fresh borrowing need from the burden of servicing accumulated past debt. Expenditure is also classified as capital expenditure, spending that creates durable physical or financial assets such as roads, railways, or equity investment, versus revenue expenditure, and this composition matters because a higher capital-expenditure share is generally associated with stronger long-term growth multipliers than a rupee spent on recurring consumption items, even where both appear identically in the aggregate fiscal deficit figure. Beyond these mechanics, the budget serves as the government's primary annual policy instrument, since tax rate changes, sector-specific allocations, and new scheme announcements collectively signal priorities across social welfare, infrastructure, and industrial policy for the year ahead, while post-budget parliamentary scrutiny, including the Standing Committee process and the subsequent Appropriation Act, provides the constitutional check ensuring the executive cannot spend public money without legislative sanction. Understanding these concepts, deficits, receipts, and the capital-revenue split, is essential to interpreting whether a given budget is expansionary or consolidative, and whether its stated priorities are backed by credible allocation rather than announcement alone.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Government Budgeting"
+      ],
+      "tags": [
+        "economy",
+        "budget"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Millets: A Climate-Resilient Answer to Nutritional Security",
+      "body": "Millets are a group of small-seeded cereal grasses, including sorghum (jowar), pearl millet (bajra), finger millet (ragi), and a range of so-called minor millets such as foxtail, kodo, and little millet, that were staple grains across large parts of India before the Green Revolution's targeted push toward rice and wheat shifted both cultivation patterns and dietary preference from the 1960s onward. Millets have re-entered policy and public attention because they combine two properties that rice and wheat generally do not: strong agronomic resilience and a favourable nutritional profile. Agronomically, millets require substantially less water than paddy rice, tolerate poor and marginal soils, withstand higher temperatures, and have shorter growing cycles, making them well suited to rainfed and drought-prone regions where irrigation-intensive crops perform poorly or deplete groundwater unsustainably. This resilience has made millets an important part of the climate-adaptation conversation in Indian agriculture, since expanding millet cultivation in water-stressed regions can reduce dependence on over-extracted aquifers while still securing farmer income and food output. Nutritionally, millets generally offer higher fibre, protein, and micronutrient content, particularly iron, calcium in the case of finger millet, and various B vitamins, compared with polished rice, alongside a lower glycaemic index that makes them more suitable for individuals managing blood sugar levels. Given that India carries a significant burden of both undernutrition and micronutrient deficiency, sometimes termed hidden hunger, alongside a rising prevalence of diet-linked non-communicable diseases such as diabetes, millets are seen as a food capable of addressing both ends of this nutritional spectrum simultaneously. Government policy has responded on multiple fronts. Millets were officially rebranded as Nutri-Cereals in 2018 to signal their nutritional value, procurement support and minimum support price coverage were extended to more millet varieties, and India led the successful international push for the United Nations to declare an International Year of Millets, using the platform to promote millets in trade and public awareness globally. Domestically, pilots integrating millets into the Public Distribution System and school-based nutrition programmes such as the mid-day meal scheme aim to normalise millet consumption among populations that had shifted away from these grains over previous decades. Challenges remain in scaling this shift: processing infrastructure for dehulling and value-addition is less developed than for rice and wheat, consumer taste preferences built around polished cereals over two generations take time to reverse, and millet yields per hectare, while stable under stress conditions, are generally lower than irrigated rice or wheat yields under favourable conditions, meaning farmer income comparisons are not always straightforwardly favourable without adequate MSP and market support. Even so, millets represent a rare policy intervention where climate resilience, water conservation, and public health nutrition goals point in the same direction, explaining the sustained government push behind their revival.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Agricultural Marketing and Food Security"
+      ],
+      "tags": [
+        "agriculture",
+        "food-security"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "India's Irrigation Challenge: Beyond Building More Canals",
+      "body": "Irrigation has been central to Indian agricultural policy since independence, given that a large share of cultivated area still depends on the monsoon and therefore on rainfall timing and intensity that is becoming increasingly variable under climate change. Despite decades of investment in canal networks, tube wells, and more recently micro-irrigation, India's irrigation system faces a set of interlinked structural challenges rather than a single fixable bottleneck. The most acute is groundwater over-extraction: because groundwater is comparatively easy for individual farmers to access through private tube wells and is effectively unregulated in most states, and because heavily subsidised or free agricultural electricity in several states removes any cost signal discouraging over-pumping, water tables in large agricultural belts, particularly across Punjab, Haryana, and parts of peninsular India, have fallen to levels that threaten the long-term sustainability of groundwater-dependent cultivation itself. Canal irrigation, meanwhile, suffers from high conveyance losses, water seeping away or evaporating before reaching the field, due to unlined earthen channels and poor maintenance of distribution infrastructure, meaning a large share of water released from a reservoir never actually reaches the crop it was meant to irrigate. Distributional inequity compounds this inefficiency: farmers located near the head of a canal system typically receive disproportionately more water than those at the tail end, since head-reach farmers can divert water before it travels further down the system, creating persistent inequity within a single irrigation command area that formal water-user associations have struggled to fully correct. Cropping pattern distortions add another layer of stress, since minimum support price guarantees and assured procurement for water-intensive crops such as paddy and sugarcane, particularly in relatively water-scarce north-western states, have incentivised farmers to grow these crops even where local agro-climatic conditions and water availability would favour less water-intensive alternatives, effectively subsidising an agriculturally inefficient allocation of scarce water. Climate variability sharpens all of these pressures by making rainfall timing and intensity less predictable, increasing both the frequency of drought years that stress groundwater further and the frequency of intense rainfall events that overwhelm poorly maintained irrigation and drainage infrastructure. Policy responses have targeted several of these fronts: the Pradhan Mantri Krishi Sinchayee Yojana consolidates irrigation-related schemes under the unifying goal of 'more crop per drop', with a strong push toward micro-irrigation technologies such as drip and sprinkler systems that deliver water directly to the root zone and can cut water use substantially compared with flood irrigation, alongside watershed development and canal modernisation components. However, adoption of micro-irrigation remains uneven due to upfront capital cost, crop suitability constraints, and limited awareness or extension support in some regions, meaning India's irrigation challenge today is less about adding new physical capacity and more about correcting the economic incentives, maintenance practices, and cropping choices that determine how efficiently existing water resources are actually used.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Agriculture: Cropping Patterns and Irrigation"
+      ],
+      "tags": [
+        "agriculture"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Integrated Farming Systems and Small Farmer Resilience",
+      "body": "An Integrated Farming System, commonly abbreviated IFS, is an approach to farm planning that deliberately combines multiple complementary enterprises, typically crop cultivation alongside allied activities such as livestock rearing, dairy, poultry, fishery, apiculture, and horticulture, on the same holding, structured so that the waste or by-product of one enterprise becomes a productive input for another. A commonly cited example is a crop-livestock-fishery combination where crop residues feed livestock, livestock manure fertilises the fish pond and cropland, and pond silt in turn enriches field soil, creating a closed-loop cycle that reduces dependence on purchased external inputs such as chemical fertiliser and commercial animal feed. This approach differs fundamentally from monoculture, single-crop farming, which concentrates a farmer's entire income and risk exposure on the fate of one crop in one season, leaving the household fully exposed to price crashes, pest outbreaks, or weather failure affecting that specific crop. For India's small and marginal farmers, who together operate a large majority of agricultural holdings but typically on plots too small to achieve economies of scale in any single commercial crop, IFS offers several specific advantages. It diversifies income sources across the year rather than concentrating cash flow around one or two harvest windows, since dairy or poultry can generate near-daily income even between crop cycles, helping smooth household consumption and reducing dependence on informal credit during lean periods. It reduces input costs through on-farm recycling of organic matter, lowering a household's exposure to volatile fertiliser and feed prices. It provides a natural risk-diversification mechanism, since a failure in one enterprise, a poor crop yield due to erratic rainfall, for instance, does not eliminate the household's entire income if livestock or fishery components remain productive, which is particularly valuable given the increasing unpredictability of monsoon-dependent cultivation. It also makes more intensive and efficient use of the limited land, labour, and capital available to a small holding, since integrating enterprises can generate more total output and employment per unit area than a single crop grown in isolation, an important consideration given the chronic underemployment characteristic of small-farm agriculture. Government extension programmes, including model IFS units demonstrated through Krishi Vigyan Kendras and components supported under schemes promoting agricultural diversification, have promoted the approach specifically for small and marginal holdings on this reasoning, often tailoring the specific combination of enterprises to local agro-climatic conditions, water availability, and market access, since an IFS model successful in a high-rainfall eastern state may need substantial modification for a semi-arid region. The approach is not without practical constraints, requiring somewhat broader technical knowledge across multiple activities, some upfront investment in infrastructure such as a fish pond or livestock shed, and reliable local market linkages to sell the diversified range of outputs profitably, but where these conditions are met, IFS is widely regarded as a genuinely effective strategy for improving the income stability and resource-use efficiency of India's smallholder-dominated agricultural sector.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Agriculture: Cropping Patterns and Irrigation"
+      ],
+      "tags": [
+        "agriculture"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Chandrayaan-3: Reaching the Moon's South Pole",
+      "body": "Chandrayaan-3, launched by the Indian Space Research Organisation in July 2023, was designed with a narrowly focused primary objective: to achieve a safe and soft landing on the lunar surface, something India's previous lunar mission, Chandrayaan-2, had attempted in 2019 but failed to accomplish when its lander lost communication and crash-landed in the final phase of descent due to a software and sensor-related deviation from the planned trajectory. Chandrayaan-3 was structured as a focused follow-up mission built around a lander named Vikram and a rover named Pragyan, without repeating the orbiter component already delivered successfully by Chandrayaan-2, whose orbiter continued functioning and assisted in relaying communication for the new mission. Learning directly from the earlier failure, the mission incorporated a strengthened set of engineering safeguards: additional fuel margin, reinforced landing legs designed to tolerate a wider range of touchdown velocities and surface conditions, more robust sensor and algorithm redundancy for the critical autonomous descent phase, and a wider designated landing zone giving the guidance system more room to adjust for any last-moment deviation. In August 2023, Vikram successfully achieved a soft landing near the Moon's south polar region, making India the first country to land a spacecraft in this specific area and only the fourth nation overall, after the United States, the Soviet Union, and China, to achieve a controlled soft lunar landing at all. The south polar region was chosen deliberately for its distinct scientific value: permanently shadowed craters in this area are believed to harbour water ice, a resource of major interest both for scientific understanding of the Moon's history and for the practical logistics of any future lunar habitation, since in-situ water ice could in principle be converted into drinking water, breathable oxygen, or rocket propellant, reducing the need to transport these resources from Earth. After landing, the Pragyan rover deployed and carried out several days of surface investigations before the lunar night set in, using onboard spectroscopic instruments to detect the presence of sulphur and other elements in the lunar regolith, while the lander's own instruments measured the thermal properties of the lunar surface, the tenuous lunar atmosphere and any electron density variation, and recorded seismic activity, cumulatively adding meaningful data to global understanding of this scientifically underexplored polar region. Chandrayaan-3's success carried significance beyond the specific data it returned. It validated India's capacity for autonomous, precision planetary landing, a demonstrably difficult engineering feat that even established spacefaring nations have failed at, and it did so at a fraction of the cost of comparable missions by other space agencies, reinforcing India's position as a cost-efficient space power. The mission's success also fed directly into subsequent Indian space ambitions, including plans for human spaceflight, further lunar and interplanetary missions, and international collaboration opportunities that a demonstrated soft-landing capability makes credible.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Space Technology"
+      ],
+      "tags": [
+        "science-technology",
+        "space"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "How Vaccines Train the Immune System",
+      "body": "Vaccination works by exposing the immune system to a harmless version or component of a pathogen, training the body's adaptive immune defences to recognise that specific threat without the person having to suffer the actual disease first. To understand why this works, it helps to distinguish innate immunity, the body's immediate, non-specific defence such as inflammation and general immune cell activity, from adaptive immunity, a slower but highly specific defence system built around two main cell types: B cells, which produce antibodies, proteins that bind precisely to a matching antigen, a distinctive molecular marker on a pathogen's surface, and T cells, which can directly kill infected cells or help coordinate the wider immune response. The first time the body encounters a genuinely new pathogen, this adaptive response takes several days to ramp up to full strength, often long enough for a fast-replicating pathogen to cause significant illness before the immune system catches up. Vaccination shortcuts this delay by pre-exposing the immune system to the pathogen's antigen in a safe form, allowing B cells and T cells specific to that antigen to be produced and, crucially, allowing a subset of these cells to persist afterward as long-lived memory cells. If the real pathogen is encountered later, these memory cells allow a dramatically faster and stronger antibody and cellular response than would occur without prior exposure, often fast enough to neutralise the pathogen before it can establish a significant infection or cause serious illness. Different vaccine platforms achieve this antigen exposure through different technical routes, each with its own trade-offs. Inactivated vaccines use a pathogen that has been killed so it cannot replicate or cause disease, while still presenting recognisable antigens to the immune system. Live-attenuated vaccines use a weakened, still-living form of the pathogen that can replicate briefly enough to generate a strong immune response but not enough to cause serious disease in a healthy recipient. Subunit and recombinant vaccines use only a specific antigenic protein or fragment from the pathogen, produced separately rather than using the whole organism, reducing certain side-effect risks at some cost to the breadth of immune response generated. Viral vector vaccines use a harmless, unrelated virus reengineered to carry genetic instructions for the target pathogen's antigen into human cells, prompting those cells to produce the antigen and trigger an immune response. Messenger RNA vaccines, which received major global attention for their rapid development during the COVID-19 pandemic, deliver a synthetic genetic instruction directly, encased in a protective lipid nanoparticle, that human cells briefly translate into the target antigen protein, again training immunity without ever introducing the live pathogen itself. Across all these platforms, the underlying principle remains constant: a controlled, safe preview of a pathogen's antigen equips the immune system with a rapid-response memory it would otherwise only acquire through the risk and cost of an actual infection.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Science and Technology in Everyday Life"
+      ],
+      "tags": [
+        "science-technology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Cloudbursts in the Himalayan Region: Mechanism and Recent Impact",
+      "body": "A cloudburst is an extreme, highly localised rainfall event, typically defined as roughly ten centimetres or more of rain falling within an hour over a small area of a few square kilometres, an intensity far beyond what normal monsoon rainfall produces and one that overwhelms drainage and slope stability almost instantly wherever it occurs. The mechanism behind a cloudburst combines orographic lifting with convective instability in a way particularly common across the Himalayan region during the monsoon season. Moisture-laden monsoon winds moving northward encounter the steep Himalayan terrain and are forced to rise rapidly, a process called orographic lifting; as this air rises, it cools and its capacity to hold water vapour drops sharply, causing rapid condensation. Where this lifting combines with locally intense convective activity, strong vertical updrafts within a developing cumulonimbus cloud, water droplets can be held aloft in growing volumes for longer than usual instead of falling as they form, until the updraft can no longer support the accumulated weight of water, at which point the entire accumulated moisture is released almost at once as an extremely intense, short-duration downpour. Because this dynamic depends on very localised terrain and convective conditions, cloudbursts are notoriously difficult to forecast with the precision needed for effective early warning, since standard weather radar and forecasting models operate at spatial and temporal resolutions generally too coarse to reliably predict exactly which narrow valley or ridge will experience a cloudburst on a given day. The consequences in Himalayan terrain are magnified by the region's steep slopes, which convert intense rainfall rapidly into flash floods and debris flows, and by loose, often geologically young and unstable soil and rock, which is highly prone to landslides when suddenly saturated. Human factors compound this natural vulnerability: unplanned construction on floodplains and steep slopes, encroachment into natural drainage channels, and deforestation for infrastructure and tourism development all reduce the landscape's natural capacity to absorb or safely channel a sudden surge of water, turning a meteorological event into a much larger humanitarian and infrastructure disaster. Recent years have seen repeated, damaging cloudburst events across Himachal Pradesh, Uttarakhand, and Jammu and Kashmir, in which sudden flash floods and landslides have swept away roads, bridges, and residential structures built close to river channels, with rescue and relief operations frequently hampered by the same difficult terrain and damaged connectivity that caused the destruction in the first place. Policy responses have focused on strengthening automatic weather stations and doppler radar coverage in high-risk Himalayan districts, promoting stricter slope-sensitive zoning and construction regulation, and improving last-mile warning dissemination to vulnerable villages, though officials and disaster management experts widely acknowledge that given the inherent unpredictability of the phenomenon at a hyper-local scale, land-use restraint and resilient infrastructure design remain at least as important as forecasting improvements in reducing the human and economic toll of future cloudburst events.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Disaster Management"
+      ],
+      "tags": [
+        "disaster-management"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "From Relief to Resilience: India's Disaster Management Shift",
+      "body": "For much of the post-independence period, India's approach to disasters was overwhelmingly reactive, organised around relief and rehabilitation after an event had already occurred, with response coordinated on an ad hoc basis by whichever ministry or state department happened to be responsible for the affected sector. The catastrophic impact of events such as the 1999 Odisha super cyclone and the 2001 Gujarat earthquake exposed the limits of this reactive model and catalysed a fundamental rethink, culminating in the Disaster Management Act of 2005, which created a structured, three-tier institutional architecture: the National Disaster Management Authority chaired by the Prime Minister at the apex, State Disaster Management Authorities chaired by Chief Ministers, and District Disaster Management Authorities at the local level, supported operationally by the National Disaster Response Force, a specialised, multi-skilled force trained for search, rescue, and specialised hazard response. The Act's central conceptual shift was to define disaster management as covering the entire cycle, prevention, mitigation, preparedness, response, relief, and reconstruction, explicitly elevating the pre-disaster phases to equal or greater importance than post-disaster relief, on the reasoning that money spent reducing risk before a disaster saves far more in damage and lives than money spent responding after it. In practice, this reoriented approach has produced several visible measures departing from the older reactive model. Early-warning systems have been substantially strengthened, including the tsunami warning system developed after the 2004 Indian Ocean tsunami and improved cyclone tracking and forecasting by the India Meteorological Department, which have allowed increasingly precise, longer-lead-time warnings that support mass evacuation before landfall, a capability credited with sharply reducing casualty counts in major cyclones over the past decade compared with similarly intense storms decades earlier. Zero-casualty targets for cyclone-prone coastal states, backed by pre-positioned relief material, cyclone shelters, and rehearsed evacuation drills, reflect an explicit preparedness orientation rather than reliance on post-event relief alone. Regular mock drills and simulation exercises, coordinated by district authorities for hazards ranging from earthquakes to industrial accidents and school-building fire safety, aim to build local response capacity and public awareness ahead of an actual event rather than improvising entirely at the moment of crisis. Risk-informed planning has also begun influencing urban and infrastructure development, with hazard and vulnerability mapping increasingly factored into building codes, land-use zoning in flood-prone and seismic zones, and infrastructure project design, though implementation of these risk-sensitive planning norms remains uneven across states and is frequently undermined by unauthorised construction and weak enforcement. International cooperation has also expanded, with India both contributing disaster relief assistance to neighbouring countries and drawing on international expertise and coordination mechanisms for large-scale domestic disasters. Collectively, these measures mark a genuine institutional and philosophical shift from disaster management as episodic post-event relief toward a continuous risk-reduction cycle, even though translating this framework fully into consistent on-ground practice, particularly in rapidly urbanising and climate-stressed regions, remains an ongoing challenge.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Disaster Management"
+      ],
+      "tags": [
+        "disaster-management"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Cyber Security Challenges from Social Media and Encrypted Messaging",
+      "body": "The widespread adoption of social media platforms and end-to-end encrypted messaging services has created a genuinely new category of internal security challenge, one that intersects law enforcement, technology policy, and civil liberties in ways traditional security frameworks were not designed to address. Several distinct risks are commonly identified. Radicalisation and recruitment increasingly occur through targeted content and closed groups on social platforms, where extremist material can reach vulnerable individuals with a speed and personalisation that older forms of propaganda distribution could not match. Coordinated disinformation campaigns, sometimes state-sponsored and sometimes driven by domestic actors, can spread rapidly enough to trigger real-world consequences, including communal tension and violence, before authorities or platforms can intervene, since viral content often outpaces both fact-checking mechanisms and content-moderation review. End-to-end encryption on messaging services, while a genuine privacy and security benefit for ordinary users, also means that criminal or terrorist coordination conducted through these channels is, by design, unreadable to intermediary platforms and largely inaccessible to law enforcement even with a lawful warrant, since neither the platform nor an intercepting agency holds the decryption key. Financial crime, including circulation of fraudulent investment schemes and coordination of money-mule networks for laundering proceeds of crime, has also migrated substantially onto social and messaging platforms, exploiting their reach and relative anonymity. India's policy response has developed along several tracks. The Information Technology Rules, most significantly the Intermediary Guidelines and Digital Media Ethics Code notified in 2021 and subsequently amended, impose due-diligence obligations on social media intermediaries, including significant social media intermediaries crossing a defined user threshold, requiring them to remove unlawful content upon government or court order within a specified time, appoint India-based compliance and grievance officers, and, controversially, enable identification of the first originator of a message on significant messaging services when required by a court order or a competent authority under specified serious offence categories, a provision that platforms using end-to-end encryption argue is technically difficult to comply with without weakening encryption for all users. The Indian Computer Emergency Response Team, CERT-In, issues binding directions on cyber incident reporting timelines, VPN and data-log retention requirements for service providers, and broader cyber hygiene practices for organisations. Law enforcement agencies have also expanded specialised cyber-crime cells and digital forensics capacity, and cooperate with platforms on content takedown requests and, within legal limits, metadata requests that do not require breaking encryption itself. The underlying policy tension, however, remains unresolved: measures that make platforms more traceable or content moderation more responsive can strengthen security agencies' ability to counter genuine threats, but the same measures raise legitimate concerns about surveillance overreach, chilling effects on legitimate speech, and the technical risks of deliberately weakening encryption that protects ordinary users' privacy and security, meaning any durable framework must continue balancing these competing imperatives rather than treating platform traceability as a cost-free security fix.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Cyber Security"
+      ],
+      "tags": [
+        "internal-security",
+        "cyber-security"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Money Laundering and India's Anti-Laundering Framework",
+      "body": "Money laundering is the process by which proceeds generated from criminal activity, drug trafficking, corruption, tax evasion, terrorism financing, or organised crime, are passed through a series of transactions designed to obscure their illegal origin, so that the funds eventually appear to come from a legitimate source and can be used openly without attracting law-enforcement scrutiny. The process is conventionally described in three overlapping stages. Placement introduces illicit cash into the formal financial system, for instance by depositing it in small amounts across multiple accounts to avoid reporting thresholds, or by mixing it with the cash revenues of a legitimate cash-intensive business. Layering follows, involving a deliberately complex series of transactions, transfers between accounts, shell companies, and often across multiple jurisdictions, meant to separate the funds from their criminal origin and make the paper trail difficult for investigators to reconstruct. Integration is the final stage, where the now-laundered funds are reintroduced into the economy through investments, real estate purchases, or business ventures, appearing to be legitimate wealth. India's principal legal instrument against this activity is the Prevention of Money Laundering Act, 2002, which criminalises money laundering, empowers the Enforcement Directorate to investigate offences and attach or confiscate property believed to be proceeds of crime even before a final conviction, and requires banks, financial institutions, and certain other regulated entities to maintain records, verify customer identity, and report suspicious transactions to the Financial Intelligence Unit-India, the national agency that receives, analyses, and disseminates financial intelligence to law enforcement. A defining and much-litigated feature of the Act is that a money-laundering offence is typically triggered by proceeds arising from a predicate offence, meaning an underlying crime listed in the Act's schedule, such as corruption, drug trafficking, or specified economic offences, which links the anti-laundering framework tightly to the investigation of that originating crime while also giving the Enforcement Directorate an independent, parallel line of investigation and asset-attachment power. Beyond domestic legislation, India participates in the global anti-money-laundering architecture through the Financial Action Task Force, an inter-governmental body that sets international standards and evaluates member countries' compliance, with a country's FATF standing carrying real consequences for its financial institutions' international correspondent banking relationships and its broader reputation as an investment destination. Prevention of money laundering is closely linked to counter-terrorism financing, since laundering channels are frequently exploited to move funds supporting terrorist activity, and to combating organised crime more broadly, since a criminal enterprise's ability to convert illicit proceeds into usable, legitimate-seeming wealth is often the very incentive sustaining the underlying criminal activity. Persistent challenges in enforcement include the cross-border and increasingly digital nature of layering transactions, which can route funds through jurisdictions with weaker regulatory oversight or through emerging channels such as cryptocurrency, the resource-intensive nature of financial forensic investigation, and the need to balance robust enforcement powers, including pre-conviction attachment, against due-process safeguards for the accused, an issue that has generated significant judicial and public debate around the Enforcement Directorate's powers under the Act.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Money Laundering"
+      ],
+      "tags": [
+        "internal-security",
+        "economic-offences"
+      ],
+      "is_current_affairs": false
+    }
+  ]
+}

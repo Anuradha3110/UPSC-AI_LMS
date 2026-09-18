@@ -1,0 +1,704 @@
+{
+  "paper": "GS1",
+  "optional_subject": null,
+  "syllabus_nodes": [
+    {
+      "title": "Indian Culture",
+      "parent_title": null,
+      "tags": [
+        "culture"
+      ]
+    },
+    {
+      "title": "Modern Indian History",
+      "parent_title": null,
+      "tags": [
+        "history",
+        "modern-india"
+      ]
+    },
+    {
+      "title": "Indian Freedom Struggle",
+      "parent_title": null,
+      "tags": [
+        "history",
+        "freedom-struggle"
+      ]
+    },
+    {
+      "title": "Post-Independence Consolidation",
+      "parent_title": null,
+      "tags": [
+        "history",
+        "post-independence"
+      ]
+    },
+    {
+      "title": "World History",
+      "parent_title": null,
+      "tags": [
+        "history",
+        "world"
+      ]
+    },
+    {
+      "title": "Indian Society",
+      "parent_title": null,
+      "tags": [
+        "society"
+      ]
+    },
+    {
+      "title": "Geography of the World",
+      "parent_title": null,
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "title": "Art Forms and Architecture",
+      "parent_title": "Indian Culture",
+      "tags": [
+        "culture",
+        "art"
+      ]
+    },
+    {
+      "title": "Literature",
+      "parent_title": "Indian Culture",
+      "tags": [
+        "culture",
+        "literature"
+      ]
+    },
+    {
+      "title": "Ancient and Medieval Religious Traditions",
+      "parent_title": "Indian Culture",
+      "tags": [
+        "culture",
+        "religion"
+      ]
+    },
+    {
+      "title": "18th Century India and British Expansion",
+      "parent_title": "Modern Indian History",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "title": "Socio-Religious Reform Movements",
+      "parent_title": "Modern Indian History",
+      "tags": [
+        "history",
+        "reform"
+      ]
+    },
+    {
+      "title": "The Revolt of 1857",
+      "parent_title": "Modern Indian History",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "title": "Moderate and Extremist Phase",
+      "parent_title": "Indian Freedom Struggle",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "title": "Gandhian Mass Movements",
+      "parent_title": "Indian Freedom Struggle",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "title": "Revolutionary and Radical Movements",
+      "parent_title": "Indian Freedom Struggle",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "title": "Integration of Princely States",
+      "parent_title": "Post-Independence Consolidation",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "title": "Reorganisation of States",
+      "parent_title": "Post-Independence Consolidation",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "title": "Industrial Revolution",
+      "parent_title": "World History",
+      "tags": [
+        "world-history"
+      ]
+    },
+    {
+      "title": "World Wars and their Consequences",
+      "parent_title": "World History",
+      "tags": [
+        "world-history"
+      ]
+    },
+    {
+      "title": "Colonization and Decolonization",
+      "parent_title": "World History",
+      "tags": [
+        "world-history"
+      ]
+    },
+    {
+      "title": "Diversity of India and Social Empowerment",
+      "parent_title": "Indian Society",
+      "tags": [
+        "society"
+      ]
+    },
+    {
+      "title": "Poverty, Population and Development Issues",
+      "parent_title": "Indian Society",
+      "tags": [
+        "society"
+      ]
+    },
+    {
+      "title": "Role of Women and Women's Organizations",
+      "parent_title": "Indian Society",
+      "tags": [
+        "society",
+        "women"
+      ]
+    },
+    {
+      "title": "Communalism, Regionalism and Secularism",
+      "parent_title": "Indian Society",
+      "tags": [
+        "society"
+      ]
+    },
+    {
+      "title": "Physical Geography — Landforms and Climate",
+      "parent_title": "Geography of the World",
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "title": "Distribution of Key Natural Resources",
+      "parent_title": "Geography of the World",
+      "tags": [
+        "geography"
+      ]
+    },
+    {
+      "title": "Important Geophysical Phenomena",
+      "parent_title": "Geography of the World",
+      "tags": [
+        "geography"
+      ]
+    }
+  ],
+  "pyqs": [
+    {
+      "year": 2014,
+      "marks": 2,
+      "question_text": "Which one of the following pairs of island groups is separated from one another by the 'Ten Degree Channel'?",
+      "node_titles": [
+        "Physical Geography — Landforms and Climate"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Andaman Islands and Nicobar Islands"
+        },
+        {
+          "label": "B",
+          "text": "Nicobar Islands and Sumatra"
+        },
+        {
+          "label": "C",
+          "text": "Lakshadweep and Maldives"
+        },
+        {
+          "label": "D",
+          "text": "Andaman Islands and Myanmar coast"
+        }
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2013,
+      "marks": 2,
+      "question_text": "With reference to the religious history of ancient India, consider the following statements about beliefs common to both Buddhism and Jainism: 1. Both reject the extremes of severe penance and worldly comfort. 2. Both accept Ahimsa (non-injury to living beings) as central to conduct. 3. Both accept the authority of the Vedas. Which of the statements given above is/are correct?",
+      "node_titles": [
+        "Ancient and Medieval Religious Traditions"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "1 and 2 only"
+        },
+        {
+          "label": "B",
+          "text": "2 and 3 only"
+        },
+        {
+          "label": "C",
+          "text": "1 and 3 only"
+        },
+        {
+          "label": "D",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2019,
+      "marks": 2,
+      "question_text": "The Brahmo Samaj founded by Raja Ram Mohan Roy in 1828 worked mainly for which of the following?",
+      "node_titles": [
+        "Socio-Religious Reform Movements"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Revival of Vedic yajnas and rituals"
+        },
+        {
+          "label": "B",
+          "text": "Abolition of idol worship and social evils such as Sati"
+        },
+        {
+          "label": "C",
+          "text": "Promotion of caste-based education"
+        },
+        {
+          "label": "D",
+          "text": "Establishment of a separate political party"
+        }
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2020,
+      "marks": 2,
+      "question_text": "Who among the following was NOT one of the principal leaders directly associated with the Revolt of 1857?",
+      "node_titles": [
+        "The Revolt of 1857"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Rani Lakshmibai"
+        },
+        {
+          "label": "B",
+          "text": "Tantia Tope"
+        },
+        {
+          "label": "C",
+          "text": "Bahadur Shah Zafar"
+        },
+        {
+          "label": "D",
+          "text": "Vasudev Balwant Phadke"
+        }
+      ],
+      "correct_option": "D",
+      "marking_scheme": null
+    },
+    {
+      "year": 2016,
+      "marks": 2,
+      "question_text": "The 'Swadeshi and Boycott' movement of 1905 was launched by Indian nationalists as a direct response to which of the following?",
+      "node_titles": [
+        "Moderate and Extremist Phase"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The Partition of Bengal"
+        },
+        {
+          "label": "B",
+          "text": "The Rowlatt Act"
+        },
+        {
+          "label": "C",
+          "text": "The Ilbert Bill controversy"
+        },
+        {
+          "label": "D",
+          "text": "The Jallianwala Bagh massacre"
+        }
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2018,
+      "marks": 2,
+      "question_text": "Mahatma Gandhi called off the Non-Cooperation Movement in February 1922 mainly in the aftermath of which incident?",
+      "node_titles": [
+        "Gandhian Mass Movements"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The Jallianwala Bagh massacre"
+        },
+        {
+          "label": "B",
+          "text": "The Chauri Chaura incident"
+        },
+        {
+          "label": "C",
+          "text": "The Poona Pact"
+        },
+        {
+          "label": "D",
+          "text": "The arrival of the Simon Commission"
+        }
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2017,
+      "marks": 2,
+      "question_text": "Who headed the States Ministry that was primarily responsible for the political integration of the princely states into the Indian Union after 1947?",
+      "node_titles": [
+        "Integration of Princely States"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "label": "B",
+          "text": "Sardar Vallabhbhai Patel"
+        },
+        {
+          "label": "C",
+          "text": "C. Rajagopalachari"
+        },
+        {
+          "label": "D",
+          "text": "Maulana Abul Kalam Azad"
+        }
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2021,
+      "marks": 2,
+      "question_text": "The States Reorganisation Act, 1956, which redrew India's internal boundaries broadly along linguistic lines, was based on the recommendations of which body?",
+      "node_titles": [
+        "Reorganisation of States"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Fazl Ali Commission"
+        },
+        {
+          "label": "B",
+          "text": "Dhar Commission"
+        },
+        {
+          "label": "C",
+          "text": "JVP Committee"
+        },
+        {
+          "label": "D",
+          "text": "Sarkaria Commission"
+        }
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2012,
+      "marks": 2,
+      "question_text": "The Industrial Revolution that began in Britain in the second half of the eighteenth century was first triggered by major technological change in which industry?",
+      "node_titles": [
+        "Industrial Revolution"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron and steel"
+        },
+        {
+          "label": "B",
+          "text": "Cotton textiles"
+        },
+        {
+          "label": "C",
+          "text": "Railways"
+        },
+        {
+          "label": "D",
+          "text": "Coal mining"
+        }
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2015,
+      "marks": 2,
+      "question_text": "The League of Nations, the institutional precursor to the United Nations, was established as a direct consequence of which treaty?",
+      "node_titles": [
+        "World Wars and their Consequences"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Treaty of Versailles"
+        },
+        {
+          "label": "B",
+          "text": "Treaty of Vienna"
+        },
+        {
+          "label": "C",
+          "text": "Treaty of Paris"
+        },
+        {
+          "label": "D",
+          "text": "Treaty of Westphalia"
+        }
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2022,
+      "marks": 2,
+      "question_text": "'Scheduled Tribes' in India are notified with respect to any State or Union Territory under which Article of the Constitution?",
+      "node_titles": [
+        "Diversity of India and Social Empowerment"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Article 341"
+        },
+        {
+          "label": "B",
+          "text": "Article 342"
+        },
+        {
+          "label": "C",
+          "text": "Article 366(25)"
+        },
+        {
+          "label": "D",
+          "text": "Article 244"
+        }
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2023,
+      "marks": 2,
+      "question_text": "India's largest reserves of monazite sands, an important source of thorium, are found chiefly along the coast of which state?",
+      "node_titles": [
+        "Distribution of Key Natural Resources"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Kerala"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Indian Painting and Architectural Traditions",
+      "body": "India's visual art heritage spans mural painting, portable miniature painting, sculpture, and monumental architecture, each carrying distinct regional signatures. The earliest surviving murals appear on the rock-cut cave walls of Ajanta and, later, Bagh and Ellora, where Buddhist artists used natural mineral pigments on a lime-plastered surface to depict Jataka tales, court scenes, and devotional figures with remarkable fluidity of line. This mural tradition is technically a form of fresco-secco, since pigment was applied to plaster that had already dried, rather than the wet-plaster buon fresco technique associated with Renaissance Europe. From roughly the twelfth century, as manuscript culture spread, painting migrated onto palm leaf and later paper in a smaller, more intimate format: the miniature. Distinct regional schools emerged over the following centuries. The Pala school in eastern India illustrated Buddhist manuscripts with delicate, elongated figures. The Western Indian or Jaina school, centred in Gujarat and Rajasthan, produced angular figures with a characteristic protruding far eye, seen in the Kalpasutra manuscripts. Under the Mughals, from Akbar's reign onward, an imperial atelier fused Persian technique with Indian subject matter and European naturalism to produce detailed historical and portrait painting, as seen in the Akbarnama and Baburnama. Rajput courts across Rajasthan and the Punjab hills developed their own idioms in parallel: the bold colour and devotional themes of the Rajasthani school, and the lyrical, softer Pahari school associated with Kangra and Basohli, which drew heavily on Krishna-Radha romantic and devotional themes. Architecture followed a comparable pattern of regional divergence built on a shared vocabulary. Temple architecture is conventionally classed into the Nagara style of the north, marked by a curvilinear shikhara tower, and the Dravida style of the south, marked by a stepped, pyramidal vimana and enclosing gopuram gateways, with a hybrid Vesara style associated with the Deccan combining features of both. Indo-Islamic architecture, from the Delhi Sultanate through the Mughals, introduced the true arch, dome, and minaret, and blended them with indigenous craftsmanship to produce structures such as the Qutub Minar complex and the Taj Mahal. Together, these painting and architectural traditions illustrate a recurring theme in Indian cultural history: successive political and religious influences were absorbed and re-expressed through enduring regional idioms rather than simply replacing what came before.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Art Forms and Architecture"
+      ],
+      "tags": [
+        "culture",
+        "art"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Buddhism and Jainism: Shared Roots, Divergent Paths",
+      "body": "Buddhism and Jainism both arose in the sixth century BCE in the middle Gangetic plain, at a time of intense intellectual ferment against the ritual-heavy, Vedic sacrificial religion dominated by Brahmin priests. Both traditions are classed as heterodox or nastika schools because they did not accept the authority of the Vedas, and both offered a path to liberation that did not depend on caste status or priestly intermediaries, which made them attractive to the rising merchant and artisan classes of new urban centres such as Kashi, Vaishali, and Rajagriha. Their founders, Siddhartha Gautama the Buddha and Vardhamana Mahavira, were rough contemporaries and both born into the Kshatriya warrior class before renouncing worldly life. Despite these shared origins, the two traditions differ sharply in doctrine and practice. Jainism, as systematised by Mahavira as the twenty-fourth Tirthankara, teaches an eternal, uncreated universe governed by strict ethical discipline built around the five vows: non-violence, truth, non-stealing, chastity, and non-possession. Ahimsa in Jainism is taken to an extreme degree, extending even to microscopic organisms, which historically shaped Jain dietary practice and occupational choices toward trade and commerce rather than agriculture, since tilling soil risks harming living creatures. Jainism does not posit a creator god, but it does accept a soul, or jiva, that is purified through austerity across many lifetimes until it achieves liberation, or moksha. Buddhism, by contrast, is built around the Buddha's Four Noble Truths and the Eightfold Path, a middle way that explicitly rejects both self-indulgence and the extreme asceticism practised by some Jain monks. Buddhist philosophy denies a permanent, unchanging soul, teaching instead the doctrine of anatta, or non-self, alongside impermanence and dependent origination. Buddhism split over subsequent centuries into schools such as Theravada, which stayed closer to the historical Buddha's teachings, and Mahayana, which developed the Bodhisattva ideal of postponing one's own final liberation to help others attain it, and which eventually spread across Central and East Asia far more widely than Jainism, which remained largely confined to the Indian subcontinent. Both religions nevertheless left a permanent institutional mark on India through their monastic orders, or sanghas, and both received crucial royal patronage, Buddhism most famously from Ashoka and Jainism from rulers such as Kharavela of Kalinga, cementing their place as the two great non-Vedic responses to early Indian religious life.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Ancient and Medieval Religious Traditions"
+      ],
+      "tags": [
+        "culture",
+        "religion",
+        "ancient-history"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "British Economic Policies and the Drain of Wealth Theory",
+      "body": "The transformation of the East India Company from a trading concern into a territorial power after the Battle of Plassey in 1757 changed the fundamental character of Britain's economic relationship with India. Where earlier European trade with India had involved paying for goods largely in silver bullion because Indian textiles and spices were in high demand and Europe had little the Indian market wanted in return, the Company's acquisition of the Diwani, or revenue-collecting rights, over Bengal in 1765 let it pay for Indian exports out of taxes collected from Indian cultivators themselves. Indian nationalist economists of the late nineteenth century, most influentially Dadabhai Naoroji in his work Poverty and Un-British Rule in India, termed this one-way, unrequited transfer of wealth from India to Britain the 'Drain of Wealth'. The drain took several concrete forms over the following century: home charges paid by the colonial government to Britain for administrative and military expenses incurred there, interest payments on debt raised in London, salaries and pensions of British officials remitted home, and guaranteed returns paid to British investors in Indian railways regardless of whether those railways were profitable. Alongside the drain, British commercial policy deliberately reshaped Indian industry to suit metropolitan interests. Heavy duties were imposed on Indian handicraft exports to Britain while British machine-made goods, particularly Manchester cotton textiles, entered India duty-free or at nominal tariffs after the Company's monopoly ended in 1813, undermining India's centuries-old handloom weaving industry and pushing artisans back onto agriculture. Land revenue settlements such as the Permanent Settlement in Bengal, the Ryotwari system in Madras and Bombay, and the Mahalwari system in parts of the north, each restructured agrarian relations differently, but all were designed first to maximise and stabilise colonial revenue rather than cultivator welfare, and all contributed to recurring indebtedness and periodic famine. Railways, often cited as a modernising British contribution, were built primarily to move raw materials to ports for export and finished British goods inland, and financed on terms, the guaranteed-return system, that shifted commercial risk onto Indian taxpayers. Naoroji's drain theory, later extended by economists such as R. C. Dutt, became a foundational argument of early economic nationalism, giving the independence movement a quantifiable grievance and shaping the demand for Swadeshi industry as a direct economic counter-measure.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "18th Century India and British Expansion"
+      ],
+      "tags": [
+        "history",
+        "economic-history"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Age of Reform: Brahmo Samaj to Arya Samaj",
+      "body": "The nineteenth century saw a wave of socio-religious reform movements across India that sought to modernise Hindu society from within, typically by appealing back to what reformers argued was a purer, more rational classical or Vedic tradition uncorrupted by later superstition and priestly excess. Raja Ram Mohan Roy, often called the father of the Indian renaissance, founded the Brahmo Sabha in Calcutta in 1828, later reorganised as the Brahmo Samaj. Roy rejected idol worship, ritualism, and the caste system, drawing selectively on Upanishadic monotheism, Islamic and Christian ethical ideas, and Enlightenment rationalism. He campaigned most famously against Sati, the practice of widow immolation, and his advocacy contributed directly to Governor-General William Bentinck's Bengal Sati Regulation of 1829, which criminalised the practice. After Roy's death the Samaj split, with Keshab Chandra Sen later leading a more radical, universalist Brahmo faction while Debendranath Tagore's faction retained closer ties to Hindu scriptural tradition. A markedly different reform current emerged further west with Swami Dayananda Saraswati, who founded the Arya Samaj in Bombay in 1875. Where the Brahmo Samaj was eclectic and syncretic, Dayananda's movement was explicitly revivalist, built on the slogan 'Back to the Vedas' and the claim that the Vedas alone, correctly understood, contained all necessary religious and even scientific truth, with later accretions such as idol worship, caste by birth, and child marriage dismissed as corruptions. The Arya Samaj nonetheless pursued practical reform: it opposed untouchability and Sati, supported widow remarriage and women's education, and later ran a network of Dayanand Anglo-Vedic schools that combined Western-style education with Vedic instruction. It also introduced Shuddhi, a ritual of reconversion to Hinduism, which had significant social and political consequences in the twentieth century. Other reformers worked in parallel: Ishwar Chandra Vidyasagar campaigned successfully for the Hindu Widows' Remarriage Act of 1856, Jyotirao Phule attacked caste oppression and Brahminical dominance through the Satyashodhak Samaj in Maharashtra, and later Swami Vivekananda, through the Ramakrishna Mission founded in 1897, married social service with a confident, reformed Vedanta presented to a global audience. Collectively, these movements did not simply resist colonial rule directly, but they built the intellectual and organisational habits, associations, the press, public petitioning, that the later political nationalist movement would draw on directly.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Socio-Religious Reform Movements"
+      ],
+      "tags": [
+        "history",
+        "reform"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "1857: Causes, Course and Consequences",
+      "body": "The uprising of 1857, described variously by historians as a sepoy mutiny, a civil rebellion, or India's first war of independence, erupted against a backdrop of accumulated grievances across military, economic, social, and political domains rather than from a single trigger. Politically, Governor-General Lord Dalhousie's Doctrine of Lapse, under which princely states without a natural male heir were annexed by the Company, had dispossessed rulers such as the adopted heir of Jhansi and provoked deep resentment among the aristocracy; the annexation of Awadh in 1856 on grounds of misgovernance alienated both its deposed Nawab and the many Awadhi peasants who served in the Bengal Army. Economically, land revenue policies and the decline of traditional handicrafts under British trade policy had impoverished peasants and artisans alike. Socially, missionary activity and reforms such as the abolition of Sati and legalisation of widow remarriage, though progressive, were perceived by conservative sections as interference in religious custom, feeding suspicion of a deliberate British agenda to convert India to Christianity. The immediate spark was military: the introduction of the new Enfield rifle cartridge, greased reportedly with cow and pig fat and requiring soldiers to bite it open, offended both Hindu and Muslim sepoys. The revolt began at Meerut in May 1857 when sepoys mutinied, killed their officers, and marched to Delhi to proclaim the aged Mughal emperor Bahadur Shah Zafar as their nominal sovereign, a symbolic move that gave the rebellion a unifying, if largely titular, leadership. The uprising spread rapidly across the Gangetic plain, with major centres of resistance at Kanpur, led by Nana Sahib and Tantia Tope, at Lucknow, and at Jhansi, where Rani Lakshmibai became one of the rebellion's most iconic figures. However, the revolt remained geographically uneven, it barely touched Bengal, Bombay, Madras, or the Punjab, and it lacked coordinated leadership, a shared ideology, or modern weaponry, allowing British forces, reinforced from Britain and aided by loyal Indian troops, particularly Sikh and Gurkha units, to suppress it by mid-1858. The consequences were far-reaching. The British Crown abolished the East India Company's rule under the Government of India Act 1858, transferring administration directly to the Crown under a Secretary of State and a Viceroy. The Mughal dynasty was formally ended, and British policy shifted toward caution: princely states were no longer annexed, the army was reorganised to increase the proportion of British troops and recruit more heavily from so-called 'martial races', and a deliberate policy of divide-and-rule between religious communities gained new prominence in subsequent decades.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "The Revolt of 1857"
+      ],
+      "tags": [
+        "history"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "From Moderates to Extremists: The Congress's Early Decades",
+      "body": "The Indian National Congress, founded in 1885 with A. O. Hume playing a key organisational role and Womesh Chandra Bonnerjee presiding over its first session in Bombay, spent its first two decades under leaders historians now group as the Moderates. Figures such as Dadabhai Naoroji, Gopal Krishna Gokhale, Surendranath Banerjee, and Pherozeshah Mehta believed in constitutional methods, prayer, petition, and reasoned argument addressed to the British Parliament and public opinion, aimed at gradual reform within the Empire rather than outright independence. Their demands centred on Indianisation of the civil services, expansion of legislative councils, separation of the judiciary from the executive, reduction of military expenditure, and economic grievances captured in Naoroji's drain-of-wealth critique. By the turn of the century, a younger and more assertive current, later called the Extremists, grew impatient with the Moderates' faith in British fairness and their limited popular base. Bal Gangadhar Tilak, Bipin Chandra Pal, and Lala Lajpat Rai, together known as Lal-Bal-Pal, argued for Swaraj as an inherent right rather than a favour to be petitioned for, and championed mass mobilisation, boycott of British goods and institutions, and the revival of cultural and religious symbols, Tilak's public Ganapati and Shivaji festivals being prominent examples, to build a broader popular base beyond the English-educated elite. The catalytic event that hardened this Moderate-Extremist divide into open conflict was Lord Curzon's partition of Bengal in 1905, ostensibly for administrative convenience but widely seen as a deliberate attempt to weaken Bengali political influence and split Hindus from the Muslim-majority eastern districts. The partition triggered the Swadeshi movement, involving boycott of foreign goods, promotion of indigenous industry, and national education, which spread Extremist methods and rhetoric across the country. The tension between the two factions came to a head at the 1907 Surat session of Congress, which split acrimoniously into Moderate and Extremist factions, weakening the organisation for several years. The two wings eventually reunited at the Lucknow session in 1916, the same session at which Congress and the Muslim League reached the Lucknow Pact on Hindu-Muslim political cooperation, setting the stage for the mass phase of the freedom struggle that Gandhi would soon lead.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Moderate and Extremist Phase"
+      ],
+      "tags": [
+        "history",
+        "freedom-struggle"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Gandhi's Mass Movements: Non-Cooperation to Quit India",
+      "body": "Mohandas Karamchand Gandhi's return to India in 1915, after honing satyagraha as a method of non-violent resistance among the Indian community in South Africa, gradually transformed the Indian National Congress from an elite, English-educated body into a genuine mass movement. His early domestic interventions at Champaran in 1917, over indigo cultivation, and Kheda and Ahmedabad in 1918, over peasant and mill-worker grievances, established his method and credibility before he took on all-India leadership. The Non-Cooperation Movement, launched in 1920, was Gandhi's first nationwide campaign, combining the grievance over the Rowlatt Act and the Jallianwala Bagh massacre of 1919 with the Khilafat movement's concern over the post-war treatment of the Ottoman Caliph, allowing Gandhi to forge an unprecedented, if temporary, Hindu-Muslim political alliance. The movement called for surrender of British titles, boycott of legislative councils, courts, and government schools, and promotion of Swadeshi and hand-spun khadi. Gandhi abruptly called it off in February 1922 after a mob at Chauri Chaura in the United Provinces killed police constables, since he insisted the movement remain strictly non-violent, a decision that disappointed many younger nationalists but reinforced his authority as the movement's moral arbiter. The Civil Disobedience Movement followed in 1930, launched dramatically with the Dandi Salt March, a 240-mile walk to the Gujarat coast to illegally produce salt in symbolic defiance of the government's salt monopoly and tax. The movement spread to widespread breaking of other unpopular laws, non-payment of taxes, and boycott of foreign cloth, and led to the Gandhi-Irwin Pact of 1931, under which Gandhi agreed to attend the Second Round Table Conference in London in exchange for the release of political prisoners, though the conference itself achieved little on the central question of constitutional advance. A second phase of civil disobedience followed from 1932 to 1934 after the conference's failure. The final and most decisive mass movement was Quit India, launched in August 1942 after the failure of the Cripps Mission to offer an acceptable constitutional settlement during the Second World War. Gandhi's call to 'Do or Die' triggered a spontaneous, often violent, and severely repressed uprising, with the entire Congress leadership arrested within hours, leaving local leaders and, in some regions, parallel underground governments to sustain the movement. Though militarily contained by the British within months, Quit India signalled unmistakably that continued colonial rule in India had become untenable, decisively shaping the post-war British decision to negotiate a transfer of power.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Gandhian Mass Movements"
+      ],
+      "tags": [
+        "history",
+        "freedom-struggle"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Integrating a Fractured Map: Princely States after 1947",
+      "body": "When British paramountcy lapsed with independence and partition in August 1947, India inherited not a single unified territory but a patchwork of over five hundred princely states, ranging from tiny estates to large kingdoms such as Hyderabad and Kashmir, each technically free to choose accession to India, accession to Pakistan, or theoretical independence. The task of persuading, and where necessary pressuring, these states to join the Indian Union fell to the States Ministry, with Sardar Vallabhbhai Patel as its political head and V. P. Menon as its chief administrator and principal negotiator. Patel and Menon combined firm political pressure, appeals to shared destiny, and the practical incentive of a privy purse, a guaranteed annual payment to former rulers in exchange for surrendering sovereignty, to secure accession from the great majority of states by an Instrument of Accession that transferred control over defence, external affairs, and communications to the Union while initially leaving other subjects with the state. Most rulers, recognising the impracticality of independent survival, signed on relatively swiftly. Three states, however, proved far harder. Junagadh, a small Gujarat state with a Muslim ruler but overwhelmingly Hindu population, initially acceded to Pakistan; India responded with a blockade and, after popular unrest, held a plebiscite that confirmed accession to India. Hyderabad, the largest and richest princely state, ruled by a Muslim Nizam over a majority-Hindu population, resisted accession altogether; India launched a police action codenamed Operation Polo in September 1948, and Hyderabad was integrated after a brief military campaign. Jammu and Kashmir presented the most complex case: its Hindu ruler, Maharaja Hari Singh, initially sought to remain independent, but after a tribal invasion backed by Pakistan in October 1947, he signed the Instrument of Accession to India in exchange for military assistance, a decision whose legal and political consequences, including the promise of an eventual plebiscite that was never held, continue to shape India-Pakistan relations. Beyond these crisis cases, integration proceeded through a graded process: many smaller states were merged directly into neighbouring provinces, while larger ones were grouped into new unions such as the Patiala and East Punjab States Union, Saurashtra, and Rajasthan, administered initially as separate constituent units before later state reorganisation. By 1950, virtually the entire subcontinental territory that is now India had been brought under a single constitutional and administrative framework, an achievement widely regarded as one of the most remarkable feats of political consolidation in modern history.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Integration of Princely States"
+      ],
+      "tags": [
+        "history",
+        "post-independence"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Monsoon Mechanics and India's Climate",
+      "body": "India's climate is dominated by the southwest and northeast monsoon systems, seasonal wind reversals that arise from the differential heating of land and ocean across the Indian Ocean and Asian landmass. During summer, intense solar heating over the Tibetan plateau and the northern Indian plains creates a large low-pressure zone, while the surrounding Indian Ocean remains comparatively cool, generating a pressure gradient that draws moisture-laden winds from the southwest across the Arabian Sea and Bay of Bengal onto the subcontinent from roughly June to September. This southwest monsoon splits into an Arabian Sea branch, which strikes the Western Ghats and produces heavy orographic rainfall on their windward slopes while leaving the leeward Deccan plateau comparatively dry in a rain-shadow effect, and a Bay of Bengal branch, which sweeps up through the northeast, delivering the exceptionally heavy rainfall recorded at Mawsynram and Cherrapunji in Meghalaya, before curving westward along the Himalayan foothills and across the Gangetic plain. In winter, the process reverses: the Asian landmass cools faster than the ocean, building a high-pressure cell over the interior that drives dry, northeasterly winds outward across most of India, though this northeast monsoon picks up moisture crossing the Bay of Bengal and brings the bulk of annual rainfall to Tamil Nadu's Coromandel coast between October and December, since that coast lies in the rain shadow of the southwest monsoon's Bay of Bengal branch but directly in the path of the retreating northeast flow. The monsoon's arrival and retreat are not simultaneous across the country; onset typically begins over Kerala in early June and progressively advances northward over roughly six weeks, while withdrawal begins from northwest India in September and retreats southward over a similar period. The monsoon's strength and timing are influenced by large-scale phenomena including the El Nino-Southern Oscillation, whose warm phase is statistically associated with weaker, delayed monsoons and drought risk in India, and the Indian Ocean Dipole, whose positive phase tends to offset El Nino's suppressing effect. Beyond the monsoon, India's climate is shaped by the Himalayan barrier, which blocks cold Central Asian air masses from reaching the plains in winter and forces monsoon moisture to deposit as rain rather than pass over the subcontinent, and by continentality and latitude, which together produce the country's range from the near-desert conditions of western Rajasthan to the perhumid climate of the northeastern hills. Because agriculture, water supply, and hydropower across India remain heavily monsoon-dependent, variability in monsoon timing and intensity carries direct economic and food-security consequences each year.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Physical Geography — Landforms and Climate"
+      ],
+      "tags": [
+        "geography",
+        "climate"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Gender and Development: Women's Movements in India",
+      "body": "Organised advocacy for women's status in India traces back to nineteenth-century reform movements, when male reformers such as Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar, and later Jyotirao and Savitribai Phule campaigned against Sati, for widow remarriage, and for girls' education, often working alongside or ahead of women themselves gaining organisational voice. By the early twentieth century, women began forming their own associations rather than relying solely on male-led reform: the Women's Indian Association was founded in 1917, followed by the National Council of Women in India and, significantly, the All India Women's Conference in 1927, which campaigned on issues including child marriage, purdah, and women's education, and later played a role in shaping the Constitution's provisions on gender equality. Women's participation in the freedom struggle itself, from Sarojini Naidu's leadership within Congress to the mass participation of women in the Salt Satyagraha and Quit India movement, and armed participation through units such as the Rani of Jhansi Regiment in the Indian National Army, both expanded the public role available to women and built a base of political experience that carried into the post-independence period. After independence, the Constitution guaranteed formal equality, including Article 15's prohibition of discrimination on the ground of sex and Article 39's directive toward equal pay for equal work, but the first decades saw comparatively limited grassroots mobilisation on gender specifically, as issues were often subsumed within broader class or community politics. This changed markedly from the 1970s. The Report of the Committee on the Status of Women in India, 'Towards Equality', published in 1974, documented declining sex ratios and persistent disparities in health, education, and political representation, and is widely credited with reigniting an autonomous women's movement in India. This period saw campaigns against dowry deaths, custodial rape, following the Mathura rape case, and sex-selective abortion, alongside grassroots ecological and labour movements with strong women's leadership, such as the Chipko movement and the Self-Employed Women's Association founded by Ela Bhatt in Ahmedabad in 1972, which organised informal-sector women workers around livelihood and credit access. Legislative milestones followed across subsequent decades, including the 73rd and 74th Constitutional Amendments of 1992 reserving one-third of seats for women in panchayats and municipalities, the Protection of Women from Domestic Violence Act of 2005, and the Sexual Harassment of Women at Workplace Act of 2013. Contemporary debates continue over the pending Women's Reservation Bill for Parliament and state legislatures, passed in 2023 but not yet implemented, and over the gap between formal legal equality and persistent gaps in female labour-force participation, political representation, and safety.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Role of Women and Women's Organizations"
+      ],
+      "tags": [
+        "society",
+        "women"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "World Wars and the Remaking of the Global Order",
+      "body": "The two World Wars of the twentieth century each dismantled and rebuilt the international order in ways that shaped India's own trajectory. The First World War, 1914 to 1918, was triggered immediately by the assassination of Archduke Franz Ferdinand in Sarajevo in 1914 but grew out of longer-term tensions: a rigid alliance system dividing Europe into the Triple Entente and Triple Alliance, an arms race, competitive imperialism, and rising nationalism in the Balkans. The war's unprecedented industrial scale, trench warfare, mass conscription, and colonial mobilisation of resources and manpower, including over a million Indian soldiers, exhausted the old European empires. Its end brought the Treaty of Versailles in 1919, which imposed harsh reparations and territorial losses on a defeated Germany, redrew the map of Central and Eastern Europe as the Austro-Hungarian and Ottoman empires collapsed, and established the League of Nations as the first permanent international body meant to prevent future wars through collective security. The League's fatal weaknesses, the absence of the United States, no standing enforcement mechanism, and the ease with which major powers such as Japan and Italy defied it in the 1930s, meant it failed to stop the aggressions that led to the Second World War. That war, 1939 to 1945, began with Germany's invasion of Poland and drew in the Soviet Union after Germany's 1941 invasion and the United States after Japan's attack on Pearl Harbor, becoming the most destructive conflict in history, culminating in the Holocaust and the first and only use of nuclear weapons, against Hiroshima and Nagasaki. India, though not independent, was drawn in as a major supplier of manpower and materiel, and the war's political fallout, including the failure of the Cripps Mission and the subsequent Quit India movement, accelerated the endgame of British rule. The war's conclusion reshaped the world order more thoroughly than 1919 had: the United Nations replaced the League with a Security Council structure giving veto power to five major victors, colonial empires began their rapid post-war dissolution as Britain and France could no longer sustain them, and a new bipolar order emerged as the wartime alliance between the United States and Soviet Union broke down into the Cold War, with Europe divided along the Iron Curtain. Institutions born in this period, the Bretton Woods system underpinning the World Bank and International Monetary Fund, and the UN's various specialised agencies, continue to structure international economic and political relations today, making the settlement after 1945 arguably the more consequential of the two post-war orders for the world India was born into as an independent state in 1947.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "World Wars and their Consequences"
+      ],
+      "tags": [
+        "world-history"
+      ],
+      "is_current_affairs": false
+    }
+  ]
+}

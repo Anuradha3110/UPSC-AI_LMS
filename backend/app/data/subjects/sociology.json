@@ -1,0 +1,292 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Sociology",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["sociology-paper-1"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["sociology-paper-2"]},
+    {"title": "Sociology - The Discipline", "parent_title": "Paper I", "tags": ["fundamentals", "discipline"]},
+    {"title": "Sociology as Science", "parent_title": "Paper I", "tags": ["scientific-method", "positivism"]},
+    {"title": "Research Methods and Analysis of Data", "parent_title": "Paper I", "tags": ["methodology", "sampling"]},
+    {"title": "Karl Marx", "parent_title": "Paper I", "tags": ["marxism", "historical-materialism"]},
+    {"title": "Emile Durkheim", "parent_title": "Paper I", "tags": ["structural-functionalism", "anomie"]},
+    {"title": "Max Weber", "parent_title": "Paper I", "tags": ["verstehen", "bureaucracy", "rationalization"]},
+    {"title": "Talcott Parsons and Robert Merton", "parent_title": "Paper I", "tags": ["functionalism", "manifest-latent-functions"]},
+    {"title": "Mead and Symbolic Interactionism", "parent_title": "Paper I", "tags": ["symbolic-interactionism", "self"]},
+    {"title": "Stratification and Social Mobility", "parent_title": "Paper I", "tags": ["stratification", "mobility", "sanskritisation"]},
+    {"title": "Works and Economic Life", "parent_title": "Paper I", "tags": ["economic-sociology", "labour"]},
+    {"title": "Politics and Society", "parent_title": "Paper I", "tags": ["political-sociology", "power", "civil-society"]},
+    {"title": "Religion and Society", "parent_title": "Paper I", "tags": ["sociology-of-religion", "secularisation"]},
+    {"title": "Systems of Kinship and Family", "parent_title": "Paper I", "tags": ["kinship", "family", "marriage"]},
+    {"title": "Social Change in Modern Society", "parent_title": "Paper I", "tags": ["social-change", "modernisation"]},
+    {"title": "Perspectives on the Study of Indian Society", "parent_title": "Paper II", "tags": ["indian-society", "colonial-impact"]},
+    {"title": "Rural and Agrarian Social Structure in India", "parent_title": "Paper II", "tags": ["rural-sociology", "agrarian-class"]},
+    {"title": "Caste System in India", "parent_title": "Paper II", "tags": ["caste", "varna-jati"]},
+    {"title": "Tribal Communities in India", "parent_title": "Paper II", "tags": ["tribal-society", "displacement"]},
+    {"title": "Social Classes in India", "parent_title": "Paper II", "tags": ["agrarian-class", "middle-class", "industrial-class"]},
+    {"title": "Visions of Social Change in India", "parent_title": "Paper II", "tags": ["gandhi", "ambedkar", "marxist-approach"]},
+    {"title": "Rural and Agrarian Transformation in India", "parent_title": "Paper II", "tags": ["land-reforms", "green-revolution"]},
+    {"title": "Industrialization and Urbanisation in India", "parent_title": "Paper II", "tags": ["industrialisation", "urbanisation"]},
+    {"title": "Caste, Ethnicity and Politics in India", "parent_title": "Paper II", "tags": ["caste-politics", "ethnicity"]},
+    {"title": "Social Movements in Modern India", "parent_title": "Paper II", "tags": ["social-movements", "civil-society"]},
+    {"title": "Peasant and Farmers Movements", "parent_title": "Paper II", "tags": ["peasant-movement", "farmer-protest"]},
+    {"title": "Women's Movement in India", "parent_title": "Paper II", "tags": ["women-movement", "feminism"]},
+    {"title": "Population Dynamics in India", "parent_title": "Paper II", "tags": ["demography-india", "family-planning"]},
+    {"title": "Challenges of Social Transformation in India", "parent_title": "Paper II", "tags": ["communalism", "regionalism", "ethnicity"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2021,
+      "marks": 20,
+      "question_text": "Discuss the changing family structure in India in the context of globalization.",
+      "node_titles": ["Systems of Kinship and Family"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for defining traditional joint family features, then charting shifts (nuclearisation, dual-income households, delayed marriage, migration effects) linked explicitly to globalization drivers such as labour mobility and media exposure. Full marks need at least one empirical study or survey reference and a balanced conclusion noting continuity alongside change, within roughly 250 words."
+    },
+    {
+      "year": 2021,
+      "marks": 10,
+      "question_text": "Bring out the difference between sect and cult as religious organizations.",
+      "node_titles": ["Religion and Society"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a clear typological contrast: sect as a breakaway, exclusivist, high-tension group demanding strong commitment versus cult as loosely organised, syncretic, and centred on individual spiritual experience. Credit examples and a note on how both differ from an established church, in about 150 words."
+    },
+    {
+      "year": 2020,
+      "marks": 20,
+      "question_text": "Discuss the role of caste in Indian politics with special reference to electoral behaviour.",
+      "node_titles": ["Caste, Ethnicity and Politics in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Look for coverage of vote-bank politics, caste as a mobilising and bargaining unit, the shift from vertical to horizontal caste mobilisation, and Rajni Kothari's thesis of caste being politicised while politics gets casteised. Reward recent examples of caste-based party formation and a concluding remark on declining versus persisting salience, in around 250 words."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "What is meant by 'anomie'? Discuss the relevance of the concept in understanding contemporary Indian society.",
+      "node_titles": ["Emile Durkheim"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Require a precise definition of anomie as normlessness arising from a mismatch between goals and regulatory means, tied to Durkheim's division of labour thesis. Application marks for linking it to Indian contexts such as rapid urban migration, farmer distress, or consumerist aspiration-frustration gaps, in about 200 words."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "How does Robert Merton's paradigm of deviance differ from that of Emile Durkheim?",
+      "node_titles": ["Talcott Parsons and Robert Merton", "Emile Durkheim"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must contrast Durkheim's macro-level anomie (breakdown of collective conscience during rapid change) with Merton's strain theory (culturally prescribed goals versus institutionalised means, yielding conformity, innovation, ritualism, retreatism, rebellion). Award marks for a comparative table or structured contrast and a closing evaluative comment, within 250 words."
+    },
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "Discuss the salient features of agrarian class structure in India.",
+      "node_titles": ["Rural and Agrarian Social Structure in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of landlord-tenant-labourer hierarchy, the impact of zamindari abolition and land ceiling laws, the rise of a capitalist farmer class after the Green Revolution, and continuing landlessness among Dalit agricultural labourers. Reward use of Daniel Thorner or Andre Beteille's categories, in about 200 words."
+    },
+    {
+      "year": 2018,
+      "marks": 20,
+      "question_text": "Discuss Weber's concept of 'ideal type' and its relevance to sociological analysis.",
+      "node_titles": ["Max Weber"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should define ideal type as a mental construct exaggerating certain traits for analytical comparison, distinguish it from a normative or average type, and give examples (bureaucracy, Protestant ethic-capitalism). Credit discussion of its methodological utility and limitations, within 250 words."
+    },
+    {
+      "year": 2018,
+      "marks": 15,
+      "question_text": "Examine the role of women's movements in redefining gender relations in India.",
+      "node_titles": ["Women's Movement in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Look for a phase-wise account (social reform era, post-independence legal reform, 1970s autonomous movements post the Towards Equality report, contemporary anti-violence and digital campaigns), with concrete gains cited (domestic violence law, workplace harassment law). Reward critical remarks on unfinished agendas like unpaid care work, in about 200 words."
+    },
+    {
+      "year": 2017,
+      "marks": 20,
+      "question_text": "Discuss the changing nature of caste system in the context of new economic policy in India.",
+      "node_titles": ["Caste System in India", "Industrialization and Urbanisation in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Require discussion of liberalisation's effects: caste-based occupational rigidity weakening in urban labour markets, emergence of Dalit entrepreneurship, persistence of caste networks in accessing capital and jobs, and continued caste discrimination in rural areas. Credit balanced treatment of change versus persistence, within 250 words."
+    },
+    {
+      "year": 2017,
+      "marks": 15,
+      "question_text": "Discuss Karl Marx's concept of alienation. Do you find alienation relevant in the contemporary work situation?",
+      "node_titles": ["Karl Marx", "Works and Economic Life"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect the four dimensions of alienation (from the product, the process, one's species-being, and other workers) under capitalist private property, followed by contemporary application to gig-economy or assembly-line work. Reward a reasoned personal evaluation with evidence, in about 200 words."
+    },
+    {
+      "year": 2016,
+      "marks": 20,
+      "question_text": "Discuss the notion of civil society and evaluate the role of new social movements in India in strengthening civil society.",
+      "node_titles": ["Politics and Society", "Social Movements in Modern India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must define civil society as the associational sphere distinct from state and market, then assess new social movements (environmental, RTI, anti-corruption) as expanding democratic participation. Credit critical points on co-option and NGO-isation, within 250 words."
+    },
+    {
+      "year": 2016,
+      "marks": 15,
+      "question_text": "What is sanskritisation? Discuss its role as an instrument of social change with suitable examples.",
+      "node_titles": ["Stratification and Social Mobility"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Require M.N. Srinivas's definition of sanskritisation as lower castes emulating the ritual and life-style practices of a locally dominant higher caste to claim upward status, with examples such as the Nadars or Ahirs. Credit critique of its limits (does not alter structural inequality) in about 200 words."
+    },
+    {
+      "year": 2015,
+      "marks": 20,
+      "question_text": "What is patriarchy? Discuss the changing nature of the family in the wake of patriarchy in contemporary India.",
+      "node_titles": ["Systems of Kinship and Family"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should define patriarchy as systemic male authority over resources, labour and sexuality, then trace how rising female workforce participation, legal reform, and delayed marriage are contesting it within family structures, while noting persistence of son preference and dowry. Award marks for empirical illustration, within 250 words."
+    },
+    {
+      "year": 2014,
+      "marks": 20,
+      "question_text": "Discuss the salient features of tribal societies in India and the problems of their integration with mainstream society.",
+      "node_titles": ["Tribal Communities in India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of tribal features (egalitarian ethos, close nature-relationship, distinct kinship and religion), followed by integration problems (land alienation, displacement by projects, cultural erosion, the isolation-assimilation-integration policy debate between Verrier Elwin and G.S. Ghurye). Reward a policy-oriented conclusion, in about 250 words."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Sociology as a Science: Positivism and its Critics",
+      "body": "Auguste Comte, who coined the term sociology, argued that society could be studied with the same rigour as the natural sciences, a stance later called positivism. Positivists hold that social facts are objective, observable, and can be explained through causal laws established via systematic observation and comparison. Durkheim pushed this programme forward by insisting that social facts be treated as things, external to the individual and coercive upon behaviour, and demonstrated this method in his study of suicide, where he showed that suicide rates vary systematically with the degree of social integration and regulation rather than purely individual psychology. This gave sociology a claim to being an autonomous, rigorous discipline distinct from philosophy or individual psychology. However, the positivist programme faced strong criticism. Max Weber contended that social action carries subjective meaning for the actor, and understanding this meaning, or verstehen, requires an interpretive method that natural science does not need, since atoms and molecules do not attach meaning to their behaviour. The hermeneutic and interpretive tradition, later extended by symbolic interactionists and phenomenologists, argued that human beings actively construct their social world through shared symbols and definitions of the situation, so rigid law-like generalisations often miss the fluid, negotiated character of social life. Critical theorists of the Frankfurt School added that a purely positivist social science, by treating existing social arrangements as natural facts, risks legitimising the status quo and obscuring the possibility of emancipatory change. Postmodern thinkers went further, questioning whether any single grand narrative or universal method can capture the fragmented, plural nature of contemporary society. Contemporary sociology has largely settled into a pragmatic middle ground: quantitative, positivist-inspired methods such as surveys and statistical modelling coexist with qualitative, interpretive methods such as ethnography and discourse analysis, with many sociologists using mixed methods depending on the research question. The debate nonetheless remains foundational because it shapes how sociologists justify their claims to knowledge, how they choose research designs, and how much predictive certainty they can honestly claim about social phenomena, distinguishing the discipline's ongoing methodological self-reflection from the more settled methods of the natural sciences.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Sociology as Science"],
+      "tags": ["positivism", "verstehen", "methodology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Durkheim's Theory of Division of Labour and Anomie",
+      "body": "Emile Durkheim's early masterwork examined how societies hold together as they grow larger and more complex. He distinguished two forms of social solidarity. Mechanical solidarity characterises small, relatively homogeneous societies where individuals share similar beliefs, values and occupations, and cohesion rests on a strong collective conscience that punishes deviation harshly through repressive law. Organic solidarity emerges in larger, industrialised societies where an extensive division of labour makes individuals functionally interdependent, much like organs in a body; here cohesion rests less on shared belief and more on mutual need, and law shifts from repressive to restitutive, aiming to restore relationships rather than simply punish. Durkheim's central concern was that the transition from mechanical to organic solidarity does not always proceed smoothly. When the division of labour expands faster than new moral and normative regulations can develop to govern it, society falls into a state of normlessness that Durkheim termed anomie. In an anomic condition, individuals lack clear guidance about legitimate goals and acceptable means, and the collective conscience loses its regulatory grip over individual desire. Durkheim linked this directly to rising suicide rates in his later study, arguing that anomic suicide occurs when sudden economic booms or crises disrupt customary expectations, leaving individuals with unregulated aspirations that can never be satisfied. He also identified egoistic suicide, arising from insufficient social integration, and altruistic suicide, arising from excessive integration, showing that suicide, seemingly the most personal act, is patterned by social forces. The concept of anomie proved enormously influential beyond Durkheim, most notably in Robert Merton's strain theory of deviance in American society, and it continues to be invoked to describe conditions of social disorientation during rapid modernisation, migration, or economic liberalisation. Critics have noted that Durkheim's functionalist framework tends to treat conflict and normlessness as pathological deviations from an implicit healthy equilibrium, underplaying how power and inequality themselves generate strain. Nonetheless, the mechanical-organic solidarity distinction and the concept of anomie remain foundational tools for analysing how societies manage the moral consequences of structural change.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Emile Durkheim"],
+      "tags": ["durkheim", "anomie", "solidarity"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Weber's Verstehen, Bureaucracy and the Protestant Ethic",
+      "body": "Max Weber built an interpretive sociology centred on the idea that social action must be understood through the subjective meaning actors attach to it, a method he called verstehen. He classified social action into four types: traditional action guided by custom, affective action guided by emotion, value-rational action pursued for its own sake regardless of consequence, and instrumental-rational action calculated to achieve a specific goal efficiently. Weber argued that modern Western society is marked by an increasing dominance of instrumental rationality, a historical process he termed rationalization, visible above all in the spread of bureaucratic organisation. His ideal-typical bureaucracy features a fixed hierarchy of offices, formal rules and procedures, specialised division of labour, appointment and promotion based on technical competence, and a separation of the official's personal life from official duty. Weber saw bureaucracy as the most technically efficient form of organisation for large-scale administration, yet he also warned of its dehumanising potential, describing the fully rationalised modern world as an iron cage in which formal efficiency could crush individual creativity and substantive values. Weber's most celebrated historical thesis linked religious ideas to economic behaviour. In his study of the Protestant ethic, he argued that Calvinist doctrines of predestination created deep psychological anxiety among believers about their salvation, which they resolved by treating worldly economic success as a possible sign of divine favour. This encouraged a disciplined, ascetic approach to work and profit, including systematic reinvestment rather than consumption, which Weber argued created an ethos conducive to the emergence of modern rational capitalism in Western Europe, even though the theology itself had nothing to do with wealth accumulation. This was a deliberate counterpoint to Marx's materialist view that economic base determines ideas, since Weber showed ideas could shape economic structures too, though he never claimed religion was the sole cause of capitalism. Weber also introduced the concept of legitimate authority in three types, traditional, charismatic and legal-rational, the last corresponding to modern bureaucratic states. His work remains central to understanding the tension between formal rationality and substantive human values in modern institutions.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Max Weber"],
+      "tags": ["weber", "bureaucracy", "protestant-ethic"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Merton's Strain Theory: Manifest and Latent Functions",
+      "body": "Robert Merton refined the functionalist tradition he inherited from Durkheim and Parsons by introducing greater analytical precision and openness to conflict and dysfunction. He distinguished manifest functions, the intended and recognised consequences of a social practice, from latent functions, the unintended and often unrecognised consequences that nonetheless help explain why a practice persists. His classic illustration involved the Hopi rain dance: its manifest function is to produce rain, which it plainly cannot guarantee, but its latent function is to reinforce group solidarity and continuity during a period of collective anxiety, which explains its persistence despite manifest failure. Merton also insisted that functionalists must attend to dysfunctions, the consequences of a practice that undermine the adaptation or stability of a system, correcting the tendency of earlier functionalism to assume every persisting institution must be beneficial to society as a whole. Building on Durkheim's concept of anomie, Merton developed strain theory to explain deviant behaviour in American society. He argued that culture prescribes certain success goals, such as material wealth, while the social structure unevenly distributes legitimate institutionalised means, such as education and stable employment, to achieve those goals. Individuals adapt to this strain between goals and means in five patterned ways: conformity, accepting both goals and means; innovation, accepting the goals but using illegitimate means, which explains much property crime; ritualism, abandoning the goals while rigidly following the means, common among low-level bureaucrats; retreatism, rejecting both goals and means, seen among addicts or dropouts; and rebellion, rejecting existing goals and means while substituting new ones, characteristic of revolutionary or countercultural movements. This typology shifted attention away from purely individual pathology toward the structural sources of deviance rooted in unequal access to opportunity. Merton's approach, sometimes called middle-range theory, deliberately avoided the grand, all-encompassing theorising of Parsons in favour of theories that could be tested against specific empirical phenomena, and this methodological stance shaped much of mainstream American sociology through the mid-twentieth century.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Talcott Parsons and Robert Merton"],
+      "tags": ["merton", "strain-theory", "functions"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Caste System in India: Structure, Change and Sanskritisation",
+      "body": "The caste system in India is traditionally understood through the varna model, a fourfold ritual ranking of Brahmins, Kshatriyas, Vaishyas and Shudras, with a fifth category historically placed outside this scheme and subjected to severe exclusion. In practice, everyday social life operates through jati, thousands of localised, endogamous groups linked to traditional occupations, ranked in a locally negotiated hierarchy that varies by region. Louis Dumont, in his influential though contested analysis, argued that caste hierarchy rests on the opposition between purity and pollution, with Brahmins occupying the purest ritual status and untouchable castes bearing the highest degree of pollution due to their traditional occupations. Critics such as Andre Beteille argued that caste cannot be reduced to a purely ritual hierarchy, since it is equally a system of economic and political power, closely tied to control over land and labour, especially in rural India. M.N. Srinivas contributed the influential concept of the dominant caste, a caste that wields local power not from ritual rank alone but from a combination of numerical strength, landownership and political influence, and this dominant caste, rather than the Brahmin, often sets the standards of local prestige. Srinivas also described sanskritisation, the process by which a lower caste seeks upward mobility by adopting the rituals, dietary practices and lifestyle of a locally dominant higher caste, giving examples such as the Nadars of Tamil Nadu adopting sacred thread ceremonies. Sanskritisation allows positional change within the hierarchy without altering its structural logic, distinguishing it from structural change. Since independence, caste has undergone significant transformation: constitutional abolition of untouchability, reservation policies for Scheduled Castes, Scheduled Tribes and Other Backward Classes, urbanisation and occupational diversification have loosened the traditional link between caste and occupation, and electoral democracy has turned caste into an important unit of political mobilisation, a phenomenon Rajni Kothari described as the caste-politics nexus. Yet caste-based discrimination, endogamy and social distance persist strongly, particularly in rural marriage practices and instances of violence against Dalits, showing that caste has been transformed rather than eliminated.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Caste System in India"],
+      "tags": ["caste", "sanskritisation", "dominant-caste"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Agrarian Class Structure and Land Reforms in India",
+      "body": "Colonial land revenue systems shaped the agrarian class structure that independent India inherited. The zamindari system created a class of powerful landlords who extracted rent from cultivators without directly farming the land, while the ryotwari and mahalwari systems established more direct relationships between the state and individual cultivators or village communities, though local landlordism and moneylending still produced sharp inequality. Daniel Thorner offered an influential threefold classification of agrarian classes based on their relationship to land: maliks, who owned land and derived income from rent or hired labour without personal cultivation; kisans, small and middle peasants who cultivated their own land primarily with family labour; and mazdurs, landless agricultural labourers who worked for wages on others' land. After independence, the state pursued land reforms with three broad components: abolition of intermediary zamindari tenures, tenancy reforms to protect cultivators and grant them ownership rights, and land ceiling laws to redistribute surplus land to the landless. Implementation was uneven and often weak, since ceiling laws contained loopholes, benami transactions allowed landlords to circumvent limits, and political will varied sharply by state, with West Bengal's Operation Barga being a relatively successful case of tenancy reform. The Green Revolution of the late 1960s introduced high-yielding seed varieties, chemical fertilisers and assured irrigation, dramatically raising output in states such as Punjab and Haryana, but its capital-intensive character favoured farmers who already owned substantial land and could access credit, giving rise to a new class of prosperous capitalist farmers analysed by scholars such as Utsa Patnaik and Ashok Rudra. Meanwhile, small and marginal farmers and landless labourers often gained comparatively little, and regional inequality between irrigated and rain-fed areas widened. Andre Beteille's studies of Tanjore district demonstrated how the traditional convergence of caste, class and power was gradually being replaced by a more differentiated structure where the three do not always overlap as neatly as before. Contemporary agrarian distress, marked by farmer indebtedness, fragmentation of landholdings and periodic farmer protests, reflects the unfinished and uneven character of India's agrarian transformation.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Rural and Agrarian Social Structure in India"],
+      "tags": ["agrarian-class", "land-reform", "green-revolution"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Tribal Communities in India: Features and the Integration Debate",
+      "body": "India's tribal or Adivasi communities, constitutionally recognised as Scheduled Tribes, display considerable internal diversity across region, language, livelihood and degree of contact with mainstream society, yet certain broad features are often noted. Many tribal societies traditionally exhibit a relatively egalitarian social organisation compared to caste society, a close relationship with forest and land as both livelihood base and spiritual resource, distinct kinship, marriage and inheritance customs, and animistic or nature-centred religious beliefs, though many communities have also absorbed elements of Hinduism, Christianity or other traditions over time. Anthropologists have long debated how tribal communities relate to the wider Hindu social order. G.S. Ghurye argued that tribes are best understood as backward Hindus, imperfectly integrated into caste society at its margins, and that the solution to tribal disadvantage lay in bringing them into the mainstream through education and assimilation. Verrier Elwin, in contrast, initially argued for a policy of isolation to protect tribal culture from exploitative contact with the plains, though he later moderated this position. Jawaharlal Nehru's approach, often summarised in his tribal panchsheel, sought a middle path of integration, encouraging tribal communities to develop according to their own genius while gaining access to modern education, healthcare and administration without forced assimilation. In practice, post-independence tribal areas have faced serious challenges. Large-scale development projects, including dams, mines and industrial plants, have caused extensive displacement, and rehabilitation has frequently been inadequate, generating what scholars term development-induced displacement. Legal and illegal alienation of tribal land to non-tribals, despite protective legislation in Fifth and Sixth Schedule areas, has eroded traditional resource control. Deforestation and restrictive forest laws have undermined livelihoods historically dependent on forest produce, a concern partly addressed by the Forest Rights Act of 2006, which sought to recognise individual and community forest rights. Left-wing extremism in central Indian tribal belts has been linked by several scholars to this combination of land alienation, displacement and administrative neglect. Contemporary tribal policy therefore grapples with balancing constitutional protection of distinct tribal identity and autonomy against the pressures of resource extraction and mainstream economic integration.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Tribal Communities in India"],
+      "tags": ["tribal-society", "displacement", "forest-rights"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Family, Marriage and Kinship Change in Contemporary India",
+      "body": "The traditional Indian joint family, characterised by co-residence of multiple generations, common property, joint income pooling and shared domestic worship, has long served as an idealised model of Indian kinship, particularly in North Indian patrilineal, patrilocal contexts. Sociological research, notably by I.P. Desai and A.M. Shah, complicated this picture by showing that the joint family was never universal, was more common among landowning and upper castes with property to hold jointly, and that family forms have always coexisted with nuclear arrangements even in earlier periods, cautioning against a simple narrative of breakdown from joint to nuclear. Nonetheless, several genuine shifts are documented in recent decades. Rising rates of rural-to-urban and inter-state migration for employment have physically separated members of extended families, producing what some scholars call a modified extended family, where nuclear households maintain strong economic and emotional ties with a wider kin network despite living separately. Increased female workforce participation, especially in urban middle-class households, has altered household decision-making patterns and gender roles within the family, even as domestic labour remains unevenly distributed. Legal reforms, including amendments to the Hindu Succession Act granting daughters equal coparcenary rights, and legislation against domestic violence and dowry, have gradually strengthened women's position within family structures, though enforcement gaps remain significant. Rising age at marriage, increased consent and choice in partner selection, and growing though still limited acceptance of inter-caste and inter-religious marriage reflect a slow shift from an arranged, family-controlled model toward greater individual agency, particularly among educated urban youth, even as arranged marriage remains the dominant norm nationally. Reproductive behaviour has also changed markedly, with total fertility rate declining toward replacement level, reducing family size and altering the traditional emphasis on large families as a form of old-age security and labour supply. At the same time, patriarchal features such as son preference, skewed sex ratios in some regions, and continued vulnerability of women to domestic violence and dowry-related harassment persist, indicating that structural transformation of family form has not automatically dismantled underlying patriarchal norms.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Systems of Kinship and Family"],
+      "tags": ["family-change", "kinship", "gender"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Visions of Social Change: Gandhi, Ambedkar and the Marxist Approach",
+      "body": "Independence-era India produced sharply contrasting visions of how Indian society should be transformed. Mahatma Gandhi envisioned change rooted in the revitalisation of self-sufficient village communities, or gram swaraj, emphasising decentralised production, trusteeship as a means of reconciling class interests without violent expropriation, and the moral transformation of individuals as the foundation of social transformation. On caste, Gandhi initially sought to reform Hinduism from within, opposing untouchability while defending a purified varna system based on occupational duty rather than birth-based hierarchy, a position that drew sustained criticism for not challenging caste's structural roots. B.R. Ambedkar offered a fundamentally different and more structurally radical vision. He argued that caste was not merely a division of labour but a division of labourers, an entrenched hierarchical system that could not be reformed piecemeal because its foundation lay in the sanctity granted to it by Hindu religious texts. Ambedkar therefore called for the annihilation of caste through inter-caste marriage and dining, rejection of the scriptural sanction for caste, and ultimately advocated conversion to Buddhism as a route to escape a religious order he saw as irredeemably hierarchical. His constitutional work embedded safeguards against untouchability and reservation for depressed classes directly into the legal framework of the new republic, reflecting his preference for state-backed structural remedies over gradual social reform. The Marxist approach to Indian social change, associated with scholars such as A.R. Desai, situated caste and communal divisions as ultimately rooted in the material conditions of a colonial and post-colonial capitalist economy, arguing that caste often functions to fragment working-class solidarity and that genuine emancipation requires transforming class relations and the mode of production rather than only addressing caste as a cultural or religious phenomenon. These three visions differ starkly in their diagnosis of the root cause of inequality, whether moral, religious-structural, or economic, and correspondingly in their prescribed remedy, whether moral suasion, legal-constitutional action, or class-based economic transformation, and elements of all three continue to shape debates on social justice policy in India today.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Visions of Social Change in India"],
+      "tags": ["gandhi", "ambedkar", "marxist-approach"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Industrialisation and Urbanisation in India: Patterns and Consequences",
+      "body": "India's industrialisation followed a distinctive path shaped by colonial deindustrialisation of traditional handicrafts, followed by planned public-sector-led heavy industrialisation after independence under the Nehruvian model, and later liberalisation from 1991 onward that opened the economy to private and foreign investment and shifted growth increasingly toward the services sector rather than manufacturing alone. This trajectory produced what many scholars call a distorted or premature structural shift, since a large share of the workforce moved out of agriculture without a correspondingly large absorption into formal manufacturing employment, leaving much of the labour force in low-productivity informal urban work such as construction, domestic service and street vending. Urbanisation in India has therefore often been described as occurring without commensurate industrial employment growth, producing dense informal settlements and slums in most large cities where a substantial share of the urban population lives with inadequate housing, sanitation and secure tenure. Sociologists studying industrial labour have documented how factory work introduced new disciplines of time and supervision quite different from agrarian or artisanal work rhythms, while also creating new forms of trade union organisation and industrial conflict. At the same time, a significant share of India's industrial workforce remains informal or contractual, lacking job security, social security benefits or effective unionisation, a pattern that has intensified under contemporary contract labour practices. Migration studies show that rural-to-urban migration for industrial and service employment is often circular rather than permanent, with migrants maintaining strong ties to their villages of origin and periodically returning, complicating simple models of linear rural-to-urban transition found in classical modernisation theory. Urban social structure has also become more differentiated, with the emergence of a substantial and increasingly assertive middle class alongside sharp residential and economic segregation between affluent neighbourhoods and informal settlements. Contemporary concerns include jobless growth, environmental strain from unplanned urban expansion, and the challenge of providing affordable housing and basic services to a rapidly growing urban population, all of which remain central and unresolved themes in the sociology of Indian industrialisation and urbanisation.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Industrialization and Urbanisation in India"],
+      "tags": ["industrialisation", "urbanisation", "informal-labour"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Peasant and Farmers' Movements in India",
+      "body": "India has a long history of agrarian mobilisation stretching from colonial-era peasant uprisings to contemporary farmer protests, reflecting shifting grievances as the agrarian structure itself has changed. Colonial-period movements, such as the Champaran and Kheda satyagrahas led by Gandhi, the Bardoli movement, and the Tebhaga movement in Bengal demanding a fairer sharecropping ratio for bargadars, were directed primarily against exploitative landlords, excessive rent and indigo or cash-crop coercion, often intertwining agrarian grievance with the wider nationalist struggle. The Telangana movement of the late 1940s, led by communists, went further in demanding redistribution of land from feudal landlords, representing one of the most radical agrarian mobilisations before independence. After independence and through the Green Revolution period, the character of agrarian mobilisation shifted markedly. Scholars such as D.N. Dhanagare and Ashok Rudra have documented the rise of what came to be called new farmers' movements from the 1970s and 1980s, led by organisations such as the Bharatiya Kisan Union in North India and Shetkari Sanghatana in Maharashtra. These movements were led primarily by prosperous, land-owning farmers who had benefited from the Green Revolution and increasingly demanded remunerative prices for agricultural output, lower input costs and better terms of trade between agriculture and industry, marking a shift from older demands about land redistribution and tenancy rights toward demands about market and pricing policy. Scholars debate whether these new farmer movements represent a genuine class movement of the peasantry as a whole or primarily serve the interests of a relatively prosperous capitalist farmer class, given that landless labourers and marginal farmers were often marginal to their leadership. In recent years, farmer mobilisation has intensified around debt relief and loan waivers, minimum support price guarantees, and, most visibly, the sustained nationwide protests against the 2020 farm laws, which were eventually repealed by the government. These movements illustrate how agrarian mobilisation continues to evolve in response to changing state agricultural policy, market liberalisation and persistent rural distress, remaining a significant force in Indian political life.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Peasant and Farmers Movements"],
+      "tags": ["peasant-movement", "farmer-protest", "agrarian-mobilisation"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Women's Movement in India: Phases and Achievements",
+      "body": "The organised movement for women's rights in India is often traced through several overlapping phases. The nineteenth and early twentieth century social reform phase, associated with reformers such as Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar and Jyotirao and Savitribai Phule, campaigned against practices such as sati, child marriage and denial of women's education, though this phase was largely led by male reformers addressing women's condition rather than women organising autonomously. The nationalist phase saw large-scale participation of women in the freedom struggle under Gandhi's leadership, which broadened women's public presence even though gender-specific demands remained subordinate to the nationalist cause. After independence, the Constitution granted formal legal equality, and organisations such as the All India Women's Conference continued advocacy, but the 1974 government-commissioned report Towards Equality is widely regarded as a turning point, since it documented persistent gender inequality despite constitutional guarantees and catalysed a new, more autonomous phase of feminist activism from the mid-1970s onward. This autonomous women's movement addressed issues largely absent from earlier reform agendas, including dowry deaths, custodial rape, domestic violence and workplace sexual harassment, leading to significant legal reforms such as the Dowry Prohibition Act amendments, the Protection of Women from Domestic Violence Act of 2005, and the Sexual Harassment of Women at Workplace Act of 2013, the latter drawing on the Supreme Court's Vishaka guidelines. The movement has also engaged with political representation, campaigning for reservation of seats for women in local self-government bodies, achieved through constitutional amendments in the 1990s, and continuing to press for a stalled women's reservation bill for state and national legislatures, which was finally passed in 2023 with delayed implementation. Contemporary feminist scholarship and activism in India increasingly emphasise intersectionality, recognising that Dalit, tribal and minority women face compounded forms of discrimination not captured by a generic gender lens, and digital-era mobilisation around workplace harassment has extended the movement's reach into new professional and online spaces. Despite these gains, unpaid domestic and care work, workplace discrimination, and gender-based violence remain significant unresolved concerns.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Women's Movement in India"],
+      "tags": ["women-movement", "feminism", "gender-legislation"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Population Growth and Family Planning Policy in India",
+      "body": "India's population trajectory since independence has moved through the classic stages of demographic transition, from high birth and death rates in the colonial period, through a phase of rapidly falling death rates combined with still-high birth rates that produced very rapid population growth from the 1950s through the 1980s, toward the contemporary phase of declining fertility approaching replacement level in most states. This transition has been markedly uneven across regions, with southern and some western states such as Kerala and Tamil Nadu reaching low fertility earlier, often linked to higher female literacy, later age at marriage and better healthcare access, while several northern states have taken longer to see comparable declines, a pattern central to debates about the socio-economic determinants of fertility decline. India's family planning programme, launched in the 1950s as one of the earliest state-sponsored programmes in the developing world, initially emphasised extension education and voluntary adoption of contraception, but shifted toward target-based approaches and, most controversially, coercive sterilisation drives during the Emergency period of the mid-1970s, an episode widely regarded by sociologists as a case study in how demographic policy can violate individual rights when pursued through top-down administrative targets rather than voluntary participation. Post-Emergency policy moved toward a more decentralised, target-free approach from the mid-1990s, integrating family planning within a broader reproductive and child health framework, and later within the National Rural Health Mission and National Health Mission, emphasising spacing methods, maternal health and informed choice rather than sterilisation targets alone. Sociological analysis emphasises that fertility decline is driven less by contraceptive availability alone than by broader structural changes, including rising female education and workforce participation, declining infant mortality reducing the incentive for large families as insurance, urbanisation, and the rising cost of raising and educating children in an increasingly aspirational, market-oriented society. Contemporary demographic debates in India center on the implications of an ageing population in some southern states even as some northern states remain relatively youthful, the demographic dividend arising from a large working-age population, and continuing regional disparities in maternal and child health outcomes despite overall improvement.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Population Dynamics in India"],
+      "tags": ["demographic-transition", "family-planning", "fertility-decline"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Communalism, Ethnicity and Regionalism as Challenges to Indian Social Transformation",
+      "body": "Sociologists distinguish communalism, ethnicity and regionalism as related but analytically distinct challenges to social cohesion in India, each rooted in the politicisation of a particular collective identity. Communalism refers to the ideology that treats religious community as the primary basis of social and political identity, often positing an inherent antagonism between communities, and sociologists such as Bipan Chandra have traced its roots to colonial policies of separate electorates and census-based religious categorisation that hardened fluid pre-colonial religious identities into rigid political blocs. Post-independence communal tensions have periodically erupted into large-scale violence, and scholars analyse such episodes not as spontaneous eruptions of ancient hatred but as often organised events shaped by local political competition, economic grievance and the strategic mobilisation of religious symbols by interested political and social actors. Ethnicity, distinct from religious communalism, refers to identity grounded in shared language, culture, region of origin or perceived common descent, and India's linguistic reorganisation of states in 1956 was itself a major state response to ethnic-linguistic mobilisation. Ethnic assertion has taken diverse forms, including movements for separate statehood based on distinct regional-cultural identity, such as the long movements that eventually produced Jharkhand, Chhattisgarh, Uttarakhand and Telangana, as well as more contested ethnic and insurgent movements in parts of the Northeast where distinct tribal and ethnic identities have sometimes come into tension with the idea of a unified Indian nationhood. Regionalism, meanwhile, refers to demands and grievances organised around a geographically defined region's sense of relative economic neglect or cultural distinctiveness, which can range from demands for greater fiscal autonomy and central attention within the existing federal structure to, in a minority of cases, more separatist demands. Sociologists generally caution against treating these three phenomena as signs of India's fragmentation, arguing instead, following scholars such as Rajni Kothari, that India's political system has shown a notable capacity to accommodate such assertions through mechanisms including linguistic state reorganisation, special constitutional provisions, and federal bargaining, even though unresolved tensions and periodic violence persist as ongoing challenges to social integration and equitable development across India's diverse regions.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Challenges of Social Transformation in India"],
+      "tags": ["communalism", "ethnicity", "regionalism"],
+      "is_current_affairs": false
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Anthropology",
+  "syllabus_nodes": [
+    {
+      "title": "Paper I",
+      "parent_title": null,
+      "tags": [
+        "anthropology-paper-1"
+      ]
+    },
+    {
+      "title": "Paper II",
+      "parent_title": null,
+      "tags": [
+        "anthropology-paper-2"
+      ]
+    },
+    {
+      "title": "Meaning, Scope and Development of Anthropology",
+      "parent_title": "Paper I",
+      "tags": [
+        "physical-anthropology",
+        "social-anthropology",
+        "scope-of-anthropology"
+      ]
+    },
+    {
+      "title": "Human Evolution and Primatology",
+      "parent_title": "Paper I",
+      "tags": [
+        "physical-anthropology",
+        "human-evolution",
+        "primatology"
+      ]
+    },
+    {
+      "title": "Fossil Evidence of Human Evolution",
+      "parent_title": "Human Evolution and Primatology",
+      "tags": [
+        "physical-anthropology",
+        "human-evolution",
+        "paleoanthropology"
+      ]
+    },
+    {
+      "title": "Human Genetics and Genetic Basis of Variation",
+      "parent_title": "Paper I",
+      "tags": [
+        "physical-anthropology",
+        "human-genetics",
+        "human-variation"
+      ]
+    },
+    {
+      "title": "Concept of Culture and Society",
+      "parent_title": "Paper I",
+      "tags": [
+        "social-anthropology",
+        "culture",
+        "society"
+      ]
+    },
+    {
+      "title": "Marriage, Family and Kinship",
+      "parent_title": "Paper I",
+      "tags": [
+        "social-anthropology",
+        "kinship",
+        "marriage",
+        "family"
+      ]
+    },
+    {
+      "title": "Descent, Alliance and Kinship Terminology",
+      "parent_title": "Marriage, Family and Kinship",
+      "tags": [
+        "kinship",
+        "descent",
+        "social-anthropology"
+      ]
+    },
+    {
+      "title": "Economic and Political Organization",
+      "parent_title": "Paper I",
+      "tags": [
+        "economic-anthropology",
+        "political-organization",
+        "social-anthropology"
+      ]
+    },
+    {
+      "title": "Religion and Anthropological Theories",
+      "parent_title": "Paper I",
+      "tags": [
+        "religion",
+        "anthropological-theory",
+        "social-anthropology"
+      ]
+    },
+    {
+      "title": "Research Methods in Anthropology",
+      "parent_title": "Paper I",
+      "tags": [
+        "fieldwork",
+        "research-methods",
+        "social-anthropology"
+      ]
+    },
+    {
+      "title": "Evolution of Indian Society and Culture",
+      "parent_title": "Paper II",
+      "tags": [
+        "indian-anthropology",
+        "indian-society",
+        "culture-history"
+      ]
+    },
+    {
+      "title": "Prehistoric Cultures of India",
+      "parent_title": "Paper II",
+      "tags": [
+        "prehistory",
+        "archaeological-anthropology",
+        "indian-anthropology"
+      ]
+    },
+    {
+      "title": "Demographic Profile of India",
+      "parent_title": "Paper II",
+      "tags": [
+        "demography",
+        "indian-anthropology",
+        "population"
+      ]
+    },
+    {
+      "title": "Tribal and Peasant Societies of India",
+      "parent_title": "Paper II",
+      "tags": [
+        "tribes-of-india",
+        "peasant-society",
+        "indian-anthropology"
+      ]
+    },
+    {
+      "title": "Concept of Tribe and Criteria for Scheduling",
+      "parent_title": "Tribal and Peasant Societies of India",
+      "tags": [
+        "tribes-of-india",
+        "scheduled-tribes"
+      ]
+    },
+    {
+      "title": "Problems of Tribal Communities",
+      "parent_title": "Paper II",
+      "tags": [
+        "tribes-of-india",
+        "tribal-problems",
+        "land-alienation"
+      ]
+    },
+    {
+      "title": "Impact of Religions on Tribal Societies",
+      "parent_title": "Paper II",
+      "tags": [
+        "tribes-of-india",
+        "religion",
+        "acculturation"
+      ]
+    },
+    {
+      "title": "Colonial Policies and Tribal Administration",
+      "parent_title": "Paper II",
+      "tags": [
+        "colonial-administration",
+        "tribes-of-india",
+        "history"
+      ]
+    },
+    {
+      "title": "Development and Welfare of Scheduled Tribes",
+      "parent_title": "Paper II",
+      "tags": [
+        "tribal-development",
+        "welfare-schemes",
+        "scheduled-tribes"
+      ]
+    },
+    {
+      "title": "Constitutional and Legal Safeguards for STs",
+      "parent_title": "Development and Welfare of Scheduled Tribes",
+      "tags": [
+        "constitutional-safeguards",
+        "scheduled-tribes",
+        "fifth-schedule",
+        "sixth-schedule"
+      ]
+    }
+  ],
+  "pyqs": [
+    {
+      "year": 2021,
+      "marks": 20,
+      "question_text": "Discuss the biological and cultural factors responsible for human variation.",
+      "node_titles": [
+        "Human Genetics and Genetic Basis of Variation"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should define human variation and distinguish biological (genetic, environmental, adaptive) from cultural (nutrition, occupation, social practice) determinants. Body must cover clinal/ non-clinal variation, role of mutation, gene flow, genetic drift and natural selection alongside cultural practices like diet and marriage patterns that shape phenotype. Conclusion should note that modern anthropology treats variation as a biocultural continuum rather than fixed racial types. Word limit around 250 words."
+    },
+    {
+      "year": 2018,
+      "marks": 10,
+      "question_text": "Write a short note on Levirate and Sororate.",
+      "node_titles": [
+        "Marriage, Family and Kinship",
+        "Descent, Alliance and Kinship Terminology"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must define both terms precisely, distinguish levirate (widow marrying husband's brother) from sororate (widower marrying wife's sister), and note their sub-types (junior/senior levirate) with ethnographic examples from Indian or global societies. A brief line on the social function (property, child welfare, alliance continuity) should close the answer. Word limit around 150 words."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "Discuss the major trends in human evolution with special reference to the emergence of Homo sapiens.",
+      "node_titles": [
+        "Human Evolution and Primatology",
+        "Fossil Evidence of Human Evolution"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should place human evolution on a hominin timeline. Body must trace key trends -- bipedalism, brain expansion, dental reduction, tool use -- through representative fossil taxa culminating in anatomically modern Homo sapiens, referencing both the multiregional and Out-of-Africa models. Conclusion should mention molecular/genetic evidence supporting recent African origin. Word limit around 250 words."
+    },
+    {
+      "year": 2017,
+      "marks": 20,
+      "question_text": "Define culture and discuss its main characteristics.",
+      "node_titles": [
+        "Concept of Culture and Society"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should give a working anthropological definition of culture (e.g., Tylor's classic formulation). Body should elaborate characteristics -- learned, shared, symbolic, integrated, cumulative and adaptive -- with examples distinguishing culture from society. Conclusion should note the dynamic, ever-changing nature of culture. Word limit around 250 words."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "Examine the changing dimensions of family in contemporary society.",
+      "node_titles": [
+        "Marriage, Family and Kinship"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should define family and its universal functions. Body should discuss shifts from joint to nuclear structures, rise of single-parent and reconstituted families, impact of urbanization, migration and women's employment, and debates on family dissolution. Conclusion should balance continuity and change. Word limit around 200 words."
+    },
+    {
+      "year": 2016,
+      "marks": 20,
+      "question_text": "Discuss the salient features of political organization among simple/tribal societies.",
+      "node_titles": [
+        "Economic and Political Organization"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should introduce band/tribe/chiefdom typology of political organization. Body must cover leadership patterns, mechanisms of social control and conflict resolution in acephalous versus centralized systems, with ethnographic illustrations. Conclusion should note the influence of colonial and state structures on traditional tribal polities. Word limit around 250 words."
+    },
+    {
+      "year": 2015,
+      "marks": 10,
+      "question_text": "Write a short note on Neo-evolutionism in anthropological theory.",
+      "node_titles": [
+        "Religion and Anthropological Theories"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must identify neo-evolutionism as a mid-20th century revival of evolutionary thought, name key proponents (White, Steward) and distinguish general versus specific/multilinear evolution with a brief example such as cultural ecology. Word limit around 150 words."
+    },
+    {
+      "year": 2022,
+      "marks": 20,
+      "question_text": "Discuss the concept of Great Tradition and Little Tradition with suitable examples from Indian society.",
+      "node_titles": [
+        "Evolution of Indian Society and Culture"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should credit Redfield's formulation and Srinivas's application to India. Body must explain the interaction between pan-Indian textual/elite traditions and local folk practices, citing processes such as Sanskritisation and parochialisation with concrete examples. Conclusion should reflect on the continuing relevance of the framework to understand Indian civilization as a layered whole. Word limit around 250 words."
+    },
+    {
+      "year": 2021,
+      "marks": 10,
+      "question_text": "Write a short note on Particularly Vulnerable Tribal Groups (PVTGs).",
+      "node_titles": [
+        "Problems of Tribal Communities",
+        "Concept of Tribe and Criteria for Scheduling"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must define PVTGs, list the four defining criteria (pre-agricultural technology, low literacy, stagnant/declining population, extreme backwardness), give the approximate number of notified PVTG groups, and mention one relevant welfare scheme. Word limit around 150 words."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "Discuss the impact of Christianity on the tribal societies of India.",
+      "node_titles": [
+        "Impact of Religions on Tribal Societies"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should note the historical spread of Christian missionary activity among Indian tribes, especially in the Northeast and central India. Body must cover changes in education, literacy, healthcare and social reform (e.g., against practices such as head-hunting or slavery) alongside disruption of traditional religion, kinship and community cohesion. Conclusion should weigh positive and negative consequences even-handedly. Word limit around 250 words."
+    },
+    {
+      "year": 2020,
+      "marks": 20,
+      "question_text": "Examine the role of the Fifth and Sixth Schedules of the Constitution in safeguarding tribal interests.",
+      "node_titles": [
+        "Constitutional and Legal Safeguards for STs"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should distinguish the geographic and administrative scope of the Fifth Schedule (mainland Scheduled Areas) from the Sixth Schedule (autonomous districts of Northeast). Body must explain governor's special powers, Tribes Advisory Councils, autonomous district/regional councils, and land-alienation protections. Conclusion should assess implementation gaps such as under-utilised Fifth Schedule powers versus more autonomous Sixth Schedule councils. Word limit around 250 words."
+    },
+    {
+      "year": 2018,
+      "marks": 10,
+      "question_text": "Write a short note on the Jajmani system.",
+      "node_titles": [
+        "Tribal and Peasant Societies of India"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must define the jajmani system as a hereditary, patron-client exchange of goods and services between land-owning jajmans and service-providing kamins in rural India, note its caste basis, and briefly comment on its decline with monetisation and land reform. Word limit around 150 words."
+    },
+    {
+      "year": 2017,
+      "marks": 20,
+      "question_text": "Discuss the problem of land alienation among tribal communities and the constitutional and legal measures taken to address it.",
+      "node_titles": [
+        "Problems of Tribal Communities",
+        "Constitutional and Legal Safeguards for STs"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should explain how land alienation among tribes occurs -- indebtedness, non-tribal encroachment, displacement by development projects. Body must discuss protective land-transfer laws, Fifth Schedule provisions restricting non-tribal land purchase, and the Forest Rights Act, 2006, alongside implementation shortcomings. Conclusion should suggest the need for stronger enforcement and tribal land-record digitisation. Word limit around 250 words."
+    },
+    {
+      "year": 2016,
+      "marks": 20,
+      "question_text": "Critically examine the impact of development projects on the life of tribal communities in India.",
+      "node_titles": [
+        "Development and Welfare of Scheduled Tribes",
+        "Problems of Tribal Communities"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Intro should note the scale of tribal displacement by dams, mines and industrial projects since independence. Body must weigh benefits (infrastructure, employment, market access) against costs (displacement, loss of habitat and livelihood, cultural disruption, inadequate rehabilitation) with reference to specific project examples. Conclusion should call for informed consent, fair compensation and sustainable, tribe-centric development planning. Word limit around 250 words."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Anthropology: Meaning, Scope and Its Relationship with Other Disciplines",
+      "body": "Anthropology is the holistic study of humankind across time and space, examining human beings biologically, culturally, linguistically and historically. Unlike disciplines that specialise in one facet of human life, anthropology integrates perspectives to build a rounded picture of what it means to be human, from our evolutionary origins to the diversity of contemporary societies. The discipline is conventionally divided into four broad branches. Physical or biological anthropology studies human evolution, genetics, variation and primatology, drawing heavily on biology and medical science. Archaeological anthropology reconstructs past cultures through excavated material remains, linking anthropology to earth sciences and history. Linguistic anthropology examines how language shapes and reflects culture and cognition, connecting the field to the humanities. Socio-cultural anthropology, the largest branch, studies contemporary societies, their institutions, beliefs and practices through fieldwork-based ethnography, aligning it closely with sociology and the social sciences generally. \n\nAnthropology's scope has widened considerably since its nineteenth-century origins in the study of so-called 'primitive' societies. Today it engages with urban communities, industrial organisations, medical settings, digital cultures and public policy, making it relevant well beyond academia. Its comparative and cross-cultural method distinguishes it from sociology, which historically focused on complex, literate, industrial societies, while anthropology traditionally examined small-scale and non-literate communities, though this boundary has blurred considerably today. \n\nThe discipline's interdisciplinary character is one of its defining strengths. It borrows genetics and anatomy from the life sciences to study human variation and evolution; it borrows stratigraphic and dating techniques from earth sciences for archaeological reconstruction; it draws on psychology and philosophy for understanding cognition, belief and ethics; and it engages with medical sciences in the growing sub-field of medical anthropology, which studies illness, healing systems and health behaviour as culturally embedded phenomena. Its relationship with the humanities is visible in the study of art, myth, ritual and oral literature as expressions of cultural meaning. \n\nThis integrative, holistic and comparative approach equips anthropology to address practical problems -- from tribal welfare and development planning to public health and forensic identification -- making it not merely an academic pursuit but an applied science with direct relevance to policy-making, particularly in a culturally diverse country such as India.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Meaning, Scope and Development of Anthropology"
+      ],
+      "tags": [
+        "physical-anthropology",
+        "social-anthropology",
+        "scope-of-anthropology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Major Trends in Human Evolution",
+      "body": "The story of human evolution spans roughly seven million years, tracing the divergence of the human lineage from the last common ancestor shared with African apes to the emergence of anatomically modern Homo sapiens. Several broad trends characterise this trajectory. The earliest and most consequential was the shift to habitual bipedalism, evident in early hominins, which freed the hands for tool use and carrying, and reorganised the pelvis, spine and foot structure. Bipedalism preceded significant brain enlargement, showing that upright walking, not big brains, was the first major adaptive shift in the human lineage. \n\nA second major trend is progressive encephalisation, the marked increase in brain size relative to body size, which accelerated through the genus Homo. This growth correlates with increasingly sophisticated stone tool traditions, from simple Oldowan chopping tools associated with early Homo to the more refined Acheulean handaxes of Homo erectus and the complex, standardised tool kits of later archaic and modern humans. Alongside brain growth came dental and jaw reduction, reflecting a dietary shift toward cooked and processed food and reduced reliance on raw, fibrous plant material requiring heavy chewing. \n\nA third trend is the increasing length of childhood dependency and the extension of the human life course, allowing more time for learning and cultural transmission, an adaptation intimately tied to growing behavioural and cognitive complexity. Migration is another key theme: Homo erectus was the first hominin to disperse out of Africa into Asia and Europe, while anatomically modern humans underwent a further, more recent dispersal, generally dated to within the last hundred thousand years, which eventually populated every inhabited continent. \n\nThe emergence of Homo sapiens itself remains debated between two broad models: the multiregional model, which proposes continuous regional evolution from earlier Homo populations with gene flow between regions, and the more widely supported recent African origin (or 'Out of Africa') model, which holds that modern humans evolved in Africa and subsequently replaced archaic populations elsewhere, a view substantially reinforced by mitochondrial DNA and whole-genome studies, alongside the discovery of limited archaic admixture such as Neanderthal and Denisovan ancestry in some present-day populations.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Human Evolution and Primatology",
+        "Fossil Evidence of Human Evolution"
+      ],
+      "tags": [
+        "physical-anthropology",
+        "human-evolution",
+        "paleoanthropology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Genetic Basis of Human Variation",
+      "body": "Human beings display considerable physical variation in skin colour, body build, facial features and blood groups across populations, and understanding the biological basis of this variation is central to physical anthropology. Modern genetics has decisively replaced the older, discredited idea of fixed biological 'races' with a more nuanced understanding of variation as continuous, overlapping and clinal, meaning traits change gradually across geographic space rather than clustering into discrete, bounded types. \n\nSeveral genetic mechanisms generate and maintain this variation. Mutation introduces new genetic variants into a population, providing the raw material of variation. Gene flow, the movement of genes between populations through migration and intermarriage, spreads variants and reduces differentiation between groups over time. Genetic drift, the random fluctuation of gene frequencies especially pronounced in small or isolated populations, can cause traits to become more or less common purely by chance, independent of their adaptive value. Natural selection favours traits that improve survival and reproduction in a given environment, explaining adaptive patterns such as the correlation between skin pigmentation and ultraviolet radiation intensity, or the distribution of the sickle-cell trait in regions historically affected by malaria. \n\nAlongside these biological processes, cultural practices interact closely with genetic variation. Marriage rules, migration patterns, occupational specialisation and dietary practices all influence which genes are passed on and how populations mix, making human variation best understood as a biocultural phenomenon rather than a purely biological one. \n\nContemporary human genetics uses tools such as blood group serology, protein polymorphisms and increasingly whole-genome sequencing to map variation with far greater precision than earlier anthropometric approaches, which relied on external measurements like cranial index or stature. These molecular approaches confirm that the overwhelming majority of human genetic variation exists within populations rather than between them, undermining any biological basis for racial classification while still allowing anthropologists to study meaningful patterns of adaptation, ancestry and population history.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Human Genetics and Genetic Basis of Variation"
+      ],
+      "tags": [
+        "physical-anthropology",
+        "human-genetics",
+        "human-variation"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Understanding the Concept of Culture",
+      "body": "Culture is anthropology's central organising concept, referring to the learned, shared and symbolic system of beliefs, values, norms, knowledge and material objects through which human groups organise their lives and interpret their world. Unlike instinctive animal behaviour, culture is acquired through socialisation and enculturation rather than biological inheritance, which is why human infants raised in different societies grow up with vastly different languages, customs and worldviews despite identical biological potential. \n\nSeveral defining characteristics distinguish culture as an anthropological concept. It is learned, transmitted across generations through both formal teaching and informal observation. It is shared, existing not as an individual's private possession but as a collective property of a group, giving members a common frame of reference even amid internal variation. It is symbolic, resting on the human capacity to invest arbitrary signs, especially language, with shared meaning. It is integrated, meaning the different parts of a culture -- economy, religion, kinship, politics -- tend to form an interconnected, patterned whole rather than a random assortment of traits, so that a change in one domain often has ripple effects elsewhere. Culture is also cumulative, building on the knowledge of previous generations, which allows human societies to develop increasingly complex technologies and institutions over time. Finally, culture is dynamic and adaptive, changing through internal innovation as well as external contact, and helping human groups adjust to their physical and social environments. \n\nAnthropologists distinguish culture from society, the latter referring to the organised network of relationships and institutions through which people interact, while culture refers to the shared content -- ideas, values and practices -- that gives those relationships meaning. The two are closely intertwined in practice: society provides the structural context within which culture is enacted and transmitted, and cultural norms in turn shape how social relationships and institutions are organised, making the culture-society relationship genuinely reciprocal rather than one simply following from the other.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Concept of Culture and Society"
+      ],
+      "tags": [
+        "social-anthropology",
+        "culture",
+        "society"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Forms of Marriage and Kinship Systems",
+      "body": "Marriage and kinship form the backbone of social organisation in most human societies, structuring rights, obligations, property transmission and group identity. Marriage is broadly classified by the number of spouses involved: monogamy (one husband, one wife), polygyny (one husband, multiple wives), and polyandry (one wife, multiple husbands), the latter found in specific regions such as parts of the Himalayan belt in India, often linked to ecological constraints on land fragmentation. Rules governing spouse selection further shape marriage systems: endogamy requires marriage within a defined group such as caste or tribe, while exogamy requires marriage outside a defined unit such as clan or lineage, a rule closely tied to the universal incest taboo. \n\nSpecial marital customs recur across many small-scale societies. The levirate obliges a widow to marry her deceased husband's brother, while the sororate obliges a widower to marry his deceased wife's sister; both practices function to maintain alliance ties between families and to secure care for children and property within the original kin network. Bride price, bride service and dowry represent different economic transactions accompanying marriage across cultures. \n\nKinship, the socially recognised network of relationships based on descent and marriage, is studied through systematic terminology. Descent may be reckoned patrilineally (through the father's line), matrilineally (through the mother's line), or bilaterally (through both), and anthropologists have classified kinship terminologies into types such as Hawaiian, Eskimo, Iroquois, Crow and Omaha based on how relatives are grouped and named. Alliance theory, associated with Levi-Strauss, explains kinship not merely as a system of descent but as a network created through the exchange of spouses between groups, reinforcing social cohesion beyond the immediate family. \n\nThe family, as the basic co-residential and functional unit built on marriage and kinship, has undergone significant transformation in contemporary society. The classical joint family is giving way to nuclear and even single-parent households under pressures of urbanisation, migration, economic change and shifting gender roles, though these transitions vary considerably by region and community, and elements of joint-family obligation often persist even within nuclear residential arrangements.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Marriage, Family and Kinship",
+        "Descent, Alliance and Kinship Terminology"
+      ],
+      "tags": [
+        "kinship",
+        "marriage",
+        "family",
+        "social-anthropology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Economic and Political Organization in Simple Societies",
+      "body": "Anthropologists study economic life not as an isolated market activity but as embedded within broader social relationships, especially in small-scale, non-industrial societies. Three classic modes of exchange structure economic organisation in such contexts: reciprocity, the direct exchange of goods and services between individuals or groups often based on kinship obligation (further divided into generalised, balanced and negative reciprocity depending on the expectation of immediate return); redistribution, in which goods are collected at a central point, often by a chief or headman, and then redistributed to the group, reinforcing the leader's authority and group solidarity; and market exchange, based on impersonal buying and selling, typically associated with more complex, monetised economies. The ceremonial exchange system of the Kula ring in the Trobriand Islands, documented by Malinowski, remains a classic illustration of how economic exchange can serve primarily social and political rather than purely material functions. \n\nSubsistence strategies -- foraging, pastoralism, horticulture, and intensive agriculture -- shape the broader economic and social structure of a society, influencing settlement patterns, property concepts and the degree of social stratification. \n\nPolitical organisation in simple societies is conventionally classified along a continuum of increasing complexity: bands, small, mobile and largely egalitarian groups typical of foraging societies with informal, consensus-based leadership; tribes, larger and more sedentary groups often organised through kinship and lineage segments, with leadership that is situational rather than permanently institutionalised; chiefdoms, characterised by a hereditary, centralised authority figure with control over resources and some redistribution powers; and states, with formalised, bureaucratic institutions and a monopoly on legitimate coercive force. \n\nIn acephalous, or 'headless', societies lacking centralised authority, social order is maintained through mechanisms such as kinship obligation, age-grade systems, ritual sanctions and public opinion rather than formal law enforcement, illustrating that political order does not require a state. Colonial administration and, later, the modern nation-state have substantially reshaped traditional tribal political systems in India, often overlaying customary leadership with formal statutory institutions such as elected panchayats.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Economic and Political Organization"
+      ],
+      "tags": [
+        "economic-anthropology",
+        "political-organization",
+        "social-anthropology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Anthropological Theories: From Evolutionism to Post-Modernism",
+      "body": "Anthropological theory has evolved through several major paradigms, each reflecting the intellectual and colonial context of its time. Classical (unilinear) evolutionism, associated with nineteenth-century thinkers such as Tylor and Morgan, proposed that all societies pass through a fixed sequence of stages from savagery through barbarism to civilisation, a view now criticised as ethnocentric and empirically unsupported. \n\nIn reaction, historical particularism, led by Franz Boas, rejected universal evolutionary stages in favour of studying each culture's unique historical trajectory through detailed empirical fieldwork, laying the foundation for modern cultural relativism. Functionalism, associated with Malinowski, viewed cultural institutions as serving to satisfy basic biological and psychological needs of individuals, while structural-functionalism, developed by Radcliffe-Brown, examined how institutions maintain the stability and equilibrium of the wider social structure. \n\nMid-twentieth-century neo-evolutionism, associated with Leslie White and Julian Steward, revived evolutionary thinking in more sophisticated form: White proposed a general evolutionary trend measured by a society's capacity to harness energy, while Steward's multilinear evolution and cultural ecology emphasised that different societies adapt to their specific environments through distinct, parallel evolutionary pathways rather than one universal sequence. \n\nStructuralism, developed by Claude Levi-Strauss, sought universal patterns of human thought underlying the surface diversity of myths, kinship systems and classifications, often expressed through binary oppositions. Later, interpretive or symbolic anthropology, associated with Clifford Geertz, treated culture as a system of meaning to be 'read' like a text through thick description, shifting emphasis from explaining causes to interpreting meaning. \n\nMore recent post-modern and reflexive approaches question the anthropologist's claim to objective authority, highlighting how ethnographic writing itself constructs rather than simply records cultural reality, and drawing attention to issues of power, representation and the colonial legacies embedded in the discipline's history. Religion, as a domain of study, has been central across these theoretical shifts, examined variously as a functional mechanism of social cohesion, a symbolic system of meaning, or a field shaped by power and historical context.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Religion and Anthropological Theories"
+      ],
+      "tags": [
+        "anthropological-theory",
+        "religion",
+        "social-anthropology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Evolution of Indian Society and Culture",
+      "body": "Indian civilisation presents anthropologists with a uniquely long and continuous record of cultural evolution, from prehistoric hunter-gatherer bands through the urban Harappan civilisation, Vedic pastoral-agrarian society, and successive waves of religious, political and social change down to the present. Understanding this trajectory requires frameworks that can account for both continuity and immense internal diversity across region, language, religion and caste. \n\nOne influential framework, borrowed from Robert Redfield and adapted to India chiefly by M.N. Srinivas, distinguishes the 'Great Tradition' -- the pan-Indian, textually codified, elite religious and philosophical tradition associated with Sanskrit texts and Brahmanical practice -- from the 'Little Tradition', the localised, orally transmitted folk beliefs and practices of villages and communities. Rather than existing as separate, static systems, the two interact continuously: Sanskritisation describes the process by which lower-caste or tribal groups adopt the customs, rituals and lifestyle of higher, 'twice-born' castes to claim higher status within the caste hierarchy, while parochialisation describes the reverse process, where elements of the pan-Indian Great Tradition are absorbed and reshaped into local, folk forms. \n\nThis dynamic interplay helps explain how Indian society achieved a degree of cultural unity across enormous regional variation without erasing local particularity, an idea captured in the phrase 'unity in diversity'. Srinivas also introduced related concepts such as the dominant caste -- a numerically and economically powerful caste group in a locality that wields disproportionate social influence regardless of its formal ritual rank -- to explain how power operates in rural India beyond textual varna categories. \n\nThe evolution of Indian society has also been shaped decisively by successive historical layers: indigenous tribal and folk traditions, Vedic and Brahmanical religion, the rise of heterodox movements such as Buddhism and Jainism, medieval Islamic influence, colonial administration and modern constitutional democracy. Anthropological study of Indian society therefore requires tracing how each layer has been absorbed, contested or transformed rather than treating any single period as fully representative of Indian civilisation as a whole.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Evolution of Indian Society and Culture"
+      ],
+      "tags": [
+        "indian-anthropology",
+        "indian-society",
+        "sanskritisation"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Prehistoric Cultures of the Indian Subcontinent",
+      "body": "The Indian subcontinent preserves one of the richest and longest prehistoric records in the world, spanning from the Lower Palaeolithic to the beginnings of settled agricultural life. Archaeological anthropology reconstructs this sequence primarily through stone tool typology, since organic remains rarely survive India's climate over such long timescales. \n\nThe Lower Palaeolithic, represented by the Sohan (Soanian) industry of the northwest and the Madrasian (Acheulean) industry of peninsular India, is characterised by heavy-duty core tools such as handaxes and cleavers, associated with early hominin groups practising hunting and gathering. The Middle Palaeolithic saw a shift toward smaller, flake-based tool industries, reflecting more refined tool-making techniques and possibly more sophisticated hunting strategies. The Upper Palaeolithic introduced blade-and-burin technology, associated with anatomically modern humans, and the first evidence of symbolic behaviour in the subcontinent. \n\nThe Mesolithic period, well represented at sites such as Bagor in Rajasthan and Bhimbetka in Madhya Pradesh, is marked by microlithic tools -- tiny, finely worked stone implements often hafted onto wood or bone -- alongside evidence of rock art, seasonal camps, and early experiments with animal domestication, positioning it as a transitional phase between foraging and farming ways of life. Bhimbetka's rock shelters, with paintings spanning thousands of years, remain among the most significant records of prehistoric symbolic and ritual life in India and are recognised as a UNESCO World Heritage Site. \n\nThe subsequent Neolithic period saw the crucial transition to settled agriculture and animal husbandry, with regional centres such as Mehrgarh in the northwest showing some of the earliest evidence of farming and pastoralism in South Asia, eventually feeding into the Chalcolithic cultures and, in the Indus region, the emergence of the urban Harappan civilisation. Studying this long prehistoric sequence allows anthropologists to trace how technological, subsistence and social changes unfolded gradually across the subcontinent well before the appearance of written records.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Prehistoric Cultures of India"
+      ],
+      "tags": [
+        "prehistory",
+        "archaeological-anthropology",
+        "indian-anthropology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Demographic Profile of India: Trends and Patterns",
+      "body": "India's demographic profile is central to Paper II of the anthropology optional because population characteristics directly shape the socio-economic conditions anthropologists study in tribal and rural communities. India is the world's most populous country, with a population characterised by considerable regional variation in growth rate, density, sex ratio, literacy and age structure. \n\nThe country has moved through distinct phases of demographic transition: from high birth and death rates in the pre-independence period, through a phase of rapidly declining death rates alongside still-high birth rates that produced very rapid population growth in the mid-twentieth century, toward the current phase in which fertility has fallen closer to replacement level in most states, even as some regions, particularly parts of the Hindi heartland, still show comparatively higher fertility than southern and western states. \n\nIndia's sex ratio, historically adverse to women, has shown gradual improvement alongside continued regional and social disparities linked to practices such as sex-selective abortion, an issue with direct social and legal implications the state has attempted to address through legislation. Literacy rates have risen substantially since independence but continue to show notable gaps between male and female literacy, urban and rural areas, and among Scheduled Castes and Scheduled Tribes compared with the general population. \n\nIndia's tribal population, concentrated heavily in central India (the 'tribal belt' spanning states such as Madhya Pradesh, Chhattisgarh, Jharkhand and Odisha) and the Northeast, shows demographic patterns distinct from the general population, including in several cases lower literacy, different age structures and, for many Particularly Vulnerable Tribal Groups, stagnant or declining population trends that have prompted targeted welfare interventions. \n\nIndia's growing working-age population relative to dependents, often called the demographic dividend, presents both an opportunity for accelerated economic growth and a policy challenge to generate sufficient employment, education and skill development, an issue anthropologists studying social change and youth increasingly engage with alongside demographers and economists.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Demographic Profile of India"
+      ],
+      "tags": [
+        "demography",
+        "indian-anthropology",
+        "population"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Tribe-Peasant Continuum in India",
+      "body": "One of the enduring debates in Indian anthropology concerns how sharply 'tribe' and 'peasant society' can actually be distinguished. Colonial and early anthropological writing often treated tribes as isolated, self-sufficient, egalitarian communities existing largely outside caste Hindu society, in contrast to peasants integrated into a market economy and caste-based social hierarchy. Field-level research across India, however, has shown that many communities occupy an intermediate position, making a rigid tribe-peasant dichotomy analytically inadequate. \n\nThe formal criteria used to notify a community as a 'Scheduled Tribe' -- indications of primitive traits, distinctive culture, geographical isolation, shyness of contact with the community at large, and general backwardness -- are themselves administrative rather than purely anthropological categories, and many communities meeting some but not all criteria have long-running claims and disputes over ST status. In practice, numerous groups classified as tribes have long engaged in settled agriculture, participated in regional markets, and maintained relationships with neighbouring caste communities through trade, labour and even ritual exchange, blurring the line between 'tribal' and 'peasant' modes of life. \n\nF.G. Bailey and others proposed viewing tribe and caste/peasant society as points on a continuum defined by the degree of integration into a wider economic and political system, rather than as two fundamentally separate types of society. A community's position on this continuum could shift over time as it became more or less integrated into surrounding markets, administrative structures and religious practices. \n\nThis continuum perspective carries practical significance for development policy: treating all tribal communities as uniformly isolated and self-sufficient risks designing welfare interventions poorly suited to those already substantially integrated into regional economies, while ignoring genuine isolation among other groups, particularly Particularly Vulnerable Tribal Groups, risks exposing them prematurely to disruptive external contact. Recognising this internal diversity among India's tribal population is thus essential to designing more effective, context-sensitive welfare and development policy.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Tribal and Peasant Societies of India",
+        "Concept of Tribe and Criteria for Scheduling"
+      ],
+      "tags": [
+        "tribes-of-india",
+        "peasant-society",
+        "indian-anthropology"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Problems Faced by Tribal Communities in India",
+      "body": "India's tribal communities, despite immense internal diversity across region, language and livelihood, share a set of recurring problems rooted in their historical marginalisation and ongoing integration into the wider national economy and polity. Land alienation remains among the most serious: indebtedness to non-tribal moneylenders, weak enforcement of protective land laws, and encroachment by outsiders have steadily eroded tribal landholding in many regions, undermining the agricultural and forest-based subsistence base most tribal economies depend on. \n\nDisplacement caused by large development projects -- dams, mines, industrial plants and protected wildlife areas -- has affected millions of tribal people since independence, often without adequate compensation, rehabilitation or consultation, generating long-running conflicts between development goals and tribal rights. Loss of access to forest resources, tightened further by conservation regulation in some cases, has disrupted traditional livelihoods based on shifting cultivation, minor forest produce collection and hunting-gathering. \n\nIndebtedness and exploitative labour arrangements, including bonded labour in some regions, continue to trap tribal households in cycles of poverty. Health indicators among tribal populations frequently lag behind national averages, reflecting poor access to healthcare infrastructure in remote tribal areas, while educational attainment, though improving, remains below the national average in many tribal-majority districts, partly due to language barriers when instruction is not offered in tribal languages. \n\nSocial problems including alcoholism, exposure without adequate safeguards to exploitative market relationships, and erosion of traditional community institutions under the pressure of migration and outside contact further compound tribal vulnerability. Insurgency and left-wing extremism in parts of the central Indian tribal belt have additionally complicated development delivery and governance in some districts. \n\nIn response, the Indian state has instituted a range of measures, including the Forest Rights Act, 2006, which recognises individual and community forest rights, protective land-transfer legislation restricting non-tribal land purchase in Scheduled Areas, reserved political representation, and targeted welfare schemes, although implementation gaps, bureaucratic delay and limited grassroots awareness continue to constrain their effectiveness in practice.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Problems of Tribal Communities"
+      ],
+      "tags": [
+        "tribes-of-india",
+        "tribal-problems",
+        "land-alienation"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Impact of Hinduism and Buddhism on Tribal Societies",
+      "body": "The historical interaction between mainstream religious traditions and India's tribal communities has produced complex patterns of acculturation, absorption and, in some cases, resistance. Hinduism's influence on tribal societies has occurred largely through gradual, informal processes rather than organised missionary activity. Contact with Hindu neighbours, participation in regional markets and fairs, and the spread of Hindu festivals and deities into tribal ritual calendars have led many tribal communities to adopt elements of Hindu practice alongside their own traditional beliefs, a process anthropologists often analyse through the lens of Sanskritisation, where communities emulate the customs of locally dominant, higher-status groups to improve their social standing. \n\nThis process is rarely complete or uniform: many tribal communities that have adopted Hindu deities or festivals continue to maintain distinct tribal priests, ancestor worship, totemic beliefs and community-specific rituals alongside these borrowed elements, producing a syncretic religious pattern rather than full assimilation into Brahmanical Hinduism. In some cases, tribal groups have been absorbed into the caste hierarchy as distinct, low-ranked castes, illustrating how the boundary between 'tribe' and 'caste' can shift through this contact over generations. \n\nBuddhism's historical relationship with tribal and marginalised communities has been shaped significantly by its explicit rejection of caste hierarchy and ritual exclusivity, which made it attractive at various points in history to groups seeking to escape caste-based discrimination. In the modern period, the conversion movement led by B.R. Ambedkar, though centred primarily on Dalit communities, also influenced some tribal and marginalised groups seeking social dignity and escape from caste-based stigma, adding a modern political dimension to religious change among India's marginalised communities. \n\nOverall, the encounter between tribal religion and these mainstream traditions illustrates a broader anthropological theme: religious change among tribal societies rarely proceeds through wholesale replacement, but through selective incorporation, reinterpretation and layering of new beliefs onto existing cosmologies, producing distinctive syncretic religious forms across different regions of India.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Impact of Religions on Tribal Societies"
+      ],
+      "tags": [
+        "tribes-of-india",
+        "religion",
+        "acculturation"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Colonial Administration and the Tribes of India",
+      "body": "British colonial policy toward India's tribal populations evolved considerably over the colonial period and left a lasting institutional imprint on tribal administration that persists in modified form today. In the early colonial period, administrators frequently viewed tribal areas as difficult, resource-poor frontier zones and often left customary tribal self-governance largely undisturbed, intervening mainly to secure revenue and suppress occasional tribal uprisings against encroaching outsiders and revenue demands, such as the Santhal insurrection and the Munda uprising led by Birsa Munda, both direct responses to land alienation and exploitative outside intrusion into tribal areas. \n\nOver time, colonial administration moved toward a more systematic policy of separating tribal regions from regular administration, formalised through instruments such as the Scheduled Districts Act of 1874 and later the Government of India Acts of 1919 and 1935, which created categories of 'excluded' and 'partially excluded' areas where normal legislative and administrative processes did not automatically apply, and where the colonial government exercised special discretionary powers. This 'protective isolation' approach was partly paternalistic, aiming to shield tribal communities from perceived exploitation by non-tribal moneylenders and landlords, and partly a matter of administrative convenience given the difficulty of governing remote, forested tribal tracts through ordinary bureaucratic machinery. \n\nColonial forest policy had a particularly disruptive effect, as the reservation of forests for state-controlled commercial timber extraction restricted traditional tribal access to forest resources upon which shifting cultivation and gathering-based subsistence depended, a source of recurring tribal grievance and unrest through the colonial period. \n\nAt independence, the framers of the Indian Constitution substantially adapted this colonial administrative framework of protected, semi-autonomous tribal areas into the Fifth and Sixth Schedules, retaining special governor's powers and autonomous district councils while reorienting the underlying philosophy from colonial control toward tribal self-governance and welfare, illustrating significant continuity, alongside important shifts in intent, between colonial and post-independence tribal administration in India.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Colonial Policies and Tribal Administration"
+      ],
+      "tags": [
+        "colonial-administration",
+        "tribes-of-india",
+        "history"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Constitutional and Legal Safeguards for Scheduled Tribes",
+      "body": "The Indian Constitution provides a substantial framework of safeguards for Scheduled Tribes, recognising their distinct socio-economic vulnerability and cultural identity. Article 342 empowers the President to specify the Scheduled Tribes in each state and Union Territory, while Articles 15 and 16 permit affirmative action in education and public employment. Article 46 directs the state, as a Directive Principle, to promote the educational and economic interests of Scheduled Tribes and protect them from social injustice and exploitation. Political representation is ensured through reserved seats for Scheduled Tribes in the Lok Sabha and state legislative assemblies under Article 330 and related provisions, as well as reservation in local self-government bodies. \n\nThe Fifth Schedule applies to Scheduled Areas primarily in mainland India (parts of central and eastern states with substantial tribal populations) and grants the state governor special powers, including the authority to modify or restrict the application of parliamentary or state laws to these areas, and to make regulations, for instance restricting land transfer from tribal to non-tribal persons or regulating money-lending. It also mandates a Tribes Advisory Council in each such state to advise the governor on tribal welfare matters. In practice, however, the discretionary powers under the Fifth Schedule have often remained under-utilised relative to their potential. \n\nThe Sixth Schedule applies to specified tribal areas in the northeastern states of Assam, Meghalaya, Tripura and Mizoram, establishing autonomous district and regional councils with meaningful legislative, executive, and judicial powers over land, forests, and customary law, granting considerably greater self-governance than the Fifth Schedule framework. \n\nBeyond the Constitution, statutory protections such as the Forest Rights Act, 2006 (recognising individual and community forest rights of forest-dwelling tribal communities), the Panchayats (Extension to Scheduled Areas) Act, 1996 (extending self-governance through gram sabhas in Fifth Schedule areas), and various state-level land-transfer restriction laws add further layers of legal protection, though uneven implementation and awareness gaps continue to limit their full potential on the ground.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Constitutional and Legal Safeguards for STs"
+      ],
+      "tags": [
+        "constitutional-safeguards",
+        "scheduled-tribes",
+        "fifth-schedule",
+        "sixth-schedule"
+      ],
+      "is_current_affairs": false
+    }
+  ]
+}

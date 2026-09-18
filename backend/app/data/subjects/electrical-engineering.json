@@ -1,0 +1,304 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Electrical Engineering",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["electrical-engineering", "paper-1"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["electrical-engineering", "paper-2"]},
+
+    {"title": "Circuit Theory", "parent_title": "Paper I", "tags": ["electrical-engineering", "circuit-theory"]},
+    {"title": "Signals and Systems", "parent_title": "Paper I", "tags": ["electrical-engineering", "signals-and-systems"]},
+    {"title": "Electromagnetic Theory", "parent_title": "Paper I", "tags": ["electrical-engineering", "electromagnetic-theory"]},
+    {"title": "Analog Electronics", "parent_title": "Paper I", "tags": ["electrical-engineering", "analog-electronics"]},
+    {"title": "Digital Electronics", "parent_title": "Paper I", "tags": ["electrical-engineering", "digital-electronics"]},
+    {"title": "Energy Conversion", "parent_title": "Paper I", "tags": ["electrical-engineering", "energy-conversion"]},
+    {"title": "Power Electronics and Electric Drives", "parent_title": "Paper I", "tags": ["electrical-engineering", "power-electronics"]},
+    {"title": "Analog Communication", "parent_title": "Paper I", "tags": ["electrical-engineering", "analog-communication"]},
+
+    {"title": "Fourier and Laplace Transforms", "parent_title": "Signals and Systems", "tags": ["electrical-engineering", "signals-and-systems"]},
+    {"title": "Thyristors and Power Semiconductor Devices", "parent_title": "Power Electronics and Electric Drives", "tags": ["electrical-engineering", "power-electronics"]},
+    {"title": "Choppers and Controlled Rectifiers", "parent_title": "Power Electronics and Electric Drives", "tags": ["electrical-engineering", "power-electronics", "electric-drives"]},
+    {"title": "Synchronous Machines", "parent_title": "Energy Conversion", "tags": ["electrical-engineering", "energy-conversion"]},
+    {"title": "DC Machines", "parent_title": "Energy Conversion", "tags": ["electrical-engineering", "energy-conversion"]},
+    {"title": "Angle Modulation (FM and PM)", "parent_title": "Analog Communication", "tags": ["electrical-engineering", "analog-communication"]},
+
+    {"title": "Control Systems", "parent_title": "Paper II", "tags": ["electrical-engineering", "control-systems"]},
+    {"title": "Microprocessors and Microcomputers", "parent_title": "Paper II", "tags": ["electrical-engineering", "microprocessors"]},
+    {"title": "Measurement and Instrumentation", "parent_title": "Paper II", "tags": ["electrical-engineering", "measurement-and-instrumentation"]},
+    {"title": "Power Systems Analysis and Control", "parent_title": "Paper II", "tags": ["electrical-engineering", "power-systems"]},
+    {"title": "Power System Protection", "parent_title": "Paper II", "tags": ["electrical-engineering", "power-system-protection"]},
+    {"title": "Digital Communication", "parent_title": "Paper II", "tags": ["electrical-engineering", "digital-communication"]},
+
+    {"title": "Time-Domain and Frequency-Domain Analysis", "parent_title": "Control Systems", "tags": ["electrical-engineering", "control-systems"]},
+    {"title": "State Variable Analysis", "parent_title": "Control Systems", "tags": ["electrical-engineering", "control-systems"]},
+    {"title": "8085 Microprocessor Architecture and Programming", "parent_title": "Microprocessors and Microcomputers", "tags": ["electrical-engineering", "microprocessors"]},
+    {"title": "Errors and Bridge Measurements", "parent_title": "Measurement and Instrumentation", "tags": ["electrical-engineering", "measurement-and-instrumentation"]},
+    {"title": "Transmission Line Performance", "parent_title": "Power Systems Analysis and Control", "tags": ["electrical-engineering", "power-systems"]},
+    {"title": "Protective Relaying and Circuit Breakers", "parent_title": "Power System Protection", "tags": ["electrical-engineering", "power-system-protection"]},
+    {"title": "Information Theory and Channel Capacity", "parent_title": "Digital Communication", "tags": ["electrical-engineering", "digital-communication"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "Using the Fourier transform, show that the integral of the squared magnitude of X(omega) over all frequency equals the total energy of the signal x(t) computed in the time domain. Hence evaluate the given definite integral for the specified signal.",
+      "node_titles": ["Fourier and Laplace Transforms"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly stating and deriving Parseval's/Rayleigh's energy theorem from the Fourier transform pair, for correct application of the given signal's transform to evaluate the specific integral, and for a dimensionally consistent, error-free final numerical value. Partial credit for a correct theorem statement even if the final evaluation has arithmetic slips."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "For a thyristor (SCR) operating in a typical converter circuit, determine the voltage appearing across the device at the instant of triggering, the voltage across it when the anode current decays to zero after commutation, and hence the peak inverse voltage rating required for safe operation.",
+      "node_titles": ["Thyristors and Power Semiconductor Devices"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit correct identification of the three distinct voltage conditions across the SCR (at triggering, at current zero-crossing during turn-off, and the resulting PIV), correct circuit-based derivation of each using the given source and load parameters, and a clearly justified final PIV rating with appropriate safety-margin reasoning."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "For a Type-A (step-down) chopper feeding a DC motor load, derive an expression for the maximum average current rating required of the freewheeling diode in terms of the load current and duty ratio.",
+      "node_titles": ["Choppers and Controlled Rectifiers"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for a correctly drawn chopper circuit with the freewheeling-diode current path identified during the off-interval, correct derivation of the diode's average current as a function of duty ratio and load current, and correct identification of the duty-ratio value at which this rating is maximum."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "A DC motor is fed through a single-phase controlled rectifier. Determine the firing angle required to develop rated torque under the given load conditions, and calculate the resulting motor speed.",
+      "node_titles": ["Choppers and Controlled Rectifiers"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit correct use of the controlled-rectifier average output-voltage equation in terms of firing angle, correct application of the DC motor's torque and back-EMF equations to relate armature current, voltage, and speed, and an internally consistent final numerical answer for both firing angle and speed."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "A DC motor undergoes dynamic braking through a chopper-controlled braking resistor. Determine the chopper duty ratio required to develop 1.5 times rated braking torque at a given speed, and find the motor speed corresponding to a duty ratio of 0.5.",
+      "node_titles": ["DC Machines"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly modelling the dynamic-braking circuit with chopper-controlled effective resistance, correct relation between braking torque, armature current, and duty ratio, and correct back-calculation of speed from the braking-torque/current equation for the second part."
+    },
+    {
+      "year": 2026,
+      "marks": 20,
+      "question_text": "A three-phase, star-connected alternator has a rated line voltage of 6.6 kV at a given field current. For a specified load condition, determine the power generated, the load angle, the power factor, and the reactive power supplied by the machine.",
+      "node_titles": ["Synchronous Machines"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit correct use of the synchronous generator's per-phase equivalent circuit and voltage equation to find internal EMF and load angle, correct computation of real power delivered using the power-angle relationship, and correct derivation of power factor and reactive power from the phasor relationship between terminal voltage, current, and EMF. Marks are apportioned roughly equally across the four sub-quantities requested."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "Derive the relationship between the frequency-deviation constant and phase-deviation constant of a modulator such that FM and PM produce the same maximum phase deviation for a given message signal. An FM signal is passed through a chain of frequency multipliers to reach a specified output frequency; determine the resulting frequency deviation and modulation index.",
+      "node_titles": ["Angle Modulation (FM and PM)"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly deriving the kp-kf relationship from the instantaneous phase expressions of FM and PM, and separately for correctly tracking how carrier frequency, frequency deviation, and modulation index scale through each frequency-multiplier stage to reach the final answer."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "A unity feedback control system is to be designed such that its step response has a settling time of 6 seconds and a peak overshoot of 20 percent. Determine the required values of the loop gain K and the damping ratio.",
+      "node_titles": ["Time-Domain and Frequency-Domain Analysis"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit correct derivation of damping ratio from the specified percentage overshoot using the standard second-order overshoot formula, correct use of the settling-time formula to find natural frequency, and correct back-substitution into the system's characteristic equation to solve for K."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "Obtain the state-space representation of the given electrical network, and solve the homogeneous state equation for the specified initial conditions to determine the system's free response.",
+      "node_titles": ["State Variable Analysis"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly choosing state variables and writing the state equation in matrix form from the network's differential equations, and separately for correctly solving the homogeneous equation (via the state transition matrix or Laplace-domain inversion) with the given initial conditions to obtain the time-domain response."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "Explain the function of the important pins of the 8085 microprocessor. Draw and explain the timing diagram for the MVI (move immediate) instruction.",
+      "node_titles": ["8085 Microprocessor Architecture and Programming"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit accurate description of at least the address/data bus, control, and status pins with their roles, and a correctly sequenced timing diagram for MVI showing the opcode-fetch and memory-read machine cycles with correct ALE, RD, and IO/M signal transitions."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "In the voltmeter-ammeter method of measuring an unknown resistance, derive the expression for the error introduced due to the finite resistance of the meters, and determine the probable error in the computed resistance for the given circuit values.",
+      "node_titles": ["Errors and Bridge Measurements"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly identifying the ammeter-internal or ammeter-external connection error source, correct algebraic derivation of the resulting percentage error in computed resistance, and correct final numerical evaluation using the given meter-resistance values."
+    },
+    {
+      "year": 2026,
+      "marks": 15,
+      "question_text": "A three-phase transmission line supplies a specified load at a given receiving-end voltage and power factor. Determine the transmission efficiency of the line and the power delivered, accounting for the line's series impedance.",
+      "node_titles": ["Transmission Line Performance"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit correct use of the appropriate short/medium transmission-line model to find sending-end voltage and current, correct computation of line losses from the series impedance and current, and correct final transmission-efficiency and power figures consistent with the chosen model."
+    },
+    {
+      "year": 2026,
+      "marks": 10,
+      "question_text": "Explain the principle of differential protection for a power transformer, and determine the current transformer turns ratio required on each side to ensure correct relay operation for the given transformer ratings. Also determine the interrupting current and kVA rating required of the associated circuit breaker.",
+      "node_titles": ["Protective Relaying and Circuit Breakers"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for a correct explanation of the differential-protection principle and the need for CT-ratio compensation across a transformer's turns ratio, correct computation of the required CT ratios, and correct calculation of circuit-breaker interrupting current and kVA from the given fault-level data."
+    },
+    {
+      "year": 2026,
+      "marks": 15,
+      "question_text": "For the given discrete memoryless source with specified symbol probabilities, construct a Huffman code and determine the source entropy and coding efficiency. Also derive an expression for the capacity of an AWGN channel and comment on the error probability of binary FSK signalling over such a channel.",
+      "node_titles": ["Information Theory and Channel Capacity"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit correct construction of the Huffman code tree and resulting code lengths, correct entropy computation from the given symbol probabilities and efficiency comparison against average code length, and a correctly derived/stated Shannon capacity expression with a reasoned qualitative or quantitative comment on FSK error probability."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Network Theorems and Transient Analysis of RLC Circuits",
+      "body": "Circuit theory forms the analytical foundation of electrical engineering by providing systematic methods to determine voltage and current distributions in networks built from resistors, inductors, capacitors, and sources. Two conservation laws anchor the subject: Kirchhoff's Current Law, which states that the algebraic sum of currents entering a node is zero, and Kirchhoff's Voltage Law, which states that the algebraic sum of voltage drops around any closed loop is zero. Working from a network's graph -- its nodes, branches, and independent loops -- engineers apply nodal analysis (solving for unknown node voltages) or mesh analysis (solving for unknown loop currents) to reduce a circuit to a solvable set of simultaneous equations.\n\nBeyond direct solution, a set of network theorems simplifies analysis of specific quantities. Thevenin's theorem replaces any linear two-terminal network with a single voltage source in series with an equivalent resistance, while Norton's theorem offers the dual current-source representation; both are indispensable when only the behaviour at one pair of terminals matters, such as computing load current across a changing load. The superposition theorem allows the response of a linear circuit with multiple independent sources to be found by summing the responses to each source acting alone. The maximum power transfer theorem establishes that a load draws maximum power from a source when the load resistance equals the source's Thevenin resistance (or its complex conjugate for reactive networks).\n\nWhen a circuit's configuration changes -- a switch closes, a source is applied -- the circuit passes through a transient before settling into steady state. First-order RL and RC circuits exhibit exponential charging and discharging governed by a single time constant, while second-order RLC circuits can be overdamped, critically damped, or underdamped depending on the relationship between resistance, inductance, and capacitance, producing oscillatory transients in the underdamped case. Once transients decay, sinusoidal steady-state analysis using phasors and complex impedance lets engineers treat AC circuits algebraically rather than through differential equations, extending naturally to balanced three-phase systems where line and phase quantities relate through fixed magnitude and phase relationships depending on star or delta connection.\n\nFinally, two-port network theory characterizes a network purely by its terminal behaviour using parameter sets such as Z, Y, ABCD, and hybrid parameters, enabling complex systems like transmission lines and amplifiers to be modelled as interconnected black boxes and analyzed through parameter conversion and cascading rules.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Circuit Theory"],
+      "tags": ["electrical-engineering", "circuit-theory"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Fourier and Laplace Transform Methods for Signal Analysis",
+      "body": "Signals and systems theory equips engineers with transform techniques that convert differential equations describing circuits and systems into algebraic relationships, dramatically simplifying analysis. A continuous-time signal can be represented in the frequency domain through the Fourier transform, which decomposes it into a continuum of complex exponentials, revealing amplitude and phase content at every frequency. For periodic signals, the Fourier series achieves the same decomposition using a discrete set of harmonically related frequencies. A key result, Parseval's theorem, states that the total energy of a signal computed in the time domain equals the integral of the squared magnitude of its Fourier transform over all frequency, confirming that the transform preserves energy while re-expressing it in a different domain.\n\nThe Laplace transform generalizes the Fourier transform by allowing a complex frequency variable, which lets it handle unstable or growing signals and, more importantly, converts linear constant-coefficient differential equations into algebraic equations in the s-domain. System behaviour is then captured through the transfer function, the ratio of output to input transform assuming zero initial conditions, whose pole locations in the complex plane directly determine stability and the nature of the time response. Initial and final value theorems allow engineers to infer a signal's starting and steady-state values directly from its Laplace transform without inverting it.\n\nFor discrete-time signals obtained by sampling, the Z-transform plays an analogous role, mapping difference equations to algebraic equations in the z-domain. The sampling theorem establishes the minimum rate -- twice the highest frequency present in the signal -- at which a continuous signal must be sampled to permit exact reconstruction, and violating it causes aliasing, where high-frequency content folds back and corrupts the reconstructed signal. The Discrete Fourier Transform (DFT) computes a frequency-domain representation of a finite sequence of samples, and the Fast Fourier Transform (FFT) is an efficient algorithm that computes the DFT with dramatically reduced computational complexity by exploiting symmetry and periodicity in the transform's structure, making real-time spectral analysis of signals computationally practical.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Fourier and Laplace Transforms"],
+      "tags": ["electrical-engineering", "signals-and-systems"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Maxwell's Equations and Plane Wave Propagation",
+      "body": "Maxwell's equations form the complete set of governing laws for classical electromagnetism, unifying electricity, magnetism, and optics into a single consistent framework. Gauss's law for electric fields relates the electric flux through a closed surface to the enclosed charge; Gauss's law for magnetism asserts that magnetic monopoles do not exist, so magnetic flux through any closed surface is always zero. Faraday's law describes how a time-varying magnetic field induces a circulating electric field, the basis of electromagnetic induction and generator action. Ampere's law, as modified by Maxwell's addition of the displacement-current term, relates a magnetic field's circulation to both conduction current and the rate of change of electric flux, and this addition is what allows the equations to predict the existence of self-propagating electromagnetic waves.\n\nCombining these laws in a source-free, lossless medium yields the wave equation, showing that electric and magnetic fields propagate together as transverse waves, oscillating perpendicular to each other and to the direction of travel, at a speed determined by the permittivity and permeability of the medium. In bounded or lossy media, propagation constants pick up attenuation and phase terms that depend on the medium's conductivity, and skin effect causes high-frequency currents to concentrate near a conductor's surface.\n\nWhen an electromagnetic wave meets a boundary between two media, boundary conditions on the tangential and normal field components determine how much of the wave is reflected and how much is transmitted, expressed through reflection and transmission coefficients that depend on the media's intrinsic impedances and the angle of incidence; at certain angles for particular polarizations, reflection can vanish entirely (Brewster's angle).\n\nTransmission line theory extends these concepts to guided propagation along parallel conductors. A line is characterized by distributed per-unit-length parameters -- resistance, inductance, conductance, and capacitance -- that combine into a characteristic impedance and propagation constant. Lines are analyzed using voltage and current wave equations, and impedance mismatches between a line and its load create standing waves, quantified by the voltage standing wave ratio. The Smith chart provides a graphical tool for impedance transformation and matching-network design along such lines.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Electromagnetic Theory"],
+      "tags": ["electrical-engineering", "electromagnetic-theory"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "BJT and MOSFET Amplifier Biasing and Configurations",
+      "body": "Analog electronic circuits are built around active devices -- diodes, bipolar junction transistors (BJTs), junction field-effect transistors (JFETs), and metal-oxide-semiconductor field-effect transistors (MOSFETs) -- whose nonlinear current-voltage characteristics are exploited through careful biasing to create predictable, approximately linear behaviour around a chosen operating point. A BJT, for instance, is described in its active region by large-signal exponential relationships, but for small-signal analysis engineers linearize its behaviour around the quiescent point using hybrid-parameter or simplified equivalent-circuit models, enabling amplifier gain and impedance calculations through straightforward circuit analysis. Bias stability against temperature variation and device-parameter spread is achieved through feedback biasing arrangements such as voltage-divider bias with an emitter resistor, which self-corrects the operating point against drift.\n\nAmplifier design builds on these biased devices in several configurations. Single-stage amplifiers (common-emitter, common-base, common-collector for BJTs, and their FET analogues) each offer distinct trade-offs in voltage gain, input and output impedance, and bandwidth, making them suited to different roles such as voltage amplification, buffering, or current gain. Multistage amplifiers cascade individual stages to achieve higher overall gain, with the coupling method (RC, transformer, or direct) affecting frequency response and DC level shifting. Differential amplifiers, central to operational amplifier design, amplify the difference between two input signals while rejecting signals common to both, a property quantified by the common-mode rejection ratio. Operational amplifiers, built internally from such differential stages, are used with external feedback networks to realize precise inverting, non-inverting, summing, and integrating/differentiating configurations whose behaviour is set almost entirely by the feedback components rather than the amplifier's internal parameters.\n\nBeyond amplification, active devices are configured as oscillators -- using positive feedback satisfying the Barkhausen criterion in circuits like Hartley, Colpitts, and RC phase-shift oscillators -- to generate sustained periodic waveforms without an external input signal. Active and passive filter circuits shape a signal's frequency content by selectively passing or attenuating bands of frequencies, while regulated power-supply circuits use rectification, filtering, and feedback-based voltage regulation to convert AC mains into stable DC suitable for powering other circuits.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Analog Electronics"],
+      "tags": ["electrical-engineering", "analog-electronics"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Boolean Algebra, Logic Families, and Sequential Circuit Design",
+      "body": "Digital electronics represents information using discrete voltage levels rather than continuous signals, and Boolean algebra provides the mathematical language for describing and manipulating such two-valued logic. Boolean expressions built from AND, OR, and NOT operations can represent any combinational logic function, and minimization techniques -- Karnaugh maps for a handful of variables, and the tabular Quine-McCluskey method for larger problems -- reduce these expressions to the fewest terms and literals, directly lowering the gate count and cost of the resulting hardware. These minimized expressions are then realized using logic gates built in various IC families: diode-transistor logic (DTL) and transistor-transistor logic (TTL) offered early standard logic; emitter-coupled logic (ECL) traded higher power for very high switching speed; and MOS and CMOS families, which dominate modern digital design, offer very low static power consumption because current flows only during switching transitions.\n\nCombinational circuits, whose outputs depend only on present inputs, include building blocks such as adders, subtractors, multiplexers, demultiplexers, encoders, decoders, and comparators, each constructed from minimized gate networks and combined to build larger arithmetic and control logic. Sequential circuits, by contrast, incorporate memory through feedback, so their outputs depend on both present inputs and past state. The basic memory element is the flip-flop -- SR, JK, D, and T types -- from which registers, counters (both synchronous and asynchronous/ripple), and finite state machines are constructed; state diagrams and state tables formalize the design of such sequential systems before they are reduced to flip-flop and gate-level implementations.\n\nInterfacing digital systems with the analog world requires data converters: analog-to-digital converters (ADCs) using techniques such as successive approximation, flash, or dual-slope conversion sample and quantize continuous signals into digital codes, while digital-to-analog converters (DACs), often built using weighted-resistor or R-2R ladder networks, reconstruct an analog voltage from a digital code. Finally, programmable logic devices -- from simple programmable array logic (PAL) and programmable logic arrays (PLA) to more complex field-programmable gate arrays (FPGAs) -- allow a single reconfigurable chip to be customized in the field to implement a wide range of combinational and sequential logic functions without custom fabrication.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Digital Electronics"],
+      "tags": ["electrical-engineering", "digital-electronics"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Synchronous Machine Performance and the Alternator Voltage Equation",
+      "body": "Synchronous machines -- alternators when operated as generators and synchronous motors when operated as motors -- rotate at a speed rigidly locked to the electrical supply frequency, determined by the number of poles. In a synchronous generator, a rotor carrying a DC-excited field winding is turned by a prime mover, and the resulting rotating magnetic field induces an alternating EMF in the stationary armature windings via electromagnetic induction. This induced EMF depends on the field flux, machine speed, and winding design, captured in the classical EMF equation relating generated voltage to flux per pole, frequency, number of turns, and winding factors that account for the distribution and short-pitching of the armature windings.\n\nUnder load, armature current flowing through the stator windings creates its own magnetic field that interacts with the rotor field, a phenomenon called armature reaction, which alters the effective air-gap flux and hence the terminal voltage. This is commonly modelled using synchronous reactance, combining the effects of armature reaction and leakage flux into a single equivalent reactance, giving rise to the simplified voltage equation relating terminal voltage, generated EMF, armature current, and synchronous impedance for cylindrical-rotor machines. Voltage regulation, the percentage change in terminal voltage from full load to no load at constant excitation, is an important performance metric, evaluated using methods such as the synchronous-impedance (EMF) method, the ampere-turn (MMF) method, or the more accurate Potier (ZPF) method, particularly for salient-pole machines where two-reactance theory using direct-axis and quadrature-axis reactances is needed to properly account for the non-uniform air gap.\n\nThe power delivered by a synchronous generator to an infinite bus is governed by the power-angle equation, showing that real power transfer varies sinusoidally with the load angle -- the angular displacement between the rotor's field and the resulting armature MMF -- reaching a theoretical maximum at ninety degrees, beyond which the machine loses synchronism. Reactive power exchange, by contrast, is controlled primarily through field excitation: over-excitation causes the machine to supply reactive power to the system, while under-excitation causes it to absorb reactive power, a property exploited when synchronous machines are run as synchronous condensers purely for reactive power and voltage support.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Synchronous Machines"],
+      "tags": ["electrical-engineering", "energy-conversion"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Thyristor Characteristics and Triggering Circuits",
+      "body": "Power semiconductor devices are the switching elements that make modern power-electronic conversion possible, and each family offers a different combination of voltage/current handling, switching speed, and control complexity. The power diode, simplest of these, conducts when forward biased and blocks when reverse biased, and is characterized for power applications by parameters such as peak inverse voltage, average and RMS current ratings, and reverse recovery time, the last of which governs switching losses in high-frequency circuits.\n\nThe silicon-controlled rectifier (SCR or thyristor) is a four-layer, three-junction device that, unlike a diode, remains non-conducting in the forward direction until a gate pulse triggers it into conduction; once triggered and carrying current above a holding value, it continues to conduct even after the gate signal is removed, and can only be turned off by reducing its current below the holding current (natural or forced commutation). Key ratings include peak inverse voltage -- the maximum reverse voltage the device must withstand without breakdown -- and the voltage the device must block during the interval before triggering and immediately as current decays to zero during turn-off, both critical to safe device selection in converter design. The triac extends thyristor behaviour to bidirectional conduction, useful for AC power control, while the gate turn-off thyristor (GTO) adds the ability to be turned off via a negative gate pulse, avoiding the need for external commutation circuitry required by conventional SCRs.\n\nFully controllable switching devices -- power transistors, power MOSFETs, and insulated-gate bipolar transistors (IGBTs) -- can be turned both on and off through a control terminal, offering faster switching than thyristors at the cost of typically lower voltage/current ratings, making them suited to high-frequency converters such as choppers and switch-mode power supplies. Triggering circuits for thyristors, ranging from simple RC and UJT relaxation-oscillator circuits to precise microcontroller-based firing schemes, must deliver correctly timed gate pulses, since the firing angle directly determines the output voltage in phase-controlled converters. Device protection against overvoltage transients (using snubber circuits) and overcurrent (using fast semiconductor fuses) is essential, as these devices have very limited thermal and surge overload capability compared to mechanical switching devices.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Thyristors and Power Semiconductor Devices"],
+      "tags": ["electrical-engineering", "power-electronics"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Chopper and Controlled Rectifier Circuits for Motor Drives",
+      "body": "Power electronic converters that process DC-to-DC or AC-to-DC conversion underpin most modern variable-speed electric drives. A DC chopper converts a fixed DC input voltage into a variable DC output by rapidly switching a power device on and off; the ratio of on-time to the total switching period, called the duty ratio, directly sets the average output voltage. A step-down (buck, or Type-A) chopper produces an output voltage lower than the input, commonly used to feed a DC motor armature at reduced voltage for speed control below base speed. During the switch's off-interval, a freewheeling diode provides a path for the load's inductive current to continue flowing, preventing damaging voltage spikes across the switch and ensuring continuous current in the motor armature; its current rating must be chosen to safely carry the load current during this off-interval across the full duty-ratio range.\n\nControlled rectifiers convert AC input into a variable DC output by using thyristors instead of diodes, with the firing angle -- the delay, measured in electrical degrees after the natural commutation point, before the thyristor is triggered -- controlling the average DC output voltage. A fully-controlled single-phase or three-phase bridge rectifier feeding a DC motor allows both the motor's speed (through output voltage) and, in some configurations, direction to be controlled electronically. For a given load torque, the required armature voltage and hence the firing angle can be calculated from the motor's torque-speed and voltage equations, linking power-electronic control directly to mechanical drive performance.\n\nBeyond forward motoring, chopper- and rectifier-fed drives support regenerative and dynamic braking. In dynamic braking with a chopper, the motor is disconnected from the source and its armature is connected through the chopper to a braking resistor; by varying the duty ratio, the effective resistance in the braking circuit is controlled, which in turn sets the braking torque and the motor's speed during deceleration. Such precise electronic control of speed, torque, and braking -- impossible with older resistance-based methods -- is what has made power-electronic converters central to modern electric drive systems in industry, traction, and electric vehicles.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Choppers and Controlled Rectifiers"],
+      "tags": ["electrical-engineering", "power-electronics", "electric-drives"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Angle Modulation: Frequency and Phase Modulation Fundamentals",
+      "body": "Angle modulation encodes a message signal into the angle (phase) of a carrier wave, in contrast to amplitude modulation, which varies the carrier's amplitude. Two forms exist: frequency modulation (FM), where the instantaneous frequency of the carrier is varied in proportion to the message signal's amplitude, and phase modulation (PM), where the instantaneous phase is varied in proportion to the message amplitude instead. Because instantaneous frequency is the time derivative of instantaneous phase, FM and PM are mathematically related: modulating a carrier's phase directly by a signal proportional to the message is equivalent to frequency-modulating it with the message's derivative, and conversely, integrating a message before applying FM produces the same waveform as directly phase-modulating with that message. This relationship means an FM signal can be generated using a phase modulator preceded by an integrator, and a PM signal using a frequency modulator preceded by a differentiator; the constants relating frequency deviation and phase deviation to the message amplitude determine how much a given message swing shifts the carrier's frequency or phase respectively, and matching the maximum phase deviation produced by each approach ties these two constants together for a given message bandwidth.\n\nBoth FM and PM are constant-envelope modulation schemes, meaning the carrier's amplitude never changes, which makes them robust to amplitude-varying noise and nonlinear amplification, a major advantage over amplitude modulation. Bandwidth requirements are estimated using Carson's rule, which accounts for both the frequency deviation and the highest frequency present in the message signal.\n\nBecause generating large-deviation FM directly is difficult, practical FM transmitters often generate a low-deviation FM signal (using methods such as the Armstrong indirect method) and then pass it through a chain of frequency multipliers -- nonlinear stages followed by filters that multiply the carrier frequency and, proportionally, the frequency deviation and the total phase deviation, by an integer factor. When a signal generated this way must reach a specified final carrier frequency, the required intermediate frequencies and multiplication factors are calculated by working backward from the target output through each multiplier stage, while tracking how the frequency deviation and modulation index scale at each step.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Angle Modulation (FM and PM)"],
+      "tags": ["electrical-engineering", "analog-communication"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Stability Analysis Using Routh-Hurwitz Criterion and Root Locus",
+      "body": "Feedback control systems are analyzed to predict how a system responds over time to standard test inputs and whether that response remains bounded and well-behaved. Time-domain specifications for a typical underdamped second-order system -- characterized by its natural frequency and damping ratio -- include rise time, peak time, percentage overshoot, and settling time, each expressible in closed form in terms of these two parameters; conversely, given a required settling time and overshoot, the damping ratio and natural frequency (and hence the necessary controller gain in a unity-feedback loop) can be worked backward algebraically, a standard controller-design exercise. Steady-state error, the residual difference between a system's output and a reference input after transients decay, depends on the system's type number (the number of pure integrators in its open-loop transfer function) and the nature of the input (step, ramp, or parabolic), summarized through static error constants.\n\nStability -- whether a system's response to a bounded input remains bounded -- is central to control system design, since an unstable closed-loop system is generally unusable. The Routh-Hurwitz criterion determines stability directly from a system's characteristic-equation coefficients, using a tabular sign-count method that avoids explicitly solving for the roots, and can also establish the range of a design parameter, such as loop gain, for which a system remains stable. The root locus technique plots how the closed-loop poles migrate in the complex plane as a chosen parameter (typically gain) varies from zero to infinity, giving designers direct graphical insight into how adjusting gain affects both stability and transient-response character.\n\nFrequency-domain methods complement these time-domain and root-locus techniques. The Bode plot represents a system's magnitude and phase response against frequency on logarithmic axes, from which gain margin and phase margin -- measures of relative stability -- are read directly, guiding compensator design to meet stability and bandwidth requirements. The Nyquist stability criterion, based on encirclements of the critical point by the open-loop frequency response plotted in the complex plane, determines closed-loop stability even for systems with open-loop poles in the right half-plane, situations the Bode plot alone cannot resolve, making it a more general, though more graphically involved, stability test.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Time-Domain and Frequency-Domain Analysis"],
+      "tags": ["electrical-engineering", "control-systems"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "State Variable Formulation of Linear Dynamical Systems",
+      "body": "State-variable analysis represents a dynamic system's internal behaviour using a set of first-order differential equations rather than a single high-order differential equation or transfer function, offering a framework well suited to systems with multiple inputs and outputs and to modern computer-based analysis and design. The state of a system is the minimal set of variables -- the state vector -- whose values at a given time, together with the future input, completely determine the system's future behaviour. For a linear time-invariant system, this is expressed through the state equation, relating the rate of change of the state vector to the state itself and the input via constant matrices, and the output equation, relating the measured output to the state and input via further constant matrices.\n\nDeriving a state-space model from a physical circuit or system typically begins by choosing physically meaningful state variables -- inductor currents and capacitor voltages in electrical networks, for instance, since these represent stored energy -- and writing Kirchhoff's-law-based differential equations for each, then arranging them into standard matrix form. Once in this form, the system's free (unforced) response is obtained by solving the homogeneous state equation from a given set of initial conditions, yielding a solution expressed through the matrix exponential of the system matrix, often computed via Laplace transformation of the state equation and subsequent inversion back to the time domain; this same free response also reveals the system's natural modes, since the matrix's eigenvalues equal the poles that would appear in an equivalent transfer-function description.\n\nBeyond providing an alternative solution method, the state-space formulation exposes structural properties not visible from a transfer function alone. Controllability asks whether the state can be driven from any initial value to any desired value in finite time using the available input; observability asks whether the initial state can be uniquely determined from a finite record of the output. Both are tested using rank conditions on matrices built from the system's state and input (or output) matrices, and both are prerequisites for advanced design techniques such as pole-placement state feedback and observer design, which rely on the ability to freely influence, and to fully reconstruct, the internal state of the system.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["State Variable Analysis"],
+      "tags": ["electrical-engineering", "control-systems"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "8085 Microprocessor Architecture and Instruction Timing",
+      "body": "The Intel 8085 is a classic 8-bit microprocessor whose architecture is widely studied as a foundation for understanding microprocessor design principles. Internally, it comprises an 8-bit arithmetic and logic unit (ALU), a set of general-purpose registers (B, C, D, E, H, L) that can be used individually or paired for 16-bit operations, dedicated registers including the accumulator (where arithmetic and logic results are held), a flag register recording condition flags such as carry, zero, sign, parity, and auxiliary carry after ALU operations, a 16-bit program counter that holds the address of the next instruction to fetch, and a 16-bit stack pointer for managing the last-in-first-out call/return and push/pop mechanism. Externally, the processor communicates over a multiplexed 8-bit address/data bus (the lower 8 address lines share pins with the data bus, demultiplexed using the ALE control signal) plus separate upper 8 address lines, along with control signals such as RD, WR, and status lines like IO/M that distinguish memory from I/O operations.\n\nEvery instruction executes as a sequence of machine cycles, each further divided into T-states (clock periods); an instruction fetch, for example, requires an opcode-fetch machine cycle followed by however many memory-read or memory-write cycles the instruction needs to obtain operands or store results. Timing diagrams graphically depict how the address bus, data bus, and control signals change state across these T-states for a given instruction, and are essential for interfacing external memory and I/O devices correctly, since a device must present or capture data within the precise windows the timing diagram specifies. An instruction such as MVI (move immediate), which loads a register directly with a constant supplied in the instruction stream, illustrates this well: its timing diagram shows an opcode-fetch cycle followed by a second cycle that fetches the immediate data byte itself, with the ALE, RD, and IO/M lines toggling in the specific pattern that identifies each cycle's type.\n\nProgramming the 8085 in assembly language involves data transfer, arithmetic, logic, branching, and stack/subroutine instructions, and beyond bare instruction sets, the processor supports interrupt-driven operation through several interrupt pins of differing priority and vector behaviour, allowing external events to suspend normal program execution and transfer control to a dedicated service routine before resuming.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["8085 Microprocessor Architecture and Programming"],
+      "tags": ["electrical-engineering", "microprocessors"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Measurement Errors and Bridge Circuits for Precision Instrumentation",
+      "body": "Every measurement carries some degree of uncertainty, and error analysis provides the formal tools to quantify and manage it. Errors are broadly classed as gross errors (from operator mistakes), systematic errors (consistent, repeatable offsets from instrument imperfections, environmental effects, or observational bias), and random errors (unpredictable fluctuations best characterized statistically, using measures like standard deviation over repeated readings). Instrument quality itself is described through accuracy (closeness to the true value), precision (repeatability of readings), resolution (the smallest detectable change), and sensitivity (the ratio of output response to input change), and a measuring instrument's own limited accuracy and internal impedance necessarily perturb the very quantity being measured -- an effect formalized as loading error.\n\nA classic illustration is the voltmeter-ammeter method of measuring an unknown resistance: connecting the voltmeter directly across the resistor (ammeter external) means the ammeter reads the sum of resistor and voltmeter currents, while connecting it across the resistor-and-ammeter series combination (ammeter internal) means the voltmeter reads the sum of resistor and ammeter voltage drops; either arrangement introduces a systematic error whose magnitude can be calculated from the meters' known internal resistances and depends on whether the unknown resistance is large or small relative to those internal resistances, which is precisely why the correct connection choice depends on the expected resistance range.\n\nBridge circuits offer a fundamentally different, null-deflection approach to precision measurement. A Wheatstone bridge measures an unknown resistance by balancing it against three known resistances arranged in a four-arm configuration, adjusting one arm until a galvanometer connected across the bridge's diagonal reads zero, at which point the unknown resistance is given directly by the ratio of the other three. AC bridges extend this principle to inductance and capacitance measurement -- Maxwell's bridge and Anderson's bridge for inductance, and Schering's and De Sauty's bridges for capacitance -- each balancing both the magnitude and phase of impedance using a combination of resistive and reactive standard arms, requiring two independent balance conditions to be satisfied simultaneously.\n\nElectrodynamometer-type instruments, used for accurate wattmeter and ammeter/voltmeter measurements, employ a fixed and a moving coil whose mutual torque is proportional to the product of the currents through them, but their finite coil resistances again introduce small, calculable systematic errors, typically corrected for in precision work by choosing the appropriate pressure-coil connection and applying compensation.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Errors and Bridge Measurements"],
+      "tags": ["electrical-engineering", "measurement-and-instrumentation"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Load Flow Studies and Voltage Control in Power Systems",
+      "body": "Analyzing a power system's steady-state behaviour under normal operating conditions is essential for planning and operating the transmission network reliably. Transmission lines are classified as short, medium, or long depending on their length, with correspondingly more elaborate equivalent circuits: short lines are modelled with just series impedance, medium lines add shunt admittance in a nominal-pi or nominal-T configuration, and long lines require distributed-parameter analysis using hyperbolic functions of the propagation constant to accurately capture voltage and current variation along the line. From these models, performance parameters such as voltage regulation (the percentage rise in receiving-end voltage when load is removed) and transmission efficiency (the ratio of received to sent power, accounting for line losses) are calculated, along with the ABCD constants that relate sending- and receiving-end voltage and current for the line treated as a two-port network.\n\nLoad flow (or power flow) analysis extends this single-line perspective to an entire interconnected network, solving for the voltage magnitude and angle at every bus given the specified generation and load at each bus. Because the underlying power-balance equations are nonlinear, iterative numerical methods are used: the Gauss-Seidel method updates bus voltages sequentially using the current values of other voltages, converging slowly but with modest memory requirements, while the Newton-Raphson method linearizes the equations at each step using a Jacobian matrix, converging in far fewer iterations for large systems at the cost of more computation per iteration, making it the standard choice for large practical power systems. The fast-decoupled load flow method exploits the weak coupling between real power and voltage angle, and between reactive power and voltage magnitude, to further reduce computational effort.\n\nVoltage control is achieved through a mix of techniques: generator excitation control adjusts reactive power output to hold terminal voltage; shunt capacitors and reactors inject or absorb reactive power at strategic network locations; tap-changing transformers adjust voltage ratios in discrete steps; and synchronous condensers provide continuously variable reactive support. System stability -- the ability of the network to maintain synchronism after a disturbance -- is examined for both steady, slowly evolving changes (steady-state stability) and sudden large disturbances like faults (transient stability), the latter commonly assessed using the equal-area criterion for a simplified single-machine system, which compares accelerating and decelerating energy areas on the power-angle curve to determine whether synchronism is retained.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Power Systems Analysis and Control"],
+      "tags": ["electrical-engineering", "power-systems"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Protective Relaying Principles and Circuit Breaker Ratings",
+      "body": "Power system protection exists to detect faults quickly and isolate only the affected section of the network, limiting equipment damage and preserving supply to the rest of the system. Overcurrent protection, the simplest scheme, operates a relay when current exceeds a preset threshold, with inverse-time characteristics ensuring that relays closer to a fault (which see higher fault current) operate faster than those farther away, achieving coordination between successive protection zones without communication between relays. Differential protection compares the current entering and leaving a protected zone -- a transformer, generator, or busbar -- and operates only when these currents differ by more than a set percentage, a condition that should only occur for an internal fault; because current transformers on either side of the protected equipment may have slightly different transformation ratios or saturation behaviour, a percentage-restrained differential relay is typically used, and the CT turns ratios must be carefully matched or corrected to avoid spurious operation on heavy through-faults or, in the case of transformers, to compensate for the actual turns/voltage ratio of the protected transformer. Distance protection, common on transmission lines, measures the apparent impedance seen looking into the line from the relay location and operates when this impedance falls within a set reach, effectively estimating the fault's distance from the relay without needing to know the actual fault current magnitude.\n\nModern protection increasingly uses numeric (microprocessor-based) relays, which sample voltage and current waveforms digitally and apply protection algorithms in software, offering flexibility, self-monitoring, and multiple protection functions in a single device, replacing the electromechanical and static relays of earlier generations. Solid-state relays use semiconductor devices to implement the same detection logic with faster, more consistent operating times and no moving parts.\n\nCircuit breakers are the switching devices that physically interrupt fault current once a relay issues a trip signal. Their key ratings include rated voltage, rated normal current, and rated breaking capacity -- the maximum fault current (and associated symmetrical/asymmetrical kVA) the breaker can safely interrupt without damage -- determined by system fault-level studies. Different breaker technologies (oil, air-blast, SF6, and vacuum) use different arc-quenching media, but all must extinguish the arc that forms as contacts separate under load, typically by ensuring the arc is interrupted at a natural current zero-crossing before it can re-strike.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Protective Relaying and Circuit Breakers"],
+      "tags": ["electrical-engineering", "power-system-protection"],
+      "is_current_affairs": false
+    }
+  ]
+}

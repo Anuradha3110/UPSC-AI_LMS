@@ -1,0 +1,503 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Civil Engineering",
+  "syllabus_nodes": [
+    {
+      "title": "Paper I",
+      "parent_title": null,
+      "tags": [
+        "civil-engineering"
+      ]
+    },
+    {
+      "title": "Paper II",
+      "parent_title": null,
+      "tags": [
+        "civil-engineering"
+      ]
+    },
+    {
+      "title": "Engineering Mechanics, Strength of Materials and Structural Analysis",
+      "parent_title": "Paper I",
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ]
+    },
+    {
+      "title": "Strength of Materials",
+      "parent_title": "Engineering Mechanics, Strength of Materials and Structural Analysis",
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ]
+    },
+    {
+      "title": "Structural Analysis",
+      "parent_title": "Engineering Mechanics, Strength of Materials and Structural Analysis",
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ]
+    },
+    {
+      "title": "Design of Structures: Steel, Concrete and Masonry",
+      "parent_title": "Paper I",
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ]
+    },
+    {
+      "title": "Design of Steel Structures",
+      "parent_title": "Design of Structures: Steel, Concrete and Masonry",
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ]
+    },
+    {
+      "title": "Design of RCC and Prestressed Concrete Structures",
+      "parent_title": "Design of Structures: Steel, Concrete and Masonry",
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ]
+    },
+    {
+      "title": "Fluid Mechanics, Open Channel Flow and Hydraulic Machines",
+      "parent_title": "Paper I",
+      "tags": [
+        "civil-engineering",
+        "fluid-mechanics"
+      ]
+    },
+    {
+      "title": "Open Channel Flow and Hydraulic Machines",
+      "parent_title": "Fluid Mechanics, Open Channel Flow and Hydraulic Machines",
+      "tags": [
+        "civil-engineering",
+        "fluid-mechanics"
+      ]
+    },
+    {
+      "title": "Geotechnical Engineering",
+      "parent_title": "Paper I",
+      "tags": [
+        "civil-engineering",
+        "geotechnical-engineering"
+      ]
+    },
+    {
+      "title": "Foundation Engineering",
+      "parent_title": "Geotechnical Engineering",
+      "tags": [
+        "civil-engineering",
+        "geotechnical-engineering"
+      ]
+    },
+    {
+      "title": "Construction Technology, Equipment, Planning and Management",
+      "parent_title": "Paper II",
+      "tags": [
+        "civil-engineering",
+        "construction-management"
+      ]
+    },
+    {
+      "title": "Construction Planning and Management (CPM/PERT)",
+      "parent_title": "Construction Technology, Equipment, Planning and Management",
+      "tags": [
+        "civil-engineering",
+        "construction-management"
+      ]
+    },
+    {
+      "title": "Surveying and Transportation Engineering",
+      "parent_title": "Paper II",
+      "tags": [
+        "civil-engineering",
+        "transportation-engineering"
+      ]
+    },
+    {
+      "title": "Highway Engineering",
+      "parent_title": "Surveying and Transportation Engineering",
+      "tags": [
+        "civil-engineering",
+        "transportation-engineering"
+      ]
+    },
+    {
+      "title": "Railway Engineering",
+      "parent_title": "Surveying and Transportation Engineering",
+      "tags": [
+        "civil-engineering",
+        "transportation-engineering"
+      ]
+    },
+    {
+      "title": "Hydrology, Water Resources and Irrigation Engineering",
+      "parent_title": "Paper II",
+      "tags": [
+        "civil-engineering",
+        "water-resources"
+      ]
+    },
+    {
+      "title": "Irrigation Engineering and Canal Design",
+      "parent_title": "Hydrology, Water Resources and Irrigation Engineering",
+      "tags": [
+        "civil-engineering",
+        "water-resources"
+      ]
+    },
+    {
+      "title": "Environmental Engineering",
+      "parent_title": "Paper II",
+      "tags": [
+        "civil-engineering",
+        "environmental-engineering"
+      ]
+    },
+    {
+      "title": "Water Supply and Treatment",
+      "parent_title": "Environmental Engineering",
+      "tags": [
+        "civil-engineering",
+        "environmental-engineering"
+      ]
+    },
+    {
+      "title": "Sewerage and Sewage Treatment",
+      "parent_title": "Environmental Engineering",
+      "tags": [
+        "civil-engineering",
+        "environmental-engineering"
+      ]
+    },
+    {
+      "title": "Solid Waste Management and Environmental Pollution",
+      "parent_title": "Environmental Engineering",
+      "tags": [
+        "civil-engineering",
+        "environmental-engineering"
+      ]
+    }
+  ],
+  "pyqs": [
+    {
+      "year": 2021,
+      "marks": 20,
+      "question_text": "Using Macaulay's method, determine the slope and deflection of a simply supported beam of span L carrying a concentrated load W at a distance 'a' from the left support.",
+      "node_titles": [
+        "Strength of Materials"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly setting up the bending-moment equation with Macaulay brackets, applying boundary conditions to find integration constants, and deriving correct expressions for slope and maximum deflection with units. Deduct marks for sign-convention errors or omission of the bracket-term rule when integrating across the discontinuity."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "Analyse a two-hinged parabolic arch of span L and central rise h carrying a uniformly distributed load over the entire span, and determine the horizontal thrust at the supports.",
+      "node_titles": [
+        "Structural Analysis"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit a correctly stated arch equation and use of Castigliano's theorem or strain-energy method to derive horizontal thrust, with a clearly labelled free-body/bending-moment diagram. Full marks require the final thrust expression in terms of w, L and h with correct units; partial credit for method with an arithmetic slip."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "Design a welded plate girder for a given span and loading as per IS 800, showing checks for bending, shear and web buckling.",
+      "node_titles": [
+        "Design of Steel Structures"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Evaluate selection of flange and web dimensions from the design bending moment, shear capacity check of the web, and a stiffener/buckling check, each referenced to relevant IS 800 clauses. Marks are lost for skipping the deflection or local-buckling check or for an unlabelled sketch of the final section."
+    },
+    {
+      "year": 2022,
+      "marks": 20,
+      "question_text": "Design a doubly reinforced rectangular concrete beam section by the limit state method for a given factored moment and material grades, and check for shear reinforcement.",
+      "node_titles": [
+        "Design of RCC and Prestressed Concrete Structures"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correct computation of the limiting moment of resistance, determination of compression and tension steel areas per IS 456 limit state provisions, and a valid shear design check with spacing of stirrups. Neat detailing of the reinforced section earns additional credit; unchecked minimum/maximum steel limits lose marks."
+    },
+    {
+      "year": 2018,
+      "marks": 15,
+      "question_text": "Derive the condition for the most economical trapezoidal channel section and explain the concept of critical depth in open channel flow.",
+      "node_titles": [
+        "Open Channel Flow and Hydraulic Machines"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Full marks require a correct derivation of the hydraulic-radius condition for minimum wetted perimeter and a clear physical explanation of critical depth linking specific energy and Froude number. Marks are reduced for a derivation without stating assumptions or for confusing critical depth with normal depth."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Discuss Terzaghi's bearing capacity theory for shallow foundations and the factors affecting the safe bearing capacity of soil.",
+      "node_titles": [
+        "Foundation Engineering"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit correct statement of Terzaghi's bearing capacity equation with bearing capacity factors, assumptions and failure mechanism (general shear failure), plus discussion of factors such as water table, footing shape/depth and soil type. Marks are capped if the answer omits the difference between ultimate and safe bearing capacity."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Explain the differences between CPM and PERT techniques of project scheduling, and discuss how the critical path of a construction project is determined.",
+      "node_titles": [
+        "Construction Planning and Management (CPM/PERT)"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for a clear tabular or point-wise comparison of CPM (deterministic) and PERT (probabilistic) approaches and a worked or well-explained method for identifying the critical path via forward/backward pass. Bonus credit for mentioning float/slack and its role in resource scheduling; generic answers without the pass-computation logic score lower."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "Design the thickness of a flexible highway pavement using the IRC method for given traffic and subgrade CBR data, and discuss common types of pavement failure.",
+      "node_titles": [
+        "Highway Engineering"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Marks awarded for correct use of the CBR-based design chart/equation to obtain total pavement thickness with layer-wise breakup, and for a relevant discussion of failures such as rutting, cracking and pothole formation with likely causes. Full marks require both the numerical design and the failure discussion; either alone earns partial credit."
+    },
+    {
+      "year": 2020,
+      "marks": 10,
+      "question_text": "Describe the geometric design elements of a railway track, including gauge, cant (superelevation) and gradient.",
+      "node_titles": [
+        "Railway Engineering"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit precise definitions and typical Indian Railways values/standards for gauge, cant and ruling gradient, with a brief note on why each is provided (e.g., cant for lateral stability on curves). Vague or textbook-list answers without engineering rationale score lower."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Discuss Kennedy's and Lacey's theories of canal design and bring out their essential differences.",
+      "node_titles": [
+        "Irrigation Engineering and Canal Design"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for correctly stating the critical-velocity basis of Kennedy's theory and the regime-channel basis of Lacey's theory, including their respective governing equations. Full marks need an explicit, correctly reasoned comparison (assumptions, applicability, silt theory basis); a description of only one theory earns half credit."
+    },
+    {
+      "year": 2018,
+      "marks": 15,
+      "question_text": "Describe the unit processes involved in a conventional water treatment plant, from coagulation to disinfection, for treating surface water for municipal supply.",
+      "node_titles": [
+        "Water Supply and Treatment"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit a correctly sequenced flow (screening, aeration, coagulation-flocculation, sedimentation, filtration, disinfection) with the purpose of each stage and typical chemicals/doses where relevant. A labelled flow diagram earns extra credit; missing or wrongly ordered stages reduce the score."
+    },
+    {
+      "year": 2023,
+      "marks": 20,
+      "question_text": "Explain the activated sludge process of sewage treatment with a neat sketch, and discuss the factors affecting its efficiency.",
+      "node_titles": [
+        "Sewerage and Sewage Treatment"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Full marks require a correctly labelled sketch showing the aeration tank, secondary clarifier and sludge-recycle loop, an explanation of the biological mechanism, and discussion of factors such as MLSS, F/M ratio, aeration period and sludge age. Marks are deducted for omitting the recycle/return-sludge concept."
+    },
+    {
+      "year": 2017,
+      "marks": 10,
+      "question_text": "Write short notes on methods of collection and disposal of municipal solid waste in urban areas.",
+      "node_titles": [
+        "Solid Waste Management and Environmental Pollution"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit concise, correct coverage of collection methods (door-to-door, community bins, segregation at source) and disposal methods (sanitary landfill, composting, incineration) with at least one merit/limitation for each. Marks are lost for answers that list methods without any evaluative comment."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Beam Deflection Methods in Strength of Materials",
+      "body": "Finding the deflected shape of a loaded beam is a recurring design task, and Civil Engineering optional aspirants are expected to be fluent in several classical methods for it. The double-integration method starts from the basic differential equation relating curvature to bending moment and integrates it twice, but for beams with several loads or discontinuities the moment expression must be split into piecewise segments, which becomes tedious. Macaulay's method solves this by writing a single bending-moment expression using step functions (Macaulay brackets) that switch on only beyond the point where a load starts acting, so a single integration sequence covers the whole span; care is needed to integrate bracketed terms as a whole and to apply boundary conditions correctly to evaluate the constants of integration. The moment-area method takes a more geometric route, using two theorems that relate the change in slope between two points to the area of the M/EI diagram between them, and the deviation of one point from the tangent at another to the moment of that same area about the point of interest; it is especially convenient for beams with simple loading where the M/EI diagram can be broken into familiar shapes such as rectangles, triangles and parabolas. The conjugate-beam method reframes the same physics as an equivalent fictitious beam loaded with the M/EI diagram, on which the shear and moment work out numerically equal to the real beam's slope and deflection, provided the conjugate beam's supports are chosen so that its boundary conditions mirror the real beam's kinematic conditions. The unit-load (virtual work) method is the most general, expressing deflection at a point as the integral of the product of the real bending-moment diagram and a virtual bending-moment diagram caused by a unit load applied at that point in the direction of the required deflection; it extends naturally to trusses, frames and even settlement or temperature effects, which the other methods handle awkwardly. Understanding when each method is efficient, and being able to move between them, matters for both the theory questions and the numerical design problems that Paper I typically sets on this topic.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Strength of Materials"
+      ],
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Arch Analysis and Influence Lines in Structural Analysis",
+      "body": "Two ideas that appear repeatedly in the Structural Analysis portion of Paper I are the behaviour of arches and the use of influence lines for moving loads. An arch carries load mainly through axial compression rather than bending, which is what lets it span efficiently in masonry as well as steel and concrete; a three-hinged arch is statically determinate because the extra hinge at the crown, together with the two support hinges, provides enough equations to solve for the horizontal thrust and reactions directly from statics. Two-hinged and fixed arches are statically indeterminate, and their horizontal thrust is usually found using strain-energy methods such as Castigliano's theorem, minimizing the strain energy stored in the arch rib with respect to the redundant thrust; the classic result is that for a parabolic arch under uniformly distributed load, the bending moment throughout the rib works out to zero when the arch axis exactly follows the load's moment diagram, which is why parabolic profiles are favoured for arches carrying mostly UDL-type loading such as bridge decks. Influence lines address a different but related problem: rather than analysing a structure for one fixed load, an influence line shows how a response quantity — a reaction, a shear force, or a bending moment at a chosen section — varies as a unit load moves across the span. For simple determinate beams, influence lines can be constructed directly from statics, while for indeterminate beams and trusses, the Müller-Breslau principle gives a quick qualitative shape by imagining a unit displacement introduced at the location and in the direction of the response being studied. Influence lines are essential for finding the worst-case (maximum) effect of moving loads such as train axle loads or vehicle wheel loads on bridge girders, since the critical position of the load train is not obvious by inspection and must be located using the influence-line ordinates together with the load positions and spacing. Both arch behaviour and influence-line technique are tested through short numerical problems as well as conceptual questions in the Mains optional paper.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Structural Analysis"
+      ],
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Limit State Design Philosophy for RCC Structures",
+      "body": "Indian reinforced-concrete design shifted from the older working-stress method to the limit state method, codified in IS 456, because the working-stress approach used a single global factor of safety on stresses and did not directly account for the different levels of uncertainty in loads versus material strengths. The limit state method instead defines two categories of limit states that a structure must be checked against: the limit state of collapse, which governs strength, stability and structural safety under factored loads, and the limit states of serviceability, which govern deflection, cracking and vibration under working (unfactored) loads, so that the structure remains usable and durable even though it is designed with margin against ultimate failure. Partial safety factors are applied separately to loads (typically 1.5 on dead and live loads in common combinations) and to material strengths (1.5 for concrete, 1.15 for steel), reflecting that loads and materials each carry their own, different, uncertainty. For flexural design of a rectangular beam section, the method assumes a rectangular stress block in the concrete at ultimate compressive strain, computes the depth of the neutral axis from equilibrium of the compressive and tensile forces, and compares it against a \"balanced\" or limiting neutral-axis depth; sections with actual neutral axis depth less than the limiting value are under-reinforced and fail in a ductile manner by yielding of steel before the concrete crushes, which is the behaviour the code deliberately steers designers towards. When the factored moment exceeds what a singly reinforced section of the given size can carry, compression reinforcement is added, giving a doubly reinforced section, and the total steel is split between a part balancing the concrete's compressive capacity and a part balancing the added compression steel. Prestressed concrete extends these ideas further by deliberately inducing a compressive stress in the concrete before service loads are applied — through pre-tensioning or post-tensioning of high-strength tendons — so that tensile stresses from bending are offset, cracking is delayed or eliminated, and slender sections can span longer distances than an equivalent ordinary reinforced-concrete member, at the cost of more demanding quality control and loss calculations for creep, shrinkage and relaxation.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Design of RCC and Prestressed Concrete Structures"
+      ],
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Connections in Steel Structural Design",
+      "body": "Steel members are rarely fabricated as single continuous pieces, so the design of connections between them is as important to the safety of a steel structure as the design of the members themselves, and this is a substantial part of the Design of Steel Structures section of Paper I. Riveted connections were the traditional method, where a heated rivet is driven through aligned holes and its protruding end hammered into a second head, so that on cooling it shrinks and clamps the connected plates tightly together; riveting has largely been superseded in new construction because of the labour and skill it demands, but its analysis (shear, bearing and tearing checks on the plate) still underlies the analysis of bolted joints. Bolted connections use high-strength friction-grip or ordinary black bolts, and are checked in a similar way — for shear capacity of the bolt shank, bearing capacity of the connected plate against the bolt, and tearing/block-shear capacity of the plate along the line of holes — with bolt spacing and edge distance rules in IS 800 chosen to avoid premature tearing and to allow enough room for tightening tools. Friction-grip bolts additionally rely on the clamping force generated by pretensioning the bolt to transfer load through friction between the plate surfaces rather than through direct bearing, which reduces slip and fatigue-related loosening, making them preferred for connections subject to reversal or vibration such as bridge and crane-gantry joints. Welded connections join members by fusing the parent metal with filler metal, and are classified mainly as fillet welds, which are the most common and are checked using an effective throat thickness under an assumed shear plane, and butt (groove) welds, which when fully penetrated can be designed to develop the full strength of the parent plate and so need no separate strength check beyond the plate itself. Because welding introduces residual stresses and can cause distortion or brittleness in poorly controlled conditions, design codes place limits on minimum and maximum weld sizes and specify effective lengths that exclude the weld's end craters. Plate girders, built up from flange and web plates joined by welding or bolting, extend these connection principles to very large spans, additionally requiring web stiffeners to prevent local buckling of the comparatively thin web under shear and to transfer concentrated loads safely into the girder.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Design of Steel Structures"
+      ],
+      "tags": [
+        "civil-engineering",
+        "structural-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Critical Depth and Specific Energy in Open Channel Flow",
+      "body": "Open channel flow differs from pipe flow in having a free surface exposed to atmospheric pressure, so its behaviour is governed not just by the usual continuity and energy principles but also by gravity acting through the changing depth of flow, which is why the Froude number — the ratio of flow velocity to the celerity of a small gravity wave — becomes the key parameter describing the flow regime. Specific energy, defined as the sum of the flow depth and the velocity head measured with respect to the channel bed, is a particularly useful concept because, for a fixed discharge, plotting specific energy against depth produces a curve with a single minimum; the depth at which this minimum occurs is called the critical depth, and flow at that depth corresponds to a Froude number of exactly one. For depths greater than critical, flow is termed subcritical (or streaming), is relatively slow and deep, and is controlled from downstream, meaning a disturbance introduced downstream can propagate upstream and influence the flow there. For depths less than critical, flow is termed supercritical (or shooting), is fast and shallow, and is controlled from upstream, since disturbances cannot travel upstream against the faster current. This distinction matters enormously in practical design: a hydraulic jump, an abrupt and turbulent rise in water surface accompanied by significant energy dissipation, occurs when supercritical flow is forced to transition to subcritical flow, and its location and energy loss are calculated using momentum equations rather than energy equations because energy is not conserved across the jump. Channel design also draws on the idea of the most economical (or hydraulically efficient) section, which for a given cross-sectional area minimises the wetted perimeter and therefore the frictional resistance; for a trapezoidal channel this leads to a specific relationship between the side slope, bed width and depth, commonly summarised as the condition that the hydraulic radius equals half the flow depth for the most efficient trapezoidal shape. Gradually varied flow profiles, which describe how depth changes along a channel of mild, steep, critical, horizontal or adverse slope as it approaches a control structure such as a sluice gate or weir, are classified into standard profile types (M1, M2, S1, S2, and so on) based on the position of the actual depth relative to the normal and critical depths, and this classification helps engineers predict backwater effects upstream of dams, barrages, and channel transitions.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Open Channel Flow and Hydraulic Machines"
+      ],
+      "tags": [
+        "civil-engineering",
+        "fluid-mechanics"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Bearing Capacity and Settlement in Foundation Design",
+      "body": "Every shallow foundation must satisfy two broadly independent requirements: it must not fail in shear (bearing-capacity failure), and the settlement it undergoes under working load must stay within tolerable limits for the structure above it, and Foundation Engineering within the Geotechnical Engineering section of Paper I builds around these two checks. Terzaghi's bearing capacity theory, one of the earliest and still widely taught approaches, models the failure surface beneath a strip footing as a combination of an active Rankine zone directly under the footing, a radial shear zone, and a passive Rankine zone that pushes up the soil to the sides, and combines the contributions of soil cohesion, surcharge from the overburden, and the self-weight of the failure wedge into three bearing capacity factors, conventionally written Nc, Nq and Nγ, each a function of the soil's angle of internal friction. The theory assumes a general shear failure mode, appropriate for dense sands and stiff clays, and needs correction for local or punching shear failure in loose or soft soils, where the assumed rigid failure surfaces do not fully develop before large settlements occur. Later modifications by Meyerhof, Hansen and Vesic extended Terzaghi's basic equation to account for footing shape (strip, square, circular, rectangular), depth of embedment, load inclination and eccentricity, and the presence of a water table, since a rising water table reduces the effective unit weight of soil and therefore reduces bearing capacity. The safe bearing capacity used in actual design is the ultimate bearing capacity divided by a suitable factor of safety, but even a foundation with adequate bearing capacity can still be unacceptable if the resulting settlement is excessive or, worse, differential across the structure; therefore a separate settlement analysis — elastic (immediate) settlement in sands and stiff clays, and consolidation settlement calculated from oedometer test parameters in soft, saturated clays — is carried out and compared against permissible limits that depend on the type of structure and its sensitivity to distortion. Subsurface exploration, through boreholes, standard penetration tests and other in-situ tests, supplies the soil parameters that feed into both the bearing-capacity and settlement calculations, and the choice between a shallow foundation (spread footing, combined footing, raft) and a deep foundation (piles, piers, caissons) is ultimately governed by whichever configuration satisfies both checks economically for the given subsurface profile.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Foundation Engineering"
+      ],
+      "tags": [
+        "civil-engineering",
+        "geotechnical-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "CPM and PERT for Construction Project Scheduling",
+      "body": "Large civil engineering projects involve hundreds of interdependent activities, and network-based scheduling techniques give engineers a systematic way to plan, sequence and monitor them, which is why the Critical Path Method (CPM) and the Programme Evaluation and Review Technique (PERT) form a core part of Construction Planning and Management in Paper II. Both techniques represent a project as a network of activities and events (or, in the more common activity-on-arrow and activity-on-node conventions, activities as nodes or arrows connected by dependency relationships), but they differ in how they treat activity duration: CPM assumes a single, deterministic duration for each activity, appropriate for repetitive construction work such as building projects where durations can be reasonably well estimated from past experience, while PERT was developed for research and development-type projects with greater uncertainty, and estimates each activity's duration probabilistically from optimistic, most likely and pessimistic time estimates, combined into an expected duration and a variance using a beta-distribution assumption. In both methods, a forward pass through the network computes the earliest start and earliest finish times of each activity, and a backward pass computes the latest start and latest finish times consistent with the target project completion date; the difference between the latest and earliest times for an activity is its total float, and activities with zero float lie on the critical path, meaning any delay in them directly delays the whole project, whereas activities with positive float have some slack and can absorb minor delays without affecting the completion date. Identifying the critical path lets a project manager focus monitoring and resource attention on the activities that matter most for schedule control, and lets resources be shifted from activities with float to those without it (resource levelling and crashing) when acceleration is needed, typically at extra cost captured through a cost-time trade-off (crashing) analysis that identifies the cheapest way to shorten the critical path by a given amount. Beyond scheduling, network techniques also support resource allocation and cash-flow forecasting over the project timeline, and are complemented in practice by bar (Gantt) charts, which, while less analytically powerful than a network diagram, remain popular for communicating schedules to site staff because of their visual simplicity.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Construction Planning and Management (CPM/PERT)"
+      ],
+      "tags": [
+        "civil-engineering",
+        "construction-management"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Flexible Pavement Design Principles",
+      "body": "A flexible pavement is built as a layered system — surface (bituminous) course, base course, sub-base course and the compacted subgrade beneath — and its design objective is to keep the stresses transmitted to each layer, and ultimately to the subgrade, within limits that layer's material can bear without excessive deformation over the design life, which distinguishes it from a rigid (concrete) pavement that instead relies on flexural strength of a continuous slab to spread load over a much larger area. Design in India has historically followed IRC guidelines that relate the required total pavement thickness to two key inputs: the strength of the subgrade soil, expressed through the California Bearing Ratio (CBR) test, and the design traffic, expressed as the cumulative number of standard axle load repetitions (often in terms of msa, million standard axles) expected over the design period. A lower subgrade CBR or a higher design traffic both push the required total thickness up, and design charts or empirical equations translate a given CBR-traffic combination into a total pavement thickness, which is then apportioned among the surface, base and sub-base layers using minimum-thickness and material-quality rules for each layer. Newer IRC guidelines have moved towards mechanistic-empirical design, which explicitly checks two governing failure criteria — fatigue cracking of the bituminous layer, driven by the horizontal tensile strain at its bottom, and rutting of the subgrade, driven by the vertical compressive strain at the top of the subgrade — using layered-elastic theory to compute these strains for a trial pavement composition and iterating the layer thicknesses until both strains fall within limits set as a function of the design traffic. Common pavement distresses that field engineers must be able to diagnose include fatigue (alligator) cracking from repeated loading beyond design strain, rutting from either subgrade deformation or plastic flow in the bituminous layer, potholes that develop when water ingress weakens the base or subgrade and traffic then dislodges the weakened surface material, and raveling or stripping caused by loss of bitumen-aggregate bond, often accelerated by inadequate drainage or poor-quality bitumen; correct diagnosis is important because the appropriate maintenance treatment differs sharply depending on whether the root cause lies in the surface, the base, or the subgrade drainage.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Highway Engineering"
+      ],
+      "tags": [
+        "civil-engineering",
+        "transportation-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Permanent Way Components in Railway Engineering",
+      "body": "The railway permanent way is the term for the finished track structure — rails, sleepers, ballast and fastenings — that carries and guides train wheels, and understanding the function of each component is basic to the Railway Engineering portion of Paper II. Rails are rolled steel sections whose primary job is to provide a smooth, continuous running surface and to transfer wheel loads to the sleepers below; modern Indian Railways predominantly uses long welded rails formed by welding standard rail lengths together to eliminate most rail joints, since joints are a major source of impact loading, wear and maintenance cost, though welded rails require careful attention to thermal stresses and are anchored or otherwise restrained against buckling in hot weather and pull-apart in cold weather. Sleepers, traditionally wooden but now predominantly pre-stressed concrete on Indian Railways' main routes, perform several functions together: they hold the rails at the correct gauge (the distance between the inner faces of the two rails, with broad gauge in India standardised at 1,676 mm), they distribute the concentrated wheel loads from the rails over a larger area of ballast, and they provide the anchorage points for rail fastenings. Ballast, typically crushed stone, is packed around and beneath the sleepers to further distribute load down to the formation (the prepared earthwork below), to provide drainage so that water does not accumulate around the sleepers, and to hold the track in its correct alignment and level against lateral and vertical forces from passing trains; ballast requires periodic tamping to counter settlement and loosening. Beyond the basic components, geometric design of the track addresses how the track behaves on curves and gradients: superelevation (cant) is the deliberate raising of the outer rail relative to the inner rail on a curve, calculated from the design speed and curve radius, to counteract the outward centrifugal effect on the train and keep the net force closer to perpendicular to the track plane, improving passenger comfort and reducing wear on the outer rail; a deficiency or excess of the actually provided cant relative to the theoretically required value for the fastest permitted speed is tracked as cant deficiency or cant excess and kept within permissible limits. Ruling gradient, the steepest gradient a locomotive can negotiate with its rated load on a given section, governs the maximum load a train can be allowed to haul on that section, and is compensated on curves (curve compensation) since the extra frictional resistance of a curve reduces the gradient a locomotive can otherwise climb.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Railway Engineering"
+      ],
+      "tags": [
+        "civil-engineering",
+        "transportation-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Kennedy's and Lacey's Theories of Canal Design",
+      "body": "Unlined alluvial canals must be designed so that the flowing water neither deposits the silt it carries (which would reduce capacity) nor erodes and scours the channel bed and sides (which would enlarge the section and threaten stability), and two classical theories address how to size such a channel so it stays in this equilibrium, a topic central to Irrigation Engineering and Canal Design in Paper II. Kennedy's theory, based on observations on the Upper Bari Doab Canal, introduces the idea of a critical velocity — the mean velocity in the channel that will just keep the silt in suspension without depositing it or scouring the bed — and expresses this critical velocity as a function of the depth of flow alone, through an empirical exponential relationship with an associated coefficient (the critical velocity ratio) that is adjusted for silt grades different from the standard silt Kennedy observed. Because Kennedy's method does not independently determine channel width, side slope or bed slope, the designer typically assumes a suitable width-to-depth ratio (or the slope, depending on the design approach) and then uses Manning's or Kutter's formula together with the critical-velocity condition to iterate towards a consistent depth, slope and section that satisfies both the flow (Manning's) equation and the non-silting non-scouring velocity condition. Lacey's theory takes a different, more comprehensive approach, treating the whole channel — width, depth and longitudinal slope together — as reaching a natural equilibrium he termed the \"regime\" condition, in which the channel neither silts nor scours over a long-term average, and expresses regime width, regime depth and regime slope each as functions of the discharge and a single silt factor that characterises the coarseness of the bed material. Because Lacey's relationships simultaneously fix width, depth and slope from discharge and silt factor (rather than requiring an assumed width-to-depth ratio as an input, as Kennedy's method effectively does), Lacey's approach is often regarded as more complete, though both theories are empirical, derived from observations on specific canal systems, and neither perfectly predicts behaviour outside the range of conditions from which they were derived; in practice, both remain part of the standard toolkit an engineer is expected to know, along with an appreciation of their differing assumptions about silt transport and channel geometry, and are frequently the basis of comparative or numerical design questions in the Mains optional paper.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Irrigation Engineering and Canal Design"
+      ],
+      "tags": [
+        "civil-engineering",
+        "water-resources"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Unit Processes in Municipal Water Treatment",
+      "body": "Raw water drawn from a river, lake or reservoir generally cannot be supplied directly to a city because it carries suspended silt, colour, organic matter, pathogenic microorganisms and sometimes dissolved impurities, so a conventional water treatment plant passes it through a sequence of unit processes, each targeting a different category of impurity, a topic covered under Water Supply and Treatment in the Environmental Engineering section of Paper II. Screening is usually the first step, removing floating and coarse suspended debris that would otherwise damage pumps or clog downstream units. Aeration follows in many plants, which improves taste and odour, helps oxidise dissolved iron and manganese so they can be removed, and releases dissolved gases such as excess carbon dioxide. The core of impurity removal for turbidity and colour is the coagulation-flocculation-sedimentation sequence: a coagulant, most commonly alum (aluminium sulphate), is rapidly mixed into the water so it hydrolyses and neutralises the negative surface charge on fine colloidal particles that would otherwise stay in suspension indefinitely because of mutual electrostatic repulsion; slow, gentle mixing in the following flocculation stage then allows these destabilised particles to collide and agglomerate into larger, settleable flocs; and in the sedimentation (clarification) tank that follows, these flocs settle out under gravity over a detention period long enough for the design settling velocity to be achieved, leaving substantially clarified water. Filtration, typically through a bed of sand (and sometimes sand over gravel, or dual media with anthracite above sand), removes the finer flocs and particles that escape sedimentation, working through a combination of straining, sedimentation within the pore spaces, and biological/adsorptive action in slow sand filters, or primarily through straining and some adsorption in the faster-flowing rapid sand filters that dominate large modern plants and require periodic backwashing to clear accumulated material. Disinfection, most commonly by chlorination, is the final and non-negotiable step before supply, since it inactivates pathogenic bacteria and viruses that could otherwise cause waterborne diseases such as cholera and typhoid, and a residual chlorine concentration is deliberately maintained through the distribution network to guard against recontamination between the treatment plant and the consumer's tap; other disinfection methods such as ozonation or ultraviolet treatment are used in specific contexts but chlorination remains dominant in Indian municipal practice because of its residual protective effect and low cost.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Water Supply and Treatment"
+      ],
+      "tags": [
+        "civil-engineering",
+        "environmental-engineering"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Activated Sludge Process in Sewage Treatment",
+      "body": "The activated sludge process is the most widely used biological method of secondary sewage treatment, and understanding its mechanism and the factors governing its efficiency is an important part of the Sewerage and Sewage Treatment topic in Paper II. After screening, grit removal and primary sedimentation have taken out coarse solids, grit and a portion of settleable organic solids, the partially treated sewage enters an aeration tank where it is mixed with a concentrated suspension of microorganisms — the \"activated sludge\" — and continuously supplied with oxygen through diffused or mechanical aeration. The microorganisms metabolise the dissolved and finely suspended organic matter in the sewage as food, converting it into new microbial cell mass, carbon dioxide and water, and in doing so reduce the biochemical oxygen demand (BOD) of the wastewater substantially. After a suitable aeration period, the mixed liquor flows to a secondary (final) clarifier, where the biological flocs, now heavier than the surrounding liquid, settle out; a large fraction of this settled sludge is returned to the aeration tank as return activated sludge to maintain a healthy population of active microorganisms, while a smaller fraction is wasted from the system as excess (surplus) sludge, since without this wasting the microbial population would keep growing unchecked and eventually overload the system. Several interrelated parameters determine how efficiently the process removes BOD: the mixed liquor suspended solids (MLSS) concentration in the aeration tank reflects how much biomass is available to do the work; the food-to-microorganism (F/M) ratio compares the rate at which organic food is supplied against the mass of microorganisms present, and needs to be kept in a suitable range — too high starves the process of adequate treatment time and produces poor effluent quality, while too low can lead to excessive endogenous respiration and poor settling characteristics; the aeration period (hydraulic retention time) must be long enough for the biological reactions to proceed sufficiently; the sludge age (mean cell residence time), the average time a unit of biomass spends in the system, influences whether the population is dominated by fast-growing organisms suited to BOD removal or by slower-growing organisms associated with processes like nitrification; and adequate dissolved oxygen must be maintained throughout the aeration tank so the aerobic organisms are not oxygen-limited. Variants such as extended aeration, the oxidation ditch and sequencing batch reactors adapt the same basic biological principle to different site, capacity and effluent-quality requirements.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Sewerage and Sewage Treatment"
+      ],
+      "tags": [
+        "civil-engineering",
+        "environmental-engineering"
+      ],
+      "is_current_affairs": false
+    }
+  ]
+}

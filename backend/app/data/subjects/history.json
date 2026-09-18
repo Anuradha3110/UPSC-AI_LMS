@@ -1,0 +1,264 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "History",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["history", "paper-1", "ancient-medieval-india"]},
+    {"title": "Sources of Ancient and Medieval Indian History", "parent_title": "Paper I", "tags": ["history", "sources"]},
+    {"title": "Indus Valley Civilization", "parent_title": "Paper I", "tags": ["history", "ancient-india"]},
+    {"title": "Vedic Age Polity and Society", "parent_title": "Paper I", "tags": ["history", "ancient-india", "vedic"]},
+    {"title": "Mahajanapadas and Rise of Magadha", "parent_title": "Paper I", "tags": ["history", "ancient-india"]},
+    {"title": "Mauryan Empire and Ashoka's Dhamma", "parent_title": "Paper I", "tags": ["history", "ancient-india", "mauryan"]},
+    {"title": "Age of the Guptas", "parent_title": "Paper I", "tags": ["history", "ancient-india", "gupta"]},
+    {"title": "Gupta Administration and Land Grants", "parent_title": "Age of the Guptas", "tags": ["history", "gupta", "administration"]},
+    {"title": "Chola Administration and Village Economy", "parent_title": "Paper I", "tags": ["history", "south-india", "chola"]},
+    {"title": "Delhi Sultanate: Khalji and Tughluq Reforms", "parent_title": "Paper I", "tags": ["history", "medieval-india", "sultanate"]},
+    {"title": "Vijayanagara and Bahmani Kingdoms", "parent_title": "Paper I", "tags": ["history", "medieval-india"]},
+    {"title": "Mughal Administration: Akbar to Aurangzeb", "parent_title": "Paper I", "tags": ["history", "medieval-india", "mughal"]},
+    {"title": "Mansabdari and Jagirdari Systems", "parent_title": "Mughal Administration: Akbar to Aurangzeb", "tags": ["history", "mughal", "administration"]},
+    {"title": "Bhakti and Sufi Movements", "parent_title": "Paper I", "tags": ["history", "medieval-india", "culture"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["history", "paper-2", "modern-india", "world-history"]},
+    {"title": "European Penetration and British Expansion in India", "parent_title": "Paper II", "tags": ["history", "modern-india", "colonial"]},
+    {"title": "Economic Impact of British Rule", "parent_title": "Paper II", "tags": ["history", "modern-india", "economy"]},
+    {"title": "Land Revenue Systems: Permanent, Ryotwari, Mahalwari", "parent_title": "Economic Impact of British Rule", "tags": ["history", "colonial", "land-revenue"]},
+    {"title": "Social and Religious Reform Movements", "parent_title": "Paper II", "tags": ["history", "modern-india", "reform"]},
+    {"title": "Revolt of 1857", "parent_title": "Paper II", "tags": ["history", "modern-india", "1857"]},
+    {"title": "Rise and Growth of Indian Nationalism", "parent_title": "Paper II", "tags": ["history", "modern-india", "nationalism"]},
+    {"title": "Gandhian Mass Movements", "parent_title": "Rise and Growth of Indian Nationalism", "tags": ["history", "gandhi", "nationalism"]},
+    {"title": "Constitutional Developments 1858-1935", "parent_title": "Paper II", "tags": ["history", "modern-india", "constitutional"]},
+    {"title": "Partition and Independence", "parent_title": "Paper II", "tags": ["history", "modern-india", "partition"]},
+    {"title": "Enlightenment and Origins of Modern Politics", "parent_title": "Paper II", "tags": ["history", "world-history"]},
+    {"title": "Industrial Revolution", "parent_title": "Paper II", "tags": ["history", "world-history", "industrial-revolution"]},
+    {"title": "World Wars and Rise of Totalitarianism", "parent_title": "Paper II", "tags": ["history", "world-history", "world-wars"]},
+    {"title": "Decolonization in Asia and Africa", "parent_title": "Paper II", "tags": ["history", "world-history", "decolonization"]},
+    {"title": "Cold War and Emergence of a Unipolar World", "parent_title": "Paper II", "tags": ["history", "world-history", "cold-war"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Do you agree that ecological factors influenced the flow and ebb of the Harappan Civilization?",
+      "node_titles": ["Indus Valley Civilization"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for stating the ecological hypothesis (river shifts, deforestation, climate desiccation, flooding) with named scholars, a counter-view (invasion/internal decline theories), and a reasoned conclusion. Full marks need at least three distinct ecological factors and an evaluative stance, within roughly 250 words."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "How would you characterize the nature of the Mauryan state on the basis of Kautilya's Arthashastra?",
+      "node_titles": ["Mauryan Empire and Ashoka's Dhamma"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect discussion of the Arthashastra's saptanga theory of state, centralised bureaucracy, espionage network, and debate on whether the state was despotic or paternalistic. Credit balanced use of both Arthashastra evidence and modern historiographical critique (e.g., limits of prescriptive texts as descriptive fact)."
+    },
+    {
+      "year": 2021,
+      "marks": 20,
+      "question_text": "How did the Varnashrama Dharma manifest the increasing social complexities of the Gupta and post-Gupta period?",
+      "node_titles": ["Age of the Guptas"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Look for linkage between land grants, proliferation of castes/sub-castes, changing status of women and shudras, and the rigidifying of varna theory in Dharmashastra literature. A strong answer situates this within the broader Indian feudalism debate."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Discuss the importance of the Iqta system. How did it help in the centralization of administration of the Delhi Sultanate?",
+      "node_titles": ["Delhi Sultanate: Khalji and Tughluq Reforms"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer must explain iqta as a non-hereditary revenue assignment (distinct from feudal fief), its role in curbing the nobility's independent power base, and its later transformation under Alauddin Khalji. Deduct marks for confusing iqta with jagir without noting the distinction."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Why is the reign of the Khaljis known as the 'Khalji Revolution'?",
+      "node_titles": ["Delhi Sultanate: Khalji and Tughluq Reforms"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit answers covering the break from Turkish racial monopoly on the throne, Alauddin's market control regulations, agrarian and military reforms, and the expansion into the Deccan. A conclusion weighing continuity versus change is expected."
+    },
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "Discuss the Mansabdari system as the structural nerve-centre of the Mughal Empire and examine reasons for its decline in the later Mughal period.",
+      "node_titles": ["Mansabdari and Jagirdari Systems"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect the zat-sawar ranking mechanism, its fusion with the jagir system for salary payment, and causes of decline such as jagirdari crisis, over-extension of the nobility, and shortage of assessed revenue after Aurangzeb's Deccan wars."
+    },
+    {
+      "year": 2018,
+      "marks": 15,
+      "question_text": "Assess the nature of the Bhakti movement and evaluate its social and religious impact on medieval Indian society.",
+      "node_titles": ["Bhakti and Sufi Movements"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for coverage of major Bhakti saints (Kabir, Nanak, Chaitanya, Alvars/Nayanars), their critique of caste and ritualism, and a critical evaluation of how far the movement was genuinely egalitarian versus its limits in practice."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "Critically examine the drain of wealth theory propounded by Dadabhai Naoroji and assess its contribution to the growth of economic nationalism in India.",
+      "node_titles": ["Economic Impact of British Rule"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect an explanation of the drain thesis mechanics (home charges, unrequited exports, salaries remitted), its use by early nationalists, and modern historiographical critiques/refinements. Reward use of data or named economists in the debate."
+    },
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "Discuss the socio-religious reforms brought about by Raja Rammohan Roy and evaluate their significance for the making of modern India.",
+      "node_titles": ["Social and Religious Reform Movements"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Look for coverage of Brahmo Samaj, the campaign against sati, support for English/scientific education, and Roy's role as a bridge between tradition and modernity. Credit linking his reforms to the wider 19th-century reform landscape."
+    },
+    {
+      "year": 2020,
+      "marks": 20,
+      "question_text": "Examine the nature and character of the Revolt of 1857. Discuss the reasons for its failure.",
+      "node_titles": ["Revolt of 1857"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should address the historiographical debate (sepoy mutiny vs first war of independence vs feudal reaction), immediate and underlying causes, geographic spread, and reasons for failure such as lack of coordinated leadership, absence of a shared ideology, and superior British resources."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "Trace the course of the Non-Cooperation Movement and evaluate its impact on the growth of Indian nationalism.",
+      "node_titles": ["Rise and Growth of Indian Nationalism", "Gandhian Mass Movements"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a chronological account from the Khilafat-Non-Cooperation alliance through Chauri Chaura, mass participation of peasants/students/women, and an assessment of how it transformed Congress into a mass movement despite its abrupt withdrawal."
+    },
+    {
+      "year": 2017,
+      "marks": 15,
+      "question_text": "Discuss the immediate and long-term causes of the French Revolution of 1789.",
+      "node_titles": ["Enlightenment and Origins of Modern Politics"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit Enlightenment ideas, fiscal crisis, social inequality under the estates system, and the immediate trigger of the Estates-General as causes, with a concluding assessment of the revolution's long-term impact on European political thought."
+    },
+    {
+      "year": 2018,
+      "marks": 20,
+      "question_text": "Examine the causes and consequences of the First World War, treating it as a 'total war'.",
+      "node_titles": ["World Wars and Rise of Totalitarianism"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect coverage of alliance systems, militarism, and imperial rivalry as causes; and mobilisation of entire economies/societies, redrawn boundaries, and the rise of totalitarian ideologies as consequences, justifying the 'total war' framing."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "The Indus Valley Civilization: Rise, Character and Decline",
+      "body": "The Indus Valley (Harappan) Civilization flourished roughly between 2600 and 1900 BCE across the plains of the Indus and its tributaries, extending from present-day Balochistan to western Uttar Pradesh and Gujarat. What distinguishes it from contemporary Bronze Age cultures is its remarkable uniformity: standardized brick sizes, a shared system of weights, and planned urban layouts appear at sites separated by hundreds of kilometres, from Mohenjo-daro and Harappa to Dholavira and Rakhigarhi. Cities were typically divided into a raised citadel, housing granaries and possibly administrative or ritual structures, and a lower town of residential blocks arranged along a grid of streets with covered drains, an engineering feat unmatched by most contemporaries.\n\nThe civilization's economy rested on a combination of agriculture (wheat, barley, and later possibly rice and cotton), pastoralism, and long-distance trade. Harappan seals depicting a still-undeciphered script have been found as far away as Mesopotamia, suggesting maritime and overland exchange networks reaching the Persian Gulf. Craft specialization is evident in bead-making, shell-working, and metallurgy, and standardized cubical weights point to regulated trade practices, though the absence of large temples or palaces has led historians to debate whether the civilization was governed by a centralized state, a confederation of city-states, or a more corporate, merchant-oriented elite.\n\nThe civilization's decline after roughly 1900 BCE is one of the most debated questions in Indian archaeology. Older theories blamed an Aryan invasion, but this has been largely discredited due to lack of corresponding destruction layers at most sites. Current scholarship instead emphasizes ecological stress: tectonic shifts altering the course of rivers like the Ghaggar-Hakra (identified by many with the Vedic Saraswati), progressive desiccation linked to weakening monsoons, and possible overexploitation of local resources through deforestation for fuel and construction. Some sites like Dholavira in Gujarat and settlements in the Gangetic plain show continuity into a Late Harappan phase with de-urbanization rather than sudden collapse, suggesting a gradual dispersal of population toward more sustainable, smaller agrarian settlements rather than a catastrophic end.\n\nThe civilization's legacy is contested politically as much as academically, since the undeciphered script and uncertain language affiliation (Dravidian, proto-Indo-Aryan, or an isolate) remain live questions. For UPSC purposes, the balanced position credits both the sophistication of Harappan urban planning and trade, and the primarily ecological explanation for its transformation, while noting that the debate over script and language is unresolved.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Indus Valley Civilization"],
+      "tags": ["history", "ancient-india", "harappan"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Vedic Polity: From Tribal Assemblies to Territorial Kingship",
+      "body": "The Vedic Age, spanning roughly 1500 to 600 BCE, is conventionally divided into the Early (Rig) Vedic and Later Vedic phases, and the political transformation across these two phases is one of the most tested themes in ancient Indian history. In the Early Vedic period, society was organized around pastoral, semi-nomadic tribes (jana) led by a rajan whose authority rested more on military leadership in cattle raids than on territorial control. Crucially, kingship was not absolute: it was checked by tribal assemblies, the sabha (a smaller, perhaps elder or aristocratic council) and the samiti (a broader tribal assembly), both of which could deliberate on and even influence the choice of a leader. This gave Early Vedic polity a quasi-participatory, tribal-democratic character quite different from later divine kingship.\n\nBy the Later Vedic period, following the shift of the Aryan-speaking peoples eastward into the Gangetic doab, several structural changes reshaped this polity. Iron technology (associated with the term 'krishna ayas') enabled forest clearance and more settled, intensive agriculture, which in turn supported larger and more stable territorial units (rashtra) replacing purely tribal ones (jana). Kingship became increasingly hereditary and was reinforced through elaborate sacrificial rituals like the Rajasuya (royal consecration) and Ashvamedha (horse sacrifice), which symbolically and ritually asserted a king's paramountcy over neighbouring chiefs. The sabha and samiti did not disappear but declined in influence and became more restricted to elite participation, reflecting a general trend toward centralization.\n\nParallel to these political changes was the crystallization of the varna system. What began in the Rig Veda as a relatively fluid division of labour hardened into a more rigid four-fold hierarchy of Brahmana, Kshatriya, Vaishya, and Shudra, reinforced by ritual texts like the Purusha Sukta. Economic life also diversified: pastoralism gave way to settled agriculture as the primary basis of subsistence, supplemented by emerging crafts and a rudimentary system of tribute (bali) that anticipated later systems of taxation. Women's status, which enjoyed relatively greater visibility in early Vedic hymns (with a handful of women composers of Rig Vedic verses), saw increasing restriction in the Later Vedic period as patriarchal and ritual structures solidified. Together, these shifts mark the transition from a lineage-based tribal polity toward the territorial, more stratified states that would culminate in the Mahajanapadas of the sixth century BCE.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Vedic Age Polity and Society"],
+      "tags": ["history", "ancient-india", "vedic"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Mauryan State: Kautilya's Arthashastra and Ashoka's Dhamma",
+      "body": "The Mauryan Empire (c. 321-185 BCE), founded by Chandragupta Maurya with the guidance of his minister Kautilya (Chanakya), represents the first pan-Indian empire and offers, through the Arthashastra, an unusually detailed picture of ancient statecraft. The Arthashastra outlines a theory of the state built on seven interdependent elements, the saptanga: the king, ministers (amatya), territory (janapada), fortified capital (durga), treasury (kosha), army (danda), and allies (mitra). Kautilya's vision of kingship is unabashedly pragmatic: the king's dharma is the welfare of subjects, but this welfare is to be secured through a highly centralized administration, an extensive network of spies monitoring officials and citizens alike, and a detailed penal and taxation code. This has led many historians to characterize the Mauryan state as bureaucratic and even proto-despotic, though others caution that the Arthashastra is a normative treatise on ideal administration rather than a direct record of Mauryan practice, and actual governance likely varied by region, with looser control in peripheral provinces than in the Magadhan core.\n\nAshoka, Chandragupta's grandson, is remembered less for the Arthashastra's realpolitik than for his own innovation: Dhamma, propagated through edicts inscribed on rocks and pillars across the empire. Ashoka's Dhamma emerged after the Kalinga war, whose bloodshed is described with striking candour in the Thirteenth Major Rock Edict. It was not a sectarian promotion of Buddhism as state religion but a broader ethical code emphasizing non-violence (ahimsa), tolerance among sects, respect for elders and servants, and welfare measures like the planting of shade trees, digging of wells, and establishment of medical treatment centres for both humans and animals. Ashoka appointed special officers, the Dhamma-mahamatras, to spread and monitor adherence to these principles across social groups.\n\nHistorians debate whether Dhamma was primarily a genuine ethical-religious conviction or a sophisticated instrument of imperial integration, binding together a vast and culturally diverse empire under a shared moral vocabulary without imposing uniform religious practice. Both readings are probably partially true: Ashoka's edicts reveal real personal conviction, but they also serve an evident political function of legitimizing centralized rule over a heterogeneous population. The Mauryan state thus combined, in tension, the disciplined coercive apparatus described by Kautilya with the softer, welfare-oriented moral authority projected by Ashoka, and this duality is central to any assessment of its true character.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Mauryan Empire and Ashoka's Dhamma"],
+      "tags": ["history", "ancient-india", "mauryan"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Gupta Administration, Land Grants and the Feudalism Debate",
+      "body": "The Gupta period (c. 319-550 CE) is often labelled a classical age for its achievements in art, science, and literature, but from an administrative-history perspective its most significant feature is a visible shift away from the tightly centralized Mauryan model toward a more decentralized structure built on land grants. Gupta kings such as Chandragupta I, Samudragupta, and Chandragupta II Vikramaditya retained a core administrative apparatus, with provinces (bhuktis) headed by governors and further divided into districts (vishayas), but direct royal control weakened at the periphery, where local chiefs and vassal kings were left considerable autonomy in exchange for tribute and military support.\n\nThe defining institutional change was the growing practice of granting land, often tax-free, to Brahmanas (agrahara grants) and, increasingly, to officials and even military personnel in lieu of cash salaries. These land grants typically transferred not just revenue rights but administrative and sometimes judicial authority over the granted village to the grantee, effectively creating intermediary layers of authority between the king and the peasantry. Historians associated with the 'Indian feudalism' thesis, most notably R.S. Sharma, argue that this practice parallels European feudal structures: a decline in trade and monetization (evidenced by a documented dip in coin finds and hoards after the Kushana period), the rise of a service gentry dependent on land rather than salary, and the corresponding subjection of the peasantry to more localized, personalized forms of control. Critics of this thesis, however, point to continuing evidence of urban centres, guild activity, and Gupta gold coinage (the dinara) that complicate the picture of straightforward economic decline.\n\nThis administrative decentralization intersected with deepening social stratification. The varna system, as reflected in the Dharmashastra literature of this period (notably the Manusmriti in its Gupta-era redaction), became more elaborate, with an expanding number of mixed castes (varna-sankara) used to classify occupational groups that did not fit neatly into the fourfold scheme. Women's legal and social position, as reflected in inheritance and remarriage norms in the same texts, grew more restricted compared to earlier periods. The Gupta age is therefore best understood not simply as a golden age of unbroken cultural achievement, but as a period of significant institutional transition, in which political decentralization through land grants and social ossification through more rigid varna and gender norms proceeded together.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Age of the Guptas", "Gupta Administration and Land Grants"],
+      "tags": ["history", "gupta", "administration"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Delhi Sultanate: The Iqta System and the Khalji Revolution",
+      "body": "The Delhi Sultanate (1206-1526) developed a distinctive administrative apparatus to govern a large and newly conquered territory, and the iqta system stood at its centre. Unlike a hereditary feudal fief, an iqta was a temporary, non-hereditary assignment of the right to collect land revenue from a defined territory, given to a noble (muqti or wali) in lieu of a cash salary, in exchange for maintaining a specified contingent of troops for the Sultan. Crucially, the Sultan retained the power to transfer, resume, or reassign an iqta, which prevented any single noble from building a permanent, hereditary regional power base, a key mechanism of centralization under early Sultans such as Iltutmish. Over time, however, the balance between central control and local autonomy fluctuated: a strong Sultan like Balban tightened supervision and even reclaimed iqtas for direct crown administration (khalisa), while weaker rulers saw the system drift toward de facto hereditary control.\n\nThe accession of the Khalji dynasty in 1290, following the overthrow of the last Ilbari Turkish Sultan, is termed by many historians (following K.S. Lal and others) a 'Khalji Revolution' for two interlinked reasons. First, it broke the racial monopoly of Turkish nobility (the chihalgani or 'forty') on the throne, since the Khaljis, though of Turkic origin, had settled and intermarried in Afghanistan and were viewed by the old guard as outsiders; their rise opened Sultanate politics to non-Turkish elites, including Indian Muslims, for the first time. Second, and more substantively, Alauddin Khalji's reign (1296-1316) introduced administrative measures unprecedented in scope: market control regulations that fixed prices of essential commodities to sustain a large standing army economically, a revised and more rigorous land revenue assessment that measured cultivated land (masahat system) and raised the state's share, and a new espionage network to monitor nobles and officials.\n\nThe subsequent Tughluq dynasty, especially Muhammad bin Tughluq, pushed centralizing ambition further but with less administrative success, evident in his controversial transfer of the capital to Daulatabad and the introduction of token currency, both of which strained the treasury and provincial loyalty. Ibn Battuta's travel account, written during his reign, offers valuable if sometimes critical outsider testimony on Sultanate administration and society. Taken together, the iqta system, Alauddin's market reforms, and the Tughluq experiments illustrate the Sultanate's persistent, if uneven, drive toward administrative centralization over three centuries.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Delhi Sultanate: Khalji and Tughluq Reforms"],
+      "tags": ["history", "medieval-india", "sultanate"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Mughal Administration: Mansabdari and Jagirdari as Twin Pillars",
+      "body": "The Mughal Empire under Akbar and his successors built one of the most sophisticated administrative systems of pre-modern India around two closely linked institutions: mansabdari and jagirdari. The mansabdari system, formalized under Akbar, assigned every noble and officer in imperial service a rank (mansab) expressed through two numerical values: zat, indicating personal status and salary entitlement, and sawar, indicating the number of cavalry troopers the mansabdar was obliged to maintain and present for inspection. This dual-number system elegantly combined a salary hierarchy with a military obligation, allowing the emperor to precisely calibrate both the prestige and the military contribution expected of each noble, while officers of any ethnic or religious background, Rajput, Persian, Central Asian, or Indian Muslim, could in principle rise through the same graded ladder, reflecting the empire's characteristically composite nobility.\n\nBecause the imperial treasury could not practically pay every mansabdar in cash, most were compensated instead through a jagir: a temporary assignment of the right to collect land revenue from a specified territory, calculated to match their sanctioned salary (jama). Like the Sultanate-era iqta, a jagir was transferable and non-hereditary in principle, giving the emperor the power to rotate assignments and prevent nobles from entrenching regional power bases. This system worked efficiently so long as the ratio between the number of mansabdars needing jagirs and the amount of assessed, revenue-yielding land (paibaqi) remained manageable.\n\nThat balance broke down seriously in the later seventeenth century, particularly during and after Aurangzeb's prolonged Deccan campaigns. The conquest of Bijapur and Golconda vastly expanded the nobility (through absorption of Deccani and Maratha chiefs) without a proportional increase in productive, assessed revenue, since much of the newly annexed Deccan land was ravaged by continuous warfare or already claimed by local zamindars. Historians, notably Satish Chandra, term this the 'jagirdari crisis': an acute and chronic shortage of jagirs relative to claimants, leading to shorter tenures, overlapping claims, and growing noble dissatisfaction with the imperial centre. This crisis is widely seen as a structural cause, alongside peasant unrest, agrarian exploitation, and regional assertions by Marathas, Sikhs, and Jats, of the broader eighteenth-century decline of Mughal central authority, even though the empire's ceremonial and legal legitimacy persisted for decades afterward.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Mansabdari and Jagirdari Systems", "Mughal Administration: Akbar to Aurangzeb"],
+      "tags": ["history", "mughal", "administration"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Bhakti and Sufi Movements: Devotion, Dissent and Syncretism",
+      "body": "The Bhakti and Sufi movements, though distinct in origin, jointly shaped the religious and cultural landscape of medieval India between roughly the seventh and seventeenth centuries. Bhakti, meaning loving devotion to a personal god, originated among the Alvars and Nayanars of Tamil South India between the seventh and ninth centuries, who composed devotional hymns in the vernacular directed at Vishnu and Shiva respectively, deliberately bypassing Sanskrit ritual and Brahmanical intermediaries. This South Indian Bhakti tradition gradually moved northward over subsequent centuries, adapting to new social contexts along the way, and by the fifteenth and sixteenth centuries had produced a remarkably diverse set of northern saint-poets: Kabir and Ravidas, who combined a rejection of both Hindu ritualism and Islamic orthodoxy with an emphasis on formless devotion (nirguna Bhakti); Guru Nanak, whose teachings evolved into the Sikh tradition; Tulsidas and Surdas, who composed devotional poetry to a personal, embodied deity (saguna Bhakti) in the form of Rama and Krishna respectively; and Chaitanya in Bengal, whose ecstatic Krishna devotion emphasized congregational singing (kirtan).\n\nParallel to this, Sufism, the mystical dimension of Islam, arrived in India from Central Asia and Persia from around the twelfth century, organized into various silsilahs or orders, most prominently the Chishti (associated with figures like Khwaja Muinuddin Chishti and Nizamuddin Auliya) and the Suhrawardi orders. Sufi practice emphasized a direct, experiential relationship with the divine achieved through meditation, music (sama), and the guidance of a spiritual master (pir), often expressed in a devotional idiom that resonated strongly with Bhakti sensibilities.\n\nThe genuinely egalitarian character of these movements deserves a critical rather than celebratory assessment. Both traditions attracted followers across caste and, in the case of Sufism, sometimes across religious lines, and their vernacular idiom and rejection of ritual specialists offered symbolic dignity to groups marginalized by Brahmanical orthodoxy, including lower castes and women, some of whom, like the poet-saint Mirabai, achieved lasting religious authority. However, historians caution against overstating this as a structural social revolution: caste hierarchies persisted within many Bhakti sects' later institutional forms, and royal or elite patronage often shaped which saints and orders gained prominence and long-term influence. The lasting significance of Bhakti and Sufism lies less in dismantling social hierarchy outright than in creating a shared devotional and linguistic culture, a syncretic space of popular religiosity from which distinctly regional and vernacular literary and musical traditions emerged, laying groundwork for the composite culture of later medieval and early modern India.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Bhakti and Sufi Movements"],
+      "tags": ["history", "medieval-india", "culture"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Drain of Wealth Theory and Colonial De-industrialization",
+      "body": "Among the most influential ideas produced by early Indian nationalist thought was Dadabhai Naoroji's drain of wealth theory, first systematically presented in his 1901 work Poverty and Un-British Rule in India. Naoroji argued that a substantial share of India's wealth was being transferred to Britain each year without any commensurate economic return, a one-way flow he termed the 'drain'. He identified several channels through which this occurred: home charges, meaning payments made in London for the India Office's administrative expenses, interest on public debt incurred largely for wars and infrastructure serving British commercial interests, salaries and pensions of British civil and military officials repatriated to Britain, and profits of British-owned enterprises operating in India that were remitted home rather than reinvested locally. Unlike ordinary trade, where India received goods or services in exchange for its exports, Naoroji contended this drain was 'unrequited', extracting value from Indian agriculture and industry while returning nothing of equivalent worth.\n\nThis theory was quickly adopted and refined by other early economic nationalists, notably R.C. Dutt in his Economic History of India, and became a foundational plank of the Moderate phase of Congress politics, providing an evidence-based economic critique of colonial rule that was harder to dismiss than purely political grievances. Later economic historians have both built on and qualified the drain thesis: some argue Naoroji's calculations understated the drain by not fully accounting for undervalued exports, while others, particularly in more recent cliometric scholarship, question whether all home charges represented genuine tribute extraction as opposed to payment for services actually rendered, such as railway construction, though even this infrastructure was designed primarily to serve export-oriented and strategic imperial interests rather than balanced Indian development.\n\nClosely connected to the drain was the process of de-industrialization, the decline of India's traditional handicraft and textile industries, especially in Bengal, under the combined pressure of colonial trade policy and industrial competition. Discriminatory tariffs favoured British machine-made textiles in the Indian market while Indian handloom exports faced high duties in Britain, and the displacement of traditional artisans pushed a growing population back onto agriculture, contributing to the phenomenon nationalists termed the 'ruralization' of India. Together, the drain and de-industrialization formed the empirical backbone of the nationalist argument that colonial rule was structurally impoverishing India rather than modernizing it in Indian interests, an argument that shaped both the ideology of the early Congress and the trajectory of independent India's subsequent economic planning.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Economic Impact of British Rule"],
+      "tags": ["history", "modern-india", "economy"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Raja Rammohan Roy and the Beginnings of Socio-Religious Reform",
+      "body": "Raja Rammohan Roy (1772-1833) is conventionally regarded as the pioneer of modern socio-religious reform in India, and his career illustrates the distinctive blend of tradition and modernity that characterized the early nineteenth-century reform movement. Deeply learned in Sanskrit, Persian, Arabic, and later English, Roy drew on this cosmopolitan intellectual formation to mount a critique of contemporary Hindu practice from within, arguing that later ritualism, idol worship, and caste rigidity represented a corruption of an originally monotheistic, rational Vedantic tradition rather than an authentic core of Hinduism. This strategy, appealing to scriptural authority to argue for reform rather than rejecting religion outright, became a template followed by many subsequent reformers.\n\nIn 1828 Roy founded the Brahmo Sabha, later reorganized as the Brahmo Samaj under Debendranath Tagore, which promoted worship of a single formless God, rejected idol worship and caste distinctions in its congregational practice, and provided an institutional base for reformist ideas among the English-educated Bengali middle class (bhadralok). Roy's most significant practical campaign, however, was against the practice of sati, the immolation of widows on their husbands' funeral pyres. Combining scriptural argument (contesting textual justifications for sati), rational and humanitarian appeal, and sustained lobbying of the colonial government, Roy played a decisive role in persuading Governor-General William Bentinck to legally abolish sati through Regulation XVII of 1829, making this one of the earliest instances of reformist-colonial collaboration on a social issue.\n\nRoy was equally significant as an advocate of Western, English-medium education, famously opposing the continuation of purely Sanskrit and Persian college funding in his 1823 letter to Governor-General Amherst, arguing instead for instruction in mathematics, natural philosophy, and modern science, a position that anticipated and influenced the debates preceding Macaulay's 1835 Minute on Education. He also championed press freedom, launching Bengali and Persian-language journals to cultivate public opinion and rational debate on social and political questions.\n\nThe broader significance of Roy's reforms lies in establishing a durable pattern for Indian modernity: engagement with Western rational and scientific thought combined with a reformist, rather than wholly rejectionist, relationship to indigenous religious tradition. This synthesis, often termed the beginning of the 'Indian Renaissance', opened space for the wave of reform movements that followed across the nineteenth century, from Vidyasagar's campaign for widow remarriage to Dayananda Saraswati's Arya Samaj, all of which, in different ways, negotiated between tradition and the demands of a changing colonial society.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Social and Religious Reform Movements"],
+      "tags": ["history", "modern-india", "reform"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Revolt of 1857: Character, Causes and Failure",
+      "body": "The Revolt of 1857 remains one of the most historiographically contested episodes in Indian history, variously described by contemporaries and later historians as a sepoy mutiny, a feudal reaction by displaced princes and landlords, or, in the nationalist reading championed by V.D. Savarkar, India's first war of independence. A balanced assessment recognizes elements of all three: the immediate trigger, the introduction of the new Enfield rifle cartridges rumoured to be greased with cow and pig fat, offended both Hindu and Muslim sepoys and sparked the initial mutiny at Meerut in May 1857, but the revolt's rapid spread and its diverse participants, from dispossessed talukdars in Awadh to the last Mughal emperor Bahadur Shah Zafar, who was persuaded to lend it symbolic legitimacy, to peasants settling local scores with revenue officials, suggest deeper and more varied grievances than a narrow military mutiny.\n\nUnderlying causes included the East India Company's aggressive annexation policy, especially Dalhousie's Doctrine of Lapse, which dispossessed rulers like the Rani of Jhansi and generated resentment among the traditional aristocracy; the economic distress of peasants and artisans caused by heavy land revenue demands and de-industrialization; the disruption of traditional landholding patterns following the annexation of Awadh in 1856, which alienated both talukdars and peasants; and cultural anxieties fuelled by missionary activity and reforms like the abolition of sati and legalization of widow remarriage, which some conservative sections interpreted as an assault on religious and social custom, however progressive these reforms were in substance.\n\nGeographically, the revolt was concentrated in the Gangetic plain and central India, particularly Delhi, Kanpur, Lucknow, Jhansi, and Bareilly, but large parts of Bengal, Bombay, and Madras Presidencies remained unaffected, a fact crucial to explaining the revolt's eventual failure. The rebels lacked a unified command structure, a shared long-term political vision, or modern weaponry and communication networks (the British, notably, used the telegraph effectively to coordinate suppression). Regional and princely rivalries meant many Indian rulers, such as the Nizam of Hyderabad and the Sikh states of Punjab, actively supported the British. The British forces, though initially caught off guard, ultimately proved superior in logistics, artillery, and reinforcement capacity via the newly available Suez route.\n\nThe revolt's consequences were momentous regardless of its ultimate failure: it led directly to the Government of India Act 1858, transferring control from the East India Company to the British Crown, ended the formal Mughal dynasty, and prompted a marked shift in British policy toward greater caution regarding social reform and toward consolidating alliances with conservative princely and landed elites, shaping the character of colonial governance for the following half-century.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Revolt of 1857"],
+      "tags": ["history", "modern-india", "1857"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Non-Cooperation Movement and the Gandhian Turn in Nationalism",
+      "body": "The Non-Cooperation Movement (1920-1922) marks the moment Indian nationalism decisively shifted from an elite, constitutionalist politics confined largely to English-educated professionals toward a genuinely mass movement drawing in peasants, workers, students, and women across the subcontinent. The movement's immediate origins lay in the convergence of two distinct grievances: the Khilafat issue, in which Indian Muslims protested the harsh post-World War I treatment of the Ottoman Caliph, and the widespread Indian outrage over the Rowlatt Act and the Jallianwala Bagh massacre of April 1919. Mahatma Gandhi, recognizing an opportunity to unite Hindu and Muslim opinion in joint protest, persuaded the Indian National Congress at its Nagpur session in December 1920 to adopt a formal programme of non-cooperation with the colonial government.\n\nThe programme called for the surrender of British titles and honours, boycott of government schools, colleges, courts, and legislative councils, boycott of foreign cloth and promotion of hand-spun khadi, and eventually the resignation of government employees, all pursued strictly through non-violent means. The movement generated an unprecedented scale of participation: students left government colleges to join national schools, lawyers like Motilal Nehru and C.R. Das gave up lucrative practices, peasants in regions like Awadh and Andhra used the movement's language to press local agrarian grievances (sometimes independently and more radically than Congress leadership intended), and women stepped into public political life in significant numbers for perhaps the first time, picketing liquor shops and foreign cloth stores.\n\nThe movement was abruptly called off by Gandhi in February 1922 after a mob of protesters at Chauri Chaura in the United Provinces set fire to a police station, killing several policemen, an act of violence Gandhi felt violated the movement's core commitment to non-violence (ahimsa) and disqualified the masses from the discipline required for civil disobedience. This decision, while consistent with Gandhi's principles, disappointed many younger nationalists, including Subhas Chandra Bose and Jawaharlal Nehru, who felt a genuine revolutionary momentum had been squandered at its peak.\n\nDespite its abrupt termination without achieving its stated goal of Swaraj within a year, the Non-Cooperation Movement's historical significance is considerable: it demonstrated Congress's capacity to mobilize a genuinely pan-Indian, cross-class, and temporarily cross-communal movement using non-violent methods, established Gandhi as the movement's unquestioned central leader, and created an enduring template, mass civil disobedience under charismatic moral leadership, that would be redeployed in the Civil Disobedience Movement of 1930 and the Quit India Movement of 1942.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Rise and Growth of Indian Nationalism", "Gandhian Mass Movements"],
+      "tags": ["history", "gandhi", "nationalism"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The World Wars as Total Wars: Global Causes and Consequences",
+      "body": "The First and Second World Wars are frequently analysed together as 'total wars', a term describing conflicts that mobilize not merely armies but entire national economies, civilian populations, and industrial capacities toward the war effort, blurring the traditional distinction between combatant and non-combatant. The causes of the First World War (1914-1918) are usually traced to a combination of structural and immediate factors: a rigid system of competing alliances (the Triple Alliance of Germany, Austria-Hungary, and Italy versus the Triple Entente of Britain, France, and Russia), an arms race and naval rivalry between Germany and Britain, aggressive imperial and colonial competition across Africa and Asia, and a rising tide of nationalism within multi-ethnic empires like Austria-Hungary and the Ottoman Empire. The immediate trigger, the assassination of Archduke Franz Ferdinand at Sarajevo in June 1914, activated this alliance system through a rapid chain of mobilizations that neither side seriously expected to escalate into a prolonged continental war.\n\nThe 'total war' character of the conflict is evident in how thoroughly it reorganized civilian life: governments introduced conscription and rationing, women entered munitions factories and other roles vacated by mobilized men in unprecedented numbers, and propaganda became a systematic tool of state policy to sustain civilian morale and enemy demoralization alike. The war's consequences were similarly totalizing: the collapse of four empires (German, Austro-Hungarian, Russian, and Ottoman), the redrawing of European and Middle Eastern boundaries at Versailles and related treaties, the harsh reparations imposed on Germany that fuelled subsequent economic crisis and resentment, and the Bolshevik Revolution in Russia, which introduced a new ideological axis into world politics.\n\nThe Second World War (1939-1945) exhibited these total-war features even more starkly, given advances in aerial bombardment that brought direct devastation to civilian populations on a scale unseen in the First War, the Holocaust's systematic genocide, and the eventual use of atomic weapons against Hiroshima and Nagasaki. Its causes are conventionally linked to the unresolved grievances and economic instability left by the Versailles settlement, the global Depression of the 1930s that fuelled the rise of Fascist and Nazi movements promising national renewal, and the policy of appeasement pursued by Britain and France that failed to deter German expansion under Hitler. Its consequences reshaped the entire international order: the emergence of the United States and Soviet Union as rival superpowers, the founding of the United Nations as a successor to the failed League of Nations, and an accelerated wave of decolonization across Asia and Africa as the European colonial powers emerged militarily and economically exhausted, unable to sustain their pre-war empires.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["World Wars and Rise of Totalitarianism"],
+      "tags": ["history", "world-history", "world-wars"],
+      "is_current_affairs": false
+    }
+  ]
+}

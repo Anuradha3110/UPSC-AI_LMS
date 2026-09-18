@@ -1,0 +1,314 @@
+{
+  "paper": "CSAT",
+  "optional_subject": null,
+  "syllabus_nodes": [
+    {"title": "Comprehension", "parent_title": null, "tags": ["csat", "comprehension"]},
+    {"title": "Reading Comprehension Passages", "parent_title": "Comprehension", "tags": ["csat", "comprehension"]},
+    {"title": "Inference and Critical Reasoning", "parent_title": "Comprehension", "tags": ["csat", "comprehension"]},
+    {"title": "Interpersonal and Communication Skills", "parent_title": null, "tags": ["csat", "interpersonal"]},
+    {"title": "Logical Reasoning and Analytical Ability", "parent_title": null, "tags": ["csat", "reasoning"]},
+    {"title": "Syllogisms and Statement-Conclusion", "parent_title": "Logical Reasoning and Analytical Ability", "tags": ["csat", "reasoning", "syllogism"]},
+    {"title": "Coding-Decoding", "parent_title": "Logical Reasoning and Analytical Ability", "tags": ["csat", "reasoning"]},
+    {"title": "Blood Relations", "parent_title": "Logical Reasoning and Analytical Ability", "tags": ["csat", "reasoning"]},
+    {"title": "Seating Arrangements and Puzzles", "parent_title": "Logical Reasoning and Analytical Ability", "tags": ["csat", "reasoning", "puzzles"]},
+    {"title": "Direction Sense", "parent_title": "Logical Reasoning and Analytical Ability", "tags": ["csat", "reasoning"]},
+    {"title": "Analogies and Pattern Recognition", "parent_title": "Logical Reasoning and Analytical Ability", "tags": ["csat", "reasoning"]},
+    {"title": "Decision-Making and Problem-Solving", "parent_title": null, "tags": ["csat", "decision-making"]},
+    {"title": "Situational Decision-Making Case Studies", "parent_title": "Decision-Making and Problem-Solving", "tags": ["csat", "decision-making"]},
+    {"title": "General Mental Ability", "parent_title": null, "tags": ["csat", "mental-ability"]},
+    {"title": "Clock Calendar and Age Problems", "parent_title": "General Mental Ability", "tags": ["csat", "mental-ability"]},
+    {"title": "Cubes Dice and Visual Reasoning", "parent_title": "General Mental Ability", "tags": ["csat", "mental-ability"]},
+    {"title": "Basic Numeracy", "parent_title": null, "tags": ["csat", "numeracy"]},
+    {"title": "Number Systems and HCF-LCM", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Ratio Proportion and Percentage", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Time Speed and Distance", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Time and Work", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Simple and Compound Interest", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Averages Mixtures and Alligation", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Mensuration and Basic Algebra", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Probability Basics", "parent_title": "Basic Numeracy", "tags": ["csat", "numeracy"]},
+    {"title": "Data Interpretation", "parent_title": null, "tags": ["csat", "data-interpretation"]},
+    {"title": "Tables and Data Sufficiency", "parent_title": "Data Interpretation", "tags": ["csat", "data-interpretation"]},
+    {"title": "Graphs Charts and Caselets", "parent_title": "Data Interpretation", "tags": ["csat", "data-interpretation"]}
+  ],
+  "pyqs": [
+    {
+      "year": 2019,
+      "marks": 2,
+      "question_text": "A passage describes a village's transition from rain-fed to irrigated agriculture and the resulting change in cropping pattern. Based on the passage, which one of the following can be inferred?",
+      "node_titles": ["Reading Comprehension Passages"],
+      "options": [
+        {"label": "A", "text": "Irrigation access alone determines a farmer's choice of crop"},
+        {"label": "B", "text": "Assured water supply widened the range of viable crop choices for farmers"},
+        {"label": "C", "text": "Rain-fed farming was abandoned entirely after irrigation arrived"},
+        {"label": "D", "text": "Cropping pattern in the village remained unchanged despite irrigation"}
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2020,
+      "marks": 2,
+      "question_text": "Statements: All pens are pencils. Some pencils are erasers. Conclusions: I. Some pens are erasers. II. Some erasers are pens. Which of the conclusions logically follow(s) from the statements?",
+      "node_titles": ["Syllogisms and Statement-Conclusion"],
+      "options": [
+        {"label": "A", "text": "Only conclusion I follows"},
+        {"label": "B", "text": "Only conclusion II follows"},
+        {"label": "C", "text": "Neither conclusion follows"},
+        {"label": "D", "text": "Both conclusions follow"}
+      ],
+      "correct_option": "C",
+      "marking_scheme": null
+    },
+    {
+      "year": 2017,
+      "marks": 2,
+      "question_text": "In a certain code, MOUNTAIN is written as NPVOUBJO. How is RIVER written in that code?",
+      "node_titles": ["Coding-Decoding"],
+      "options": [
+        {"label": "A", "text": "SJWFS"},
+        {"label": "B", "text": "SJWFT"},
+        {"label": "C", "text": "SKWFS"},
+        {"label": "D", "text": "TJWFS"}
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2016,
+      "marks": 2,
+      "question_text": "Pointing to a photograph, Anil said, She is the daughter of my grandfather's only son. How is the girl in the photograph related to Anil?",
+      "node_titles": ["Blood Relations"],
+      "options": [
+        {"label": "A", "text": "Sister"},
+        {"label": "B", "text": "Cousin"},
+        {"label": "C", "text": "Niece"},
+        {"label": "D", "text": "Daughter"}
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2021,
+      "marks": 2,
+      "question_text": "Six friends P, Q, R, S, T and U are sitting around a circular table facing the centre. P sits third to the right of Q. R sits second to the left of P. S sits between Q and T. Who sits immediately to the left of R?",
+      "node_titles": ["Seating Arrangements and Puzzles"],
+      "options": [
+        {"label": "A", "text": "U"},
+        {"label": "B", "text": "T"},
+        {"label": "C", "text": "P"},
+        {"label": "D", "text": "Q"}
+      ],
+      "correct_option": "C",
+      "marking_scheme": null
+    },
+    {
+      "year": 2015,
+      "marks": 2,
+      "question_text": "A man walks 5 km towards south, then turns left and walks 3 km, then turns left again and walks 5 km. How far is he from his starting point and in which direction?",
+      "node_titles": ["Direction Sense"],
+      "options": [
+        {"label": "A", "text": "3 km, east"},
+        {"label": "B", "text": "3 km, west"},
+        {"label": "C", "text": "8 km, west"},
+        {"label": "D", "text": "13 km, south"}
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2022,
+      "marks": 2,
+      "question_text": "Look at this series: 3, 7, 15, 31, 63, ... What number should come next?",
+      "node_titles": ["Analogies and Pattern Recognition"],
+      "options": [
+        {"label": "A", "text": "92"},
+        {"label": "B", "text": "115"},
+        {"label": "C", "text": "127"},
+        {"label": "D", "text": "131"}
+      ],
+      "correct_option": "C",
+      "marking_scheme": null
+    },
+    {
+      "year": 2013,
+      "marks": 2,
+      "question_text": "A car covers a certain distance at 60 km/h and returns the same distance at 40 km/h. What is the average speed for the entire journey?",
+      "node_titles": ["Time Speed and Distance"],
+      "options": [
+        {"label": "A", "text": "48 km/h"},
+        {"label": "B", "text": "50 km/h"},
+        {"label": "C", "text": "52 km/h"},
+        {"label": "D", "text": "45 km/h"}
+      ],
+      "correct_option": "A",
+      "marking_scheme": null
+    },
+    {
+      "year": 2014,
+      "marks": 2,
+      "question_text": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. If they work together, in how many days will the work be completed?",
+      "node_titles": ["Time and Work"],
+      "options": [
+        {"label": "A", "text": "6.2 days"},
+        {"label": "B", "text": "7.2 days"},
+        {"label": "C", "text": "8.2 days"},
+        {"label": "D", "text": "9 days"}
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2018,
+      "marks": 2,
+      "question_text": "A sum of money amounts to Rs. 6,050 in 2 years and to Rs. 6,655 in 3 years at compound interest. What is the rate of interest per annum?",
+      "node_titles": ["Simple and Compound Interest"],
+      "options": [
+        {"label": "A", "text": "8 percent"},
+        {"label": "B", "text": "9 percent"},
+        {"label": "C", "text": "10 percent"},
+        {"label": "D", "text": "12 percent"}
+      ],
+      "correct_option": "C",
+      "marking_scheme": null
+    },
+    {
+      "year": 2023,
+      "marks": 2,
+      "question_text": "A vessel contains a mixture of milk and water in the ratio 5:2. If 14 litres of the mixture is replaced by an equal quantity of water so that the resulting mixture has milk and water in the ratio 5:4, what was the original quantity of mixture in the vessel?",
+      "node_titles": ["Averages Mixtures and Alligation"],
+      "options": [
+        {"label": "A", "text": "35 litres"},
+        {"label": "B", "text": "49 litres"},
+        {"label": "C", "text": "42 litres"},
+        {"label": "D", "text": "63 litres"}
+      ],
+      "correct_option": "B",
+      "marking_scheme": null
+    },
+    {
+      "year": 2020,
+      "marks": 2,
+      "question_text": "The bar graph shows the production of a company across five years. Study the data and determine in which year the percentage increase in production over the previous year was the highest.",
+      "node_titles": ["Graphs Charts and Caselets"],
+      "options": [
+        {"label": "A", "text": "Year 2"},
+        {"label": "B", "text": "Year 3"},
+        {"label": "C", "text": "Year 4"},
+        {"label": "D", "text": "Year 5"}
+      ],
+      "correct_option": "C",
+      "marking_scheme": null
+    }
+  ],
+  "content_items": [
+    {
+      "title": "Cracking Reading Comprehension: Strategy over Speed-Reading",
+      "body": "Reading comprehension in CSAT is not primarily a test of vocabulary or reading speed; it is a test of whether a candidate can extract exactly what a passage claims, and no more, under time pressure. Aspirants who struggle usually fall into one of two traps: they read the passage too passively and forget details by the time they reach the questions, or they read the questions first and then hunt for matching keywords in the passage, which works for factual questions but fails badly on inference-based ones. A more reliable approach is to read the passage once at a moderate pace, mentally noting the author's central claim and the logical role each paragraph plays, whether it is introducing an argument, offering evidence, raising a counterpoint, or drawing a conclusion. This structural map, rather than a memorised list of facts, is what lets a candidate quickly locate the relevant portion of text when a question is asked.\n\nCSAT comprehension questions generally fall into a few recurring types. Direct factual questions ask what the passage literally states, and here the discipline is to answer strictly from the text even when the candidate's own general knowledge suggests a different or more complete answer. Inference questions ask what the passage implies without stating outright, and these are where most errors occur, because candidates often select an option that is plausible in the real world but is not actually supported by the specific wording of the passage. The safest habit is to treat inference as a short logical step from stated premises, not as an invitation to bring in outside knowledge. Tone and purpose questions ask why the author wrote a passage or how the author feels about the subject, and these are best answered by looking at word choice and emphasis rather than content alone.\n\nA common failure mode is overthinking, where a candidate rejects the correct answer because it seems too simple, and instead picks an option requiring an unstated leap of logic. Given that CSAT is negatively marked, another discipline worth building is recognising when a question genuinely cannot be answered with confidence from the passage, since it is often better to make a reasoned elimination-based guess between two close options than to leave a comprehension question blank, given that eliminating even one implausible option meaningfully improves expected value. Regular practice with previous-year passages, focusing on why the wrong options are wrong rather than just confirming the right answer, builds the pattern recognition that ultimately matters more in the exam hall than raw reading speed.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Reading Comprehension Passages", "Inference and Critical Reasoning"],
+      "tags": ["csat", "comprehension"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Solving Syllogisms with the Venn Diagram Method",
+      "body": "Syllogism questions present two or more categorical statements, such as All A are B or Some B are C, and ask which conclusions necessarily follow. The single most reliable method for solving these under exam conditions is to draw Venn diagrams for every possible arrangement consistent with the given statements, rather than relying on memorised verbal rules, because verbal shortcuts break down quickly once a question combines universal and particular statements or introduces negatives.\n\nThe key discipline is to draw every diagram that is logically possible given the premises, not just the most intuitive one. For a statement like All A are B, the circle for A must sit entirely inside the circle for B, and there is only one way to draw this. But a statement like Some A are B is compatible with several different diagrams: A and B could overlap partially, A could be entirely inside B, or B could be entirely inside A, since some only tells us there is at least one common element and says nothing about how much of each set is included in the other. A conclusion is judged to follow only if it holds true in every single diagram consistent with the premises; if even one valid diagram contradicts the proposed conclusion, that conclusion does not necessarily follow, no matter how likely it may feel intuitively.\n\nA second useful device is the concept of conversion, which describes what can safely be inferred by simply reversing the subject and predicate of a single statement. From All A are B, one cannot safely conclude All B are A, but one can validly convert it to Some B are A, since if every A is inside B, then at least the portion of B occupied by A satisfies some B are A, provided A itself is not an empty set. Similarly, Some A are B converts validly to Some B are A, but No A is B converts to No B is A only for universal negatives, not particular ones.\n\nA common trap in CSAT syllogism questions is the either-or conclusion pattern, where two conclusions individually seem not to follow, but where one of them must be true given the premises taken together; the exam sometimes rewards recognising that at least one of two possibilities is guaranteed even though neither alone is guaranteed. Building genuine fluency with this method, through timed practice across dozens of statement combinations, converts what feels like an abstract logic puzzle into a fast, almost mechanical five-diagrams-and-check exercise, which is exactly the speed the exam's time constraints demand.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Syllogisms and Statement-Conclusion"],
+      "tags": ["csat", "reasoning", "syllogism"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Coding-Decoding: Recognising the Underlying Rule",
+      "body": "Coding-decoding questions convert a word or number into a coded form using some consistent, hidden rule, and ask the candidate either to decode a given code or to apply the same rule to a new word. The underlying rules generally fall into a small number of families, and recognising which family a question belongs to is most of the battle. Letter-shifting codes replace each letter with another letter a fixed number of positions away in the alphabet, either forward or backward, and are best solved by writing out the alphabet with position numbers above or below it so the shift becomes visible by inspection rather than guesswork. Substitution codes assign an arbitrary but fixed alternative letter or symbol to each original letter according to a rule stated or implied in the question, and require carefully tracking which substitution has been given for which letter.\n\nNumber-coding questions typically encode words as numbers based on letter positions in the alphabet, word length, or number of vowels and consonants, and pattern recognition across two or three example word-code pairs is usually enough to deduce which of these rules is in play. Symbol-based or matrix-based coding, sometimes presented as a grid of letters and numbers, requires identifying a word by its row-and-column coordinates, and demands careful, unhurried reading of the grid rather than any deep logical insight.\n\nA practical exam strategy is to first attempt to deduce the rule from the given example, then verify the rule against a second part of the example if one is provided, before applying it to the actual question, since committing to a wrong rule based on a partial pattern is a common source of error. When a question gives an unusually long or complex code, it is often faster to solve only the specific letters or positions the question actually asks about rather than decoding the entire word, since coding-decoding questions are frequently structured so that only a subset of the coded information is actually needed to answer.\n\nBecause these questions are essentially rule-detection exercises rather than tests of any deep conceptual knowledge, speed comes almost entirely from repetition across many rule types, building the instinct to recognise, within the first few seconds of reading a question, which family of coding rule is most likely at play.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Coding-Decoding"],
+      "tags": ["csat", "reasoning"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Blood Relation Puzzles: Building the Family Tree",
+      "body": "Blood relation questions describe a set of family connections through a chain of statements and then ask how one person is related to another. These questions rarely require any advanced logic; what they demand is a disciplined method of converting prose into a visual family tree so that relationships buried three or four statements deep can be read off directly rather than held in working memory, which is where most errors creep in under time pressure.\n\nThe standard method is to draw a simple tree diagram as each piece of information is read, using generation levels stacked vertically, with a convention such as a horizontal line connecting spouses and a vertical line connecting parents to children, and gender-marked symbols or simple labels such as M or F next to each individual. As each new statement is processed, the diagram is extended rather than restarted, so that by the time all statements have been read, the entire family structure sits visibly on paper rather than in memory. Reading the final question against this completed diagram is usually immediate and error-free, whereas attempting to track the same relationships purely mentally is where candidates lose time re-reading statements and where careless errors most often occur.\n\nA recurring source of confusion is indirect phrasing, such as my father's only sister's husband's son, which requires resolving each possessive link one step at a time from the innermost relation outward, rather than trying to parse the whole sentence at once. Building the habit of translating such phrases into diagram steps immediately, one relation at a time, prevents the common error of misreading which person a later possessive refers back to.\n\nAmbiguity of gender is another frequent trap, since terms like cousin, spouse, or child can refer to either gender, and questions sometimes deliberately construct a scenario where the answer depends on correctly tracking gender information given earlier for a related individual, such as pointing to a photograph and identifying a person only by an earlier clue about their sibling's gender. Careful, statement-by-statement diagramming, rather than any shortcut trick, remains the most exam-reliable method for these questions, and repeated practice mainly builds the speed of drawing and reading such trees rather than any new conceptual understanding.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Blood Relations"],
+      "tags": ["csat", "reasoning"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Circular and Linear Seating Arrangements: A Systematic Approach",
+      "body": "Seating arrangement and puzzle questions place several people or objects in a circular, linear, or rectangular arrangement according to a series of clues, and ask the candidate to deduce the complete arrangement or answer a specific question about it. These puzzles reward a systematic, slot-filling approach far more than clever shortcuts, because the clues are usually designed to be resolved in a particular order, with some clues fixing absolute positions and others only fixing relative positions.\n\nThe recommended method begins by scanning all the given clues once to identify any clue that fixes an absolute position, such as a person sitting at a specific numbered seat or at the head of a table, since such clues anchor the entire arrangement and should be placed first. Next, clues describing fixed relative distances, such as third to the right of or immediately opposite, should be applied around that anchor, since these narrow down possibilities sharply once an anchor exists. Only after these stronger clues are placed should looser clues, such as not adjacent to or somewhere between, be used, typically to eliminate remaining ambiguous placements among the few open slots left.\n\nFor circular arrangements, it is essential to fix at the outset whether positions are described as seen from the centre of the table looking outward or from each person's own perspective facing the centre, since left and right invert between these two framings, and misreading this convention is one of the most common sources of error. Drawing a small circle with placeholder slots and physically rotating clockwise or counter-clockwise as directions are applied, rather than trying to reason about rotation abstractly, keeps the process error-free.\n\nWhen a puzzle appears to admit more than one valid arrangement after all clues are applied, the exam question is usually designed so that the specific fact being asked about is the same across every valid arrangement, meaning the ambiguity does not actually prevent answering the question asked, and recognising this saves considerable time compared to trying to force a single unique arrangement. As with other reasoning question types, fluency here comes from repeated timed practice that builds an instinct for which clue to apply first, since applying clues in the wrong order is the single biggest cause of getting stuck or running out of time.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Seating Arrangements and Puzzles"],
+      "tags": ["csat", "reasoning", "puzzles"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Direction Sense Problems: Coordinate Thinking without a Map",
+      "body": "Direction sense questions describe a sequence of movements, such as walking a certain distance north, then turning and walking further in another direction, and ask for the net distance and direction from the starting point, or occasionally the shortest path between two points in the described journey. Although these questions look like simple map-reading, they are best solved using basic coordinate geometry rather than mental visualisation, since visualising more than two or three turns reliably in one's head is difficult under exam time pressure and is a common source of careless error.\n\nThe reliable method is to treat the starting point as the origin of a simple x-y coordinate system, with north as the positive y-direction, south as negative y, east as positive x, and west as negative x. Each described movement is then converted into a coordinate change, added cumulatively as the journey is read, so that by the end of the description, the person's final position is known simply as a pair of coordinates relative to the start. The net displacement is then the straight-line distance from the origin to this final point, calculated using the Pythagorean theorem when the final position has both a nonzero x and nonzero y component, and the direction is read off from which quadrant that final point falls in, front the perspective of standard compass directions.\n\nA common source of error is the handling of left and right turns, since these are relative to the direction the person is currently facing, not fixed compass directions, and a single misjudged turn early in a long sequence propagates through every subsequent step. Writing out, after each turn, the new compass direction the person is now facing, rather than trying to track it only mentally, keeps this error from compounding.\n\nQuestions that ask for the shortest distance between two points visited during the journey, rather than simply the final displacement from the start, require recording the coordinates of every intermediate point mentioned, not just the endpoint, since the shortest path in the described scenario may run between two intermediate points rather than from start to finish. Treating every direction sense problem as a coordinate-plotting exercise, however verbally it is phrased, removes the need for any spatial intuition and converts the question into straightforward arithmetic.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Direction Sense"],
+      "tags": ["csat", "reasoning"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Number Series and Pattern Recognition Techniques",
+      "body": "Number series questions present a sequence of numbers with one term missing or to be predicted, and ask the candidate to identify the underlying pattern. While the range of possible patterns is technically unlimited, in practice CSAT-style series draw from a fairly small set of recurring pattern families, and quickly testing each family in a fixed order is far more efficient than staring at the series hoping for insight.\n\nThe first and simplest family to test is a constant arithmetic difference between consecutive terms, followed by a constant ratio, which covers straightforward arithmetic and geometric progressions. If neither holds, the next family to test is a difference-of-differences pattern, where the differences between consecutive terms themselves form a simple arithmetic or geometric sequence, which covers series that grow at an accelerating or decelerating rate, such as one where each term is roughly double the previous term plus a small constant. A related family involves each term being generated by a fixed operation applied to the previous term, such as multiply by two and add one, which can often be spotted by testing this specific hypothesis against the first two or three given terms before committing to it for the rest of the series.\n\nAnother recurring family is the alternating or interleaved series, where two independent simple patterns are woven together at alternating positions, such as odd-positioned terms following one arithmetic rule and even-positioned terms following another; these are recognised by noticing that the straightforward difference pattern fails when applied to consecutive terms but succeeds when applied to alternate terms. A further family involves patterns based on squares, cubes, or other fixed algebraic transformations of the term's position in the sequence, such as a series built from squares of consecutive integers with a small constant added or subtracted.\n\nThe efficient exam approach is to compute the simple first-difference and first-ratio for the given terms as an automatic first step for every series question, since this immediately reveals whether the series is a basic arithmetic or geometric type, and only if both fail should the more effortful difference-of-differences or operation-based hypotheses be tested. Because the space of common pattern families is limited and well known, extensive practice across previous-year series questions builds enough familiarity that the correct family is usually recognised within the first few seconds of reading a series, leaving the remaining time for verification rather than fresh pattern discovery.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Analogies and Pattern Recognition"],
+      "tags": ["csat", "reasoning"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Time, Speed and Distance: The Relative Speed Shortcut",
+      "body": "Time, speed and distance questions rest on a single core relationship, distance equals speed multiplied by time, but the exam rarely tests this formula directly; instead it embeds the relationship inside scenarios involving two moving objects, changing speeds over different segments of a journey, or trains and boats where an additional factor such as the length of the train or the speed of a stream must be accounted for. Mastery of this topic mostly means recognising which of a handful of standard scenario types a given question belongs to and applying the matching shortcut, rather than deriving each answer from first principles under time pressure.\n\nAverage speed questions, where a journey is covered at one speed and returned at another, are a classic trap for candidates who simply average the two speeds arithmetically; the correct approach recognises that when equal distances are covered at two different speeds, the correct average speed is the harmonic mean, expressed as twice the product of the two speeds divided by their sum, not the simple arithmetic mean, because more time is spent travelling at the slower speed and that speed should therefore be weighted more heavily. Relative speed problems, involving two objects moving toward or away from each other, are solved by adding their speeds when moving toward each other and subtracting when moving in the same direction, then applying the basic distance-speed-time relationship to this combined relative speed rather than analysing each object's motion separately, which considerably shortens the calculation.\n\nTrain problems introduce the additional wrinkle that the length of the train itself must be added to the distance being covered when the train crosses a stationary object of nonzero length, such as a platform or another train, since the entire length of the train must clear the object, not just its front. Boat and stream problems require converting a boat's speed in still water and a stream's current speed into an effective downstream speed, obtained by adding the two, and an effective upstream speed, obtained by subtracting the current from the boat's speed, before applying the standard distance-speed-time relationship to whichever direction the question asks about.\n\nBecause most of these questions can be reduced to identifying which scenario type is in play and then applying the corresponding known relationship, the practical exam skill worth building is rapid scenario recognition, achieved through repeated exposure to previous-year questions across each of these categories, rather than memorising the underlying formulas in isolation.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Time Speed and Distance", "Time and Work"],
+      "tags": ["csat", "numeracy"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Simple Interest, Compound Interest and the Power of Compounding",
+      "body": "Interest calculation questions in CSAT test the distinction between simple interest, where interest is calculated only on the original principal every period, and compound interest, where each period's interest is added to the principal so that subsequent periods earn interest on a growing base. Simple interest questions are typically resolved quickly using the direct formula relating principal, rate and time, but compound interest questions reward candidates who understand a few structural shortcuts rather than expanding the full compound-interest formula by hand each time, which is slow and error-prone under time pressure.\n\nA particularly useful shortcut concerns two-year compound interest problems, since the compound interest over two years can be broken conceptually into the simple interest that would be earned over those two years, plus an additional small amount arising because the second year's interest is calculated on a principal already increased by the first year's interest. This additional amount equals the first year's interest multiplied by the rate of interest, a relationship that lets many two-year compound interest problems be solved through straightforward addition rather than by computing compound growth factors from scratch. Where a problem gives the compound interest earned over two consecutive years, such as amounts at the end of year two and year three, the rate of interest can be deduced directly by treating the difference between these two amounts as the interest earned in the third year alone, then expressing this as a percentage of the amount at the end of year two.\n\nAnother frequently tested concept is the effective difference between simple and compound interest over a fixed period at the same rate, which is always zero for one year, since no compounding has yet occurred, and grows in later years as the compounding effect accumulates; questions sometimes give this difference directly and ask for the principal or rate, requiring the solver to work backward through the compounding relationship.\n\nBeyond banking-style problems, the same compound-growth logic underlies population growth, depreciation of asset values, and successive percentage increase or decrease problems, all of which are essentially compound interest in disguise, with depreciation behaving like compound interest at a negative rate. Recognising this shared underlying structure across seemingly different question types, rather than treating each as a distinct topic, considerably reduces the number of genuinely new techniques a candidate needs to master for this section.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Simple and Compound Interest"],
+      "tags": ["csat", "numeracy"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Mixtures, Alligation and the Weighted Average Idea",
+      "body": "Mixture and alligation questions ask how two or more quantities with different characteristics, such as two solutions of different concentrations or two grades of a commodity with different prices, combine to produce a mixture with some overall average characteristic, or conversely, in what ratio two known quantities must be combined to achieve a target average. Although these problems can always be solved by setting up and solving simultaneous equations directly, the alligation method offers a much faster shortcut once its logic is understood, which matters considerably given the strict time budget per question in CSAT.\n\nThe alligation method rests on a simple weighted-average insight, namely that when two quantities are mixed, the ratio in which they must be combined to hit a specific target average is inversely proportional to how far each quantity's own value is from that target average. Concretely, if one ingredient has value A, another has value B, and the desired mixture average is M, then the required ratio of the quantity of A to the quantity of B equals the gap between B and M divided by the gap between M and A. This is often visualised using a simple cross diagram, with A and B written at two corners and M in the middle, and the two differences calculated diagonally across the cross to give the mixing ratio directly, without needing to set up or solve any equation explicitly.\n\nA frequently tested variant is the replacement problem, where a certain volume of a mixture is repeatedly removed and replaced with one of the pure original ingredients, such as repeatedly removing a fraction of a milk-water mixture and topping it back up with pure water. These problems are solved using a specific repeated-dilution formula, where the remaining quantity of the original ingredient after several such replacement cycles equals the original quantity multiplied by a factor of one minus the replaced fraction, raised to the power of the number of replacement cycles performed, since each cycle removes the same proportion of whatever mixture is currently present.\n\nRecognising which of these two structures, a straightforward alligation to hit a target average, or a repeated-replacement dilution, a given question represents is usually the main challenge, since the underlying arithmetic in either case is not difficult once the correct structure and formula are identified; most errors in this topic come from misapplying the ratio direction in alligation, that is, inverting which difference corresponds to which ingredient's required quantity, which careful practice with the cross diagram largely eliminates.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Averages Mixtures and Alligation"],
+      "tags": ["csat", "numeracy"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Reading Bar Graphs, Line Graphs and Pie Charts under Time Pressure",
+      "body": "Data interpretation questions present information visually, through bar graphs, line graphs, pie charts, or tables, and then ask a series of questions requiring calculations based on that visual data. The core challenge in this topic is rarely the underlying arithmetic, which is usually simple percentage, ratio, or average calculation; the real challenge is reading the visual data accurately and efficiently under time pressure, since a single misread value early on can produce several wrong answers across a linked set of questions.\n\nFor bar graphs, the first and most important step is to check the axis scale and units carefully before reading any specific bar, since a graph where the y-axis is marked in thousands or where bars start from a nonzero baseline can easily mislead a candidate who assumes a simple scale. For grouped or stacked bar graphs, comparing categories requires either reading total heights, for stacked bars, or comparing adjacent bars carefully, for grouped bars, rather than assuming the visual size alone conveys the answer without checking the actual labelled or gridline value. Line graphs, typically used to show a trend over time, reward attention to the direction and steepness of segments between points, since questions frequently ask about the period of maximum increase or decrease, which is a question about the slope between two points, not simply about which point has the highest or lowest absolute value.\n\nPie charts encode data as proportions of a whole, usually as percentages or as degrees of a 360-degree circle, and questions often require converting a percentage into an absolute value using a total figure given separately, or converting an angle measurement into a percentage by dividing by 360 and multiplying by 100; forgetting this conversion step, and treating the given angle or percentage as if it were the final answer, is a very common and avoidable error.\n\nAcross all these formats, a valuable habit is to extract and jot down the key numbers implied by the chart before reading the actual questions, rather than re-reading the chart from scratch for every question, since data interpretation questions typically arrive in a linked set based on the same visual, and this upfront extraction amortises the reading effort across several questions rather than repeating it. Data sufficiency questions, a related but distinct format, ask not for the answer itself but whether the given statements are sufficient to determine it, and these reward a discipline of testing each statement independently first, then together only if neither alone suffices, resisting the temptation to actually solve for the numeric answer when the question only asks about sufficiency.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Tables and Data Sufficiency", "Graphs Charts and Caselets"],
+      "tags": ["csat", "data-interpretation"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Decision-Making Case Studies: There Is No Single Right Answer Formula",
+      "body": "Decision-making and problem-solving questions in CSAT differ fundamentally from the rest of the paper because they are explicitly designed around administrative ethics and practical judgment rather than a single objectively correct numerical or logical answer; historically this sub-section has even been excluded from negative marking in some years, though candidates should always verify the current year's exact marking rules rather than assume this remains unchanged. These questions typically describe a workplace or public-service scenario, often involving a conflict between competing duties, such as loyalty to a superior versus public interest, or efficiency versus procedural fairness, and ask the candidate to choose the most appropriate course of action among several options.\n\nBecause there is no formula to mechanically apply, the most useful approach is to evaluate each option against a small set of recurring administrative values that UPSC scenarios consistently reward, namely legality, since options that violate rules or established procedure should generally be avoided even if they produce a faster result, and ethical soundness, since options involving deception, favouritism, or personal gain are almost always the wrong choice regardless of how efficient they might seem. Beyond legality and ethics, the exam tends to favour options that resolve the immediate problem while also addressing its underlying cause, over options that merely paper over the symptom, and options that involve appropriate consultation or escalation through proper channels, over unilateral action taken without regard for hierarchy or due process, except in scenarios explicitly involving urgent risk to life or safety, where decisive independent action is usually the better answer.\n\nA common trap in these questions is the extreme option, phrased in absolute terms such as never consider any alternative or completely ignore the instruction, since UPSC-style scenarios are almost always designed so that the best answer is a measured, proportionate response rather than an all-or-nothing reaction. Similarly, options that involve inaction or indefinite delay, framed as waiting to see what happens, are usually inferior to options that involve some concrete, appropriate step, since public administration scenarios are constructed to test proactive and responsible judgment rather than passive avoidance of a difficult situation.\n\nBecause these questions ultimately test administrative temperament rather than technical knowledge, the most effective preparation is not memorising a decision rule but practising a large number of previous scenarios and reflecting on why the officially preferred answer balances competing considerations the way it does, gradually internalising the value hierarchy the exam consistently rewards.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Situational Decision-Making Case Studies"],
+      "tags": ["csat", "decision-making"],
+      "is_current_affairs": false
+    }
+  ]
+}

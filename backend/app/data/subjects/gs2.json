@@ -1,0 +1,541 @@
+{
+  "paper": "GS2",
+  "optional_subject": null,
+  "syllabus_nodes": [
+    {
+      "title": "Indian Constitution",
+      "parent_title": null,
+      "tags": [
+        "constitution"
+      ]
+    },
+    {
+      "title": "Historical Underpinnings and Evolution",
+      "parent_title": "Indian Constitution",
+      "tags": [
+        "constitution"
+      ]
+    },
+    {
+      "title": "Basic Structure Doctrine",
+      "parent_title": "Indian Constitution",
+      "tags": [
+        "constitution",
+        "judiciary"
+      ]
+    },
+    {
+      "title": "Union-State Relations and Federalism",
+      "parent_title": null,
+      "tags": [
+        "federalism"
+      ]
+    },
+    {
+      "title": "Devolution of Powers to Local Bodies",
+      "parent_title": "Union-State Relations and Federalism",
+      "tags": [
+        "federalism",
+        "panchayati-raj"
+      ]
+    },
+    {
+      "title": "Separation of Powers",
+      "parent_title": null,
+      "tags": [
+        "polity"
+      ]
+    },
+    {
+      "title": "Comparative Constitutions",
+      "parent_title": null,
+      "tags": [
+        "polity",
+        "comparative"
+      ]
+    },
+    {
+      "title": "Parliament and State Legislatures",
+      "parent_title": null,
+      "tags": [
+        "parliament"
+      ]
+    },
+    {
+      "title": "Parliamentary Committees and Privileges",
+      "parent_title": "Parliament and State Legislatures",
+      "tags": [
+        "parliament"
+      ]
+    },
+    {
+      "title": "Executive and Judiciary",
+      "parent_title": null,
+      "tags": [
+        "executive",
+        "judiciary"
+      ]
+    },
+    {
+      "title": "Judicial Review and Judicial Activism",
+      "parent_title": "Executive and Judiciary",
+      "tags": [
+        "judiciary"
+      ]
+    },
+    {
+      "title": "Representation of the People Act",
+      "parent_title": null,
+      "tags": [
+        "elections"
+      ]
+    },
+    {
+      "title": "Constitutional Bodies",
+      "parent_title": null,
+      "tags": [
+        "constitutional-bodies"
+      ]
+    },
+    {
+      "title": "Election Commission of India",
+      "parent_title": "Constitutional Bodies",
+      "tags": [
+        "elections"
+      ]
+    },
+    {
+      "title": "Comptroller and Auditor General",
+      "parent_title": "Constitutional Bodies",
+      "tags": [
+        "accountability"
+      ]
+    },
+    {
+      "title": "Statutory and Regulatory Bodies",
+      "parent_title": null,
+      "tags": [
+        "regulatory-bodies"
+      ]
+    },
+    {
+      "title": "Government Policies and Interventions",
+      "parent_title": null,
+      "tags": [
+        "governance"
+      ]
+    },
+    {
+      "title": "NGOs and the Development Sector",
+      "parent_title": null,
+      "tags": [
+        "governance",
+        "ngo"
+      ]
+    },
+    {
+      "title": "Welfare Schemes for Vulnerable Sections",
+      "parent_title": null,
+      "tags": [
+        "welfare"
+      ]
+    },
+    {
+      "title": "Women and Child Welfare",
+      "parent_title": "Welfare Schemes for Vulnerable Sections",
+      "tags": [
+        "welfare",
+        "women"
+      ]
+    },
+    {
+      "title": "SC/ST/OBC Welfare",
+      "parent_title": "Welfare Schemes for Vulnerable Sections",
+      "tags": [
+        "welfare",
+        "social-justice"
+      ]
+    },
+    {
+      "title": "Health Sector Governance",
+      "parent_title": null,
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "title": "Education Sector Governance",
+      "parent_title": null,
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "title": "Poverty and Hunger",
+      "parent_title": null,
+      "tags": [
+        "poverty"
+      ]
+    },
+    {
+      "title": "E-Governance",
+      "parent_title": null,
+      "tags": [
+        "e-governance"
+      ]
+    },
+    {
+      "title": "Role of Civil Services",
+      "parent_title": null,
+      "tags": [
+        "civil-services"
+      ]
+    },
+    {
+      "title": "India and its Neighbourhood",
+      "parent_title": null,
+      "tags": [
+        "international-relations"
+      ]
+    },
+    {
+      "title": "Bilateral and Regional Groupings",
+      "parent_title": null,
+      "tags": [
+        "international-relations"
+      ]
+    },
+    {
+      "title": "International Institutions",
+      "parent_title": null,
+      "tags": [
+        "international-relations"
+      ]
+    },
+    {
+      "title": "Indian Diaspora",
+      "parent_title": null,
+      "tags": [
+        "diaspora"
+      ]
+    }
+  ],
+  "pyqs": [
+    {
+      "year": 2025,
+      "marks": 15,
+      "question_text": "Explain the reasons for the growth of Public Interest Litigation (PIL) in India. As a result of this growth, has the Supreme Court of India emerged as the most powerful judiciary in the world? Discuss.",
+      "node_titles": [
+        "Judicial Review and Judicial Activism"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Award marks for tracing at least three drivers of PIL growth (relaxed locus standi, epistolary jurisdiction, activist judges, weak executive delivery) and for a balanced discussion citing both expansion of rights (environment, prisoners, bonded labour) and overreach concerns (judicial legislation, docket burden). A conclusion that weighs power against accountability deficits scores well. Word limit around 250 words."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "Discuss what constitutes 'corrupt practices' for the purposes of the Representation of the People Act, 1951, and their significance for free and fair elections.",
+      "node_titles": [
+        "Representation of the People Act"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect enumeration of statutory corrupt practices under Section 123 (bribery, undue influence, appeal on religion/caste, booth capturing, exceeding expenditure limits) with brief explanation of each, plus a comment on consequences (disqualification, election petitions). Reward examples from case law or recent elections. Word limit around 150 words."
+    },
+    {
+      "year": 2023,
+      "marks": 15,
+      "question_text": "Compare and contrast the British and Indian approaches to parliamentary sovereignty.",
+      "node_titles": [
+        "Comparative Constitutions"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit an explanation of unqualified parliamentary sovereignty in the unwritten British constitution versus India's written Constitution, where Parliament is sovereign only within constitutional limits subject to judicial review and the basic structure doctrine. Reward reference to Kesavananda Bharati and the concept of constitutionalism over parliamentary supremacy. Word limit around 250 words."
+    },
+    {
+      "year": 2022,
+      "marks": 10,
+      "question_text": "Critically examine the procedures through which the President of India and the President of France are elected.",
+      "node_titles": [
+        "Comparative Constitutions"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect a description of India's indirect electoral college method (proportional representation by single transferable vote, weighted value of votes) contrasted with France's direct popular two-round election, with a critical comment on the differing degree of popular legitimacy and executive power each method confers. Word limit around 150 words."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Explain the concept of constitutional morality and how it helps in maintaining a balance between judicial independence and judicial accountability.",
+      "node_titles": [
+        "Basic Structure Doctrine"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Look for a definition of constitutional morality as adherence to constitutional values (equality, liberty, fraternity) even where the literal text or popular morality diverges, with judgments such as Navtej Singh Johar as illustration. Reward discussion of how this doctrine simultaneously restrains arbitrary judicial power and legitimises rights-protective rulings. Word limit around 250 words."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "Does the Indian Constitution provide for a strict separation of powers among the three organs of the state, or is it better described as a system of checks and balances? Discuss.",
+      "node_titles": [
+        "Separation of Powers"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect the answer to reject a rigid separation-of-powers reading, citing overlaps (ordinances, judicial rule-making, delegated legislation) alongside checks such as judicial review, impeachment, and no-confidence motions. A concluding position, supported with examples, that India follows a functional overlap with checks and balances rather than a watertight separation scores full marks. Word limit around 250 words."
+    },
+    {
+      "year": 2023,
+      "marks": 10,
+      "question_text": "Account for the reduced invocation of Article 356 of the Constitution by the Union Government since the mid-1990s.",
+      "node_titles": [
+        "Union-State Relations and Federalism"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit reference to the S.R. Bommai judgment (1994) making President's Rule justiciable, coalition-era politics reducing single-party dominance at the Centre, and the Sarkaria/Punchhi Commission recommendations urging restraint. Reward a brief note on the earlier misuse pattern for contrast. Word limit around 150 words."
+    },
+    {
+      "year": 2019,
+      "marks": 15,
+      "question_text": "Discuss the recent instances of cooperation, competition and confrontation between the Union and the States that have shaped India's federal structure.",
+      "node_titles": [
+        "Union-State Relations and Federalism"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect concrete recent examples under each head (GST Council consensus as cooperation; competitive federalism rankings/investment competition; disputes over central agencies, governor's role, or cess-sharing as confrontation), organised with a brief conceptual framing of cooperative and competitive federalism. Word limit around 250 words."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "'Welfare schemes for vulnerable sections, by the very manner in which they are designed, often end up being exclusionary.' Critically examine this statement.",
+      "node_titles": [
+        "Welfare Schemes for Vulnerable Sections"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Reward identification of design-driven exclusion errors (rigid eligibility criteria, Aadhaar-linkage failures, lack of last-mile awareness) with at least two scheme-specific examples, balanced against counter-evidence of inclusion gains from DBT and targeting reforms. A reasoned conclusion with reform suggestions scores full marks. Word limit around 250 words."
+    },
+    {
+      "year": 2021,
+      "marks": 10,
+      "question_text": "Can micro-financing through women's self-help groups break the inter-linked cycle of gender inequality, poverty and malnutrition? Examine.",
+      "node_titles": [
+        "Women and Child Welfare"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect the answer to link SHG-based microfinance to income generation, women's bargaining power within households, and downstream nutrition outcomes, while noting limits (loan misuse, indebtedness, patchy market linkages). Reference to schemes such as the National Rural Livelihoods Mission is a plus. Word limit around 150 words."
+    },
+    {
+      "year": 2023,
+      "marks": 10,
+      "question_text": "Has the lack of digital literacy and inadequate access to information and communication technology hindered the reach of e-governance initiatives in rural India? Discuss.",
+      "node_titles": [
+        "E-Governance"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Credit discussion of the rural digital divide (device access, connectivity, language, literacy) as a barrier to schemes such as e-Gram Swaraj and DBT, balanced with evidence of Common Service Centres and mobile-first design mitigating the gap. Word limit around 150 words."
+    },
+    {
+      "year": 2024,
+      "marks": 10,
+      "question_text": "The Citizens' Charter is considered a landmark initiative in Indian governance, yet it has not realised its full potential. Identify the factors responsible for this shortfall and suggest remedies.",
+      "node_titles": [
+        "Government Policies and Interventions"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect factors such as charters being drafted without citizen consultation, absence of grievance-redressal linkage, poor publicity, and lack of enforceability, paired with concrete remedies (statutory backing, service-level agreements, periodic revision). Word limit around 150 words."
+    },
+    {
+      "year": 2024,
+      "marks": 15,
+      "question_text": "Discuss the geopolitical importance of the Maldives for India in terms of trade, energy security and maritime security.",
+      "node_titles": [
+        "India and its Neighbourhood"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Reward coverage of the Maldives' location astride Indian Ocean sea lanes, its role in India's 'Neighbourhood First' and SAGAR outlook, energy and trade dependence, and recent political friction points. A balanced conclusion on managing the relationship amid Chinese influence scores full marks. Word limit around 250 words."
+    },
+    {
+      "year": 2022,
+      "marks": 10,
+      "question_text": "How is the I2U2 grouping likely to reshape India's position in global politics?",
+      "node_titles": [
+        "Bilateral and Regional Groupings"
+      ],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Expect identification of I2U2's members (India, Israel, UAE, USA) and focus areas (food security, clean energy, technology, infrastructure), with an assessment of how it extends India's West Asia outreach and diversifies its minilateral engagements beyond the Quad. Word limit around 150 words."
+    }
+  ],
+  "content_items": [
+    {
+      "title": "The Basic Structure Doctrine: Guarding the Constitution's Core",
+      "body": "The basic structure doctrine is a judicially evolved limitation on Parliament's power to amend the Constitution under Article 368. It holds that while Parliament may amend virtually any provision, it cannot alter or destroy the Constitution's essential identity, its basic structure. The doctrine emerged through a running conflict between Parliament and the judiciary in the 1960s and early 1970s. In Golaknath (1967), the Supreme Court held that fundamental rights could not be amended at all, a rigid position that alarmed a government pursuing land reform and abolition of privy purses. Parliament responded with sweeping amendments asserting unlimited amending power, and the resulting case, Kesavananda Bharati v. State of Kerala (1973), decided by a wafer-thin seven-to-six majority in a thirteen-judge bench, produced the compromise that still governs Indian constitutional law: Parliament's amending power under Article 368 is wide but not unlimited, and any amendment that damages the Constitution's basic structure is void, even if it follows the correct procedure. The judgment did not provide an exhaustive list of what counts as basic structure, deliberately leaving it to be identified case by case. Over subsequent decades, courts have treated as part of this core: the supremacy of the Constitution, the rule of law, separation of powers, judicial review, federalism, free and fair elections, secularism, and the dignity of the individual. The doctrine was decisively tested during the Emergency, when in Indira Gandhi v. Raj Narain (1975) the Court struck down a constitutional amendment that sought to place the Prime Minister's election beyond judicial scrutiny, holding free and fair elections to be part of the basic structure. Minerva Mills v. Union of India (1980) further held that the harmonious balance between Fundamental Rights and Directive Principles, and the limited nature of the amending power itself, are themselves part of the basic structure, meaning Parliament cannot even amend Article 368 to grant itself unlimited amending power. The doctrine has attracted both praise and criticism. Supporters argue it protects constitutional democracy from majoritarian capture and preserves rights against transient parliamentary majorities. Critics call it judicially invented, undemocratic, and unpredictable, since an unelected court decides, after the fact, what counts as unamendable. The doctrine's most recent high-profile application came in the National Judicial Appointments Commission case (2015), where the Court struck down a constitutional amendment altering judicial appointments on the ground that it compromised judicial independence, itself held to be part of the basic structure. The doctrine thus remains the principal counter-majoritarian safeguard within India's amendment process.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Basic Structure Doctrine"
+      ],
+      "tags": [
+        "constitution",
+        "judiciary"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Cooperative, Competitive and Confrontational Federalism in Practice",
+      "body": "India's federal structure is often described with a unitary bias, since residuary powers, emergency provisions, and a single all-India judiciary and civil service tilt authority toward the Centre. Yet day-to-day Centre-State relations are better understood along three simultaneous, overlapping tracks: cooperation, competition, and confrontation. Cooperative federalism describes joint decision-making structures built for consensus. The clearest contemporary example is the Goods and Services Tax Council, a constitutional body chaired by the Union Finance Minister with State finance ministers as members, which decides tax rates and administrative rules by a weighted voting formula that gives States a collective two-thirds voice. The Council has functioned largely by consensus since GST's rollout in 2017, illustrating how a shared fiscal instrument can be managed jointly despite the Centre's formal dominance. NITI Aayog's Governing Council, bringing together the Prime Minister and Chief Ministers, is a parallel platform intended to replace the more centralised Planning Commission model with cooperative policy formulation. Competitive federalism, a newer framing, treats States as rivals competing for investment, skilled labour, and central funds by improving their own governance and business climate. Instruments such as the Ease of Doing Business rankings compiled with State input, and outcome-based indices on health, education, and water management, are designed to spur States to outperform each other, on the theory that competition disciplines State-level policy the way market competition disciplines firms. Confrontational federalism, finally, captures the friction points that persist despite these cooperative and competitive channels. Recent examples include disputes between some State governments and Governors over the timing of assent to State bills and convening of the legislature, litigation over the Centre's control of services and administration in the National Capital Territory of Delhi, disagreements over the sharing formula and duration of GST compensation cess after the pandemic, and recurring debate over whether the terms of reference given to successive Finance Commissions adequately protect southern and fiscally prudent States that fear being penalised for lower population growth. Language policy, the deployment of central agencies such as the CBI in states without their general consent, and disputes over the devolution formula between vertical and horizontal shares of the divisible tax pool have also generated friction. None of these three tendencies operates in isolation; a single relationship, GST being the clearest case, can display cooperative rate-setting, competitive claims over industrial investment, and confrontational disputes over compensation in the same period. Reading Indian federalism accurately requires holding all three frames together rather than treating the system as either purely cooperative or purely adversarial.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Union-State Relations and Federalism"
+      ],
+      "tags": [
+        "federalism"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Anti-Defection Law and the Office of the Speaker",
+      "body": "The Tenth Schedule of the Constitution, commonly called the anti-defection law, was added by the 52nd Amendment in 1985 to curb the political instability caused by large-scale floor-crossing by legislators, memorably termed 'Aaya Ram Gaya Ram' politics after a Haryana legislator who switched parties multiple times within a single day in 1967. The law disqualifies a member of a legislature from continuing in office if they voluntarily give up membership of the party that set them up for election, or if they vote or abstain from voting in the House contrary to a direction issued by their party (a whip) without obtaining prior permission, unless condoned by the party within fifteen days. An important carve-out exists for a merger, where disqualification does not apply if at least two-thirds of a party's members agree to merge with another party. The law explicitly names the Speaker of the Lok Sabha or the Legislative Assembly, or the Chairman in the case of an Upper House, as the deciding authority on disqualification petitions, a design choice that has proved deeply controversial. Because the Speaker is typically a member of the ruling party or coalition, critics argue this creates an inherent conflict of interest: the very authority meant to police defections has a political stake in the outcome, and the absence of any fixed time limit for deciding petitions has repeatedly allowed Speakers to delay rulings for months or years, effectively letting defecting legislators continue holding office and even ministerial posts while a petition remains pending. The Supreme Court has intervened at the margins, holding in Kihoto Hollohan v. Zachillhu (1992) that the Speaker's decision is subject to judicial review on limited grounds, and more recently directing Speakers in specific cases to decide pending disqualification petitions within a stipulated period. Reform proposals recurrently discussed include transferring the adjudicating power to an independent tribunal headed by a retired judge, or to the Election Commission, on the reasoning that a quasi-judicial function should not rest with a politically affiliated office-holder. A related but distinct debate concerns whether the Speaker, once elected, should resign all party affiliation to preserve strict impartiality for the remainder of their tenure, a convention followed in the British House of Commons but not adopted in India, where Speakers routinely return to active party politics after their term or even contest re-election on a party ticket. Together, these debates over the anti-defection law and the Speaker's dual role touch a core institutional design question: how to make a political office perform an impartial judicial function without either compromising its neutrality or stripping it of the authority the Constitution assigns to it.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Parliamentary Committees and Privileges"
+      ],
+      "tags": [
+        "parliament"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Public Interest Litigation and the Expansion of Judicial Power",
+      "body": "Public Interest Litigation, or PIL, refers to litigation brought not to vindicate a private grievance but to seek judicial relief for a wider public interest, often on behalf of persons who cannot approach the courts themselves because of poverty, illiteracy, or social disadvantage. The doctrine took shape in India in the late 1970s and early 1980s, led by judges such as P.N. Bhagwati and V.R. Krishna Iyer, who relaxed the traditional common-law requirement of locus standi, that only a person whose own legal right is violated may sue, to allow any public-spirited citizen or organisation to move the court on behalf of an affected class. This period also saw the emergence of epistolary jurisdiction, where courts treated even a letter or newspaper report describing an injustice, such as conditions in undertrial prisons or bonded labour, as a writ petition, sharply lowering the procedural threshold for access to constitutional courts. Several structural factors explain why PIL grew as rapidly as it did. The higher judiciary retained a reservoir of public trust relative to a legislature and executive often seen as unresponsive, especially in the aftermath of the Emergency, during which the judiciary's own record, notably the ADM Jabalpur case upholding suspension of habeas corpus, had been widely criticised; PIL offered courts a route to rebuild credibility as defenders of rights. Weak implementation of welfare legislation and directive principles by the executive created a vacuum that litigants sought to fill through court-monitored orders. Article 32 and Article 226, guaranteeing the right to constitutional remedies, gave the Supreme Court and High Courts a textual basis to fashion new remedies, including continuing mandamus, where a court retains a case for years, issuing periodic directions and appointing monitoring committees, as seen in litigation over vehicular pollution in Delhi, forest conservation, and prison reform. The consequences of this growth have been genuinely significant: PIL has driven rights-expanding outcomes on environmental protection, the right to food, sexual harassment guidelines later codified into law, and prisoners' rights, effectively making the judiciary a participant in policy-making rather than a purely adjudicatory body. This expansion has, however, drawn sustained criticism. Some scholars argue the Court has strayed into judicial legislation and micromanagement of executive functions for which it lacks either the expertise or the democratic mandate, that PIL dockets are now clogged with matters better suited to public debate or administrative action, and that the label 'public interest' is sometimes used for publicity litigation with narrow private motives. Whether this trajectory makes the Indian Supreme Court the most powerful court in the world is contested, but there is little dispute that PIL has permanently altered the balance among India's three organs of state.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Judicial Review and Judicial Activism"
+      ],
+      "tags": [
+        "judiciary"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Election Commission and the Model Code of Conduct",
+      "body": "The Election Commission of India is a permanent constitutional body established under Article 324, tasked with the superintendence, direction, and control of elections to Parliament, State legislatures, and the offices of President and Vice-President. Originally a single-member body, it became a multi-member Commission in 1989, currently comprising a Chief Election Commissioner and two Election Commissioners who function on a principle of equality, with decisions by majority. Commissioners enjoy security of tenure comparable to Supreme Court judges regarding removal, a design meant to insulate the institution from executive pressure, though the process for their appointment, historically an executive decision, was recently placed on a statutory footing following the Supreme Court's Anoop Baranwal judgment (2023), with Parliament subsequently enacting a law under which a selection committee comprising the Prime Minister, a Union Cabinet Minister, and the Leader of the Opposition recommends appointments, a composition that critics argue still tilts toward the executive. Among the Commission's most consequential tools is the Model Code of Conduct, a set of guidelines governing the conduct of political parties and candidates during an election period, covering matters such as the content of speeches, the use of government machinery and vehicles for campaigning, restrictions on new project announcements and populist sops by the ruling party once elections are announced, and the conduct of processions and polling-day behaviour. The Code is not a statute passed by Parliament but a consensual document, evolved and periodically updated through agreement among political parties since it was first adopted in a rudimentary form for the 1960s Kerala assembly elections and adopted nationally from 1971. Because it lacks direct statutory backing, the Commission's enforcement powers rest chiefly on moral authority, its power to issue notices and reprimands, and, in more serious matters, its power to recommend prosecution under other laws such as the Representation of the People Act or the Indian Penal Code, or in rare instances to countermand or countermand and re-poll a constituency. This has led to persistent debate over whether the Code should be given statutory teeth, since the Commission cannot itself impose fines, cancel a candidature outright for most violations, or compel compliance the way a court order can. Supporters of the current arrangement argue that its consensual, non-statutory character helps it evolve flexibly and legitimises it politically as as a bargain kept because parties know their voluntary compliance is the only enforcement mechanism, while critics point to enforcement inconsistencies, delayed action against high-profile violators, and administrative election announcements timed to trigger the Code's applicability, as ongoing weaknesses in India's electoral governance framework.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Election Commission of India"
+      ],
+      "tags": [
+        "elections",
+        "constitutional-bodies"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Direct Benefit Transfer and the Politics of Welfare Delivery",
+      "body": "Direct Benefit Transfer, or DBT, refers to the electronic transfer of government subsidies and welfare payments straight into a beneficiary's bank account, replacing older delivery routes that relied on physical distribution of subsidised goods, cash disbursed by intermediaries, or price subsidies embedded in the cost of a product. The architecture rests on what is often called the JAM trinity, Jan Dhan bank accounts opened in large numbers from 2014 under the Pradhan Mantri Jan Dhan Yojana, Aadhaar as a unique biometric identifier, and mobile connectivity used for authentication and notification. The policy case for DBT rests on addressing well-documented failures of the older system: leakage of subsidised foodgrain and kerosene into the open market, duplicate and ghost beneficiaries drawing payments meant for others, and the exclusion of genuine beneficiaries lacking the right paperwork or living far from distribution points. By transferring cash or subsidy amounts directly and electronically, the government has been able to shrink the scope for intermediaries to divert funds, reduce corruption associated with ration shops and pension disbursal, and, in the case of cooking gas subsidies, achieved widely cited savings after removing large numbers of ineligible or duplicate connections from the beneficiary list. Beyond leakage reduction, DBT proponents argue it increases beneficiary dignity and choice, since cash in hand can be spent according to household priorities rather than restricted to a specific subsidised commodity, and it improves the government's own ability to track spending in real time through a centralised payment and monitoring architecture. The approach has expanded well beyond its original fuel-subsidy pilot to cover scholarships, pension schemes, agricultural income support under PM-KISAN, and portions of the food subsidy in some States. However, DBT's expansion has also surfaced a distinct set of exclusion problems that critics argue can be worse than the leakages it was meant to fix. Biometric authentication failures, common among elderly or manual labourers whose fingerprints have worn down, have denied legitimate beneficiaries their entitlements at the point of verification. Poor rural connectivity and banking infrastructure, including sparse bank branch and business correspondent networks, delay or block transfers in remote areas. Aadhaar-seeding errors, where a beneficiary's Aadhaar number is incorrectly linked or not linked to their scheme account, have caused documented cases of payment failure for essential entitlements including food rations and pensions. These problems have generated a broader debate about whether efficiency gains from digitisation are being achieved partly at the cost of the most vulnerable, who are often least equipped to navigate authentication failures or seek correction, underscoring that a well-designed payment architecture is necessary but not sufficient for inclusive welfare delivery.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Welfare Schemes for Vulnerable Sections"
+      ],
+      "tags": [
+        "welfare",
+        "governance"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Self-Help Groups and Women's Economic Empowerment",
+      "body": "The self-help group, or SHG, model organises roughly ten to twenty women, typically from similar socio-economic backgrounds, into a small, voluntary savings-and-credit group that pools regular member contributions into a common fund, from which members can borrow for consumption or livelihood needs at terms the group itself decides. Groups are usually linked to formal banks under the SHG-Bank Linkage Programme pioneered by NABARD from the early 1990s, which allows a group with a track record of internal financial discipline to access bank credit at multiples of its own savings, extending formal finance to women who would otherwise have no collateral or credit history the banking system recognises. From the 2010s, this grassroots architecture was scaled nationally through the National Rural Livelihoods Mission, later rebranded Deendayal Antyodaya Yojana-NRLM, which supports SHG formation, federates groups into village and cluster-level organisations, and links them to livelihood training, market access, and government procurement opportunities. The theoretical case for SHGs as an instrument against the intertwined problems of gender inequality, poverty, and malnutrition operates through several channels. Regular saving and access to credit allow women to smooth consumption, avoid predatory moneylenders, and invest in small income-generating activities such as livestock rearing, food processing, or petty trade, directly raising household income. Because SHG credit is typically controlled by women themselves, evidence from multiple studies associates SHG membership with greater female bargaining power within the household, including a stronger say over spending on children's food, health, and education, factors directly linked to reducing child malnutrition. SHGs also function as a social platform: regular group meetings build women's confidence, financial literacy, and collective bargaining capacity, which has in some regions translated into local political participation and successful collective action on issues such as domestic violence and access to public services. Nonetheless, the model's limits are well documented. Loans are sometimes diverted to non-productive consumption or debt repayment rather than income-generating investment, group indebtedness can develop from multiple, poorly coordinated credit sources, and market linkages for SHG-produced goods often remain weak, leaving groups with viable products but no reliable buyer. The intensity of impact also varies sharply with the quality of the promoting institution's handholding, meaning outcomes achieved by well-supported flagship programmes are not automatically replicated wherever an SHG is simply formed on paper. On balance, SHGs represent a genuinely useful but partial instrument: they can meaningfully improve household financial resilience and women's agency, but breaking the full cycle of gender inequality, poverty, and malnutrition requires this credit and savings platform to be paired with reliable market access, nutrition-specific interventions, and broader public investment in health and education infrastructure.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Women and Child Welfare"
+      ],
+      "tags": [
+        "welfare",
+        "women"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Ayushman Bharat and the Architecture of Health Governance",
+      "body": "Ayushman Bharat, launched in 2018, is India's flagship health-sector programme and rests on two linked pillars intended to address the two ends of a functioning health system: primary care and financial protection for hospitalisation. The first pillar upgrades existing sub-centres and primary health centres into Health and Wellness Centres, now rebranded Ayushman Arogya Mandirs, which are meant to deliver an expanded package of comprehensive primary care, including screening for non-communicable diseases, maternal and child health services, and basic diagnostics, closer to where people live, rather than requiring people to travel to a district hospital for routine or preventive care. The second and more widely known pillar is the Pradhan Mantri Jan Arogya Yojana, PM-JAY, a government-funded health insurance scheme that provides an annual hospitalisation cover per family for secondary and tertiary care, targeted at economically vulnerable households identified through Socio-Economic Caste Census deprivation criteria, with coverage later extended to senior citizens above a defined age regardless of income. PM-JAY operates on a cashless and paperless basis, meaning eligible beneficiaries can receive treatment at empanelled public and private hospitals without upfront payment, with hospitals reimbursed by government-run or government-contracted insurance arrangements at pre-fixed package rates for different procedures. The scheme is often described as the world's largest government-funded health assurance programme by the number of eligible beneficiaries, and it explicitly targets catastrophic health expenditure, out-of-pocket hospital costs large enough to push a family into poverty or force distress asset sales, which studies have long identified as a leading cause of impoverishment in India given historically low public health spending as a share of GDP. Governance challenges nonetheless persist across both pillars. On the primary care side, staffing gaps for mid-level health providers, uneven availability of diagnostics and medicines at the upgraded centres, and wide variation in implementation quality across States limit how far the promise of comprehensive primary care has been realised uniformly. On the insurance side, package rates for many procedures are considered too low by private hospital associations, which has affected private sector participation and empanelment in some States, while beneficiary awareness of entitlements and hospital-level fraud or upcoding of procedures have both been flagged as concerns. Because health is a State subject, implementation quality also depends heavily on individual State capacity and on whether a State chooses to run PM-JAY through a trust model, an insurance model, or a hybrid, and several States have layered their own pre-existing schemes on top of or alongside the central scheme, creating a genuinely federal patchwork of health financing rather than a single uniform national system. Ayushman Bharat is therefore best understood not as a single scheme but as an evolving two-pillar architecture whose ultimate success depends on strengthening primary care capacity as much as expanding hospitalisation insurance coverage.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Health Sector Governance"
+      ],
+      "tags": [
+        "health"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "The Right to Education Act and the Learning Outcomes Gap",
+      "body": "The Right of Children to Free and Compulsory Education Act, 2009, operationalises the Constitution's Article 21A, added by the 86th Amendment in 2002, which makes free and compulsory education a fundamental right for all children aged six to fourteen. The Act obliges the State to ensure a neighbourhood school is available to every child in this age group, prohibits schools from charging capitation fees or subjecting children to screening tests for admission, bans corporal punishment and mental harassment, and mandates minimum infrastructure and pupil-teacher ratio norms that schools must meet within a prescribed timeframe. A distinctive and widely debated provision reserves at least twenty-five percent of entry-level seats in private unaided schools for children from disadvantaged groups and economically weaker sections, with the State reimbursing the school's per-child cost, an attempt to use private capacity to advance a public equity goal. The Act also introduced a no-detention policy up to a certain grade, under which children could not be held back or expelled for failing examinations, on the reasoning that repeated failure and dropout were closely linked, though this provision was later amended in 2019 to allow States the option of reintroducing detention after a re-examination process, following criticism that it had inadvertently reduced incentives for students and schools to focus on learning. The RTE Act succeeded substantially in its primary, access-oriented goal: enrolment rates at the elementary level rose to near-universal levels, and out-of-school children declined sharply, aided by expanded school infrastructure and mid-day meal provision that also improved attendance and nutrition. However, successive rounds of the Annual Status of Education Report and National Achievement Survey have documented a persistent and troubling learning outcomes gap, meaning many children who are enrolled and regularly attending school are not acquiring grade-appropriate reading and arithmetic competencies, with a meaningful share of upper-primary students unable to read a basic lower-primary-level text fluently or perform simple division. This gap reflects several compounding factors distinct from access: teacher shortages and high pupil-teacher ratios in many government schools, teacher absenteeism, curricula and assessment pitched above what many first-generation learners can absorb without additional support, and multigrade, under-resourced classrooms in remote areas. The National Education Policy 2020 explicitly responded to this diagnosis by setting a national mission for foundational literacy and numeracy by grade three, arguing that access without foundational learning produces limited long-term benefit. The RTE experience thus illustrates a broader governance lesson in Indian social policy: a rights-based, access-focused legal guarantee can succeed on its own stated metric of enrolment while a deeper, harder-to-legislate outcome, actual learning, continues to lag, requiring sustained investment in teacher capacity, assessment reform, and early-grade pedagogy rather than legal entitlement alone.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Education Sector Governance"
+      ],
+      "tags": [
+        "education"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Measuring Poverty Beyond Income: India's Multidimensional Poverty Index",
+      "body": "For decades, India's official poverty estimates relied on a consumption-expenditure-based poverty line, most recently associated with the Tendulkar and Rangarajan committee methodologies, which classified a household as poor if its monthly spending fell below a threshold calibrated to a basic basket of food and non-food essentials. Critics long argued that a single income or consumption threshold fails to capture poverty's genuinely multidimensional character, since two households with identical expenditure can differ sharply in access to clean drinking water, sanitation, electricity, or a child's nutritional status. In response, India adopted a national Multidimensional Poverty Index, developed by NITI Aayog in partnership with the Oxford Poverty and Human Development Initiative, adapting the global MPI methodology to Indian data sources, principally the National Family Health Survey. The index measures deprivation across three broad dimensions, health, education, and standard of living, operationalised through twelve specific indicators such as nutrition, child and adolescent mortality, maternal health, years of schooling, school attendance, cooking fuel, sanitation, drinking water, electricity, housing, assets, and a bank account. A household is counted as multidimensionally poor if it is deprived across a sufficiently large weighted share of these indicators simultaneously, rather than merely falling below an income line, which allows policymakers to see not just how many people are poor but in what specific ways they are deprived, information an income-only measure cannot provide. India's National MPI reports, published periodically, have documented a substantial decline in the share of the multidimensionally poor population over the years the index has tracked, with sanitation, cooking fuel, and housing showing particularly large improvements, plausibly linked to flagship programmes such as Swachh Bharat Mission for toilet construction, Ujjwala Yojana for clean cooking gas connections, and Saubhagya for household electrification, alongside PM Awas Yojana for housing. Nutrition and years of schooling have generally shown slower improvement than infrastructure-linked indicators, suggesting that outcome-oriented deprivations, requiring sustained behavioural and institutional change rather than a single asset transfer, are harder to move quickly than access-oriented ones. The MPI framework offers real advantages for governance: because it decomposes deprivation by indicator and by district, it allows Aspirational Districts and similar targeted programmes to identify precisely which dimension is driving poverty in a given area and calibrate interventions accordingly, rather than applying a uniform income-transfer response everywhere. Limitations remain, including data lag since large surveys are not conducted annually, the choice of indicator weights involves some normative judgment, and a national index can still mask significant intra-household deprivation, particularly gendered deprivation, that household-level data collection does not fully capture. Even so, the MPI represents a meaningful methodological advance in how India defines and tracks poverty, moving official measurement from a narrow expenditure line toward the multidimensional, capability-based understanding of well-being long advocated by development economists such as Amartya Sen.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "Poverty and Hunger"
+      ],
+      "tags": [
+        "poverty"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Digital India and the Uneven Geography of E-Governance",
+      "body": "The Digital India programme, launched in 2015, set out to transform government service delivery through three declared pillars: building digital infrastructure as a core utility for every citizen, delivering governance and services on demand, and achieving the digital empowerment of citizens. In practice, this translated into a large set of interlocking initiatives: expanding broadband connectivity to gram panchayats under BharatNet, creating shared digital public infrastructure such as Aadhaar for identity, the Unified Payments Interface for instant digital payments, and DigiLocker for storing verified documents digitally, alongside sector-specific e-governance platforms such as e-Gram Swaraj for local government fund tracking and planning, the National Scholarship Portal, and various State-level single-window citizen service portals. Proponents argue this layered approach, often described as building shared, interoperable digital public infrastructure rather than isolated government websites, has genuinely reduced friction and corruption in specific services, cut down the number of physical visits citizens need to make to government offices for routine certificates and payments, and enabled real-time tracking of scheme implementation that was previously impossible with paper records. Despite these gains, a persistent rural-urban and literacy-linked digital divide constrains how evenly these benefits are actually realised. Rural connectivity, while expanded significantly under BharatNet, still lags urban areas in both the reliability and speed of internet access, and last-mile issues such as inconsistent electricity supply and limited device ownership, particularly smartphone ownership among women and older residents, restrict who can actually use a digital service even where network coverage technically exists. Digital literacy compounds this access gap: government portals and mobile applications, often designed with an assumption of basic reading and navigation comfort with digital interfaces, can be genuinely difficult for first-generation digital users to operate unassisted, pushing them back toward intermediaries, whether a Common Service Centre operator, a cybercafe, or a local functionary, to complete what is nominally a self-service digital transaction. This intermediary dependence can reproduce some of the very inefficiencies and rent-seeking that e-governance was meant to eliminate if such intermediaries are poorly regulated or charge informal fees. Language is a further barrier, since a meaningful share of government digital content and interfaces remains disproportionately available in English or Hindi relative to India's full linguistic diversity, though this is gradually improving through initiatives promoting multilingual interfaces. The Common Service Centre network, comprising village-level digital access points typically run by local entrepreneurs, has been the government's principal institutional response to this divide, functioning as an assisted-access model that bridges the gap between digital design and rural digital literacy realities. On balance, e-governance in India has clearly improved efficiency and transparency in aggregate, but its rural reach remains meaningfully mediated by infrastructure gaps and literacy constraints that pure platform design cannot resolve on its own, meaning continued investment in connectivity, device affordability, and digital literacy training remains as important as building new digital services themselves.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "E-Governance"
+      ],
+      "tags": [
+        "e-governance"
+      ],
+      "is_current_affairs": false
+    },
+    {
+      "title": "India's Neighbourhood First Policy and the Maldives Test Case",
+      "body": "India's Neighbourhood First policy, articulated with growing emphasis since the mid-2010s, prioritises relations with immediate neighbours, Bangladesh, Bhutan, Nepal, Sri Lanka, the Maldives, Myanmar, Pakistan, and Afghanistan, on the reasoning that a stable, well-disposed periphery is a precondition for India's larger regional and global ambitions, and that ceding influence in this immediate neighbourhood to other powers carries direct security and economic costs. The policy emphasises connectivity projects, port and infrastructure financing, lines of credit, disaster and health assistance such as vaccine diplomacy during the pandemic, and people-to-people and cultural ties, alongside more traditional diplomatic and security engagement. The Maldives illustrates both the strategic logic and the practical difficulty of this policy particularly clearly. Geographically, the archipelago sits astride some of the busiest east-west shipping lanes in the Indian Ocean, through which a substantial share of global oil trade and India's own energy imports pass, giving the Maldives outsized strategic weight relative to its small population and land area. India has historically framed its Maldives relationship through its broader Indian Ocean maritime security doctrine, SAGAR, Security and Growth for All in the Region, which envisions India as a net security provider and preferred partner for capacity-building, maritime surveillance, and disaster response across the Indian Ocean littoral, and has periodically provided the Maldives with coastal radar systems, naval vessels, and support during crises, including a rapid military and logistical response during the 1988 coup attempt and the 2014 Male water crisis. Economically, India is a significant source of trade, medical treatment access, and development financing for infrastructure such as the Greater Male Connectivity Project, a bridge and causeway link partly funded through an Indian line of credit. However, the relationship has also displayed real volatility tied to Maldivian domestic politics, since successive governments have oscillated between an India-leaning and a China-leaning orientation, most visibly when a change in Maldivian leadership brought explicit calls to reduce Indian military presence in the country and a public diplomatic rift, before relations were subsequently recalibrated. This pattern reflects a structural vulnerability in India's neighbourhood diplomacy: because these are sovereign states making independent political choices, and because China has emerged as an alternative source of infrastructure financing and diplomatic engagement across the Indian Ocean region, India's influence in even a strategically vital and historically close partner like the Maldives cannot be taken as permanent or immune to domestic political swings. The broader lesson for India's Neighbourhood First policy is that sustained economic and security cooperation, sensitivity to smaller neighbours' concerns about sovereignty and asymmetry of power, and consistent crisis-time reliability matter more for durable influence than any single infrastructure project or defence transfer, since goodwill built over decades can still be tested rapidly by a change in domestic political leadership.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": [
+        "India and its Neighbourhood"
+      ],
+      "tags": [
+        "international-relations"
+      ],
+      "is_current_affairs": false
+    }
+  ]
+}

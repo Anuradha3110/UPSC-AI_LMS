@@ -1,0 +1,311 @@
+{
+  "paper": "OPTIONAL",
+  "optional_subject": "Botany",
+  "syllabus_nodes": [
+    {"title": "Paper I", "parent_title": null, "tags": ["botany", "paper-1"]},
+    {"title": "Paper II", "parent_title": null, "tags": ["botany", "paper-2"]},
+
+    {"title": "Microbiology and Plant Pathology", "parent_title": "Paper I", "tags": ["microbiology", "plant-pathology"]},
+    {"title": "Cryptogams", "parent_title": "Paper I", "tags": ["cryptogams", "algae", "fungi", "bryophytes", "pteridophytes"]},
+    {"title": "Phanerogams", "parent_title": "Paper I", "tags": ["phanerogams", "gymnosperms", "angiosperms"]},
+    {"title": "Plant Resource Development", "parent_title": "Paper I", "tags": ["economic-botany", "ethnobotany"]},
+    {"title": "Morphogenesis", "parent_title": "Paper I", "tags": ["morphogenesis", "tissue-culture"]},
+
+    {"title": "Viruses, Viroids and Prions", "parent_title": "Microbiology and Plant Pathology", "tags": ["viruses", "viroids", "prions", "microbiology"]},
+    {"title": "Crop Diseases and Their Management", "parent_title": "Microbiology and Plant Pathology", "tags": ["plant-pathology", "crop-disease"]},
+    {"title": "Algae and Fungi", "parent_title": "Cryptogams", "tags": ["algae", "fungi", "classification"]},
+    {"title": "Bryophytes and Pteridophytes", "parent_title": "Cryptogams", "tags": ["bryophytes", "pteridophytes"]},
+    {"title": "Gymnosperms", "parent_title": "Phanerogams", "tags": ["gymnosperms", "cycadales", "coniferales"]},
+    {"title": "Angiosperm Systematics and Embryology", "parent_title": "Phanerogams", "tags": ["angiosperms", "taxonomy", "embryology"]},
+    {"title": "Plant Tissue Culture and Micropropagation", "parent_title": "Morphogenesis", "tags": ["tissue-culture", "micropropagation", "biotechnology"]},
+
+    {"title": "Cell Biology", "parent_title": "Paper II", "tags": ["cell-biology", "cytology"]},
+    {"title": "Genetics, Molecular Biology and Evolution", "parent_title": "Paper II", "tags": ["genetics", "molecular-biology", "evolution"]},
+    {"title": "Plant Breeding, Biotechnology and Biostatistics", "parent_title": "Paper II", "tags": ["plant-breeding", "biotechnology", "biostatistics"]},
+    {"title": "Physiology and Biochemistry", "parent_title": "Paper II", "tags": ["plant-physiology", "biochemistry"]},
+    {"title": "Ecology and Plant Geography", "parent_title": "Paper II", "tags": ["ecology", "phytogeography"]},
+
+    {"title": "Mendelian and Molecular Genetics", "parent_title": "Genetics, Molecular Biology and Evolution", "tags": ["genetics", "molecular-genetics"]},
+    {"title": "Organic Evolution", "parent_title": "Genetics, Molecular Biology and Evolution", "tags": ["evolution", "population-genetics"]},
+    {"title": "Photosynthesis and Respiration", "parent_title": "Physiology and Biochemistry", "tags": ["photosynthesis", "respiration", "plant-physiology"]},
+    {"title": "Plant Growth Substances and Stress Physiology", "parent_title": "Physiology and Biochemistry", "tags": ["plant-hormones", "stress-physiology"]},
+    {"title": "Plant Ecology and Ecosystems", "parent_title": "Ecology and Plant Geography", "tags": ["ecology", "ecosystem", "succession"]},
+    {"title": "Phytogeography of India", "parent_title": "Ecology and Plant Geography", "tags": ["phytogeography", "biodiversity", "india"]}
+  ],
+
+  "pyqs": [
+    {
+      "year": 2018,
+      "marks": 15,
+      "question_text": "Give an account of the structure and mode of replication of viroids. How do they differ from viruses and prions?",
+      "node_titles": ["Viruses, Viroids and Prions"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should open by defining viroids as naked, low-molecular-weight circular ssRNA infectious agents lacking a protein coat, distinguishing them from viruses (nucleoprotein particles) and prions (infectious misfolded proteins with no nucleic acid). The body must describe viroid structure and rolling-circle replication using host RNA polymerase II, with a labelled comparison table or paragraph contrasting the three agents on composition, size, and replication mechanism. Conclude by naming a representative viroid disease. Word limit around 250 words for a 15-mark answer."
+    },
+    {
+      "year": 2019,
+      "marks": 20,
+      "question_text": "Describe the disease cycle, symptoms and control measures of late blight of potato.",
+      "node_titles": ["Crop Diseases and Their Management"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should identify the causal organism Phytophthora infestans and its economic significance, referencing the Irish famine as historical context. Body must cover symptoms on leaves, stems and tubers, the disease cycle including sporangial dispersal, zoospore infection and secondary spread under cool humid conditions, and survival of the pathogen between seasons. Conclusion should list integrated control measures — resistant varieties, fungicidal sprays, and cultural practices. Answer should run close to 300 words given the 20-mark weightage, with a labelled disease-cycle diagram if space permits."
+    },
+    {
+      "year": 2016,
+      "marks": 15,
+      "question_text": "Discuss the classification of algae proposed by Fritsch and give its merits and demerits.",
+      "node_titles": ["Algae and Fungi"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should state that Fritsch's system (1935) classifies algae into eleven classes primarily on pigmentation, stored food, flagellation and cell wall composition. Body should list the major classes with one representative genus each and explain the criteria used to separate them. Conclusion must weigh merits (comprehensiveness, still widely used) against demerits (ignores phylogenetic relationships revealed later by molecular data). Around 250 words expected for 15 marks."
+    },
+    {
+      "year": 2020,
+      "marks": 10,
+      "question_text": "Describe the salient features and economic importance of Bryophyta.",
+      "node_titles": ["Bryophytes and Pteridophytes"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Short answer should briefly state bryophytes as amphibious land plants with dominant gametophyte, thalloid or leafy body, rhizoids instead of true roots, and dependence on water for fertilization. It must then list economic and ecological uses — peat formation by Sphagnum, soil-binding, pioneer colonisers, and use in horticulture. Keep the answer to about 150 words for a 10-mark question, without a separate conclusion paragraph."
+    },
+    {
+      "year": 2017,
+      "marks": 15,
+      "question_text": "Discuss the salient features of Cycadales and describe their distribution in India.",
+      "node_titles": ["Gymnosperms"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should place Cycadales as a primitive gymnosperm order often called 'living fossils'. Body must describe stem, leaf and reproductive features — pinnate leaves, coralloid roots with cyanobacterial symbionts, and dioecious cones — and distinguish cycads from true palms. Conclusion should name Indian native and introduced genera (e.g., Cycas) and their distribution/conservation status. Expected length about 250 words for 15 marks."
+    },
+    {
+      "year": 2015,
+      "marks": 20,
+      "question_text": "Describe the diagnostic features and economic importance of the family Fabaceae (Leguminosae) with suitable examples.",
+      "node_titles": ["Angiosperm Systematics and Embryology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Answer should begin with the family's systematic position and division into three sub-families. Body must cover diagnostic floral formula and features (papilionaceous corolla, diadelphous stamens, single carpel, legume fruit) illustrated with named genera. It should then detail economic importance — pulses, fodder, timber, dyes, nitrogen fixation via root-nodule symbiosis. A floral diagram/formula is expected. Around 300 words for a 20-mark answer."
+    },
+    {
+      "year": 2021,
+      "marks": 15,
+      "question_text": "Describe the process of double fertilization in angiosperms and discuss its biological significance.",
+      "node_titles": ["Angiosperm Systematics and Embryology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should define double fertilization as unique to angiosperms, discovered by Nawaschin. Body must trace pollen tube entry, discharge of two male gametes, syngamy (egg + male gamete forming zygote) and triple fusion (polar nuclei + male gamete forming primary endosperm nucleus). Conclusion should explain significance — triggering endosperm formation for nutrition of the embryo and ensuring genetic novelty. Around 250 words with a labelled diagram of the embryo sac expected."
+    },
+    {
+      "year": 2019,
+      "marks": 10,
+      "question_text": "What is ethnobotany? Discuss its scope and relevance in the Indian context.",
+      "node_titles": ["Plant Resource Development"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Short answer must define ethnobotany as the study of the relationship between plants and traditional/tribal societies, then briefly cover its scope — documentation of medicinal, food and craft plants, bioprospecting, and conservation of traditional knowledge. Should mention Indian tribal communities and institutions engaged in ethnobotanical documentation. About 150 words is sufficient for 10 marks."
+    },
+    {
+      "year": 2022,
+      "marks": 15,
+      "question_text": "Describe the technique of micropropagation and discuss its applications in crop improvement and conservation of endangered plant species.",
+      "node_titles": ["Plant Tissue Culture and Micropropagation"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should define micropropagation as clonal multiplication of plants in vitro under aseptic conditions. Body must outline the stages — establishment, multiplication, rooting and hardening — with mention of explant choice and media (e.g., Murashige and Skoog). Conclusion should discuss applications: rapid multiplication of elite/disease-free planting material, and ex-situ conservation of rare and endangered species through germplasm culture. Around 250 words expected."
+    },
+    {
+      "year": 2018,
+      "marks": 20,
+      "question_text": "Describe the ultrastructure of chloroplast and explain the light reactions of photosynthesis.",
+      "node_titles": ["Photosynthesis and Respiration"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should briefly place the chloroplast as the site of photosynthesis. Body must describe ultrastructure (envelope, stroma, grana/thylakoids, stroma lamellae) followed by a clear account of the light reactions — photosystems I and II, the electron transport chain, water splitting, and ATP/NADPH generation via chemiosmosis. A labelled diagram of the chloroplast and the Z-scheme is expected. Roughly 300 words for a 20-mark answer."
+    },
+    {
+      "year": 2016,
+      "marks": 15,
+      "question_text": "Explain the C4 pathway of photosynthesis and discuss its significance for productivity of crop plants.",
+      "node_titles": ["Photosynthesis and Respiration"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should note C4 photosynthesis as an adaptation in plants like maize and sugarcane with Kranz anatomy. Body must trace the Hatch-Slack pathway — PEP carboxylase fixing CO2 in mesophyll cells to form oxaloacetate/malate, transport to bundle sheath cells, and decarboxylation feeding the Calvin cycle. Conclusion should explain why C4 plants show higher water-use efficiency and productivity under high light/temperature compared to C3 plants. About 250 words expected."
+    },
+    {
+      "year": 2020,
+      "marks": 15,
+      "question_text": "Discuss the Hardy-Weinberg law and explain the factors that disturb genetic equilibrium in a population.",
+      "node_titles": ["Organic Evolution"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should state the Hardy-Weinberg law and its p2+2pq+q2=1 formulation describing allele/genotype frequency stability in an idealised population. Body must list and briefly explain the assumptions of the law and the evolutionary forces that violate it — mutation, natural selection, genetic drift, gene flow and non-random mating. Conclusion should link disturbance of equilibrium to the mechanism of evolutionary change. Around 250 words expected."
+    },
+    {
+      "year": 2017,
+      "marks": 10,
+      "question_text": "Describe the role of auxins and gibberellins in seed dormancy and germination.",
+      "node_titles": ["Plant Growth Substances and Stress Physiology"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Short answer should briefly explain seed dormancy and then describe how gibberellins promote germination by inducing alpha-amylase synthesis in the aleurone layer, while auxins primarily regulate post-germination growth and apical dominance. Mention of hormonal antagonism with abscisic acid is a plus. About 150 words is adequate for 10 marks."
+    },
+    {
+      "year": 2021,
+      "marks": 20,
+      "question_text": "Describe the process of ecological succession with reference to hydrosere.",
+      "node_titles": ["Plant Ecology and Ecosystems"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Introduction should define ecological succession and distinguish primary from secondary succession. Body must trace the hydrosere stages in sequence — phytoplankton, submerged, floating, reed-swamp, marsh-meadow, and woodland/climax stages — explaining how each seral community modifies the habitat to favour the next. Conclusion should state the climax community concept. A stage-wise diagram is useful; about 300 words expected for 20 marks."
+    },
+    {
+      "year": 2015,
+      "marks": 10,
+      "question_text": "Discuss the major phytogeographical regions of India.",
+      "node_titles": ["Phytogeography of India"],
+      "options": null,
+      "correct_option": null,
+      "marking_scheme": "Short answer should list the major phytogeographical regions of India (Western Himalayas, Eastern Himalayas, Indus plain, Gangetic plain, Deccan, Malabar, Andaman-Nicobar, etc.) with one or two characteristic taxa or vegetation features per region. About 150 words is sufficient for a 10-mark question."
+    }
+  ],
+
+  "content_items": [
+    {
+      "title": "Viroids and Prions — Infectious Agents Without a Complete Genome",
+      "body": "Viroids and prions represent two categories of sub-viral infectious agents that challenge the conventional definition of a living pathogen, since neither possesses the complete structural organisation of a virus. A viroid is the smallest known infectious agent, consisting solely of a short, single-stranded, covalently closed circular RNA molecule ranging from roughly 250 to 400 nucleotides, with no protein coat of any kind. Because viroid RNA does not code for any protein, the agent depends entirely on host-cell enzymes for its replication; inside an infected plant nucleus, host RNA polymerase II, which normally transcribes DNA, is redirected to copy the viroid RNA through a rolling-circle mechanism that produces long concatemeric strands later cleaved and re-circularised into new viroid genomes. The folded rod-like secondary structure of the viroid genome appears to protect it from nucleases and may also be what host polymerase recognises. Potato spindle tuber viroid, which causes stunting and tuber deformity, and citrus exocortis viroid are classic examples studied in plant pathology courses, and they spread mechanically through contaminated tools, grafting, and sometimes pollen or seed. Prions stand at the opposite extreme: they contain no nucleic acid at all and are composed purely of a misfolded, protease-resistant form of a normal host protein. The infectious prion protein converts the normal cellular isoform into more copies of the abnormal conformation simply by direct protein-protein contact, triggering a self-propagating cascade without any genetic material being transmitted. Stanley Prusiner's prion hypothesis, for which he received the Nobel Prize, proposed exactly this protein-only mode of infectivity, overturning the assumption that all infectious agents must carry nucleic acid. Prions are chiefly associated with transmissible spongiform encephalopathies in animals, though the concept has since influenced how botanists think about protein-based inheritance and aggregation phenomena in fungi. Contrasted with viroids and prions, a conventional virus always combines a nucleic acid genome, either DNA or RNA, with a protective protein capsid, and frequently an outer envelope, and it directs the host machinery to synthesise both new genomes and new capsid proteins. Understanding these three categories together clarifies that the minimal requirement for biological infectivity is not a complete cell but merely a self-propagating unit of information, whether that unit is nucleic acid with a coat, naked nucleic acid alone, or a rogue protein conformation.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Viruses, Viroids and Prions"],
+      "tags": ["viroids", "prions", "viruses", "microbiology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Late Blight of Potato — Pathogen Biology and Field Management",
+      "body": "Late blight of potato, caused by the oomycete Phytophthora infestans, remains one of the most economically destructive plant diseases in agricultural history, best remembered for triggering the Irish potato famine of the 1840s, and it continues to threaten potato and tomato cultivation wherever cool, humid weather prevails. Although often grouped with fungi, Phytophthora belongs to the oomycetes, a lineage more closely related to certain algae, and this distinction matters because many conventional antifungal chemicals are ineffective against it. The pathogen survives between cropping seasons mainly as mycelium in infected tubers left in the field or in storage, and under favourable cool, moist conditions it produces sporangia on the underside of infected leaves. These sporangia are dispersed by wind and rain splash to healthy foliage, where they either germinate directly to form an infection hypha or, in cooler temperatures, release motile biflagellate zoospores that swim in surface water films before encysting and penetrating the leaf cuticle. Once inside, the pathogen grows intercellularly, sending haustoria into host cells to draw nutrients, and within days produces visible symptoms: irregular, water-soaked, dark green to brown lesions on leaves that often show a pale green halo, a white fungal-like growth of sporangiophores on the lower leaf surface in humid weather, and blackened, collapsing stems. Infected tubers develop reddish-brown, dry, granular rot beneath the skin, which can extend during storage and invite secondary bacterial soft rot. Because a single infection cycle can complete in as little as three to five days under cool, wet conditions, epidemics spread extremely fast across a field once initial infection is established, and forecasting systems that track temperature and leaf wetness duration are widely used to time interventions. Management is necessarily integrated: growers plant certified disease-free seed tubers, destroy volunteer plants and cull piles that could carry over inoculum, and avoid overhead irrigation that prolongs leaf wetness. Protectant and systemic fungicides are applied preventively and on a forecast-driven schedule, alternating chemical groups to slow resistance development, since P. infestans has repeatedly evolved fungicide-resistant strains. Breeding for durable resistance, drawing on wild Solanum relatives, along with wider crop rotation and prompt destruction of infected haulms before harvest, together form the backbone of a modern late blight management programme.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Crop Diseases and Their Management"],
+      "tags": ["plant-pathology", "crop-disease", "late-blight"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Fritsch's System of Algal Classification",
+      "body": "F. E. Fritsch's classification of algae, presented in his two-volume work on the structure and reproduction of algae, remains one of the most widely taught systems in Indian botany curricula because it organises an extraordinarily diverse group of photosynthetic organisms into workable, teachable categories using consistent, observable criteria. Fritsch divided algae into eleven classes primarily on the basis of four features: the dominant photosynthetic pigments present, the chemical nature of the stored reserve food, the composition of the cell wall, and the type, number and insertion of flagella on motile cells. Using these criteria he distinguished, among others, the Chlorophyceae or green algae, characterised by chlorophylls a and b, starch as reserve food, cellulose walls, and typically equal anteriorly inserted flagella; the Xanthophyceae or yellow-green algae, marked by unequal flagella and fatty reserves; the Phaeophyceae or brown algae, dominated by fucoxanthin pigment and laminarin storage; and the Rhodophyceae or red algae, distinguished by phycobilin pigments and a characteristic lack of flagellated stages at any point in the life cycle. Each class was further subdivided into orders based on thallus organisation, ranging from simple unicellular and colonial forms through filamentous, siphonaceous and parenchymatous body plans, reflecting an implicit evolutionary progression in complexity that Fritsch used as an organising principle even though he did not claim it as a strict phylogeny. The system's major merit lies in its practicality: because pigmentation, stored food and flagellation can be observed directly under a light microscope, the scheme allows a student or field botanist to place an unfamiliar alga into a class with reasonable confidence and without access to molecular tools. It also comprehensively covers both freshwater and marine forms and has stood the test of decades of classroom use. Its principal weakness, recognised increasingly since the mid-twentieth century, is that morphological and biochemical similarity does not always reflect true evolutionary relationship; modern molecular phylogenetics using ribosomal RNA and plastid gene sequences has shown that several of Fritsch's classes are polyphyletic, grouping together lineages that arose independently through different endosymbiotic events. Despite this, Fritsch's framework continues to serve as the standard descriptive starting point before students move on to phylogeny-based algal classifications.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Algae and Fungi"],
+      "tags": ["algae", "classification", "fritsch"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Bryophytes — The Amphibians of the Plant Kingdom",
+      "body": "Bryophytes, comprising the liverworts, hornworts and mosses, occupy a distinctive evolutionary position as the simplest group of land plants that nonetheless remain tied to water for a critical stage of their life cycle, a dependency that has earned them the popular description of amphibians of the plant kingdom. Structurally, the bryophyte plant body may be a flattened, undifferentiated thallus, as in many liverworts, or a more elaborate leafy shoot bearing simple, often one-cell-thick leaves arranged around a central axis, as in mosses. In every case the plant lacks true roots, true stems and true leaves in the vascular sense, anchoring itself instead with hair-like rhizoids and lacking any lignified conducting tissue, which limits bryophytes to modest size and to habitats with consistent moisture. The defining life-cycle feature of the group is the dominance of the haploid gametophyte generation, which is the free-living, photosynthetic plant body familiar to the eye; the diploid sporophyte generation is comparatively reduced, remains permanently attached to and nutritionally dependent on the gametophyte, and typically consists of little more than a foot, a seta and a spore-producing capsule. Because bryophyte sperm cells are flagellated and must swim through a film of external water to reach the egg retained within the archegonium, successful fertilization is only possible in damp conditions, which is why bryophytes are concentrated in moist forests, bogs, rock crevices and shaded banks rather than in arid environments. Despite their structural simplicity, bryophytes carry substantial ecological and economic importance. Sphagnum, the peat moss, accumulates as partially decomposed organic matter in waterlogged bogs to form peat, which is harvested as a fuel source in some countries and, more importantly for horticulture, is used worldwide as a soil conditioner and growing medium because of its exceptional water-holding capacity and mild antiseptic properties. Bryophytes are also recognised as pioneer colonisers on bare rock and disturbed soil, where their mats trap dust and moisture, gradually building an organic substrate that facilitates the establishment of higher plants during ecological succession. Certain mosses and liverworts are used as bio-indicators of air and water pollution owing to their sensitivity to atmospheric heavy metals and sulphur dioxide, while others find ornamental use in gardens, terrariums and moss-based landscaping.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Bryophytes and Pteridophytes"],
+      "tags": ["bryophytes", "economic-botany"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Cycadales — Living Fossils Among the Gymnosperms",
+      "body": "The order Cycadales occupies a special place in plant evolutionary history, often described as living fossils because its living representatives closely resemble fossil cycads that flourished during the Mesozoic era, sometimes called the age of cycads, long before flowering plants rose to dominance. A mature cycad typically has an unbranched, columnar stem that may be largely underground in some genera or rise as a stout trunk in others, crowned by a rosette of large, stiff, pinnately compound leaves that give the plant a superficial resemblance to a palm or tree fern, though cycads are not closely related to either. This resemblance is only superficial: the stem shows a comparatively narrow band of secondary xylem produced by a normal vascular cambium, surrounded by a thick cortex and pith, an anatomy quite different from the true monocot palm stem. A distinctive structural feature of the group is the coralloid root, a specialised, negatively geotropic root that grows near the soil surface and houses nitrogen-fixing cyanobacteria, chiefly Anabaena or Nostoc, within its cortical cells in a genuine symbiotic partnership that allows cycads to colonise nitrogen-poor soils. Cycads are strictly dioecious, meaning separate male and female plants each bear large, compact cone-like strobili; the male cone produces enormous quantities of pollen released to the wind or, in several genera, carried by beetle pollinators, while the female cone bears ovules on modified sporophylls. Fertilization in cycads is notable for retaining motile, flagellated sperm cells that swim a short distance within the pollen tube to reach the egg, a primitive feature shared with ginkgo and otherwise lost in the more advanced gymnosperms and all angiosperms. In India, the only cycad native to the mainland is Cycas circinalis and related Cycas species found along the Western Ghats and parts of peninsular and eastern India, while Cycas revoluta, the sago palm, is widely cultivated as an ornamental. Wild cycad populations across their global range, including in India, face serious conservation pressure from habitat loss and illegal collection for horticulture, and several species are listed under threatened categories, making ex-situ conservation through botanical gardens and tissue culture propagation an active area of applied botanical work.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Gymnosperms"],
+      "tags": ["gymnosperms", "cycadales"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Family Fabaceae — Floral Structure and Economic Value",
+      "body": "The family Fabaceae, also known by its older name Leguminosae, is among the largest and economically most important families of flowering plants, and its systematic treatment is a recurring topic in angiosperm taxonomy because of the family's characteristic floral architecture and enormous practical value. Taxonomically the family is conventionally divided into three sub-families that are sometimes treated as separate families altogether: the Papilionoideae, with the classic pea-like flower; the Caesalpinioideae, with a somewhat irregular but not strictly papilionaceous corolla, as seen in gulmohar; and the Mimosoideae, with small, regular, often brush-like flowers clustered in dense heads, as seen in Acacia. The Papilionoideae shows the most diagnostic floral formula: the corolla is papilionaceous, consisting of a large outer standard petal, two lateral wing petals, and two lower petals fused into a boat-shaped keel that encloses the reproductive structures. The androecium is typically diadelphous, with nine stamens fused into a tube and one free stamen, surrounding a single carpel that develops from one carpel into the characteristic fruit of the family, the legume or pod, which splits along two sutures at maturity to release its seeds. This floral arrangement is closely tied to insect pollination, particularly by bees, which trigger the release of pollen from the keel through their weight as they land on the wing petals. Anatomically and physiologically, the family's most celebrated feature is its capacity for biological nitrogen fixation: many Fabaceae species form root nodules through symbiosis with Rhizobium bacteria, which convert atmospheric nitrogen into ammonia usable by the plant in exchange for photosynthate, a relationship of immense agricultural significance because it enriches soil fertility and reduces dependence on synthetic nitrogen fertilisers. Economically the family supplies a vast share of the world's protein-rich pulses, including gram, lentil, pea, and various beans, alongside major fodder crops like berseem and lucerne, timber species such as shisham and rosewood, dyes like indigo, and ornamental and medicinal plants. Given this combination of a highly diagnostic floral formula, distinctive fruit type, and outsized agricultural and ecological importance, Fabaceae is consistently emphasised in the study of angiosperm families under the optional Botany syllabus.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Angiosperm Systematics and Embryology"],
+      "tags": ["angiosperms", "taxonomy", "fabaceae"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Double Fertilization — A Defining Feature of Angiosperms",
+      "body": "Double fertilization is the process that most sharply distinguishes flowering plants from gymnosperms and all other seed plants, and it was first described by the Russian botanist S. G. Nawaschin in 1898 working independently on lily and fritillaria. The process begins once a compatible pollen grain lands on the stigma, germinates, and grows a pollen tube down through the style toward the ovule, guided by chemical signals from the synergid cells flanking the egg within the embryo sac. The mature angiosperm embryo sac, in its most common Polygonum type of development, is a seven-celled, eight-nucleate structure comprising the egg cell, two flanking synergids, three antipodal cells at the opposite end, and a large central cell containing two polar nuclei. When the pollen tube reaches the embryo sac, it discharges its cytoplasmic contents, including two non-motile male gametes, typically after one synergid degenerates to receive the tube. The two male gametes then participate in two simultaneous fusion events, together constituting the double fertilization event: the first male gamete fuses with the egg cell in an act of true syngamy, producing the diploid zygote that will develop into the embryo; the second male gamete fuses with the two polar nuclei of the central cell in an act called triple fusion, since three haploid nuclei combine, producing the triploid primary endosperm nucleus. This primary endosperm nucleus divides rapidly to form the endosperm tissue, a nutritive reserve that nourishes the developing embryo either throughout seed development, as in many monocots where mature seeds retain copious endosperm, or that is largely absorbed by the growing embryo before seed maturity, as in many dicots where cotyledons take over the storage role. The biological significance of double fertilization is considerable: by coupling endosperm formation directly to the act of fertilization itself, the angiosperm avoids wasting resources on nutritive tissue unless fertilization has actually occurred, a more economical strategy than the gymnosperm pattern in which female gametophyte tissue develops before fertilization regardless of outcome. The resulting triploid endosperm also introduces additional genetic variability and has made angiosperm seeds, from cereal grains to pulses, the dominant nutritional base of human agriculture.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Angiosperm Systematics and Embryology"],
+      "tags": ["angiosperms", "embryology", "double-fertilization"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Ethnobotany and the Documentation of Traditional Plant Knowledge in India",
+      "body": "Ethnobotany is the branch of botany concerned with the study of the relationships between plants and people, particularly the traditional knowledge that indigenous and tribal communities have accumulated over generations regarding the uses, cultivation, and cultural significance of the plants growing around them. Rather than treating plants purely as objects of morphological or physiological study, ethnobotany situates plant use within its human, cultural and historical context, recording how a community identifies, names, harvests, prepares and applies particular species for food, medicine, shelter, fibre, dye, ritual and other purposes. The scope of ethnobotanical work is broad and interdisciplinary, drawing on field botany, anthropology, pharmacology and linguistics simultaneously; a typical ethnobotanical survey documents local plant names and their scientific equivalents, the specific plant part used, the method of preparation, the ailment or purpose addressed, and the seasonal or ritual context of collection. India, with its exceptional biological and cultural diversity spread across numerous tribal communities in the Western Ghats, the North-East, central India and the Himalayan region, offers an unusually rich field for ethnobotanical study, and Indian institutions have long maintained dedicated programmes to record this knowledge before it is lost to modernisation and generational change. The relevance of ethnobotany in the Indian context is considerable on several fronts. Scientifically, ethnobotanical leads have historically guided bioprospecting efforts, directing pharmacological researchers toward plant species already known to tribal healers to possess medicinal value, which has in some cases accelerated the discovery of active compounds later validated and developed into modern drugs. Economically, ethnobotanical documentation supports the sustainable commercialisation of non-timber forest produce and medicinal plants, providing income to forest-dwelling and tribal communities while encouraging conservation-linked harvesting practices rather than destructive extraction. Legally and ethically, ethnobotanical records have become important in establishing prior art and community rights over traditional knowledge, a concern that gained international prominence through instances of foreign patents being granted on uses of Indian plants, such as turmeric and neem, that were already well known locally; India's response included building the Traditional Knowledge Digital Library specifically to protect such knowledge from misappropriation. Conservation-wise, ethnobotany also draws attention to species under community-based traditional protection, such as sacred groves, reinforcing biodiversity conservation through cultural practice.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Plant Resource Development"],
+      "tags": ["ethnobotany", "economic-botany", "india"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Micropropagation — In Vitro Clonal Multiplication of Plants",
+      "body": "Micropropagation is the technique of multiplying plants under sterile, controlled laboratory conditions using small pieces of tissue, known as explants, cultured on a nutrient medium supplemented with plant growth regulators, allowing the rapid production of large numbers of genetically identical plantlets from a single desirable parent plant. The technique rests on the principle of totipotency, the capacity of a living plant cell to express the full genetic programme of the organism and regenerate a complete plant when given appropriate chemical and physical cues, even though the source tissue may originally have been a fully differentiated shoot tip, node, leaf segment or embryo. A typical micropropagation protocol proceeds through four recognisable stages. The first, establishment, involves surface-sterilising the chosen explant to eliminate microbial contamination and placing it on an initiation medium, commonly a formulation such as Murashige and Skoog medium enriched with sucrose, vitamins and a defined balance of auxin and cytokinin, to induce the explant to begin active growth without contamination. The second stage, multiplication, manipulates the auxin-to-cytokinin ratio, typically favouring cytokinin, to stimulate repeated proliferation of shoot buds from the initial explant, generating a rapidly increasing number of shoots that can be subdivided and subcultured across successive cycles. The third stage, rooting, transfers the multiplied shoots onto a medium with a higher relative auxin concentration to induce adventitious root formation, converting each shoot into a complete plantlet. The final stage, hardening or acclimatisation, gradually exposes the delicate in vitro plantlets, which have developed in a humid, low-light, nutrient-rich artificial environment, to normal greenhouse and then field conditions, reducing humidity and increasing light intensity stepwise to allow the plantlets to develop a functional cuticle and stomatal control before full field transfer. The applications of micropropagation are wide-ranging in both applied agriculture and conservation biology. In crop improvement, the technique enables the rapid, large-scale multiplication of elite, high-yielding or hybrid genotypes, produces disease-free planting material through meristem culture that excludes systemic viruses, and supports the commercial propagation of ornamentals, fruit crops like banana, and plantation crops. In conservation, micropropagation combined with cryopreservation of shoot tips or somatic embryos offers an efficient route to build ex-situ germplasm banks for rare, endangered or difficult-to-propagate wild plant species, complementing seed banks where seed storage is not viable.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Plant Tissue Culture and Micropropagation"],
+      "tags": ["tissue-culture", "micropropagation", "biotechnology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Chloroplast Structure and the Light Reactions of Photosynthesis",
+      "body": "The chloroplast is the specialised, semi-autonomous organelle in which photosynthesis occurs in plant and algal cells, and its internal architecture is closely tied to the two-stage nature of the photosynthetic process it carries out. Enclosed by a double membrane envelope, the chloroplast contains an aqueous matrix called the stroma, within which is embedded an elaborate internal membrane system: flattened, disc-like sacs called thylakoids stack together in cylindrical piles called grana, and individual grana are interconnected by unstacked membrane tubules called stroma lamellae or intergranal thylakoids, creating a single continuous internal membrane compartment enclosing the thylakoid lumen. This membrane organisation matters functionally because the light-dependent reactions of photosynthesis are physically confined to the thylakoid membrane, while the light-independent carbon-fixation reactions of the Calvin cycle occur separately in the surrounding stroma. Within the thylakoid membrane are embedded two distinct photosystems, Photosystem II and Photosystem I, along with the cytochrome b6f complex and ATP synthase, all of which cooperate to convert light energy into chemical energy. The light reactions begin when chlorophyll and accessory pigment molecules in the antenna complex of Photosystem II absorb photons and funnel the excitation energy to a special reaction-centre chlorophyll pair, which ejects a high-energy electron. This electron deficit in Photosystem II is filled by splitting water molecules in a process called photolysis, which releases electrons, protons into the thylakoid lumen, and molecular oxygen as a by-product, this oxygen being the source of virtually all atmospheric oxygen produced by photosynthetic organisms. The ejected electron passes along an electron transport chain through plastoquinone and the cytochrome b6f complex to plastocyanin, pumping additional protons into the thylakoid lumen in the process, before reaching Photosystem I, where a second light-driven excitation boosts the electron to a still higher energy level. From Photosystem I the electron is passed via ferredoxin to the enzyme NADP+ reductase, which reduces NADP+ to NADPH, an essential reducing agent for the Calvin cycle. The proton gradient built up across the thylakoid membrane during this electron flow drives ATP synthase to generate ATP through chemiosmosis, exactly as in mitochondrial oxidative phosphorylation. Together, the ATP and NADPH generated by these light reactions are exported to the stroma, where they power the fixation and reduction of atmospheric carbon dioxide into sugar during the Calvin cycle.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Photosynthesis and Respiration"],
+      "tags": ["photosynthesis", "chloroplast", "plant-physiology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "C4 Photosynthesis and the Hatch-Slack Pathway",
+      "body": "The C4 pathway of photosynthesis, elucidated by Marshall Hatch and Roger Slack and hence often called the Hatch-Slack pathway, is a biochemical and anatomical adaptation found in many tropical and subtropical grasses and crop plants, including maize, sugarcane and sorghum, that allows these species to photosynthesise efficiently even under high light intensity, high temperature and comparatively low internal carbon dioxide, conditions under which ordinary C3 photosynthesis becomes inefficient. The pathway is inseparably linked to a specialised leaf anatomy called Kranz anatomy, in which the vascular bundles are surrounded by a conspicuous wreath-like ring of large, chloroplast-rich bundle sheath cells, which are in turn surrounded by the ordinary mesophyll cells, creating a two-compartment system that spatially separates the initial carbon-fixation step from the Calvin cycle. In the mesophyll cells, atmospheric carbon dioxide, in the form of bicarbonate, is fixed not by the usual Calvin-cycle enzyme RuBisCO but by an enzyme called PEP carboxylase, which combines it with the three-carbon acceptor phosphoenolpyruvate to form the four-carbon compound oxaloacetate, from which the pathway derives its name. Because PEP carboxylase has a very high affinity for bicarbonate and essentially no oxygenase side-activity, this initial fixation step proceeds efficiently even when stomata are partly closed to conserve water, a major advantage in hot, arid or high-light environments. The four-carbon oxaloacetate is rapidly converted to malate or aspartate and transported through plasmodesmata into the adjoining bundle sheath cells, where it is decarboxylated to release carbon dioxide again, this time at a high local concentration immediately around RuBisCO within the bundle sheath chloroplasts. This concentrating mechanism effectively suppresses the wasteful oxygenase activity of RuBisCO that otherwise leads to photorespiration in ordinary C3 plants, since RuBisCO in the bundle sheath is bathed in a carbon-dioxide-rich environment rather than competing with atmospheric oxygen. The three-carbon compound remaining after decarboxylation is shuttled back to the mesophyll cells to regenerate PEP, completing the cycle. The overall consequence of this division of labour between mesophyll and bundle sheath cells is that C4 plants achieve higher photosynthetic and water-use efficiency, better tolerance of high temperature, and greater biomass productivity than C3 plants under the specific stressful conditions that favour the pathway, which is why C4 crops such as maize and sugarcane are important sources of agricultural productivity in tropical regions.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Photosynthesis and Respiration"],
+      "tags": ["photosynthesis", "c4-pathway", "plant-physiology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Hardy-Weinberg Equilibrium and the Mechanics of Population Genetics",
+      "body": "The Hardy-Weinberg law, formulated independently in 1908 by the mathematician G. H. Hardy and the physician Wilhelm Weinberg, is the foundational principle of population genetics because it defines the baseline expectation against which evolutionary change can be detected and measured. The law states that, in a sufficiently large population mating at random with no mutation, no migration, and no natural selection acting on a given gene locus, the allele frequencies and genotype frequencies at that locus will remain constant from one generation to the next, reaching a stable equilibrium described mathematically for a simple two-allele locus by the expansion p2 + 2pq + q2 = 1, where p and q represent the frequencies of the two alleles and the three terms represent the expected frequencies of the two homozygous genotypes and the heterozygous genotype respectively. This equilibrium condition depends on a set of idealised assumptions that rarely hold perfectly in nature: the population must be effectively infinite in size to avoid random sampling error, mating must be entirely random with respect to the locus in question, there must be no new mutation introducing or removing alleles, no individuals must migrate into or out of the population carrying different allele frequencies, and every genotype must have identical survival and reproductive success so that natural selection is not acting. Because real populations almost never satisfy every one of these conditions simultaneously, the practical value of the Hardy-Weinberg model lies less in describing actual populations directly and more in providing a null hypothesis: by comparing observed genotype frequencies in a real population against the frequencies predicted from the Hardy-Weinberg formula using the population's actual allele frequencies, a geneticist can detect and infer that some evolutionary force must be operating whenever a significant deviation is found. The identifiable forces that commonly disturb Hardy-Weinberg equilibrium include mutation, which introduces new alleles at a low but steady rate; natural selection, which differentially favours certain genotypes' survival or reproduction and is generally the most powerful force altering allele frequency over time; genetic drift, the random fluctuation of allele frequencies that is especially pronounced in small populations and can lead to fixation or loss of alleles purely by chance; gene flow, the movement of alleles between populations through migration of individuals or gametes; and non-random mating, including inbreeding or assortative mating, which does not by itself change allele frequencies but does alter genotype frequencies away from Hardy-Weinberg proportions. Recognising and quantifying these departures is central to modern evolutionary biology and conservation genetics.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Organic Evolution"],
+      "tags": ["evolution", "population-genetics", "hardy-weinberg"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Plant Growth Regulators in Seed Dormancy and Germination",
+      "body": "Seed dormancy is a physiological state in which a viable seed fails to germinate even under conditions of moisture, temperature and oxygen that would normally support germination, and it exists as an evolutionary strategy that spreads germination over time or delays it until conditions are most favourable for seedling survival, protecting a species from germinating during a transient favourable spell that is quickly followed by unfavourable conditions such as drought or frost. The balance between dormancy and active germination is controlled substantially by the interplay of plant growth regulators, chiefly the antagonistic relationship between abscisic acid, which promotes and maintains dormancy, and gibberellins, which promote its release and drive the germination process forward, with auxins playing a more prominent role in the growth that follows germination rather than in triggering it. During seed maturation on the parent plant, rising abscisic acid levels within the developing seed suppress precocious germination, induce the synthesis of storage proteins, and contribute to desiccation tolerance as the seed dries down; this high abscisic acid content, along with physical seed coat restrictions in some species, maintains the mature seed in a dormant state after dispersal. Breaking dormancy typically requires an environmental cue, such as a period of cold stratification, exposure to light, or leaching of inhibitory compounds by rainfall, and this cue is transduced physiologically into a shift in the hormonal balance within the seed, with gibberellin levels rising and abscisic acid sensitivity or concentration declining. Once gibberellin becomes dominant, it triggers the classic sequence of germination events, most thoroughly studied in cereal grains: gibberellin diffuses from the embryo to the aleurone layer surrounding the starchy endosperm, where it induces the aleurone cells to synthesise and secrete hydrolytic enzymes, most importantly alpha-amylase, along with proteases and other enzymes. These enzymes diffuse into the starchy endosperm and break down stored starch into soluble sugars and stored proteins into amino acids, mobilising the food reserves needed to fuel the metabolic activity of the growing embryo before it becomes photosynthetically self-sufficient. Auxin's role becomes prominent slightly later, once the radicle and plumule have emerged, where it governs apical dominance, the establishment of the primary root and shoot growth axis, and subsequent tropic responses of the young seedling, so that the overall germination sequence reflects a temporal handoff from abscisic-acid-maintained dormancy through gibberellin-triggered mobilisation of reserves to auxin-directed early seedling growth.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Plant Growth Substances and Stress Physiology"],
+      "tags": ["plant-hormones", "seed-germination", "stress-physiology"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Ecological Succession and the Hydrosere Sequence",
+      "body": "Ecological succession is the orderly, progressive and largely predictable process by which the species composition of a biological community changes over time at a given site, moving through a sequence of intermediate communities, called seral stages or seral communities, toward a relatively stable end point called the climax community, which remains in dynamic equilibrium with the prevailing regional climate until disturbed. Succession is classed as primary when it begins on a substrate that has never previously supported vegetation, such as bare rock, a sand dune, or a newly formed water body, and as secondary when it occurs on a site where vegetation existed before but was removed by a disturbance such as fire, flood or clearing, leaving soil and often a seed bank already in place, which is why secondary succession generally proceeds faster than primary succession. The hydrosere is the specific successional sequence that begins in an open freshwater body, such as a pond or shallow lake, and proceeds through a well-documented series of stages as the water body is progressively filled in with sediment and organic matter, eventually converting open water into dry-land vegetation. The sequence typically opens with a phytoplankton stage, in which free-floating microscopic algae colonise the open water and begin contributing organic matter to the sediment. This is followed by a submerged stage, dominated by rooted plants that grow entirely underwater, such as species of Hydrilla and Vallisneria, which further trap sediment and reduce water depth. As the basin continues to shallow, a floating-leaved stage develops, characterised by rooted plants with leaves reaching the water surface, such as water lilies, which shade out some submerged competitors and add further organic deposition. Continued sediment accumulation and shallowing gives rise to the reed-swamp stage, dominated by emergent plants such as Typha and Phragmites that root in the mud but project well above the water surface, followed by a marsh-meadow stage as the substrate becomes waterlogged soil rather than standing water, supporting sedges, grasses and other herbaceous marsh plants. As drainage and soil development continue, woody shrubs establish in a scrub stage, eventually giving way to a woodland stage and finally to the regional climax forest community appropriate to the local climate, at which point the open water body that began the sequence has been entirely replaced by terrestrial vegetation. Each seral stage in this sequence modifies the physical and chemical environment, most importantly by adding organic matter and raising the substrate level, in a way that makes conditions progressively less favourable for itself and more favourable for the community that succeeds it, which is the essential mechanism driving the hydrosere forward toward climax.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Plant Ecology and Ecosystems"],
+      "tags": ["ecology", "succession", "hydrosere"],
+      "is_current_affairs": false
+    },
+    {
+      "title": "Phytogeographical Regions of India",
+      "body": "India's plant geography reflects the country's extraordinary range of climate, altitude, rainfall and soil conditions, and botanists have long divided the country into distinct phytogeographical regions, each characterised by a broadly recognisable set of dominant vegetation types and characteristic taxa, to make sense of this diversity for teaching, conservation planning and biogeographic study. The Western Himalayan region, extending from Kashmir through Himachal Pradesh into Uttarakhand, shows pronounced altitudinal zonation, moving from subtropical forest at the base through temperate broadleaf and coniferous forest dominated by deodar, blue pine and fir, up to alpine meadows and scrub near the tree line, and it is notably rich in temperate genera with affinities to the flora of Europe and Central Asia. The Eastern Himalayan region, covering Sikkim, Darjeeling and Arunachal Pradesh, receives much heavier rainfall and consequently supports exceptionally dense and species-rich forests, including a striking abundance of orchids, rhododendrons, bamboos and tree ferns, and is recognised globally as part of a biodiversity hotspot on account of its high endemism. The Indus plain, covering the arid and semi-arid tracts of Punjab, Haryana and parts of Rajasthan, supports xerophytic and thorny scrub vegetation adapted to low and erratic rainfall, with species such as Prosopis and Acacia well represented, while the adjoining Gangetic plain, benefiting from alluvial soil and much higher rainfall, historically supported extensive moist deciduous forest, most of which has since been converted to intensive agriculture, leaving only fragmented natural vegetation. The Deccan region, covering the vast central and southern peninsular plateau, is climatically diverse but broadly dominated by dry and moist deciduous forest types, including sal and teak-dominated formations in different sectors, along with extensive areas of scrub in its drier rain-shadow tracts. The Malabar region, running along the narrow coastal belt and the windward slopes of the Western Ghats in Kerala and Karnataka, receives very heavy monsoon rainfall and supports luxuriant tropical evergreen and semi-evergreen rainforest with high species richness and endemism, making it, along with the Eastern Himalaya, one of India's two globally recognised biodiversity hotspots. Finally, the Andaman and Nicobar Islands, isolated in the Bay of Bengal, host a distinctive tropical evergreen and mangrove flora with strong biogeographic affinities to Southeast Asia rather than to mainland India, reflecting their separate geological and colonisation history. Together these regions illustrate how rainfall gradient, altitude and geographic isolation jointly shape the distribution of plant life across the subcontinent.",
+      "source_type": "derived_summary",
+      "source_url": null,
+      "node_titles": ["Phytogeography of India"],
+      "tags": ["phytogeography", "biodiversity", "india"],
+      "is_current_affairs": false
+    }
+  ]
+}
