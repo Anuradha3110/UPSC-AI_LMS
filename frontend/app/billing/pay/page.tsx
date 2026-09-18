@@ -29,9 +29,6 @@ function PayPageInner() {
   const keyId = params.get("key") ?? "";
   const plan = getPlan(planId);
 
-  const [cardNumber, setCardNumber] = useState("");
-  const [expiry, setExpiry] = useState("");
-  const [cvv, setCvv] = useState("");
   const [paying, setPaying] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -40,7 +37,7 @@ function PayPageInner() {
     setError(null);
     const loaded = await loadRazorpayScript();
     if (!loaded) {
-      setError("Failed to load Razorpay SDK. Please check your internet connection.");
+      setError("Failed to load payment gateway SDK. Please check your internet connection.");
       setPaying(false);
       return;
     }
@@ -52,6 +49,38 @@ function PayPageInner() {
       name: "Nirdesh UPSC LMS",
       description: `Plan Upgrade: ${plan?.label}`,
       order_id: orderId,
+      config: {
+        display: {
+          blocks: {
+            upi: {
+              name: "Pay using UPI / QR",
+              instruments: [
+                { method: "upi" },
+                { method: "qr" }
+              ]
+            },
+            other: {
+              name: "Other Payment Options",
+              instruments: [
+                { method: "card" },
+                { method: "netbanking" },
+                { method: "wallet" }
+              ]
+            }
+          },
+          sequence: ["block.upi", "block.other"],
+          preferences: {
+            show_default_blocks: true
+          }
+        }
+      },
+      method: {
+        upi: true,
+        qr: true,
+        card: true,
+        netbanking: true,
+        wallet: true,
+      },
       handler: async function (response: {
         razorpay_payment_id: string;
         razorpay_order_id: string;
@@ -89,8 +118,15 @@ function PayPageInner() {
     rzp.open();
   }
 
-  async function payMock(e?: React.FormEvent) {
-    e?.preventDefault();
+  async function handlePayment() {
+    if (isRazorpayLive) {
+      await openRazorpayCheckout();
+    } else {
+      await confirmPayment();
+    }
+  }
+
+  async function confirmPayment() {
     setPaying(true);
     setError(null);
     try {
@@ -132,61 +168,23 @@ function PayPageInner() {
       </div>
 
       <p className="text-xs text-slate-500">
-        {isRazorpayLive
-          ? "Click below to complete payment securely via Razorpay."
-          : "Payments use sandbox order/verify in sandbox mode — no live card charge."}
+        Click below to proceed to the payment gateway to choose your payment method (UPI, QR, Cards, Netbanking, Wallets).
       </p>
 
       {error && <p className="text-sm text-red-600">{error}</p>}
 
       {isFree ? (
-        <button onClick={() => payMock()} disabled={paying} className="btn-primary">
+        <button onClick={() => confirmPayment()} disabled={paying} className="btn-primary">
           {paying ? "Activating…" : "Activate plan"}
         </button>
-      ) : isRazorpayLive ? (
-        <button onClick={openRazorpayCheckout} disabled={paying} className="btn-primary w-full py-3 font-semibold">
-          {paying ? "Opening Razorpay..." : `Pay ₹${plan.price} with Razorpay`}
-        </button>
       ) : (
-        <form onSubmit={payMock} className="flex flex-col gap-4">
-          <label className="flex flex-col gap-1.5">
-            <span className="text-sm font-medium text-slate-700">Card number</span>
-            <input
-              className="input"
-              placeholder="4111 1111 1111 1111"
-              value={cardNumber}
-              onChange={(e) => setCardNumber(e.target.value)}
-              inputMode="numeric"
-              required
-            />
-          </label>
-          <div className="flex gap-4">
-            <label className="flex flex-1 flex-col gap-1.5">
-              <span className="text-sm font-medium text-slate-700">Expiry</span>
-              <input
-                className="input"
-                placeholder="MM/YY"
-                value={expiry}
-                onChange={(e) => setExpiry(e.target.value)}
-                required
-              />
-            </label>
-            <label className="flex flex-1 flex-col gap-1.5">
-              <span className="text-sm font-medium text-slate-700">CVV</span>
-              <input
-                className="input"
-                placeholder="123"
-                value={cvv}
-                onChange={(e) => setCvv(e.target.value)}
-                inputMode="numeric"
-                required
-              />
-            </label>
-          </div>
-          <button type="submit" disabled={paying} className="btn-primary">
-            {paying ? "Processing…" : `Pay ₹${plan.price}`}
-          </button>
-        </form>
+        <button
+          onClick={handlePayment}
+          disabled={paying}
+          className="btn-primary w-full py-3.5 text-base font-semibold shadow-sm"
+        >
+          {paying ? "Opening Payment Options..." : `Pay ₹${plan.price}`}
+        </button>
       )}
 
       <Link href="/billing" className="text-center text-sm text-slate-500 hover:underline">

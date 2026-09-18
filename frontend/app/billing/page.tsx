@@ -71,7 +71,9 @@ function BillingPageInner() {
     <main className="mx-auto flex max-w-2xl flex-col gap-5 px-6 py-10">
       <p className="page-eyebrow">MOD-12 · Billing &amp; Subscription</p>
       <h1 className="text-2xl font-semibold text-slate-900">Plan &amp; Usage</h1>
-      <p className="text-xs text-slate-500">Secure payments powered by Razorpay Payment Gateway.</p>
+      <p className="text-xs text-slate-500">
+        Supported payment options: UPI (Google Pay, PhonePe, Paytm, BHIM) &amp; Credit/Debit Cards.
+      </p>
 
       {justPaid && (
         <div className="card border-green-200 bg-green-50">
