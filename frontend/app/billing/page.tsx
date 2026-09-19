@@ -46,9 +46,11 @@ function BillingPageInner() {
         headers: authHeaders(),
         body: JSON.stringify({ plan }),
       });
-      const qp = new URLSearchParams({ order: order.order_id, plan });
-      if (order.key_id) qp.set("key", order.key_id);
-      router.push(`/billing/pay?${qp.toString()}`);
+      sessionStorage.setItem(
+        "pending_order",
+        JSON.stringify({ order_id: order.order_id, plan, key_id: order.key_id ?? "" })
+      );
+      router.push("/billing/pay");
     } catch (err) {
       setError(err instanceof ApiError ? err.message : "Could not start checkout");
       setBusy(null);

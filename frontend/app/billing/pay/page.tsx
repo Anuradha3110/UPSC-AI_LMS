@@ -1,11 +1,26 @@
 "use client";
 
-import { Suspense, useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { Suspense, useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { apiFetch, ApiError } from "@/lib/api";
 import { authHeaders } from "@/lib/auth";
 import { getPlan } from "@/lib/plans";
+
+type PendingOrder = { order_id: string; plan: string; key_id: string };
+
+function readPendingOrder(): PendingOrder | null {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = sessionStorage.getItem("pending_order");
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (!parsed?.order_id || !parsed?.plan) return null;
+    return { order_id: parsed.order_id, plan: parsed.plan, key_id: parsed.key_id ?? "" };
+  } catch {
+    return null;
+  }
+}
 
 function loadRazorpayScript(): Promise<boolean> {
   return new Promise((resolve) => {
@@ -23,11 +38,17 @@ function loadRazorpayScript(): Promise<boolean> {
 
 function PayPageInner() {
   const router = useRouter();
-  const params = useSearchParams();
-  const orderId = params.get("order") ?? "";
-  const planId = params.get("plan") ?? "";
-  const keyId = params.get("key") ?? "";
-  const plan = getPlan(planId);
+  const [pending, setPending] = useState<PendingOrder | null>(null);
+  const [checked, setChecked] = useState(false);
+
+  useEffect(() => {
+    setPending(readPendingOrder());
+    setChecked(true);
+  }, []);
+
+  const orderId = pending?.order_id ?? "";
+  const keyId = pending?.key_id ?? "";
+  const plan = getPlan(pending?.plan ?? "");
 
   const [paying, setPaying] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -63,6 +84,7 @@ function PayPageInner() {
               razorpay_signature: response.razorpay_signature,
             }),
           });
+          sessionStorage.removeItem("pending_order");
           router.push("/billing?payment=success");
         } catch (err) {
           setError(err instanceof ApiError ? err.message : "Payment verification failed");
@@ -106,12 +128,17 @@ function PayPageInner() {
         headers: authHeaders(),
         body: JSON.stringify({ order_id: orderId }),
       });
+      sessionStorage.removeItem("pending_order");
       router.push("/billing?payment=success");
     } catch (err) {
       setError(err instanceof ApiError ? err.message : "Payment could not be verified");
     } finally {
       setPaying(false);
     }
+  }
+
+  if (!checked) {
+    return null;
   }
 
   if (!orderId || !plan) {
