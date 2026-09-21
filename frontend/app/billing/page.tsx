@@ -48,7 +48,12 @@ function BillingPageInner() {
       });
       sessionStorage.setItem(
         "pending_order",
-        JSON.stringify({ order_id: order.order_id, plan, key_id: order.key_id ?? "" })
+        JSON.stringify({
+          order_id: order.order_id,
+          plan,
+          key_id: order.mock ? "" : (order.key_id ?? ""),
+          mock: order.mock ?? false,
+        })
       );
       router.push("/billing/pay");
     } catch (err) {

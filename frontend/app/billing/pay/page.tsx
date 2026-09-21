@@ -7,7 +7,7 @@ import { apiFetch, ApiError } from "@/lib/api";
 import { authHeaders } from "@/lib/auth";
 import { getPlan } from "@/lib/plans";
 
-type PendingOrder = { order_id: string; plan: string; key_id: string };
+type PendingOrder = { order_id: string; plan: string; key_id: string; mock?: boolean };
 
 function readPendingOrder(): PendingOrder | null {
   if (typeof window === "undefined") return null;
@@ -16,7 +16,12 @@ function readPendingOrder(): PendingOrder | null {
     if (!raw) return null;
     const parsed = JSON.parse(raw);
     if (!parsed?.order_id || !parsed?.plan) return null;
-    return { order_id: parsed.order_id, plan: parsed.plan, key_id: parsed.key_id ?? "" };
+    return {
+      order_id: parsed.order_id,
+      plan: parsed.plan,
+      key_id: parsed.mock ? "" : (parsed.key_id ?? ""),
+      mock: parsed.mock,
+    };
   } catch {
     return null;
   }
@@ -151,7 +156,12 @@ function PayPageInner() {
   }
 
   const isFree = plan.price === 0;
-  const isRazorpayLive = Boolean(keyId);
+  const isRazorpayLive =
+    Boolean(keyId) &&
+    !pending?.mock &&
+    !orderId.startsWith("order_mock_") &&
+    !keyId.startsWith("rzp_test_...") &&
+    keyId !== "change-me";
 
   return (
     <main className="mx-auto flex max-w-md flex-col gap-5 px-6 py-10">

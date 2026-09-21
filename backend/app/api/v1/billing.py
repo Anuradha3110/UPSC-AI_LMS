@@ -82,7 +82,7 @@ async def create_order(
         order_id=order_id,
         amount_inr=amount,
         plan=payload.plan,
-        key_id=settings.razorpay_key_id,
+        key_id=None if is_mock else settings.razorpay_key_id,
         mock=is_mock,
     )
 
