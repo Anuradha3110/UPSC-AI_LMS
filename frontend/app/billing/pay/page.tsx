@@ -64,7 +64,7 @@ function PayPageInner() {
 
     if (!keyId || keyId === "rzp_test_..." || keyId === "change-me") {
       setError(
-        "Razorpay API Keys are not configured in backend/.env. Please generate fresh API keys from https://dashboard.razorpay.com/app/keys and update RAZORPAY_KEY_ID in backend/.env."
+        "Razorpay API Keys are invalid or missing in backend/.env. Please generate fresh API keys from https://dashboard.razorpay.com/app/keys."
       );
       setPaying(false);
       return;
@@ -148,6 +148,16 @@ function PayPageInner() {
     }
   }
 
+  const isMockOrder = pending?.mock || orderId.startsWith("order_mock_") || !keyId || keyId === "rzp_test_..." || keyId === "change-me";
+
+  async function handlePayment() {
+    if (isMockOrder) {
+      await confirmMockPayment();
+    } else {
+      await openRazorpayCheckout();
+    }
+  }
+
   if (!checked) {
     return null;
   }
@@ -162,8 +172,6 @@ function PayPageInner() {
   }
 
   const isFree = plan.price === 0;
-  const isMockOrder = pending?.mock || orderId.startsWith("order_mock_");
-  const isRazorpayConfigured = Boolean(keyId) && keyId !== "rzp_test_..." && keyId !== "change-me";
 
   return (
     <main className="mx-auto flex max-w-md flex-col gap-5 px-6 py-10">
@@ -189,29 +197,17 @@ function PayPageInner() {
       )}
 
       {isFree ? (
-        <button onClick={confirmMockPayment} disabled={paying} className="btn-primary">
+        <button onClick={confirmMockPayment} disabled={paying} className="btn-primary w-full py-3.5 text-base font-semibold shadow-sm">
           {paying ? "Activating…" : "Activate plan"}
         </button>
       ) : (
-        <div className="flex flex-col gap-3">
-          <button
-            onClick={openRazorpayCheckout}
-            disabled={paying}
-            className="btn-primary w-full py-3.5 text-base font-semibold shadow-sm"
-          >
-            {paying ? "Opening Payment Gateway..." : `Pay ₹${plan.price} via Razorpay (UPI / Cards)`}
-          </button>
-
-          {isMockOrder && (
-            <button
-              onClick={confirmMockPayment}
-              disabled={paying}
-              className="btn-secondary w-full py-2.5 text-xs text-slate-600"
-            >
-              Simulate Sandbox Payment (Demo Testing)
-            </button>
-          )}
-        </div>
+        <button
+          onClick={handlePayment}
+          disabled={paying}
+          className="btn-primary w-full py-3.5 text-base font-semibold shadow-sm"
+        >
+          {paying ? "Paying..." : "Pay Now"}
+        </button>
       )}
 
       <Link href="/billing" className="text-center text-sm text-slate-500 hover:underline">
