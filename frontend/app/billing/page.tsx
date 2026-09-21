@@ -51,7 +51,7 @@ function BillingPageInner() {
         JSON.stringify({
           order_id: order.order_id,
           plan,
-          key_id: order.mock ? "" : (order.key_id ?? ""),
+          key_id: order.key_id ?? "",
           mock: order.mock ?? false,
         })
       );

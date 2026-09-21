@@ -19,8 +19,8 @@ function readPendingOrder(): PendingOrder | null {
     return {
       order_id: parsed.order_id,
       plan: parsed.plan,
-      key_id: parsed.mock ? "" : (parsed.key_id ?? ""),
-      mock: parsed.mock,
+      key_id: parsed.key_id ?? "",
+      mock: parsed.mock ?? parsed.order_id.startsWith("order_mock_"),
     };
   } catch {
     return null;
@@ -61,6 +61,15 @@ function PayPageInner() {
   async function openRazorpayCheckout() {
     setPaying(true);
     setError(null);
+
+    if (!keyId || keyId === "rzp_test_..." || keyId === "change-me") {
+      setError(
+        "Razorpay API Keys are not configured in backend/.env. Please generate fresh API keys from https://dashboard.razorpay.com/app/keys and update RAZORPAY_KEY_ID in backend/.env."
+      );
+      setPaying(false);
+      return;
+    }
+
     const loaded = await loadRazorpayScript();
     if (!loaded) {
       setError("Failed to load payment gateway SDK. Please check your internet connection.");
@@ -108,23 +117,20 @@ function PayPageInner() {
       options.order_id = orderId;
     }
 
-    const rzp = new (window as any).Razorpay(options);
-    rzp.on("payment.failed", function (response: any) {
-      setError(response.error?.description || "Payment failed");
+    try {
+      const rzp = new (window as any).Razorpay(options);
+      rzp.on("payment.failed", function (response: any) {
+        setError(response.error?.description || "Payment failed");
+        setPaying(false);
+      });
+      rzp.open();
+    } catch (err: any) {
+      setError(err?.message || "Could not launch Razorpay checkout");
       setPaying(false);
-    });
-    rzp.open();
-  }
-
-  async function handlePayment() {
-    if (isRazorpayLive) {
-      await openRazorpayCheckout();
-    } else {
-      await confirmPayment();
     }
   }
 
-  async function confirmPayment() {
+  async function confirmMockPayment() {
     setPaying(true);
     setError(null);
     try {
@@ -156,12 +162,8 @@ function PayPageInner() {
   }
 
   const isFree = plan.price === 0;
-  const isRazorpayLive =
-    Boolean(keyId) &&
-    !pending?.mock &&
-    !orderId.startsWith("order_mock_") &&
-    !keyId.startsWith("rzp_test_...") &&
-    keyId !== "change-me";
+  const isMockOrder = pending?.mock || orderId.startsWith("order_mock_");
+  const isRazorpayConfigured = Boolean(keyId) && keyId !== "rzp_test_..." && keyId !== "change-me";
 
   return (
     <main className="mx-auto flex max-w-md flex-col gap-5 px-6 py-10">
@@ -176,23 +178,40 @@ function PayPageInner() {
       </div>
 
       <p className="text-xs text-slate-500">
-        Click below to proceed to the payment gateway to choose your payment method (UPI, QR, Cards, Netbanking, Wallets).
+        Supported payment methods: UPI (Google Pay, PhonePe, Paytm, BHIM), QR Code, Credit/Debit Cards, Netbanking.
       </p>
 
-      {error && <p className="text-sm text-red-600">{error}</p>}
+      {error && (
+        <div className="rounded-lg border border-red-200 bg-red-50 p-3 text-sm text-red-700">
+          <p className="font-medium">Checkout Notice</p>
+          <p className="mt-1 text-xs">{error}</p>
+        </div>
+      )}
 
       {isFree ? (
-        <button onClick={() => confirmPayment()} disabled={paying} className="btn-primary">
+        <button onClick={confirmMockPayment} disabled={paying} className="btn-primary">
           {paying ? "Activating…" : "Activate plan"}
         </button>
       ) : (
-        <button
-          onClick={handlePayment}
-          disabled={paying}
-          className="btn-primary w-full py-3.5 text-base font-semibold shadow-sm"
-        >
-          {paying ? "Opening Payment Options..." : `Pay ₹${plan.price}`}
-        </button>
+        <div className="flex flex-col gap-3">
+          <button
+            onClick={openRazorpayCheckout}
+            disabled={paying}
+            className="btn-primary w-full py-3.5 text-base font-semibold shadow-sm"
+          >
+            {paying ? "Opening Payment Gateway..." : `Pay ₹${plan.price} via Razorpay (UPI / Cards)`}
+          </button>
+
+          {isMockOrder && (
+            <button
+              onClick={confirmMockPayment}
+              disabled={paying}
+              className="btn-secondary w-full py-2.5 text-xs text-slate-600"
+            >
+              Simulate Sandbox Payment (Demo Testing)
+            </button>
+          )}
+        </div>
       )}
 
       <Link href="/billing" className="text-center text-sm text-slate-500 hover:underline">
